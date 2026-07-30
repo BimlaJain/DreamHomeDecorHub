@@ -16,10 +16,10 @@ export default function Navbar() {
 
     const navLinks = [
         { title: "Home", href: "/" },
-        { title: "Reviews", href: "/reviews" },
-        { title: "Buying Guides", href: "/buying-guides" },
-        { title: "Categories", href: "/categories", dropdown: true },
-        { title: "About", href: "/about" },
+        { title: "Reviews", href: "#reviews" },
+        { title: "Buying Guides", href: "#buying-guides" },
+        { title: "Categories", href: "#categories", dropdown: true },
+        { title: "About", href: "#about" },
     ];
 
     return (

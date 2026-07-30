@@ -3,7 +3,7 @@ import { guides } from "../data/WallShelves";
 export default function BuyingGuide() {
 
     return (
-        <section className="bg-white py-20">
+        <section id="buying-guides" className="bg-white py-20">
 
             <div className="mx-auto max-w-7xl px-6">
 

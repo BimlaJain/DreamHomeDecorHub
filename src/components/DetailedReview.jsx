@@ -7,7 +7,7 @@ import { products } from "@/data/WallShelves";
 
 export default function DetailedReview() {
     return (
-        <section className="bg-[#F8F6F2] py-20">
+        <section id="reviews" className="bg-[#F8F6F2] py-20">
             <div className="mx-auto max-w-7xl px-6">
 
                 {products.wallShelves.map((product) => (
