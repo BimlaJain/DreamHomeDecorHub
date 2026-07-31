@@ -25,7 +25,7 @@ export default function Hero() {
                         {/* Heading */}
 
                         <h1 className="font-serif text-4xl font-bold leading-tight text-[#1E1E1E] md:text-5xl lg:text-6xl">
-                            11 Best Floating
+                            10 Best Floating
                             <br />
                             Wall Shelves for
                             <span className="text-[#365947]">
