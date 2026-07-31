@@ -11,6 +11,7 @@ export const products = {
             reviews: "950+ Reviews",
             price: "₹1,999",
             badge: "Editor's Choice",
+            material: "Premium Engineered Wood",
             description:
                 "A premium floating shelf with modern design and excellent build quality.",
             whyRecommend:
@@ -66,6 +67,7 @@ export const products = {
             reviews: "1,450+ Reviews",
             price: "₹771",
             badge: "Best for Small Spaces",
+            material: "Engineered Wood",
             description:
                 "A stylish corner wall shelf with 7 tiers, while making the most of unused corner space.",
             whyRecommend:
@@ -93,6 +95,7 @@ export const products = {
             reviews: "50+ Reviews",
             price: "₹854",
             badge: "Good Alternative",
+            material: "Engineered Wood",
             whyRecommend:
                 "Upgrade your home with this multifunctional 2-tier wall shelf and storage rack, designed to combine style and practicality. Crafted from durable engineered wood with a smooth painted finish, it provides an elegant space to display books, photo frames, indoor plants, decorative pieces, and everyday essentials. Its modern floating design blends seamlessly with living rooms, bedrooms, offices, and study areas while helping you maximize vertical storage without taking up floor space.",
 
@@ -120,6 +123,7 @@ export const products = {
             reviews: "30+ Reviews",
             price: "₹699",
             badge: "Best Value",
+            material: "Wood",
             whyRecommend:
                 "Enhance your walls with this Set of 6 Hexagon Wall Shelves, featuring a modern honeycomb design that adds elegance and functionality to any room. Made from durable wood, these floating shelves are perfect for displaying plants, photo frames, candles, books, collectibles, and decorative accessories. Their geometric design creates a stylish focal point while maximizing wall space, making them an excellent choice for living rooms, bedrooms, offices, hallways, and apartments.",
 
@@ -148,6 +152,7 @@ export const products = {
             reviews: "90+ Reviews",
             price: "₹349",
             badge: "Best for small space",
+            material: "MDF Engineered Wood",
             whyRecommend:
                 "Add a touch of modern elegance to your home with this Wooden Floating Wall Shelf, crafted from high-quality MDF engineered wood with a sleek black finish. Designed to maximize wall space, this floating shelf is ideal for displaying books, photo frames, indoor plants, candles, trophies, and decorative accessories. Its minimalist design blends seamlessly with contemporary, industrial, and modern interiors, making it a practical storage solution for living rooms, bedrooms, offices, and study spaces.",
 
@@ -174,6 +179,7 @@ export const products = {
             reviews: "700+ Reviews",
             price: "₹771",
             badge: "Best for living room",
+            material: "Engineered Wood",
             whyRecommend:
                 "Maximize your corner space with the Dime Store 5-Tier Zig Zag Corner Wall Shelf, a stylish and functional storage solution for modern homes. Crafted from durable engineered wood with a premium black finish, this unique zig-zag floating shelf transforms unused corners into eye-catching display areas. Perfect for showcasing books, indoor plants, photo frames, candles, collectibles, and decorative accents, it adds both storage and elegance to your living room, bedroom, office, or hallway while saving valuable floor space.",
 
@@ -201,6 +207,7 @@ export const products = {
             reviews: "70+ Reviews",
             price: "₹419",
             badge: "Primium look",
+            material: "Engineered Wood",
             whyRecommend:
                 "Upgrade your home décor with this Set of 3 Wall Mounted Floating Shelves, featuring a modern white finish complemented by elegant brown vertical back panels. Whether you want to display photo frames, books, indoor plants, candles, or decorative accessories, this minimalist wall shelf set helps organize your space while enhancing the look of your living room, bedroom, office, hallway, or study.",
 
@@ -226,6 +233,7 @@ export const products = {
             reviews: "70+ Reviews",
             price: "₹499",
             badge: "Primium look",
+            material: "Solid Teak Wood(Handmade)",
             whyRecommend:
                 "Bring timeless elegance to your space with the Dreamy Design Set of 2 Wooden Floating Book Shelves, handcrafted from premium teak wood for exceptional durability and natural beauty. These modern wall-mounted shelves are perfect for organizing books while showcasing photo frames, indoor plants, collectibles, and decorative accents. Their minimalist floating design enhances any library, study room, home office, bedroom, or living room, offering both functional storage and a warm, sophisticated look.",
 
@@ -249,10 +257,11 @@ export const products = {
             id: 10,
             title: "Wooden Wall Mounted Display Shelf for Living Room, Bedroom & Modern Home Décor",
             image: "/images/detailed-review/detail1.webp",
-            rating: 4.0,
+            rating: 4.2,
             reviews: "70+ Reviews",
             price: "₹1399",
             badge: "Primium look",
+            material: "Natural Pine Wood",
             whyRecommend:
                 "Enhance your home's style with this Pine Wood Floating Wall Shelf, designed to provide both elegant display space and practical storage. Made from high-quality natural pine wood, this wall-mounted shelf features a clean, modern design that blends effortlessly with contemporary, Scandinavian, rustic, and minimalist interiors. It's perfect for showcasing indoor plants, books, photo frames, candles, vases, and decorative showpieces while making the most of your wall space in the living room, bedroom, office, hallway, or study.",
 
