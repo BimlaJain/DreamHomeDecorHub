@@ -60,7 +60,7 @@ export default function Footer() {
 
                             <li>
                                 <Link
-                                    href="#product-1"
+                                    href="#reviews"
                                     className="transition hover:text-white"
                                 >
                                     Detailed Reviews
@@ -70,7 +70,7 @@ export default function Footer() {
 
                             <li>
                                 <Link
-                                    href="#comparison"
+                                    href="#comparision-table"
                                     className="transition hover:text-white"
                                 >
                                     Comparison

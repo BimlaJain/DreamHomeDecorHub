@@ -8,7 +8,7 @@ export default function ComparisonTable() {
 
 
     return (
-        <section className="bg-[#F8F6F2] py-20">
+        <section id="comparision-table" className="bg-[#F8F6F2] py-20">
 
             <div className="mx-auto max-w-7xl px-6">
 
