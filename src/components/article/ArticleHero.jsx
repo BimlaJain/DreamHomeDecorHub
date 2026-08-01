@@ -29,7 +29,7 @@ export default function ArticleHero() {
                 </div>
 
                 {/* Title */}
-                <h1 className="mt-6 text-5xl font-light font-serif leading-tight text-stone-900 md:text-6xl">
+                <h1 className="mt-6 text-4xl font-light font-serif leading-tight text-stone-900 md:text-6xl">
                     15 Minimalist Floating Shelf Ideas
                     <br />
                     for Modern Living Rooms

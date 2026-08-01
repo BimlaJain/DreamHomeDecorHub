@@ -4,21 +4,21 @@ import Link from "next/link";
 const relatedArticles = [
     {
         slug: "scandinavian-living-room-ideas",
-        image: "/images/blog/related/scandinavian-living-room.webp",
+        image: "/images/blog/article/scandinavian/scandinavian.webp",
         category: "Living Room",
         title: "12 Scandinavian Living Room Ideas for a Cozy Home",
         readTime: "6 min read",
     },
     {
         slug: "coffee-table-styling-ideas",
-        image: "/images/blog/related/coffee-table.webp",
+        image: "/images/blog/article/coffee-table/coffeeTable.webp",
         category: "Decor",
         title: "10 Coffee Table Styling Ideas That Look Effortless",
         readTime: "5 min read",
     },
     {
         slug: "small-bedroom-decor-ideas",
-        image: "/images/blog/related/bedroom-decor.webp",
+        image: "/images/blog/article/bedroom/bedroom.webp",
         category: "Bedroom",
         title: "15 Small Bedroom Decor Ideas That Maximize Space",
         readTime: "7 min read",
@@ -62,7 +62,7 @@ export default function RelatedArticles() {
                                     src={article.image}
                                     alt={article.title}
                                     fill
-                                    className="object-cover transition duration-500 group-hover:scale-105"
+                                    className="object-center transition duration-500 group-hover:scale-105"
                                 />
 
                             </div>
@@ -80,6 +80,7 @@ export default function RelatedArticles() {
                                 <p className="mt-5 text-sm text-stone-500">
                                     {article.readTime}
                                 </p>
+                                <p className="pt-2 font-bold text-lg">coming soon</p>
 
                             </div>
 
