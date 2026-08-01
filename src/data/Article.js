@@ -11,33 +11,36 @@ export const articles = [
                 id: "idea-1",
                 number: "01",
                 title: "Style with Neutral Books",
-                image: "/images/blog/article/idea1.webp",
+                image: "/images/blog/article/ideal13.webp",
                 description:
                     "Stack a few neutral-colored coffee table books horizontally and vertically to create a clean, balanced display. This simple styling trick instantly makes floating shelves feel more sophisticated.",
                 tip:
                     "Choose books in beige, white, gray, or soft earth tones for a minimalist look.",
+                affiliateLink: "https://amzn.to/4pNMvE4"
             },
 
             {
                 id: "idea-2",
                 number: "02",
                 title: "Add a Ceramic Vase",
-                image: "/images/blog/article/ideal2.webp",
+                image: "/images/blog/article/idea2.webp",
                 description:
                     "A handcrafted ceramic vase adds texture without making the shelf feel crowded. Pair it with dried flowers or leave it empty for a modern aesthetic.",
                 tip:
                     "Stick to matte white or sand-colored ceramics.",
+                affiliateLink: "https://amzn.to/44XkznR"
             },
 
             {
                 id: "idea-3",
                 number: "03",
                 title: "Mix Wall Art",
-                image: "/images/blog/article/ideal3.webp",
+                image: "/images/blog/article/idea3.webp",
                 description:
                     "Lean small framed artwork against the wall instead of hanging every piece. Layering creates depth while maintaining a relaxed and contemporary feel.",
                 tip:
                     "Use thin oak or black frames for consistency.",
+                affiliateLink: "https://amzn.to/4fzOw3i"
             },
 
             {
@@ -53,6 +56,7 @@ export const articles = [
 
                 tip:
                     "Choose low-maintenance plants and keep the pots in neutral ceramic or concrete finishes for a cohesive modern look.",
+                affiliateLink: "https://amzn.to/452RGGN"
             },
             {
                 id: "idea-5",
@@ -67,6 +71,7 @@ export const articles = [
 
                 tip:
                     "Stick to one or two wood finishes throughout the shelf to maintain a clean and harmonious design.",
+                affiliateLink: "https://amzn.to/450nMmw"
             },
             {
                 id: "idea-6",
@@ -81,6 +86,7 @@ export const articles = [
 
                 tip:
                     "Choose warm white lighting (2700K–3000K) to create a cozy and luxurious atmosphere.",
+                affiliateLink: "https://amzn.to/3RGCAUm"
             },
             {
                 id: "idea-7",
@@ -95,6 +101,7 @@ export const articles = [
 
                 tip:
                     "Use baskets made from seagrass, cotton rope, or wicker in neutral colors.",
+                affiliateLink: "https://amzn.to/3Twq8XL"
             },
             {
                 id: "idea-8",
@@ -109,6 +116,7 @@ export const articles = [
 
                 tip:
                     "Choose one statement piece instead of several small decorative objects.",
+                affiliateLink: "https://amzn.to/4fQszMh"
             },
             {
                 id: "idea-9",
@@ -123,6 +131,7 @@ export const articles = [
 
                 tip:
                     "Keep taller pieces at the back and smaller accessories toward the front.",
+                affiliateLink: "https://amzn.to/3RqhoC1"
             },
             {
                 id: "idea-10",
@@ -137,6 +146,7 @@ export const articles = [
 
                 tip:
                     "Limit the display to two or three books to avoid visual clutter.",
+                affiliateLink: "https://amzn.to/4fQS0xl"
             },
             {
                 id: "idea-11",
@@ -151,6 +161,7 @@ export const articles = [
 
                 tip:
                     "Choose unscented white, beige, or stone-colored candles in simple holders for a timeless look.",
+                affiliateLink: "https://amzn.to/451yCsp"
             },
             {
                 id: "idea-12",
@@ -165,6 +176,7 @@ export const articles = [
 
                 tip:
                     "Limit yourself to three or four complementary materials to maintain a cohesive appearance.",
+                affiliateLink: "https://amzn.to/4pUKFRZ"
             },
             {
                 id: "idea-13",
@@ -172,13 +184,14 @@ export const articles = [
 
                 title: "Seasonal Styling",
 
-                image: "/images/blog/article/idea13.webp",
+                image: "/images/blog/article/ideal13.webp",
 
                 description:
                     "Refresh your floating shelves throughout the year with subtle seasonal updates. Small decorative changes keep your space feeling fresh while preserving the overall minimalist aesthetic.",
 
                 tip:
                     "Swap only one or two accessories each season instead of completely redecorating the shelf.",
+                affiliateLink: "https://amzn.to/4pNMvE4"
             },
             {
                 id: "idea-14",
@@ -186,13 +199,14 @@ export const articles = [
 
                 title: "Add Personal Touches",
 
-                image: "/images/blog/article/idea14.webp",
+                image: "/images/blog/article/ideal14.webp",
 
                 description:
                     "Personal items such as framed family photos, travel souvenirs, or meaningful keepsakes make floating shelves feel unique and welcoming while reflecting your personality.",
 
                 tip:
                     "Display only a few meaningful pieces so they remain the focal point instead of creating visual clutter.",
+                affiliateLink: "https://amzn.to/4vZZzrk"
             },
             {
                 id: "idea-15",
@@ -200,13 +214,14 @@ export const articles = [
 
                 title: "Keep Empty Space",
 
-                image: "/images/blog/article/idea15.webp",
+                image: "/images/blog/article/ideal15.webp",
 
                 description:
                     "One of the defining characteristics of minimalist design is intentional empty space. Leaving parts of the shelf unoccupied creates balance, improves visual clarity, and allows every decorative piece to stand out beautifully.",
 
                 tip:
                     "Aim to leave roughly one-third of each shelf empty for a clean, airy, and professionally styled appearance.",
+                affiliateLink: "https://amzn.to/3U7WDvx"
             },
         ],
     },

@@ -1,4 +1,6 @@
+"use-client";
 import Image from "next/image";
+import Link from "next/link";
 
 
 export default function IdeaCard({
@@ -8,6 +10,7 @@ export default function IdeaCard({
     image,
     description,
     tip,
+    affiliateLink
 })
 {
     console.log("IdeaCard Render", { id, title, image });
@@ -59,6 +62,12 @@ export default function IdeaCard({
                             </p>
 
                         </div>
+                        <Link
+                            href={affiliateLink || "#"} target="_blank"
+                            className="mt-10 inline-flex rounded-full bg-stone-900 px-8 py-4 text-white transition hover:bg-black"
+                        >
+                            View on Amazon →
+                        </Link>
 
                     </div>
 
