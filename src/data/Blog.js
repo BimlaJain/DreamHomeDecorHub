@@ -79,3 +79,68 @@ export const rooms = [
         // articles: "14 Articles",
     },
 ];
+
+export const styles = [
+    {
+        title: "Modern",
+        image: "/images/blog/styles/modern.jpg",
+        slug: "modern-floating-shelves",
+    },
+    {
+        title: "Rustic",
+        image: "/images/blog/styles/rustic.jpg",
+        slug: "rustic-floating-shelves",
+    },
+    {
+        title: "Farmhouse",
+        image: "/images/blog/styles/farmhouse.jpg",
+        slug: "farmhouse-floating-shelves",
+    },
+    {
+        title: "Minimalist",
+        image: "/images/blog/styles/minimalist.jpg",
+        slug: "minimalist-floating-shelves",
+    },
+    {
+        title: "Industrial",
+        image: "/images/blog/styles/industrial.jpg",
+        slug: "industrial-floating-shelves",
+    },
+    {
+        title: "Boho",
+        image: "/images/blog/styles/boho.jpg",
+        slug: "boho-floating-shelves",
+    },
+    {
+        title: "Scandinavian",
+        image: "/images/blog/styles/scandinavian.jpg",
+        slug: "scandinavian-floating-shelves",
+    },
+    {
+        title: "Coastal",
+        image: "/images/blog/styles/coastal.jpg",
+        slug: "coastal-floating-shelves",
+    },
+];
+
+export const collections = [
+    {
+        title: "Modern Living Room",
+        description: "Clean lines and minimal floating shelves.",
+        image: "/images/blog/shop/modern-living-room.jpg",
+        href: "/shop/modern-living-room",
+    },
+    {
+        title: "Rustic Farmhouse",
+        description: "Warm wooden shelves with cozy decor.",
+        image: "/images/blog/shop/rustic-farmhouse.jpg",
+        href: "/shop/rustic-farmhouse",
+    },
+    {
+        title: "Small Space Storage",
+        description: "Smart shelf ideas for apartments.",
+        image: "/images/blog/shop/small-space.jpg",
+        href: "/shop/small-space-storage",
+    },
+];
+
