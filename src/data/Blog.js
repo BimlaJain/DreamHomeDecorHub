@@ -83,42 +83,42 @@ export const rooms = [
 export const styles = [
     {
         title: "Modern",
-        image: "/images/blog/styles/modern.jpg",
+        image: "/images/blog/modern.webp",
         slug: "modern-floating-shelves",
     },
     {
         title: "Rustic",
-        image: "/images/blog/styles/rustic.jpg",
+        image: "/images/blog/rustic.webp",
         slug: "rustic-floating-shelves",
     },
     {
         title: "Farmhouse",
-        image: "/images/blog/styles/farmhouse.jpg",
+        image: "/images/blog/farmhouse.webp",
         slug: "farmhouse-floating-shelves",
     },
     {
         title: "Minimalist",
-        image: "/images/blog/styles/minimalist.jpg",
+        image: "/images/blog/minimalist.webp",
         slug: "minimalist-floating-shelves",
     },
     {
         title: "Industrial",
-        image: "/images/blog/styles/industrial.jpg",
+        image: "/images/blog/industrial.webp",
         slug: "industrial-floating-shelves",
     },
     {
         title: "Boho",
-        image: "/images/blog/styles/boho.jpg",
+        image: "/images/blog/boho.webp",
         slug: "boho-floating-shelves",
     },
     {
         title: "Scandinavian",
-        image: "/images/blog/styles/scandinavian.jpg",
+        image: "/images/blog/scandinavian1.webp",
         slug: "scandinavian-floating-shelves",
     },
     {
         title: "Coastal",
-        image: "/images/blog/styles/coastal.jpg",
+        image: "/images/blog/coastal.webp",
         slug: "coastal-floating-shelves",
     },
 ];
@@ -127,19 +127,19 @@ export const collections = [
     {
         title: "Modern Living Room",
         description: "Clean lines and minimal floating shelves.",
-        image: "/images/blog/shop/modern-living-room.jpg",
+        image: "/images/blog/modern.webp",
         href: "/shop/modern-living-room",
     },
     {
         title: "Rustic Farmhouse",
         description: "Warm wooden shelves with cozy decor.",
-        image: "/images/blog/shop/rustic-farmhouse.jpg",
+        image: "/images/blog/rustic.webp",
         href: "/shop/rustic-farmhouse",
     },
     {
         title: "Small Space Storage",
         description: "Smart shelf ideas for apartments.",
-        image: "/images/blog/shop/small-space.jpg",
+        image: "/images/blog/minimalist.webp",
         href: "/shop/small-space-storage",
     },
 ];
