@@ -50,7 +50,7 @@ export default function ArticleHero() {
                 {/* Hero Image */}
                 <div className="relative mt-14 h-[350px] overflow-hidden rounded-[32px] md:h-[600px]">
                     <Image
-                        src="/images/blog/article/hero.webp"
+                        src="/images/blog/article/idea1.webp"
                         alt="Minimalist floating shelf ideas for modern living rooms"
                         fill
                         priority

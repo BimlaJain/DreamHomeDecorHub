@@ -27,7 +27,8 @@ export default function IdeaCard({
                         src={image}
                         alt={title}
                         fill
-                        className="object-cover"
+                        className="object-cover" 
+                      
                     />
                 </div>
 
