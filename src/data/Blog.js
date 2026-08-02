@@ -1,18 +1,18 @@
 export const slides = [
     {
-        image: "/images/hero/hero.webp",
+        image: "/images/floating-shelves/hero/hero.webp",
         title: "Living Room Inspiration",
     },
     {
-        image: "/images/detailed-review/detail5.webp",
+        image: "/images/floating-shelves/detailed-review/detail5.webp",
         title: "Minimal Bedroom Styling",
     },
     {
-        image: "/images/detailed-review/detail1.webp",
+        image: "/images/floating-shelves/detailed-review/detail1.webp",
         title: "Modern Workspace",
     },
     {
-        image: "/images/detailed-review/detail2.webp",
+        image: "/images/floating-shelves/detailed-review/detail2.webp",
         title: "Cozy Reading Corner",
     },
 ];

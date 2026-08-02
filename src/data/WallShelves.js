@@ -6,7 +6,7 @@ export const products = {
         {
             id: 1,
             title: "Modern Wooden Floating Wall Shelf",
-            image: "/images/hero/hero.webp",
+            image: "/images/floating-shelves/hero/hero.webp",
             rating: 4.8,
             reviews: "950+ Reviews",
             price: "₹1,999",
@@ -35,7 +35,7 @@ export const products = {
         {
             id: 2,
             title: "Wooden 2-Tier Floating Wall Shelf",
-            image: "/images/top-pic/toppic1.webp",
+            image: "/images/floating-shelves/top-pic/toppic1.webp",
             rating: 3.8,
             reviews: "450+ Reviews",
             price: "₹1,949",
@@ -62,7 +62,7 @@ export const products = {
         {
             id: 3,
             title: "Modern 7-Tier Corner Display Shelf",
-            image: "/images/top-pic/toppic2.webp",
+            image: "/images/floating-shelves/top-pic/toppic2.webp",
             rating: 4.8,
             reviews: "1,450+ Reviews",
             price: "₹771",
@@ -90,7 +90,7 @@ export const products = {
         {
             id: 4,
             title: "Multifunctional 2-Tier Wall Shelf & Storage Rack",
-            image: "/images/detailed-review/detail7.webp",
+            image: "/images/floating-shelves/detailed-review/detail7.webp",
             rating: 3.8,
             reviews: "50+ Reviews",
             price: "₹854",
@@ -118,7 +118,7 @@ export const products = {
         {
             id: 5,
             title: "Wooden Floating Honeycomb Wall Shelves for Living Room, Bedroom & Office",
-            image: "/images/detailed-review/detail6.webp",
+            image: "/images/floating-shelves/detailed-review/detail6.webp",
             rating: 2.8,
             reviews: "30+ Reviews",
             price: "₹699",
@@ -147,7 +147,7 @@ export const products = {
         {
             id: 6,
             title: "MDF Engineered Wood Storage Shelf for Living Room, Bedroom, Office & Home Decor",
-            image: "/images/detailed-review/detail5.webp",
+            image: "/images/floating-shelves/detailed-review/detail5.webp",
             rating: 4.7,
             reviews: "90+ Reviews",
             price: "₹349",
@@ -174,7 +174,7 @@ export const products = {
         {
             id: 7,
             title: "MDF Engineered Wood Storage Shelf for Living Room, Bedroom, Office & Home Decor",
-            image: "/images/detailed-review/detail4.webp",
+            image: "/images/floating-shelves/detailed-review/detail4.webp",
             rating: 4.1,
             reviews: "700+ Reviews",
             price: "₹771",
@@ -202,7 +202,7 @@ export const products = {
         {
             id: 8,
             title: "White Engineered Wood Display Shelves with Brown Back Panel for Living Room, Bedroom & Office",
-            image: "/images/detailed-review/detail3.webp",
+            image: "/images/floating-shelves/detailed-review/detail3.webp",
             rating: 4.0,
             reviews: "70+ Reviews",
             price: "₹419",
@@ -228,7 +228,7 @@ export const products = {
         {
             id: 9,
             title: "Handmade Teak Wood Wall Mounted Shelves for Library, Office & Home Décor",
-            image: "/images/detailed-review/detail2.webp",
+            image: "/images/floating-shelves/detailed-review/detail2.webp",
             rating: 4.0,
             reviews: "70+ Reviews",
             price: "₹499",
@@ -256,7 +256,7 @@ export const products = {
         {
             id: 10,
             title: "Wooden Wall Mounted Display Shelf for Living Room, Bedroom & Modern Home Décor",
-            image: "/images/detailed-review/detail1.webp",
+            image: "/images/floating-shelves/detailed-review/detail1.webp",
             rating: 4.2,
             reviews: "70+ Reviews",
             price: "₹1399",
