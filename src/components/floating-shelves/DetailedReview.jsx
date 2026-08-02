@@ -1,9 +1,8 @@
 "use client";
-
 import Image from "next/image";
 import Link from "next/link";
 import { Check, X, Star, ArrowRight } from "lucide-react";
-import { products } from "@/data/WallShelves";
+import { products } from "../../data/WallShelves";
 
 export default function DetailedReview() {
     return (

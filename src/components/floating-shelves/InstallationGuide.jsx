@@ -1,4 +1,4 @@
-import { installationSteps } from "../data/WallShelves";
+import { installationSteps } from "../../data/WallShelves";
 export default function InstallationGuide() {
 
     return (

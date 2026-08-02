@@ -3,7 +3,7 @@ import { rooms } from "@/data/Blog";
 
 export default function BrowseByRoom() {
     return (
-        <section className="bg-white py-24">
+        <section id="room-ideas" className="bg-white py-24">
             <div className="mx-auto max-w-7xl px-6">
 
                 {/* Heading */}

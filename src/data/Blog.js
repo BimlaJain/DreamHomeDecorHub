@@ -21,7 +21,7 @@ export const articles = [
     {
         image: "/images/blog/inspiration1.webp",
         category: "Living Room",
-        title: "10 Minimalist Floating Shelf Ideas",
+        title: "15 Minimalist Floating Shelf Ideas",
         readTime: "5 min read",
         slug: "minimalist-floating-shelf-ideas",
     },

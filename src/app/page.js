@@ -1,33 +1,25 @@
-import BuyingGuide from "@/components/BuyingGuide";
-import ComparisonTable from "@/components/ComparisionTable";
-import DetailedReview from "@/components/DetailedReview";
-import FAQ from "@/components/FAQ";
-import Hero from "@/components/Hero";
-import InstallationGuide from "@/components/InstallationGuide";
-import Navbar from "@/components/Navbar";
-import Newsletter from "@/components/Newsletter";
-import Testimonials from "@/components/Testimonials";
-import TopPicks from "@/components/TopPics";
-import CTA from "@/components/CTA";
-import Footer from "@/components/Footer";
+import Footer from "@/components/home-page/Footer";
+import FeaturedCategories from "@/components/home-page/FeaturedCategories";
+import Header from "@/components/home-page/Header";
+import Hero from "@/components/home-page/Hero";
+import Newsletter from "@/components/home-page/Newsletter";
+import OurPromise from "@/components/home-page/OurPromise";
+import PopularCollections from "@/components/home-page/PopularCollections";
+import ShopTheLook from "@/components/home-page/ShopTheLook";
+import TrendingSection from "@/components/home-page/TrendingSection";
 
 export default function Home() {
   return (
     <>
-      <Navbar />
-      <main>
-        <Hero />
-        <TopPicks />
-        <DetailedReview />
-        <ComparisonTable />
-        <BuyingGuide />
-        <InstallationGuide />
-        <FAQ />
-        <Testimonials />
-        <Newsletter />
-        <CTA />
-        <Footer/>
-      </main>
+      <Header />
+      <Hero />
+      <FeaturedCategories />
+      <TrendingSection />
+      <PopularCollections />
+      <ShopTheLook />
+      <OurPromise />
+      <Newsletter />
+      <Footer />
     </>
   );
 }

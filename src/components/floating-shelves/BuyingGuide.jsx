@@ -1,4 +1,4 @@
-import { guides } from "../data/WallShelves";
+import { guides } from "../../data/WallShelves";
 
 export default function BuyingGuide() {
 

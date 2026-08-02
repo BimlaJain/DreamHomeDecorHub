@@ -7,15 +7,15 @@ import { Search, Menu, X , House } from "lucide-react";
 const navLinks = [
     {
         name: "Inspiration",
-        href: "/blog",
+        href: "#inspiration",
     },
     {
         name: "Room Ideas",
-        href: "/blog/room-ideas",
+        href: "#room-ideas",
     },
     {
         name: "Decor Tips",
-        href: "/blog/decor-tips",
+        href: "#decor-tips",
     },
 ];
 
@@ -80,7 +80,7 @@ export default function BlogNavbar() {
                     </button>
 
                     <Link
-                        href="/"
+                        href="/floating-shelves"
                         className="rounded-full border border-stone-300 px-5 py-2 text-sm transition hover:bg-stone-900 hover:text-white"
                     >
                         Shop Collection
@@ -115,7 +115,7 @@ export default function BlogNavbar() {
                         ))}
 
                         <Link
-                            href="/"
+                            href="/floating-shelves"
                             className="mt-4 rounded-full border border-stone-300 px-5 py-3 text-center"
                             onClick={() => setIsOpen(false)}
                         >

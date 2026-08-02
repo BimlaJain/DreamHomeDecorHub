@@ -2,7 +2,7 @@ import { Lightbulb } from "lucide-react";
 
 export default function DesignerTip() {
     return (
-        <section className="bg-[#F8F6F2] py-20">
+        <section id="decor-tips" className="bg-[#F8F6F2] py-20">
             <div className="mx-auto max-w-4xl px-6">
 
                 <div className="rounded-[32px] border border-stone-200 bg-white p-10 shadow-sm">

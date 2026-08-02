@@ -1,4 +1,4 @@
-import { products } from "@/data/WallShelves";
+import { products } from "../../data/WallShelves";
 import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 

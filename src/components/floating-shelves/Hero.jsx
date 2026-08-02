@@ -120,7 +120,7 @@ export default function Hero() {
                                 rel="nofollow sponsored noopener"
                             >
                             <img
-                                src="../images/hero/hero.webp"
+                                src="../images/floating-shelves/hero/hero.webp"
                                 alt="Modern Floating Wall Shelf"
                                 className=" w-full rounded-3xl object-cover"
                                 />

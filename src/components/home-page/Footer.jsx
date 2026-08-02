@@ -3,6 +3,7 @@ import { FaPinterest } from "react-icons/fa";
 
 
 export default function Footer() {
+    const currentYear = new Date().getFullYear();
 
     return (
 
@@ -36,90 +37,85 @@ export default function Footer() {
 
 
 
-                    {/* Quick Links */}
-
                     <div>
 
-                        <h3 className="text-lg font-semibold">
-                            Inspiration
+                        <h3 className="mb-6 text-lg font-semibold text-white">
+                            Explore
                         </h3>
 
-
-                        <ul className="mt-5 space-y-3 text-white/60">
-
+                        <ul className="space-y-4">
 
                             <li>
-                                <Link
-                                    href="#top-picks"
-                                    className="transition hover:text-white"
-                                >
+                                <Link href="/living-room" className="hover:text-white transition text-white/60">
                                     Living Room
                                 </Link>
                             </li>
 
-
                             <li>
-                                <Link
-                                    href="#reviews"
-                                    className="transition hover:text-white"
-                                >
+                                <Link href="/bedroom" className="hover:text-white transition text-white/60">
                                     Bedroom
                                 </Link>
                             </li>
 
+                            <li>
+                                <Link href="/kitchen" className="hover:text-white transition text-white/60">
+                                    Kitchen
+                                </Link>
+                            </li>
 
                             <li>
-                                <Link
-                                    href="#comparision-table"
-                                    className="transition hover:text-white"
-                                >
+                                <Link href="/bathroom" className="hover:text-white transition text-white/60">
+                                    Bathroom
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link href="/wall-decor" className="hover:text-white transition text-white/60">
+                                    Wall Decor
+                                </Link>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                    {/* Resources */}
+
+                    <div>
+
+                        <h3 className="mb-6 text-lg font-semibold text-white">
+                            Resources
+                        </h3>
+
+                        <ul className="space-y-4">
+
+                            <li>
+                                <Link href="/about" className="hover:text-white transition text-white/60">
                                     About Us
                                 </Link>
                             </li>
 
+                            <li>
+                                <Link href="/articles" className="hover:text-white transition text-white/60">
+                                    Articles
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link href="/collections" className="hover:text-white transition text-white/60">
+                                    Collections
+                                </Link>
+                            </li>
+
+                            <li>
+                                <Link href="/contact" className="hover:text-white transition text-white/60">
+                                    Contact
+                                </Link>
+                            </li>
 
                         </ul>
 
                     </div>
-
-
-
-
-
-                    {/* Categories */}
-
-                    <div>
-
-                        <h3 className="text-lg font-semibold">
-                            Categories
-                        </h3>
-
-
-                        <ul className="mt-5 space-y-3 text-white/60">
-
-
-                            <li>
-                                Floating Shelves
-                            </li>
-
-                            <li>
-                                Wooden Shelves
-                            </li>
-
-                            <li>
-                                Corner Shelves
-                            </li>
-
-                            <li>
-                                Modern Shelves
-                            </li>
-
-
-                        </ul>
-
-
-                    </div>
-
 
 
 
@@ -154,13 +150,19 @@ export default function Footer() {
                         <ul className="mt-4 space-y-3 text-white/60">
 
 
-                            <Link href="/privacy-policy">Privacy Policy</Link>
+                            <li>
+                                <Link href="/privacy-policy">Privacy Policy</Link>
+                           </li>
 
-                            <Link href="/Terms & Conditions">Terms & Conditions</Link>
+                            <li>
+                                <Link href="/Terms & Conditions">Terms & Conditions</Link>
+                           </li>
 
 
-                            <Link href="/Affiliate Disclosure">Affiliate Disclosure</Link>
+                            <li>
+                                <Link href="/Affiliate Disclosure">Affiliate Disclosure</Link>
 
+                          </li>
 
                         </ul>
 
@@ -184,9 +186,8 @@ export default function Footer() {
                 <div className="mx-auto flex max-w-7xl flex-col gap-3 px-6 py-6 text-sm text-white/50 md:flex-row md:items-center md:justify-between">
 
 
-                    <p>
-                        © {new Date().getFullYear()} DreamHomeDecorHub. All rights reserved.
-                    </p>
+
+                    <p>© {currentYear} DreamHomeDecorHub . All rights reserved.</p>
 
 
                     <p>
