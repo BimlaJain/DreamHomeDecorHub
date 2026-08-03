@@ -11,7 +11,7 @@ const minimalistFloatingShelves = {
     readTime: "8 min read",
 
     image:
-        "/images/blog/articles/minimalist-floating-shelf-hero.webp",
+        "/images/floating-shelves/hero/hero.webp",
 
 
     description:
