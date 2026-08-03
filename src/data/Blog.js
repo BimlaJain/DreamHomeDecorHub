@@ -45,7 +45,7 @@ export const rooms = [
     {
         title: "Living Room",
         image: "/images/blog/room1.webp",
-        href: "/blog/category/living-room",
+        href: "/blog/category/25-cozy-living-room-ideas",
         // articles: "18 Articles",
     },
     {

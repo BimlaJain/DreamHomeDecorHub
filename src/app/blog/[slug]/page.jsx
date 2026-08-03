@@ -1,40 +1,115 @@
+import { notFound } from "next/navigation";
+
+import articles from "@/data/articles/Index";
+
+import ArticleNavbar from "@/components/article/ArticleNavbar";
 import ArticleHero from "@/components/article/ArticleHero";
-import Introduction from "@/components/article/Introduction";
-import QuickNavigation from "@/components/article/QuickNavigation";
+import TableOfContents from "@/components/article/TableOfContent";
 import IdeaCard from "@/components/article/IdeaCard";
-import { articles } from "@/data/Article";
-import DesignerTip from "@/components/article/DesignerTip";
 import CommonMistakes from "@/components/article/CommonMistakes";
-import StylingChecklist from "@/components/article/StylingChecklist";
-import Conclusion from "@/components/article/Conclusion";
 import RelatedArticles from "@/components/article/RelatedArticles";
-import NewsletterCTA from "@/components/article/NewsletterCTA";
+import BrandBanner from "@/components/article/BrandBanner";
+import PinterestCTA from "@/components/article/PinterestCTA";
+import Footer from "@/components/home-page/Footer";
 
-export default function ArticlePage() {
-    const article = articles[0];
-    return (
-        <>
-            <ArticleHero />
-            <Introduction />
-            <QuickNavigation />
 
-            {article.ideas.slice(0, 5).map((idea) => (
-                <IdeaCard key={idea.id} {...idea} />
-            ))}
+export default async function Page({ params }) {
 
-            <DesignerTip/> 
 
-            {article.ideas.slice(5 , 10).map((idea) => (
-                <IdeaCard key={idea.id} {...idea} />
-            ))}
-            <CommonMistakes/>
-            {article.ideas.slice(10 , 15).map((idea) => (
-                <IdeaCard key={idea.id} {...idea} />
-            ))}
-            <StylingChecklist />
-            <Conclusion />
-            <RelatedArticles />
-            <NewsletterCTA/>
-        </>
+    const { slug } = await params;
+
+
+    const article = articles.find(
+        (item) => item.slug === slug
     );
+
+
+    if (!article) {
+        notFound();
+    }
+
+
+    return (
+
+        <>
+
+            <ArticleNavbar
+                category={article.category}
+                title={article.title}
+            />
+
+
+            <ArticleHero
+                category={article.category}
+                title={article.title}
+                description={article.description}
+                updated={article.updated}
+                readTime={article.readTime}
+                image={article.image}
+            />
+
+
+
+            <TableOfContents
+                items={article.tableOfContents}
+                totalIdeas={article.totalIdeas}
+                totalProducts={article.totalProducts}
+            />
+
+
+
+            {
+                article.ideas?.length > 0 && (
+
+                    article.ideas.map((idea) => (
+
+                        <IdeaCard
+                            key={idea.id}
+                            idea={idea}
+                        />
+
+                    ))
+
+                )
+            }
+
+
+
+            {
+                article.mistakes?.length > 0 && (
+
+                    <CommonMistakes
+                        mistakes={article.mistakes}
+                    />
+
+                )
+            }
+
+
+
+            {
+                article.relatedArticles?.length > 0 && (
+
+                    <RelatedArticles
+                        articles={article.relatedArticles}
+                    />
+
+                )
+            }
+
+
+
+            <BrandBanner />
+
+
+            <PinterestCTA />
+
+
+            <Footer />
+
+
+        </>
+
+    );
+
 }

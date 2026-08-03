@@ -1,36 +1,32 @@
-import Link from "next/link";
-import { ArrowUpRight } from "lucide-react";
-
-export default function NewsletterCTA() {
+const NewsletterCTA = () => {
     return (
-        <section className="bg-stone-900 py-24">
-            <div className="mx-auto max-w-4xl px-6 text-center">
+        <section className="py-20">
+            <div className="max-w-6xl mx-auto px-5">
+                <div className=" rounded-[40px] bg-[#1E1E1E] px-8 py-14 md:px-16 md:py-20 text-center text-white ">
+                    <p className=" text-xs uppercase tracking-[0.35em] text-[#D8A06B] ">
+                        Stay Inspired
+                    </p>
+                    <h2 className=" mt-5 font-serif text-4xl md:text-6xl font-bold leading-tight ">
+                        Get Beautiful Home Ideas <br /> Delivered To You
+                    </h2>
+                    <p className=" mt-6 mx-auto max-w-2xl text-stone-300 text-base md:text-lg ">
+                        Subscribe to receive cozy decorating ideas,
+                        home styling inspiration and the latest decor
+                        trends from DreamHomeDecorHub.
+                    </p>
+                    <form className=" mt-10 mx-auto flex max-w-xl flex-col gap-3 sm:flex-row"  >
 
-                <p className="text-sm uppercase tracking-[0.3em] text-stone-400">
-                    More Inspiration Awaits
-                </p>
-
-                <h2 className="mt-4 font-serif text-5xl font-light text-white">
-                    Follow Us on Pinterest
-                </h2>
-
-                <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-stone-300">
-                    Discover beautifully curated home decor ideas, minimalist room
-                    inspiration, furniture styling tips, and seasonal decorating
-                    trends. Save your favorite ideas and create your dream home,
-                    one pin at a time.
-                </p>
-
-                <Link
-                    href="https://in.pinterest.com/DecorHomeDecorHub/"
-                    target="_blank"
-                    className="mt-10 inline-flex items-center gap-2 rounded-full bg-white px-8 py-4 font-medium text-stone-900 transition hover:bg-stone-200"
-                >
-                    Follow on Pinterest
-                    <ArrowUpRight size={18} />
-                </Link>
-
+                        <input type="email" placeholder="Enter your email address" className=" h-14 flex-1 border border-white rounded-full px-6 text-[#1E1E1E] outline-none  placeholder:text-white/80" />
+                        <button type="submit" className=" h-14 rounded-full bg-[#D8A06B] px-8 font-medium text-white transition hover:opacity-90 " >
+                            Subscribe
+                        </button>
+                    </form>
+                    <p className=" mt-5 text-xs text-stone-400 " >
+                        Join our decor community. No spam, only inspiration.
+                    </p>
+                </div>
             </div>
         </section>
     );
-}
+};
+export default NewsletterCTA;

@@ -1,80 +1,158 @@
-"use-client";
-import Image from "next/image";
-import Link from "next/link";
+const IdeaCard = ({ idea }) => {
 
-
-export default function IdeaCard({
-    id,
-    number,
-    title,
-    image,
-    description,
-    tip,
-    affiliateLink
-})
-{
-    console.log("IdeaCard Render", { id, title, image });
     return (
-        
-        <section
-            id={id}
-            className="bg-white py-20 scroll-mt-28"
-        >
-            <div className="mx-auto max-w-6xl px-6">
 
-                <div className="grid items-center gap-14 lg:grid-cols-2">
+        <section className="py-20">
 
-                    {/* Image */}
+            <div className="max-w-6xl mx-auto px-5">
 
-                    <div className="relative h-[500px] overflow-hidden rounded-3xl">
-                        <Image
-                            src={image}
-                            alt={title}
-                            fill
-                            className="object-cover"
-                        />
-                    </div>
 
-                    {/* Content */}
+                {/* IDEA */}
 
-                    <div>
+                <div>
 
-                        <p className="text-sm uppercase tracking-[0.3em] text-stone-500">
-                            Idea {number}
+                    <span className="text-sm uppercase tracking-widest text-gray-500">
+                        Idea {idea.id}
+                    </span>
+
+
+                    <h2 className="text-4xl font-bold mt-3">
+                        {idea.title}
+                    </h2>
+
+
+                    <img
+                        src={idea.image}
+                        alt={idea.title}
+                        width={700}
+                        height={400}
+                        className="rounded-3xl mt-8 w-full max-w-3xl"
+                    />
+
+
+                    <p className="mt-6 text-lg text-gray-600">
+                        {idea.description}
+                    </p>
+
+
+
+                    <ul className="mt-6 space-y-3">
+
+                        {
+                            idea.tips.map((tip, index) => (
+                                <li key={index}>
+                                    ✓ {tip}
+                                </li>
+                            ))
+                        }
+
+                    </ul>
+
+
+                </div>
+
+
+
+                {/* SHOP THE LOOK */}
+
+                <div className="mt-16 rounded-3xl bg-[#f8f5ef] p-8">
+
+
+                    <div className="mb-8">
+
+                        <p className="text-sm uppercase tracking-widest">
+                            Shop The Look
                         </p>
 
-                        <h2 className="mt-4 font-serif text-4xl font-light text-stone-900">
-                            {title}
-                        </h2>
 
-                        <p className="mt-6 text-lg leading-8 text-stone-600">
-                            {description}
-                        </p>
-
-                        <div className="mt-8 rounded-2xl border-l-4 border-stone-900 bg-stone-100 p-6">
-
-                            <p className="font-semibold text-stone-900">
-                                Pro Tip
-                            </p>
-
-                            <p className="mt-2 leading-7 text-stone-600">
-                                {tip}
-                            </p>
-
-                        </div>
-                        <Link
-                            href={affiliateLink || "#"} target="_blank"
-                            className="mt-10 inline-flex rounded-full bg-stone-900 px-8 py-4 text-white transition hover:bg-black"
-                        >
-                            View on Amazon →
-                        </Link>
+                        <h3 className="text-3xl font-bold">
+                            Recreate This Style
+                        </h3>
 
                     </div>
+
+
+
+                    <div className="
+bg-white
+rounded-3xl
+p-6
+grid
+grid-cols-2
+md:grid-cols-4
+gap-5
+">
+
+
+                        {
+                            idea.shopLook.map((product, index) => (
+
+                                <a
+                                    href={product.link}
+                                    key={index}
+                                    className="
+group
+block
+"
+                                >
+
+
+                                    <div className="
+aspect-square
+rounded-2xl
+overflow-hidden
+bg-gray-100
+">
+
+
+                                        <img
+                                            src={product.image}
+                                            alt={product.name}
+                                            className="
+w-full
+h-full
+object-cover
+group-hover:scale-110
+transition
+duration-500
+"
+                                        />
+
+
+                                    </div>
+
+
+
+                                    <p className="
+mt-3
+text-sm
+font-medium
+text-center
+">
+                                        {product.name}
+                                    </p>
+
+
+                                </a>
+
+                            ))
+
+                        }
+
+
+                    </div>
+
 
                 </div>
 
             </div>
+
+
         </section>
-       
-    );
+
+    )
+
 }
+
+
+export default IdeaCard;
