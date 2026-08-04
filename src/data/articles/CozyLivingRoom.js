@@ -655,7 +655,7 @@ export const livingRoomIdeas = [
 
         title: "Bring in Vintage Decor Pieces",
 
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea16.webp",
+        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea15.webp",
 
         description:
             "Vintage decor adds character, history and a timeless feel to your living room. Mixing old-inspired pieces with modern furniture creates a warm and collected interior style.",
@@ -670,26 +670,20 @@ export const livingRoomIdeas = [
 
             {
                 name: "Vintage Decorative Mirror",
-                image: "/images/products/vintage-mirror.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook52.webp",
+                link: "https://link.amazon/B08Vfsa4C"
             },
 
             {
                 name: "Antique Style Table Lamp",
-                image: "/images/products/vintage-lamp.webp",
-                link: "#"
-            },
-
-            {
-                name: "Classic Decorative Clock",
-                image: "/images/products/vintage-clock.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook53.webp",
+                link: "https://link.amazon/B04PGQFDk"
             },
 
             {
                 name: "Vintage Ceramic Vase",
-                image: "/images/products/vintage-vase.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook54.webp",
+                link: "https://link.amazon/B0b76Vd8T"
             }
 
         ]
@@ -703,7 +697,7 @@ export const livingRoomIdeas = [
 
         title: "Decorate with Candles & Lanterns",
 
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea17.webp",
+        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea16.webp",
 
         description:
             "Candles and lanterns bring warmth, softness and a relaxing atmosphere to your living room. They are an easy way to create a cozy evening mood.",
@@ -718,27 +712,27 @@ export const livingRoomIdeas = [
 
             {
                 name: "Luxury Scented Candle",
-                image: "/images/products/scented-candle.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook55.webp",
+                link: "https://link.amazon/B0g9BCh31"
             },
 
             {
                 name: "Glass Candle Lantern",
-                image: "/images/products/glass-lantern.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook56.webp",
+                link: "https://link.amazon/B0fEUC9u4"
             },
 
             {
-                name: "Wooden Candle Holder",
-                image: "/images/products/candle-holder.webp",
-                link: "#"
+                name: "Antique Style Table Lamp",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook53.webp",
+                link: "https://link.amazon/B04PGQFDk"
             },
 
             {
-                name: "LED Decorative Lantern",
-                image: "/images/products/led-lantern.webp",
-                link: "#"
-            }
+                name: "Natural Wood Floating Shelf",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook33.webp",
+                link: "https://link.amazon/B0if4hfbq"
+            },
 
         ]
 
@@ -749,7 +743,7 @@ export const livingRoomIdeas = [
 
         title: "Choose a Round Coffee Table",
 
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea19.webp",
+        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea17.webp",
 
         description:
             "A round coffee table creates a softer flow and makes your living room feel more welcoming. Its curved shape works beautifully in both modern and cozy interiors.",
@@ -764,26 +758,26 @@ export const livingRoomIdeas = [
 
             {
                 name: "Round Wooden Coffee Table",
-                image: "/images/products/round-table.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook57.webp",
+                link: "https://link.amazon/B0gldYZpi"
             },
 
             {
-                name: "Marble Round Coffee Table",
-                image: "/images/products/marble-table.webp",
-                link: "#"
+                name: "Minimal Book Collection",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
+                link: "https://link.amazon/B0gE9SfZX"
             },
 
             {
                 name: "Minimal Table Decor Tray",
-                image: "/images/products/table-tray.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook59.webp",
+                link: "https://link.amazon/B02BulzxI"
             },
 
             {
                 name: "Modern Vase Centerpiece",
-                image: "/images/products/table-vase.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook58.webp",
+                link: "https://link.amazon/B09UGS4cE"
             }
 
         ]
@@ -795,7 +789,7 @@ export const livingRoomIdeas = [
 
         title: "Add a Large Statement Mirror",
 
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea21.webp",
+        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea18.webp",
 
         description:
             "A large mirror can make your living room look brighter, bigger and more elegant. Statement mirrors also work as beautiful wall decor pieces.",
@@ -810,26 +804,26 @@ export const livingRoomIdeas = [
 
             {
                 name: "Large Round Wall Mirror",
-                image: "/images/products/round-mirror.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook60.webp",
+                link: "https://link.amazon/B00iWWGdy"
             },
 
             {
-                name: "Gold Frame Statement Mirror",
-                image: "/images/products/gold-mirror.webp",
-                link: "#"
+                name: "Round Wooden Coffee Table",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook57.webp",
+                link: "https://link.amazon/B0gldYZpi"
             },
 
             {
-                name: "Modern Black Frame Mirror",
-                image: "/images/products/black-mirror.webp",
-                link: "#"
+                name: "Minimal Book Collection",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
+                link: "https://link.amazon/B0gE9SfZX"
             },
 
             {
-                name: "Decorative Wall Mirror",
-                image: "/images/products/decor-mirror.webp",
-                link: "#"
+                name: "Modern Vase Centerpiece",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook58.webp",
+                link: "https://link.amazon/B09UGS4cE"
             }
 
         ]
@@ -841,7 +835,7 @@ export const livingRoomIdeas = [
 
         title: "Create a Functional Family Space",
 
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea23.webp",
+        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea19.webp",
 
         description:
             "Design a living room that feels beautiful while supporting everyday family activities. Combine comfort, storage and practical furniture choices.",
@@ -855,28 +849,22 @@ export const livingRoomIdeas = [
         shopLook: [
 
             {
-                name: "Family Sectional Sofa",
-                image: "/images/products/sectional-sofa.webp",
-                link: "#"
+                name: "Modern Comfortable Sofa",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook37.webp",
+                link: "https://link.amazon/B0fGRHMtZ"
             },
 
             {
                 name: "Storage Ottoman",
-                image: "/images/products/storage-ottoman.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook62.webp",
+                link: "https://link.amazon/B01vA2viE"
             },
 
             {
-                name: "Soft Play Rug",
-                image: "/images/products/play-rug.webp",
-                link: "#"
+                name: "Wooden console Coffee Table",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook61.webp",
+                link: "https://link.amazon/B0b8hxOL6"
             },
-
-            {
-                name: "Multi Purpose Basket",
-                image: "/images/products/multi-basket.webp",
-                link: "#"
-            }
 
         ]
 
@@ -889,7 +877,7 @@ export const livingRoomIdeas = [
 
         title: "Add Seasonal Decor for Extra Warmth",
 
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea24.webp",
+        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea20.webp",
 
         description:
             "Refreshing your living room with seasonal decorations keeps the space feeling new and inviting. Small changes can create a completely different atmosphere.",
@@ -903,27 +891,27 @@ export const livingRoomIdeas = [
         shopLook: [
 
             {
-                name: "Seasonal Decorative Pillow",
-                image: "/images/products/season-pillow.webp",
-                link: "#"
+                name: "Luxury Velvet Cushion Set",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook38.webp",
+                link: "https://link.amazon/B0iuwiM0w"
             },
 
             {
-                name: "Seasonal Wreath Decor",
-                image: "/images/products/wreath.webp",
-                link: "#"
+                name: "Wooden console Coffee Table",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook61.webp",
+                link: "https://link.amazon/B0b8hxOL6"
             },
 
             {
                 name: "Decorative Seasonal Vase",
-                image: "/images/products/season-vase.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook63.webp",
+                link: "https://link.amazon/B04o94w84"
             },
 
             {
                 name: "Cozy Seasonal Blanket",
-                image: "/images/products/season-blanket.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook64.webp",
+                link: "https://link.amazon/B08QkdIjC"
             }
 
         ]
@@ -937,7 +925,7 @@ export const livingRoomIdeas = [
 
         title: "Finish with Personal Decorative Touches",
 
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea25.webp",
+        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea21.webp",
 
         description:
             "The final details make your living room truly yours. Add personal memories, artwork and meaningful objects to create a space that feels unique and comfortable.",
@@ -952,27 +940,27 @@ export const livingRoomIdeas = [
 
             {
                 name: "Custom Photo Frame Set",
-                image: "/images/products/photo-frame.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook65.webp",
+                link: "https://link.amazon/B0dbWnZi5"
             },
 
             {
                 name: "Handmade Ceramic Decor",
-                image: "/images/products/handmade-decor.webp",
-                link: "#"
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook66.webp",
+                link: "https://link.amazon/B05aXVP1i"
             },
 
             {
-                name: "Personalized Wall Art",
-                image: "/images/products/custom-art.webp",
-                link: "#"
+                name: "Antique Style Table Lamp",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook53.webp",
+                link: "https://link.amazon/B04PGQFDk"
             },
 
             {
-                name: "Decorative Memory Box",
-                image: "/images/products/memory-box.webp",
-                link: "#"
-            }
+                name: "Natural Wood Floating Shelf",
+                image: "/images/blog/article/25-cozy-living-room-ideas/shoplook33.webp",
+                link: "https://link.amazon/B0if4hfbq"
+            },
 
         ]
 
