@@ -13,18 +13,18 @@ const RelatedArticles = ({ articles }) => {
                         Related Articles
                     </h2>
                 </div>
-                <div className="grid md:grid-cols-3 gap-8">
+                <div className="flex flex-col gap-8">
                     { articles.slice(0, 3).map((article) => (
                             <Link
                                 href={`/articles/${article.slug}`}
                                 key={article.id}
-                                className="group p-5 border rounded-2xl hover:shadow-lg transition duration-300">
+                                className="group p-5  hover:shadow-lg transition duration-300">
                                 <article>
                                     <div className="overflow-hidden rounded-3xl">
                                         <img
                                             src={article.image}
                                             alt={article.title}
-                                            className="w-full h-64 object-covergroup-hover:scale-105transitionduration-500"/>
+                                            className="w-full h-full object-contain group-hover:scale-105 transition duration-500"/>
                                     </div>
                                     <p className="mt-5 text-sm text-gray-500 ">
                                         {article.category}

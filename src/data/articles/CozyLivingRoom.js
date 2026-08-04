@@ -1012,37 +1012,22 @@ export const livingRoomMistakes = [
 ];
 
 export const relatedArticles = [
+    
     {
-        id: 1,
-        title: "30 Modern Living Room Design Ideas",
-        category: "Living Room",
-        image: "/images/articles/modern-living-room.webp",
-        link: "/articles/modern-living-room-design"
+    id: 1,
+    title: "Warm Home Decor Ideas For Every Season",
+    category: "Home Decor",
+    image: "/images/blog/article/warm-home-decor/home-decor.webp",
+    link: "/articles/warm-home-decor"
     },
 
     {
         id: 2,
-        title: "25 Small Living Room Ideas That Feel Bigger",
-        category: "Living Room",
-        image: "/images/articles/small-living-room.webp",
-        link: "/articles/small-living-room-ideas"
-    },
-
-    {
-        id: 3,
         title: "Beautiful Bedroom Decor Ideas For A Cozy Home",
         category: "Bedroom",
-        image: "/images/articles/cozy-bedroom.webp",
+        image: "/images/blog/article/bedroom/bedroom-decor.webp",
         link: "/articles/cozy-bedroom-ideas"
     },
-
-    {
-        id: 4,
-        title: "Warm Home Decor Ideas For Every Season",
-        category: "Home Decor",
-        image: "/images/articles/home-decor.webp",
-        link: "/articles/warm-home-decor"
-    }
 ];
 
 const article = {

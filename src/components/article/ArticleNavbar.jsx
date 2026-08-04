@@ -13,11 +13,11 @@ export default function ArticleNavbar({
 
             <header className="sticky top-0 z-50 border-b border-stone-200/70 bg-[#FAF7F2]/80 backdrop-blur-xl">
 
-                <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6">
+                <div className="mx-auto flex max-sm:flex-col max-sm:h-[170px] max-sm:gap-5 max-sm:py-5 h-20 max-w-7xl items-center justify-between px-6">
 
                     {/* Logo */}
 
-                    <Link href="/" className="flex items-center gap-3">
+                    <Link href="/" className="flex  items-center gap-3">
                         <div className="flex h-11 w-11 items-center justify-center rounded-full bg-[#D8A06B] text-white shadow">
                             <House size={20} />
                         </div>
