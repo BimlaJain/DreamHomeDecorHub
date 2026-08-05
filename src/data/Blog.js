@@ -28,9 +28,9 @@ export const articles = [
     {
         image: "/images/blog/inspiration2.webp",
         category: "Bedroom",
-        title: "8 Cozy Bedroom Shelf Styling Tips",
+        title: "25 Cozy Bedroom Shelf Styling Tips",
         readTime: "4 min read",
-        slug: "bedroom-floating-shelf-ideas",
+        slug: "25-cozy-bedroom-decor-ideas",
     },
     {
         image: "/images/blog/inspiration3.webp",

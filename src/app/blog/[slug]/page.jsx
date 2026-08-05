@@ -1,6 +1,56 @@
 import { notFound } from "next/navigation";
 
 import articles from "@/data/articles/Index";
+export async function generateMetadata({ params }) {
+    const { slug } = await params;
+    const article = articles.find((item) => item.slug === slug);
+
+    if (!article) {
+        return {
+            title: "Article Not Found | Dream Home Decor Hub",
+        };
+    }
+
+    return {
+        title: article.title,
+        description: article.description,
+
+        keywords: article.keywords || [
+            "home decor",
+            "bedroom decor",
+            "living room decor",
+            "interior design",
+            "home styling",
+            "Pinterest home decor",
+        ],
+
+        alternates: {
+            canonical: `https://dream-home-decor-hub.vercel.app/blog/${article.slug}`,
+        },
+
+        openGraph: {
+            title: article.title,
+            description: article.description,
+            url: `https://dream-home-decor-hub.vercel.app/blog/${article.slug}`,
+            siteName: "Dream Home Decor Hub",
+            images: [
+                {
+                    url: article.image,
+                    width: 1200,
+                    height: 630,
+                },
+            ],
+            type: "article",
+        },
+
+        twitter: {
+            card: "summary_large_image",
+            title: article.title,
+            description: article.description,
+            images: [article.image],
+        },
+    };
+}
 
 import ArticleNavbar from "@/components/article/ArticleNavbar";
 import ArticleHero from "@/components/article/ArticleHero";
@@ -12,33 +62,48 @@ import BrandBanner from "@/components/article/BrandBanner";
 import PinterestCTA from "@/components/article/PinterestCTA";
 import Footer from "@/components/home-page/Footer";
 
-
 export default async function Page({ params }) {
 
-
     const { slug } = await params;
-
-
     const article = articles.find(
         (item) => item.slug === slug
     );
-
-
     if (!article) {
         notFound();
     }
-
-
     return (
-
-        <>
-
+    <>
+          <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Article",
+                headline: article.title,
+                description: article.description,
+                image: article.image,
+                author: {
+                    "@type": "Organization",
+                    name: "Dream Home Decor Hub",
+                },
+                publisher: {
+                    "@type": "Organization",
+                    name: "Dream Home Decor Hub",
+                },
+                datePublished: article.updated,
+                dateModified: article.updated,
+                mainEntityOfPage: {
+                    "@type": "WebPage",
+                    "@id": `https://dream-home-decor-hub.vercel.app/blog/${article.slug}`,
+                },
+            }),
+        }}
+    />
+      
             <ArticleNavbar
                 category={article.category}
                 title={article.title}
             />
-
-
             <ArticleHero
                 category={article.category}
                 title={article.title}
@@ -47,33 +112,22 @@ export default async function Page({ params }) {
                 readTime={article.readTime}
                 image={article.image}
             />
-
-
-
             <TableOfContents
                 items={article.tableOfContents}
                 totalIdeas={article.totalIdeas}
                 totalProducts={article.totalProducts}
             />
 
-
-
             {
                 article.ideas?.length > 0 && (
-
                     article.ideas.map((idea) => (
-
                         <IdeaCard
                             key={idea.id}
                             idea={idea}
                         />
-
                     ))
-
                 )
             }
-
-
 
             {
                 article.mistakes?.length > 0 && (
@@ -85,8 +139,6 @@ export default async function Page({ params }) {
                 )
             }
 
-
-
             {
                 article.relatedArticles?.length > 0 && (
 
@@ -97,19 +149,9 @@ export default async function Page({ params }) {
                 )
             }
 
-
-
             <BrandBanner />
-
-
             <PinterestCTA />
-
-
             <Footer />
-
-
         </>
-
     );
-
 }

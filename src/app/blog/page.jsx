@@ -11,9 +11,13 @@ import HeroSection from "@/components/blog/HeroSection";
 import LatestInspiration from "@/components/blog/LatestInspiration";
 import ShopTheLook from "@/components/blog/ShopTheLook";
 
+
 export default function BlogPage() {
+    
     return (
+        
         <>
+            
             <BlogNavbar />
             <CategoryBar />
             <HeroSection />

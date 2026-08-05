@@ -11,6 +11,24 @@ const playfair = Playfair_Display({
   subsets: ["latin"],
   variable: "--font-playfair",
 });
+export const metadata = {
+  metadataBase: new URL("https://dream-home-decor-hub.vercel.app"),
+
+  title: {
+    default: "Dream Home Decor Hub",
+    template: "%s | Dream Home Decor Hub",
+  },
+
+  description:
+    "Find cozy home decor ideas, bedroom inspiration, living room styling, and modern decorating tips.",
+
+  keywords: [
+    "home decor",
+    "bedroom decor",
+    "living room decor",
+    "interior design",
+  ],
+};
 
 export default function RootLayout({ children }) {
   return (
