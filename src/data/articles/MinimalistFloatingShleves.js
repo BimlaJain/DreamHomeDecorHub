@@ -18,8 +18,7 @@ const minimalistFloatingShelves = {
         "Discover beautiful minimalist floating shelf ideas to create a modern, organized and stylish living room with simple decor touches.",
 
 
-    updated:
-        "August 2026",
+    updated: "2026-08-05",
 
 
     totalIdeas: 15,

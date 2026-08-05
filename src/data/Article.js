@@ -9,7 +9,7 @@ export const articles = [
         description:
             "Decorate your floating shelves beautifully with plants, books, candles and modern accessories.",
 
-        updated: "July 2026",
+        updated: "2026-08-05",
 
         readTime: "9 min read",
 
@@ -26,7 +26,7 @@ export const articles = [
         description:
             "Discover warm and inviting living room ideas featuring timeless furniture, layered textures, and cozy styling inspiration.",
 
-        updated: "July 2026",
+        updated: "2026-08-05",
 
         readTime: "12 min read",
 

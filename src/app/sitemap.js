@@ -6,14 +6,16 @@ export default function sitemap() {
     return [
         {
             url: baseUrl,
-            lastModified: new Date(),
+            lastModified: new Date().toISOString(),
             changeFrequency: "daily",
             priority: 1,
         },
 
         ...articles.map((article) => ({
             url: `${baseUrl}/blog/${article.slug}`,
-            lastModified: article.updated || new Date(),
+            lastModified: article.updated
+                ? new Date(article.updated).toISOString()
+                : new Date().toISOString(),
             changeFrequency: "weekly",
             priority: 0.8,
         })),
