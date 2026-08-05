@@ -110,36 +110,46 @@ export default async function Page({ params }) {
     if (!article) {
         notFound();
     }
+    const articleSchema = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+
+        headline: article.title,
+
+        description: Array.isArray(article.description)
+            ? article.description.join(" ")
+            : article.description,
+
+        image: [
+            `https://dream-home-decor-hub.vercel.app${article.image}`,
+        ],
+
+        author: {
+            "@type": "Organization",
+            name: article.author || "Dream Home Decor Hub",
+        },
+
+        publisher: {
+            "@type": "Organization",
+            name: "Dream Home Decor Hub",
+            logo: {
+                "@type": "ImageObject",
+                url: "https://dream-home-decor-hub.vercel.app/favicon.ico",
+            },
+        },
+
+        datePublished: "2026-08-05",
+
+        dateModified: "2026-08-05",
+
+        mainEntityOfPage: {
+            "@type": "WebPage",
+            "@id": `https://dream-home-decor-hub.vercel.app/blog/${article.slug}`,
+        },
+    };
     return (
     <>
-          <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-                "@context": "https://schema.org",
-                "@type": "Article",
-                headline: article.title,
-                description: article.description,
-                image: article.image,
-                author: {
-                    "@type": "Organization",
-                    name: "Dream Home Decor Hub",
-                },
-                publisher: {
-                    "@type": "Organization",
-                    name: "Dream Home Decor Hub",
-                },
-                datePublished: article.updated,
-                dateModified: article.updated,
-                mainEntityOfPage: {
-                    "@type": "WebPage",
-                    "@id": `https://dream-home-decor-hub.vercel.app/blog/${article.slug}`,
-                },
-            }),
-        }}
-            />
-            <Script
-                id="article-schema"
+            <script
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{
                     __html: JSON.stringify(articleSchema),
