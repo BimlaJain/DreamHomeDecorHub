@@ -1,3 +1,4 @@
+import Script from "next/script";
 import { notFound } from "next/navigation";
 
 import articles from "@/data/articles/Index";
@@ -6,12 +7,50 @@ export async function generateMetadata({ params }) {
     const article = articles.find((item) => item.slug === slug);
 
     if (!article) {
+        const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+
+    headline: article.title,
+
+    description: Array.isArray(article.description)
+        ? article.description.join(" ")
+        : article.description,
+
+    image: [
+        `https://dream-home-decor-hub.vercel.app${article.image}`,
+    ],
+
+    author: {
+        "@type": "Organization",
+        name: article.author,
+    },
+
+    publisher: {
+        "@type": "Organization",
+        name: "Dream Home Decor Hub",
+        logo: {
+            "@type": "ImageObject",
+            url: "https://dream-home-decor-hub.vercel.app/favicon.ico",
+        },
+    },
+
+    mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": `https://dream-home-decor-hub.vercel.app/blog/${article.slug}`,
+    },
+
+    datePublished: "2026-08-05",
+
+    dateModified: "2026-08-05",
+};
         return {
             title: "Article Not Found | Dream Home Decor Hub",
         };
     }
 
     return {
+        
         title: article.title,
         description: article.description,
 
@@ -98,7 +137,14 @@ export default async function Page({ params }) {
                 },
             }),
         }}
-    />
+            />
+            <Script
+                id="article-schema"
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{
+                    __html: JSON.stringify(articleSchema),
+                }}
+            />
       
             <ArticleNavbar
                 category={article.category}
