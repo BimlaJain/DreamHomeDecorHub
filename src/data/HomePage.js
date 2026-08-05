@@ -64,7 +64,7 @@ export const posts = [
         title: "Modern Bedroom Ideas You'll Love",
         category: "Bedroom",
         image: "/images/home-page/bedroom.webp",
-        href: "/blog/modern-bedroom-ideas",
+        href: "blog/25-cozy-bedroom-decor-ideas",
     },
     {
         title: "Beautiful Kitchen Decor Trends",
@@ -169,7 +169,7 @@ export const products = [
         title: "Floating Oak Shelf",
         category: "Wall Decor",
         image: "/images/home-page/shelf.webp",
-        href: "/products/floating-oak-shelf",
+        href: "/blog/minimalist-floating-shelf-ideas",
         description: "Perfect for displaying books, plants and decor pieces.",
     },
     {

@@ -37,7 +37,7 @@ export default function TableOfContents({
 
                         <p className="mt-4 max-w-3xl text-lg leading-8 text-stone-600">
                             Everything you need to create a warm, beautiful and
-                            Pinterest-worthy living room—from decorating ideas to
+                            Pinterest-worthy Home—from decorating ideas to
                             shoppable furniture recommendations.
                         </p>
 

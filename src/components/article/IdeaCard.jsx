@@ -15,10 +15,11 @@ const IdeaCard = ({ idea }) => {
                         alt={idea.title}
                         width={700}
                         height={400}
-                        className="rounded-3xl mt-8 w-full max-w-3xl" />
+                        className="rounded-3xl mt-8 w-full" />
                     <p className="mt-6 text-lg text-gray-600">
                         {idea.description}
                     </p>
+                    <div className="font-bold text-2xl pt-4">Pro Tip :-</div>
                     <ul className="mt-6 space-y-3">
                         {
                             idea.tips.map((tip, index) => (

@@ -1018,15 +1018,15 @@ export const relatedArticles = [
     title: "Warm Home Decor Ideas For Every Season",
     category: "Home Decor",
     image: "/images/blog/article/warm-home-decor/home-decor.webp",
-    link: "/articles/warm-home-decor"
+    link: "/blog/warm-home-decor"
     },
 
     {
         id: 2,
-        title: "Beautiful Bedroom Decor Ideas For A Cozy Home",
+        title: "25 Bedroom Decor Ideas For A Cozy Home",
         category: "Bedroom",
         image: "/images/blog/article/bedroom/bedroom-decor.webp",
-        link: "/articles/cozy-bedroom-ideas"
+        link: "/blog/25-cozy-bedroom-ideas"
     },
 ];
 
