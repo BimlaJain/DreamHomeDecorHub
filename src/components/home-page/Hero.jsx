@@ -31,7 +31,7 @@ export default function Hero() {
                         </Link>
 
                         <Link
-                            href="/latest"
+                            href="/latest-articles"
                             className="rounded-full border border-stone-300 bg-white px-8 py-4 font-semibold text-stone-900 transition hover:border-black"
                         >
                             Latest Articles

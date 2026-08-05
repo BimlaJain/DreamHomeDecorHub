@@ -53,7 +53,7 @@ export default function Header() {
                     <Link
                         href="https://in.pinterest.com/DecorHomeDecorHub/"
                         target="_blank"
-                        className="mt-3 flex w-full items-center justify-center gap-2 rounded-3xl bg-[#365947] py-3 px-4 font-medium text-white transition hover:bg-[#294437]"
+                        className="mt-3 flex w-full items-center justify-center gap-2 rounded-3xl bg-black py-3 px-4 font-medium text-white transition hover:scale-110"
                     >
                         <PinIcon size={16} />
                         Pinterest
