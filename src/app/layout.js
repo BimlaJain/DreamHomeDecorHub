@@ -18,7 +18,9 @@ export const metadata = {
     default: "Dream Home Decor Hub",
     template: "%s | Dream Home Decor Hub",
   },
-
+  verification: {
+    google: "FOJGUb-TrxE78ZYvdJNUnYi8OqKm3aMTgEU4RHBKU6I",
+  },
   description:
     "Find cozy home decor ideas, bedroom inspiration, living room styling, and modern decorating tips.",
 
