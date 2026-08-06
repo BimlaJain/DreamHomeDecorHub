@@ -11,7 +11,7 @@ const kitchenDecorIdeas = {
     readTime: "9 min read",
 
     image:
-        "/images/blog/article/18-Kitchen-decor-ideas/kitchen-hero-image.webp",
+        "/images/blog/article/18-Kitchen-decor-ideas/kitchen1.webp",
 
 
     description:

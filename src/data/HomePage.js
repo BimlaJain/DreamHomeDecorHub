@@ -70,7 +70,7 @@ export const posts = [
         title: "Beautiful Kitchen Decor Trends",
         category: "Kitchen",
         image: "/images/home-page/kitchen.webp",
-        href: "/blog/kitchen-decor",
+        href: "/blog/18-kitchen-decor-ideas",
     },
     {
         title: "Luxury Bathroom Inspiration",

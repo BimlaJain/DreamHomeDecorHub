@@ -44,7 +44,7 @@ export default function LatestArticlesPage() {
                                 alt={article.title}
                                 width={700}
                                 height={500}
-                                className="w-full h-72 object-cover"
+                                className="w-full object-cover"
                             />
 
                             <div className="p-6">

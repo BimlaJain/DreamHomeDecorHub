@@ -81,7 +81,7 @@ export default function ArticleHero({
                             alt={title}
                             fill
                             priority
-                            className="object-cover"
+                            className="object-cover h-full"
                         />
 
                     </div>

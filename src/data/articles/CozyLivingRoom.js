@@ -1045,7 +1045,7 @@ const article = {
 
     readTime: "12 min read",
 
-    image: "/images/blog/article/25-cozy-living-room-ideas/living-room-hero.webp",
+    image: "/images/blog/article/25-cozy-living-room-ideas/living-room1.webp",
 
     totalIdeas: 21,
 

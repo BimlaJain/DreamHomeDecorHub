@@ -11,7 +11,7 @@ const cozyBedroomDecorIdeas = {
     readTime: "9 min read",
 
     image:
-        "/images/blog/article/bedroom/bedroom-hero-image.webp",
+        "/images/blog/article/bedroom/bedroom1.webp",
 
 
     description:

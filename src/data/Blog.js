@@ -21,23 +21,23 @@ export const articles = [
     {
         image: "/images/blog/inspiration1.webp",
         category: "Living Room",
-        title: "15 Minimalist Floating Shelf Ideas",
-        readTime: "5 min read",
-        slug: "minimalist-floating-shelf-ideas",
+        title: "Cozy Living Room Ideas You'll Love in 2026",
+        readTime: "10 min read",
+        slug: "21-cozy-living-room-ideas",
     },
     {
         image: "/images/blog/inspiration2.webp",
         category: "Bedroom",
-        title: "25 Cozy Bedroom Shelf Styling Tips",
+        title: "25 Cozy Bedroom Styling Tips",
         readTime: "4 min read",
         slug: "25-cozy-bedroom-decor-ideas",
     },
     {
         image: "/images/blog/inspiration3.webp",
         category: "Kitchen",
-        title: "Modern Kitchen Floating Shelf Inspiration",
+        title: "Modern Kitchen Decor Inspiration",
         readTime: "6 min read",
-        slug: "kitchen-floating-shelf-inspiration",
+        slug: "18-kitchen-decor-ideas",
     },
 ];
 
