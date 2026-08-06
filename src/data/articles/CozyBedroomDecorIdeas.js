@@ -23,7 +23,7 @@ const cozyBedroomDecorIdeas = {
     updated: "2026-08-05",
 
 
-    totalIdeas: 15,
+    totalIdeas: 25,
 
 
     totalProducts: 45,

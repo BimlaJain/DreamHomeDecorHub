@@ -1047,7 +1047,7 @@ const article = {
 
     image: "/images/blog/article/25-cozy-living-room-ideas/living-room-hero.webp",
 
-    totalIdeas: 25,
+    totalIdeas: 21,
 
     totalProducts: 125,
     author: "Dream Home Decor Hub",

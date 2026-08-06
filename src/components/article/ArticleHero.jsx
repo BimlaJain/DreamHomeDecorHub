@@ -74,7 +74,7 @@ export default function ArticleHero({
             {image && (
                 <div className="mx-auto mt-14 max-w-7xl px-6">
 
-                    <div className="relative aspect-[16/9] overflow-hidden rounded-[36px] shadow-2xl">
+                    <div className="relative aspect-[2/3] overflow-hidden rounded-[36px] shadow-2xl">
 
                         <Image
                             src={image}
