@@ -2,6 +2,7 @@ import articles from "@/data/articles/Index";
 import Link from "next/link";
 import Image from "next/image";
 import Header from "@/components/home-page/Header";
+import Footer from "@/components/home-page/Footer";
 
 export const metadata = {
     title: "Latest Home Decor Articles",
@@ -16,7 +17,7 @@ export default function LatestArticlesPage() {
         .slice(0, 6);
 
     return (
-        <main className="">
+        <main>
             <Header />
             <div className="container mx-auto">
 
@@ -28,7 +29,7 @@ export default function LatestArticlesPage() {
                 Explore our newest home decor inspiration.
             </p>
 
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mt-14">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 my-14">
 
                 {latestArticles.map((article) => (
 
@@ -75,6 +76,7 @@ export default function LatestArticlesPage() {
 
                 </div>
             </div>
+            <Footer/>
 
         </main>
     );
