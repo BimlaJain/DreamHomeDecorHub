@@ -646,7 +646,6 @@ const bathroomDecorIdeas = {
                     link: "https://link.amazon/B02KeVdjH"
                 },
             ]
-
         },
     ],
 
