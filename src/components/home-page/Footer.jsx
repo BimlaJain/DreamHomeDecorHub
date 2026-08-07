@@ -20,9 +20,10 @@ export default function Footer() {
 
                     <div>
 
-                        <h2 className="font-serif text-2xl font-bold">
-                            DreamHomeDecorHub
-                        </h2>
+                        <Link href="/">
+                            <h2 className="font-serif text-2xl font-bold">
+                                DreamHomeDecorHub
+                            </h2></Link>
 
 
                         <p className="mt-5 leading-7 text-white/60">
@@ -96,14 +97,8 @@ export default function Footer() {
                             </li>
 
                             <li>
-                                <Link href="/articles" className="hover:text-white transition text-white/60">
+                                <Link href="/latest-articles" className="hover:text-white transition text-white/60">
                                     Articles
-                                </Link>
-                            </li>
-
-                            <li>
-                                <Link href="/collections" className="hover:text-white transition text-white/60">
-                                    Collections
                                 </Link>
                             </li>
 
@@ -155,14 +150,19 @@ export default function Footer() {
                            </li>
 
                             <li>
-                                <Link href="/Terms & Conditions">Terms & Conditions</Link>
+                                <Link href="/terms-and-conditions">Terms & Conditions</Link>
                            </li>
 
 
                             <li>
-                                <Link href="/Affiliate Disclosure">Affiliate Disclosure</Link>
+                                <Link href="/affiliate-disclosure">Affiliate Disclosure</Link>
 
-                          </li>
+                            </li>
+
+                            <li>
+                                <Link href="/disclaimer-policy">Disclaimer Policy</Link>
+
+                            </li>
 
                         </ul>
 
@@ -202,6 +202,7 @@ export default function Footer() {
 
 
         </footer>
+        
 
     );
 }

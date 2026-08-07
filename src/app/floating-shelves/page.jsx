@@ -4,18 +4,18 @@ import DetailedReview from "@/components/floating-shelves/DetailedReview";
 import FAQ from "@/components/floating-shelves/FAQ";
 import Hero from "@/components/floating-shelves/Hero";
 import InstallationGuide from "@/components/floating-shelves/InstallationGuide";
-import Navbar from "@/components/floating-shelves/Navbar";
 import Newsletter from "@/components/floating-shelves/Newsletter";
 import Testimonials from "@/components/floating-shelves/Testimonials";
 import TopPicks from "@/components/floating-shelves/TopPics";
 import CTA from "@/components/floating-shelves/CTA";
-import Footer from "@/components/floating-shelves/Footer";
+import Footer from "@/components/home-page/Footer";
+import Header from "@/components/home-page/Header";
 
 export default function Home() {
   return (
     <>
-      <Navbar />
       <main>
+        <Header/>
         <Hero />
         <TopPicks />
         <DetailedReview />

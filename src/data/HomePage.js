@@ -1,4 +1,12 @@
-
+import {
+    Shield,
+    Lock,
+    Cookie,
+    Database,
+    User,
+    Mail,
+    ChevronRight,
+} from "lucide-react";
 export const navItems = [
     { title: "Home", href: "/" },
     { title: "Rooms", href: "/rooms" },
@@ -206,5 +214,53 @@ export const products = [
         image: "/images/home-page/blanket.webp",
         href: "/products/throw-blanket",
         description: "Comfortable neutral blanket for cozy spaces.",
+    },
+];
+
+export const sections = [
+    {
+        icon: <User size={28} />,
+        title: "Information We Collect",
+        content: [
+            "When you contact us through email or our contact form, we may collect your name, email address, and any information you voluntarily provide.",
+            "We also automatically collect non-personal information such as browser type, operating system, device information, pages visited, time spent on the website, referral source, and general location data to improve user experience.",
+        ],
+    },
+    {
+        icon: <Database size={28} />,
+        title: "How We Use Your Information",
+        content: [
+            "Improve our website experience and performance.",
+            "Respond to inquiries and support requests.",
+            "Create better home decor inspiration and articles.",
+            "Understand how visitors interact with our website.",
+            "Protect our website from spam and misuse.",
+        ],
+    },
+    {
+        icon: <Cookie size={28} />,
+        title: "Cookies",
+        content: [
+            "DreamHomeDecorHub uses cookies to enhance your browsing experience and remember your preferences.",
+            "Cookies also help us understand website performance, improve navigation, and support affiliate tracking.",
+            "You may disable cookies through your browser settings, although some features of the website may not function properly.",
+        ],
+    },
+    {
+        icon: <Shield size={28} />,
+        title: "Google Analytics",
+        content: [
+            "We may use Google Analytics to understand how visitors interact with DreamHomeDecorHub.",
+            "Analytics helps us understand which articles are most helpful, where visitors come from, and how we can improve our website.",
+            "Google Analytics collects anonymous information and does not personally identify individual visitors.",
+        ],
+    },
+    {
+        icon: <Lock size={28} />,
+        title: "Your Privacy Matters",
+        content: [
+            "We respect your privacy and never sell your personal information to third parties.",
+            "We only collect information necessary to operate and improve our website.",
+        ],
     },
 ];

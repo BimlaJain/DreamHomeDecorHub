@@ -7,10 +7,12 @@ import OurPromise from "@/components/home-page/OurPromise";
 import PopularCollections from "@/components/home-page/PopularCollections";
 import ShopTheLook from "@/components/home-page/ShopTheLook";
 import TrendingSection from "@/components/home-page/TrendingSection";
+import CookieBanner from "@/components/home-page/CookieBanner";
 
 export default function Home() {
   return (
     <>
+      <CookieBanner/>
       <Header />
       <Hero />
       <FeaturedCategories />
