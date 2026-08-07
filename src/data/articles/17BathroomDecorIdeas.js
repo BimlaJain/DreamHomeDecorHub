@@ -645,13 +645,10 @@ const bathroomDecorIdeas = {
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook7.webp",
                     link: "https://link.amazon/B02KeVdjH"
                 },
-
-
             ]
 
         },
     ],
-
 
 }
 export default bathroomDecorIdeas;
