@@ -97,15 +97,15 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Natural Jute Area Rug",
-                    image: "/images/blog/article/bedroom/shoplook1.webp",
-                    link: "https://link.amazon/B0ha93r8f"
+                    name: "Walnut study table",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook1.webp",
+                    link: "https://link.amazon/B0avpHI5T"
                 },
 
                 {
-                    name: "Woooden Bedside Table",
-                    image: "/images/blog/article/bedroom/shoplook2.webp",
-                    link: "https://link.amazon/B02azEcnN"
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B0huATXwM"
                 },
 
             ]
@@ -129,21 +129,26 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Bedside Table Lamp",
-                    image: "/images/blog/article/bedroom/shoplook4.webp",
-                    link: "https://link.amazon/B09NWd5cY"
+                    name: "Compact Wooden Desk",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook3.webp",
+                    link: "https://link.amazon/B0fBq1P4q"
                 },
 
                 {
-                    name: "Cream Throw Cotton Sheet",
-                    image: "/images/blog/article/bedroom/shoplook5.webp",
-                    link: "https://link.amazon/B08cbQEPp"
+                    name: "StudyTable lamp",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook4.webp",
+                    link: "https://link.amazon/B0gYEHFBs"
                 },
 
                 {
-                    name: "Cotton Pattern Cushion",
-                    image: "/images/blog/article/bedroom/shoplook3.webp",
-                    link: "https://link.amazon/B0iRUVHBT"
+                    name: "Desk mat",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook5.webp",
+                    link: "https://link.amazon/B06JfRrEt"
+                },
+                {
+                    name: "Ceramic vase",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook6.webp",
+                    link: "https://link.amazon/B09L9i4Et"
                 }
 
             ]
@@ -167,17 +172,27 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Paper Pendant Light for Bedroom",
-                    image: "/images/blog/article/bedroom/shoplook6.webp",
-                    link: "https://link.amazon/B08btOowG"
+                    name: "Laptop Holder Stand",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook7.webp",
+                    link: "https://link.amazon/B06m7i6WG"
                 },
 
                 {
-                    name: "Bedroom rug for under the bed",
-                    image: "/images/blog/article/bedroom/shoplook7.webp",
-                    link: "https://link.amazon/B00xgbrR5"
+                    name: "Stationery Organizer",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook8.webp",
+                    link: "https://link.amazon/B02Yji8kx"
                 },
 
+                {
+                    name: "Small plant pot",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook9.webp",
+                    link: "https://link.amazon/B04QvTvcL"
+                },
+                {
+                    name: "Floor lamp for reading",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook10.webp",
+                    link: "https://link.amazon/B01CfwwsS"
+                }
             ]
 
         },
@@ -199,16 +214,26 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Bedside light lamp",
-                    image: "/images/blog/article/bedroom/shoplook10.webp",
-                    link: "https://link.amazon/B089WbWiC"
+                    name: "Oak floating shelves",
+                    image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
+                    link: "https://link.amazon/B07gmlDsk"
                 },
 
                 {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook11.webp",
-                    link: "https://link.amazon/B06tLwdWr"
+                    name: "Warm LED Decorative Lights",
+                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook17.webp",
+                    link: "https://link.amazon/B0ef2Q1Zn"
                 },
+                {
+                    name: "Desk lamp for reading",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook11.webp",
+                    link: "https://link.amazon/B04oEJbFQ"
+                },
+                 {
+                    name: "Comfortable chair for desk",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook12.webp",
+                     link: "https://link.amazon/B03raW25x"
+                }
 
             ]
 
@@ -231,19 +256,14 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Bedside light lamp",
-                    image: "/images/blog/article/bedroom/shoplook10.webp",
-                    link: "https://link.amazon/B089WbWiC"
+                    name: "Desk mat",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook5.webp",
+                    link: "https://link.amazon/B06JfRrEt"
                 },
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
                     link: "https://link.amazon/B06oh3Pe9"
-                },
-                {
-                    name: "Simple scented candle ",
-                    image: "/images/blog/article/bedroom/shoplook13.webp",
-                    link: "https://link.amazon/B09UVzPkP"
                 },
 
             ]
@@ -267,20 +287,15 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook11.webp",
-                    link: "https://link.amazon/B06tLwdWr"
+                    name: "Wooden Shelves",
+                    image: "/images/blog/article/bedroom/shoplook21.webp",
+                    link: "https://link.amazon/B0dEYOPhi"
                 },
 
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
-                },
-                {
-                    name: "Simple scented candle ",
-                    image: "/images/blog/article/bedroom/shoplook13.webp",
-                    link: "https://link.amazon/B09UVzPkP"
+                    name: "Walnut study table",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook1.webp",
+                    link: "https://link.amazon/B0avpHI5T"
                 },
 
             ]
@@ -304,9 +319,9 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook16.webp",
-                    link: "https://link.amazon/B0iIKRtKF"
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B0huATXwM"
                 },
 
                 {
@@ -315,9 +330,9 @@ const homeOfficeIdeas = {
                     link: "https://link.amazon/B06BxANky"
                 },
                 {
-                    name: "Bedside table lamp",
-                    image: "/images/blog/article/bedroom/shoplook14.webp",
-                    link: "https://link.amazon/B08Q2SDyd"
+                    name: "Laptop Holder Stand",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook13.webp",
+                    link: "https://link.amazon/B0dU4K0aP"
                 },
 
             ]
@@ -341,20 +356,15 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Reading lamp",
-                    image: "/images/blog/article/bedroom/shoplook17.webp",
-                    link: "https://link.amazon/B02wYOTCi"
+                    name: "Compact Wooden Desk",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook3.webp",
+                    link: "https://link.amazon/B0fBq1P4q"
                 },
 
                 {
-                    name: "Comfortable Armchair ",
-                    image: "/images/blog/article/bedroom/shoplook18.webp",
-                    link: "https://link.amazon/B00T2ndDY"
-                },
-                {
-                    name: "Black round mirror",
-                    image: "/images/blog/article/bedroom/shoplook19.webp",
-                    link: "https://link.amazon/B06PCRWLA"
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook14.webp",
+                    link: "https://link.amazon/B0hUBR1Ks"
                 },
 
             ]
@@ -378,20 +388,14 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
-                },
-
-                {
-                    name: "Wooden Shelves",
-                    image: "/images/blog/article/bedroom/shoplook21.webp",
-                    link: "https://link.amazon/B0dEYOPhi"
+                    name: "Rug for under the desk",
+                    image: "/images/blog/article/bedroom/shoplook7.webp",
+                    link: "https://link.amazon/B00xgbrR5"
                 },
                 {
-                    name: "Artificial money plant",
-                    image: "/images/blog/article/bedroom/shoplook22.webp",
-                    link: "https://link.amazon/B0bGTEGHF"
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook14.webp",
+                    link: "https://link.amazon/B0hUBR1Ks"
                 },
             ]
 
@@ -413,29 +417,12 @@ const homeOfficeIdeas = {
 
             shopLook: [
 
-                {
-                    name: "White ottoman for leg relaxing",
-                    image: "/images/blog/article/bedroom/shoplook23.webp",
-                    link: "https://link.amazon/B0aM7Miml"
-                },
 
                 {
-                    name: "Comfortable armchair",
-                    image: "/images/blog/article/bedroom/shoplook24.webp",
-                    link: "https://link.amazon/B0gm02Qa8"
+                    name: "Abstract Wall art",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook15.webp",
+                    link: "https://link.amazon/B0hlbQTpM"
                 },
-
-                {
-                    name: "Wooden side table",
-                    image: "/images/blog/article/bedroom/shoplook25.webp",
-                    link: "https://link.amazon/B0aAZM0Of"
-                },
-
-                {
-                    name: "Adjustable reading lamp",
-                    image: "/images/blog/article/bedroom/shoplook26.webp",
-                    link: "https://link.amazon/B0j644FDG"
-                }
 
             ]
 
@@ -457,16 +444,20 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Big bed frame",
-                    image: "/images/blog/article/bedroom/shoplook8.webp",
-                    link: "https://link.amazon/B0h3qwZeW"
+                    name: "Woven storage basket",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook16.webp",
+                    link: "https://link.amazon/B0c6fU09p"
                 },
-
                 {
-                    name: "Wall light Lamp ",
-                    image: "/images/blog/article/bedroom/shoplook9.webp",
-                    link: "https://link.amazon/B0glrybke"
+                    name: "Ceramic vase",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook6.webp",
+                    link: "https://link.amazon/B09L9i4Et"
                 },
+                {
+                    name: "Floor lamp",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook17.webp",
+                    link: "https://link.amazon/B0fMjnsaf"
+                }
 
             ]
 
@@ -491,15 +482,20 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Linen Window Curtains",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook48.webp",
-                    link: "https://link.amazon/B0ebEGXWs"
+                    name: "Phonestand",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook18.webp",
+                    link: "https://link.amazon/B0fMjnsaf"
                 },
 
                 {
-                    name: "Velvet Luxury Curtains",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook49.webp",
-                    link: "https://link.amazon/B04mIgzUU"
+                    name: "Laptop Holder Stand",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook13.webp",
+                    link: "https://link.amazon/B0dU4K0aP"
+                },
+                {
+                    name: "Desk mat",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook5.webp",
+                    link: "https://link.amazon/B06JfRrEt"
                 },
 
             ]
@@ -524,32 +520,24 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Minimal Book Collection",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    name: "Electric kettle",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook19.webp",
+                    link: "https://link.amazon/B0cb5L4a6"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
-                },
-
-                {
-                    name: "Marble Decorative tray",
-                    image: "/images/blog/article/bedroom/shoplook27.webp",
-                    link: "https://link.amazon/B099wyie6"
+                    name: "Laptop Holder Stand",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook13.webp",
+                    link: "https://link.amazon/B0dU4K0aP"
                 },
                 {
-                    name: "Clock for table",
-                    image: "/images/blog/article/bedroom/shoplook28.webp",
-                    link: "https://link.amazon/B0fELykC1"
+                    name: "Desk mat",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook5.webp",
+                    link: "https://link.amazon/B06JfRrEt"
                 },
 
             ]
 
         },
-
-
 
         {
             id: 14,
@@ -568,15 +556,15 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Large Round Wall Mirror",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook60.webp",
-                    link: "https://link.amazon/B00iWWGdy"
+                    name: "Rug for under the desk",
+                    image: "/images/blog/article/bedroom/shoplook7.webp",
+                    link: "https://link.amazon/B00xgbrR5"
                 },
 
                 {
-                    name: "Soft white armchair",
-                    image: "/images/blog/article/bedroom/shoplook29.webp",
-                    link: "https://link.amazon/B09Wua1Ql"
+                    name: "StudyTable lamp",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook4.webp",
+                    link: "https://link.amazon/B0gYEHFBs"
                 },
 
 
@@ -600,21 +588,21 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook14.webp",
+                    link: "https://link.amazon/B0hUBR1Ks"
                 },
 
                 {
-                    name: "Bedroom rug for under the bed",
-                    image: "/images/blog/article/bedroom/shoplook7.webp",
-                    link: "https://link.amazon/B00xgbrR5"
+                    name: "Laptop Holder Stand",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook13.webp",
+                    link: "https://link.amazon/B0dU4K0aP"
                 },
 
                 {
-                    name: "Soft white armchair",
-                    image: "/images/blog/article/bedroom/shoplook30.webp",
-                    link: "https://link.amazon/B08LkrJau"
+                    name: "White desk",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook20.webp",
+                    link: "https://link.amazon/B0ereIE2R"
                 },
 
             ]
@@ -640,19 +628,20 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    name: "Walnut study table",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook1.webp",
+                    link: "https://link.amazon/B0avpHI5T"
+                },
+
+                {
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B0huATXwM"
                 },
                 {
-                    name: "neutral blanket",
-                    image: "/images/blog/article/bedroom/shoplook31.webp",
-                    link: "https://link.amazon/B0hBflDxT"
-                },
-                {
-                    name: "jute basket",
-                    image: "/images/blog/article/bedroom/shoplook32.webp",
-                    link: "https://link.amazon/B08kyYjip"
+                    name: "Wooden Shelves",
+                    image: "/images/blog/article/bedroom/shoplook21.webp",
+                    link: "https://link.amazon/B0dEYOPhi"
                 },
 
 
@@ -677,20 +666,20 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
-                },
-                {
-                    name: "Minimal Book Collection",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    name: "Walnut study table",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook1.webp",
+                    link: "https://link.amazon/B0avpHI5T"
                 },
 
                 {
-                    name: "Scented diffuser set",
-                    image: "/images/blog/article/bedroom/shoplook33.webp",
-                    link: "https://link.amazon/B03eirtCs"
+                    name: "Black ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook21.webp",
+                    link: "https://link.amazon/B01DkpYJL"
+                },
+                {
+                    name: "Wooden Shelves",
+                    image: "/images/blog/article/bedroom/shoplook21.webp",
+                    link: "https://link.amazon/B0dEYOPhi"
                 },
 
 
@@ -716,22 +705,16 @@ const homeOfficeIdeas = {
 
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    name: "Foldable wall-mounted desk",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook22.webp",
+                    link: "https://link.amazon/B06CsRWVQ"
                 },
 
 
                 {
-                    name: "Boho style table lamp",
-                    image: "/images/blog/article/bedroom/shoplook34.webp",
-                    link: "https://link.amazon/B01JIerFn"
-                },
-
-                {
-                    name: "Macrame wall hanging",
-                    image: "/images/blog/article/bedroom/shoplook35.webp",
-                    link: "https://link.amazon/B0emVRUCY"
+                    name: "Wall lamp",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook23.webp",
+                    link: "https://link.amazon/B02sB0fCq"
                 },
 
             ]
@@ -754,23 +737,22 @@ const homeOfficeIdeas = {
 
             shopLook: [
                 {
-                    name: "white blanket for bed",
-                    image: "/images/blog/article/bedroom/shoplook36.webp",
-                    link: "https://link.amazon/B06ffIJmd"
-                },
-
-
-                {
-                    name: "Artificial plant for decor",
-                    image: "/images/blog/article/bedroom/shoplook37.webp",
-                    link: "https://link.amazon/B03qSMAyt"
+                    name: "Walnut study table",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook1.webp",
+                    link: "https://link.amazon/B0avpHI5T"
                 },
 
                 {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook38.webp",
-                    link: "https://link.amazon/B0dtuc5tQ"
+                    name: "Black ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook21.webp",
+                    link: "https://link.amazon/B01DkpYJL"
                 },
+
+                {
+                    name: "Ceramic vase",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook6.webp",
+                    link: "https://link.amazon/B09L9i4Et"
+                }
 
             ]
 
@@ -795,20 +777,16 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Wall lamp light",
-                    image: "/images/blog/article/bedroom/shoplook39.webp",
-                    link: "https://link.amazon/B0a2uP3tK"
-                },
-
-                {
                     name: "Wooden Shelves",
                     image: "/images/blog/article/bedroom/shoplook21.webp",
                     link: "https://link.amazon/B0dEYOPhi"
                 },
+
+
                 {
-                    name: "Artificial plant for decor",
-                    image: "/images/blog/article/bedroom/shoplook37.webp",
-                    link: "https://link.amazon/B03qSMAyt"
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B0huATXwM"
                 },
 
             ]
@@ -834,9 +812,9 @@ const homeOfficeIdeas = {
             shopLook: [
 
                 {
-                    name: "Bedside Lamp",
-                    image: "/images/blog/article/bedroom/shoplook40.webp",
-                    link: "https://link.amazon/B0dgJLPMy"
+                    name: "Comfortable ergonomic chair",
+                    image: "/images/blog/article/21-home-office-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B0huATXwM"
                 },
 
                 {
