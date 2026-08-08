@@ -67,9 +67,27 @@ export const articles = [
             [
                 "Turn your everyday bathroom into a calming personal retreat with these cozy spa-inspired bathroom ideas. From warm ambient lighting and soft towels to natural textures, soothing colors, stylish storage, and relaxing accessories, discover simple ways to create a beautiful bathroom that feels peaceful, comfortable, and luxurious—without needing a complete renovation."],
         updated: "2026-08-07",
-
-
     },
+    {
+        slug: "21-home-office-ideas-for-a-stylish-and-productive-workspace",
+
+        category: "Home Office",
+
+        title: "21 Cozy Home Office Ideas to Create a Productive and Beautiful Workspace",
+
+        readTime: "16 min read",
+
+        image:
+            "/images/blog/article/21-home-office-ideas/home-office-decor-hero.webp",
+
+
+        description:
+            [
+                "Transform your workspace into a place you actually enjoy spending time in with these 21 cozy home office ideas. From warm lighting and stylish desks to smart storage, calming colors, greenery, and thoughtful decor, discover simple ways to create a productive workspace that feels comfortable, organized, and beautifully yours—whether you have a dedicated room or a small corner at home."],
+
+
+        updated: "2026-08-08",
+},
 ];
 
 export const rooms = [
