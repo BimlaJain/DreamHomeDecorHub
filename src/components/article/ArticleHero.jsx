@@ -74,14 +74,15 @@ export default function ArticleHero({
             {image && (
                 <div className="mx-auto mt-14 max-w-7xl px-6">
 
-                    <div className="relative aspect-[2/3] overflow-hidden rounded-[36px] shadow-2xl">
+                    <div className="flex items-center justify-center">
 
                         <Image
                             src={image}
                             alt={title}
-                            fill
-                            priority
-                            className="object-cover h-full"
+                            width={600}
+                            height={500}
+                          
+                            className="object-fill h-full"
                         />
 
                     </div>

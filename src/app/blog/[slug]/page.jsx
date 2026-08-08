@@ -186,16 +186,6 @@ export default async function Page({ params }) {
             }
 
             {
-                article.mistakes?.length > 0 && (
-
-                    <CommonMistakes
-                        mistakes={article.mistakes}
-                    />
-
-                )
-            }
-
-            {
                 article.relatedArticles?.length > 0 && (
 
                     <RelatedArticles
