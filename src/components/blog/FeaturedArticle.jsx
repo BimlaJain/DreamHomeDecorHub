@@ -1,13 +1,18 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
+import { articles } from "@/data/Blog";
 
 export default function FeaturedArticle() {
+
+    // Latest article automatically select hoga
+    const latestArticle = [...articles].sort(
+        (a, b) => new Date(b.updated) - new Date(a.updated)
+    )[0];
+
     return (
-        <section
-            id="featured"
-            className="bg-white py-24"
-        >
+        <section className="py-20">
+
             <div className="mx-auto max-w-7xl px-6">
 
                 {/* Section Heading */}
@@ -25,63 +30,71 @@ export default function FeaturedArticle() {
 
                     </div>
 
-                    {/* <Link
-                        href="/blog"
-                        className="hidden text-stone-700 transition hover:text-black md:flex items-center gap-2"
-                    >
-                        View All
-                        <ArrowRight size={18} />
-                    </Link> */}
-
                 </div>
+
 
                 {/* Featured Card */}
                 <div className="grid overflow-hidden rounded-[36px] bg-[#F8F6F2] shadow-sm lg:grid-cols-2">
 
-                    {/* Image */}
 
-                    <div className="relative min-h-[500px]">
+                    {/* Image */}
+                    <div className="relative min-h-[500px] overflow-hidden">
 
                         <Image
-                            src="/images/blog/inspiration.webp"
-                            alt="Minimalist Floating Shelf Ideas"
+                            src={latestArticle.image}
+                            alt={latestArticle.title}
                             fill
-                            className="object-cover transition duration-700 hover:scale-105"
+                            priority
+                            className="object-contain transition duration-700 hover:scale-105"
                         />
 
                     </div>
 
-                    {/* Content */}
 
+                    {/* Content */}
                     <div className="flex flex-col justify-center p-10 md:p-16">
 
+
+                        {/* Category */}
                         <span className="w-fit rounded-full bg-white px-4 py-2 text-xs uppercase tracking-[0.25em] text-stone-600">
-                            Living Room
+                            {latestArticle.category}
                         </span>
 
+
+                        {/* Title */}
                         <h3 className="mt-8 text-4xl font-light font-serif leading-tight text-stone-900">
-                            15 Minimalist Floating Shelf Ideas
-                            for Modern Living Rooms
+                            {latestArticle.title}
                         </h3>
 
+
+                        {/* Description */}
                         <p className="mt-6 text-lg leading-8 text-stone-600">
-                            Discover elegant floating shelf styling ideas that transform
-                            your living room into a calm, modern space without making it
-                            feel cluttered.
+                            {latestArticle.description}
                         </p>
 
+
+                        {/* Meta */}
                         <div className="mt-8 flex items-center gap-6 text-sm text-stone-500">
 
-                            <span>5 min read</span>
+                            <span>
+                                {latestArticle.readTime}
+                            </span>
 
                             <span>•</span>
 
-                            <span>July 2026</span>
+                            <span>
+                                {new Date(latestArticle.updated).toLocaleDateString("en-US", {
+                                    month: "long",
+                                    year: "numeric",
+                                })}
+                            </span>
 
                         </div>
 
+
+                        {/* Button */}
                         <Link
-                            href="/blog/minimalist-floating-shelf-ideas"
+                            href={`/blog/${latestArticle.slug}`}
                             className="mt-12 inline-flex w-fit items-center gap-3 rounded-full bg-stone-900 px-7 py-4 text-white transition hover:bg-black"
                         >
                             Read Article
@@ -95,6 +108,7 @@ export default function FeaturedArticle() {
                 </div>
 
             </div>
+
         </section>
     );
 }

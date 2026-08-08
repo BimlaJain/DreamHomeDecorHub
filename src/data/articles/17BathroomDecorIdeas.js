@@ -4,7 +4,7 @@ const bathroomDecorIdeas = {
 
     slug: "17-bathroom-decor-ideas",
 
-    category: "Kitchen",
+    category: "Bathroom",
 
     title: "17 Modern Cozy Bathroom Ideas for a Relaxing Spa-Like Feel at Home",
 

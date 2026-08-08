@@ -20,22 +20,22 @@ export const navItems = [
 export const categories = [
     {
         title: "Living Room",
-        href: "/living-room",
+        href: "/blog/21-cozy-living-room-ideas",
         image: "/images/home-page/living-room.webp",
     },
     {
         title: "Bedroom",
-        href: "/bedroom",
+        href: "/blog/25-cozy-bedroom-decor-ideas",
         image: "/images/home-page/bedroom.webp",
     },
     {
         title: "Kitchen",
-        href: "/kitchen",
+        href: "/blog/18-kitchen-decor-ideas",
         image: "/images/home-page/kitchen.webp",
     },
     {
         title: "Bathroom",
-        href: "/bathroom",
+        href: "/blog/17-bathroom-decor-ideas",
         image: "/images/home-page/bathroom.webp",
     },
     {

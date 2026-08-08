@@ -9,20 +9,16 @@ export default function HeroContent() {
             </span>
 
             <h1 className="mt-8 text-5xl font-light leading-tight text-stone-900 md:text-7xl font-serif">
-                Minimalist
-                <br />
-                Floating Shelf
-                <br />
-                Inspiration
+                Beautiful Ideas for the Home You Love
+               
             </h1>
 
             <p className="mt-8 max-w-xl text-lg leading-8 text-stone-600">
-                Discover beautifully styled floating shelves, practical styling tips,
-                and room-by-room inspiration to create calm, timeless interiors.
+                Explore inspiring decor ideas, practical tips, stylish makeovers, and simple ways to make every corner of your home feel beautiful, comfortable, and uniquely yours.
             </p>
 
             <Link
-                href="#featured"
+                href="/latest-articles"
                 className="mt-10 inline-flex rounded-full bg-stone-900 px-8 py-4 text-white transition hover:bg-black"
             >
                 Explore Inspiration →
