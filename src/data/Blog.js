@@ -73,20 +73,21 @@ export const articles = [
 
         category: "Home Office",
 
-        title: "21 Cozy Home Office Ideas to Create a Productive and Beautiful Workspace",
+   
+    title: "21 Cozy Home Office Ideas to Create a Productive and Beautiful Workspace",
 
-        readTime: "16 min read",
+    readTime: "16 min read",
 
-        image:
-            "/images/blog/article/21-home-office-ideas/home-office-decor-hero.webp",
-
-
-        description:
-            [
-                "Transform your workspace into a place you actually enjoy spending time in with these 21 cozy home office ideas. From warm lighting and stylish desks to smart storage, calming colors, greenery, and thoughtful decor, discover simple ways to create a productive workspace that feels comfortable, organized, and beautifully yours—whether you have a dedicated room or a small corner at home."],
+    image:
+    "/images/blog/article/21-home-office-ideas/home-office-decor-hero.webp",
 
 
-        updated: "2026-08-08",
+    description:
+    [
+        "Transform your workspace into a place you actually enjoy spending time in with these 21 cozy home office ideas. From warm lighting and stylish desks to smart storage, calming colors, greenery, and thoughtful decor, discover simple ways to create a productive workspace that feels comfortable, organized, and beautifully yours—whether you have a dedicated room or a small corner at home."],
+
+
+    updated: "2026-08-08",
 },
 ];
 
@@ -192,4 +193,3 @@ export const collections = [
         href: "/shop/small-space-storage",
     },
 ];
-

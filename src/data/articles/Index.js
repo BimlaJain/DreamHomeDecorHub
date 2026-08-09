@@ -1,6 +1,7 @@
 
 import bathroomDecorIdeas from "./17BathroomDecorIdeas";
 import kitchenDecorIdeas from "./18KitchenDecorIdeas";
+import balconyRecreateIdeas from "./21BalconyRecreateIdeas";
 import homeOfficeIdeas from "./21HomeOfficeIdeas";
 import cozyBedroomDecorIdeas from "./CozyBedroomDecorIdeas";
 import cozyLivingRoom from "./CozyLivingRoom";
@@ -14,7 +15,7 @@ const articles = [
     kitchenDecorIdeas,
     bathroomDecorIdeas,
     homeOfficeIdeas,
-
+    balconyRecreateIdeas,
 ];
 
 export default articles;
