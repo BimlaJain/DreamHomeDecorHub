@@ -295,13 +295,13 @@ const balconyRecreateIdeas = {
 
 
                 {
-                    name: "Balcony lower table",
+                    name: "Balcony lower cushion",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook13.webp",
                     link: "https://link.amazon/B04K38isM"
                 },
 
                 {
-                    name: "Balcony floor cushions",
+                    name: "Balcony floor table",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook14.webp",
                     link: "https://link.amazon/B01BLEgWD"
                 },
