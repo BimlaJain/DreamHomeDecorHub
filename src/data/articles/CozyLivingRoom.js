@@ -1041,7 +1041,7 @@ const article = {
     description:
         "Discover warm and inviting living room ideas...",
 
-    updated: "2026-08-05",
+    updated: "2026-08-04",
 
     readTime: "12 min read",
 

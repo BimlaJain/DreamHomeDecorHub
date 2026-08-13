@@ -15,7 +15,7 @@ const IdeaCard = ({ idea }) => {
                         alt={idea.title}
                         width={700}
                         height={400}
-                        className="rounded-3xl mx-auto mt-8 w-full max-w-2xl md:h-[672px]" />
+                        className="rounded-3xl mx-auto mt-8 w-full max-w-2xl " />
                     <p className="mt-6 text-lg text-gray-600">
                         {idea.description}
                     </p>

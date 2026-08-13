@@ -14,7 +14,7 @@ export default function LatestArticlesPage() {
 
     const latestArticles = [...articles]
         .sort((a, b) => new Date(b.updated) - new Date(a.updated))
-        .slice(0, 6);
+        .slice(0, 10);
 
     return (
         <main>

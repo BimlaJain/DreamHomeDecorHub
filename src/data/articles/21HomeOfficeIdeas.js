@@ -19,7 +19,7 @@ const homeOfficeIdeas = {
             "Transform your workspace into a place you actually enjoy spending time in with these 21 cozy home office ideas. From warm lighting and stylish desks to smart storage, calming colors, greenery, and thoughtful decor, discover simple ways to create a productive workspace that feels comfortable, organized, and beautifully yours—whether you have a dedicated room or a small corner at home."],
 
 
-    updated: "2026-08-08",
+    updated: "2026-08-07",
 
 
     totalIdeas: 21,

@@ -16,10 +16,10 @@ const readingNookIdeas = {
 
     description:
         [
-            "Ready to create a reading corner you'll never want to leave? Explore 17 inspiring reading nook ideas featuring comfy chairs, soft throws, rugs, side tables, warm lighting, shelves, plants, and relaxing decor. Find the perfect inspiration to recreate your own cozy escape at home."],
+            "Looking for a cozy reading corner without needing a whole room? Discover 17 realistic reading nook ideas for small and large spaces, from unused window corners and living room spaces to floor seating, bookshelves, warm lighting, and relaxing tea corners."],
 
 
-    updated: "2026-12-08",
+    updated: "2026-08-10",
 
 
     totalIdeas: 17,
@@ -333,7 +333,7 @@ const readingNookIdeas = {
                 },
 
                 {
-                    name: "Balcony lower table",
+                    name: " lower table",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook13.webp",
                     link: "https://link.amazon/B04K38isM"
                 },

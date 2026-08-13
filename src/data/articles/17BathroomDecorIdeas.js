@@ -19,7 +19,7 @@ const bathroomDecorIdeas = {
             "Turn your everyday bathroom into a calming personal retreat with these cozy spa-inspired bathroom ideas. From warm ambient lighting and soft towels to natural textures, soothing colors, stylish storage, and relaxing accessories, discover simple ways to create a beautiful bathroom that feels peaceful, comfortable, and luxurious—without needing a complete renovation."],
 
 
-    updated: "2026-08-07",
+    updated: "2026-08-12",
 
 
     totalIdeas: 17,

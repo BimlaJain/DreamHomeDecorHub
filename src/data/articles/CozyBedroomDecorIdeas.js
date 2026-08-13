@@ -20,7 +20,7 @@ const cozyBedroomDecorIdeas = {
         " In this guide, you'll discover 25 cozy bedroom decor ideas that combine comfort, style, and functionality. From soft lighting and warm color palettes to clever storage solutions and Pinterest-inspired styling tips, these ideas work for every budget and bedroom size. Let's create a bedroom you'll never want to leave. "],
 
 
-    updated: "2026-08-05",
+    updated: "2026-08-06",
 
 
     totalIdeas: 25,

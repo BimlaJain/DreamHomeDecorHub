@@ -19,7 +19,7 @@ const kitchenDecorIdeas = {
             "Dreaming of a luxury kitchen without the luxury price tag? You're in the right place. In this guide, we've rounded up 18 budget-friendly kitchen decor ideas that instantly elevate your space with designer-inspired style. Explore modern color palettes, statement lighting, open shelving, elegant hardware, stylish storage solutions, and carefully curated accessories that make your kitchen feel warm, sophisticated, and effortlessly beautiful. These practical ideas prove that a stunning kitchen makeover doesn't have to cost a fortune."],
 
 
-    updated: "2026-08-06",
+    updated: "2026-08-09",
 
 
     totalIdeas: 18,
