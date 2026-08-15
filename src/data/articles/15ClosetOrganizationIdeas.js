@@ -89,7 +89,6 @@ const closetOrganizationIdeas = {
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
                     link: "https://link.amazon/B08uWVm9i"
                 },
-
             ]
 
         },
@@ -109,8 +108,6 @@ const closetOrganizationIdeas = {
             ],
 
             shopLook: [
-
-
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook2.webp",
