@@ -73,7 +73,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "How to Start Organizing a Small Laundry Room",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea1.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea1.webp",
 
             description:
                 "Start by removing everything, grouping similar items, and identifying which areas are creating the most clutter.",
@@ -85,9 +85,9 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B08uWVm9i"
+                    name: "Woven storage basket ",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
+                    link: "https://link.amazon/B05e6BFRA"
                 },
             ]
 
@@ -98,7 +98,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Declutter Your Laundry Room Before Organizing",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea2.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea2.webp",
 
             description:
                 "Get rid of empty containers, expired products, damaged items, and supplies you rarely use.",
@@ -109,9 +109,9 @@ const laundryRoomOrganizationIdeas = {
 
             shopLook: [
                 {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B00UIb0A8"
+                    name: "Oak floating shelves",
+                    image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
+                    link: "https://link.amazon/B07gmlDsk"
                 },
 
             ]
@@ -123,7 +123,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Make the Most of Vertical Wall Space",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea3.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea3.webp",
 
             description:
                 "When floor space is limited, walls can provide valuable storage for detergents, cleaning tools, baskets, and accessories.",
@@ -134,11 +134,10 @@ const laundryRoomOrganizationIdeas = {
 
             shopLook: [
 
-
                 {
-                    name: "Clear shelf dividers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B03YRWTcV"
+                    name: "Floating shelf ",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B04uAnFCT"
                 },
             ]
 
@@ -149,7 +148,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Add Shelves Above the Washer and Dryer",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea4.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea4.webp",
 
             description:
                 "he empty space above your machines is one of the most useful areas in a small laundry room.",
@@ -161,9 +160,14 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B08uWVm9i"
+                    name: "Woven storage basket ",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
+                    link: "https://link.amazon/B05e6BFRA"
+                },
+                {
+                    name: "Floating shelf ",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B04uAnFCT"
                 },
 
             ]
@@ -175,7 +179,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Use Laundry Baskets to Separate Clothes",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea5.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea5.webp",
 
             description:
                 "Multiple baskets can make sorting whites, darks, delicates, and towels much easier.",
@@ -187,9 +191,14 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Clear shelf dividers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B03YRWTcV"
+                    name: "Slim laundry hamper",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook1.webp",
+                    link: "https://link.amazon/B08fYLNn7"
+                },
+                {
+                    name: "Slim laundry hamper",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook3.webp",
+                    link: "https://link.amazon/B07e89r4z"
                 },
             ]
 
@@ -200,7 +209,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Create a Dedicated Detergent Station",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea6.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea6.webp",
 
             description:
                 "Instead of keeping detergent bottles scattered around the room, create one dedicated area for detergent, stain removers, dryer sheets, and other essentials.",
@@ -212,9 +221,9 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "foldable fabric storage boxes",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B03C06gYt"
+                    name: "Shower dispenser bottles",
+                    image: "/images/blog/article/17-bathroom-decor-ideas/shoplook15.webp",
+                    link: "https://link.amazon/B0740uAK9"
                 },
             ]
 
@@ -225,7 +234,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Organize Small Laundry Supplies",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea7.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea7.webp",
 
             description:
                 "Small items like clothespins, mesh bags, stain sticks, dryer balls, and cleaning brushes can quickly create visual clutter.",
@@ -237,9 +246,14 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Clear Stackable Shoe Storage Box",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B0iF0O4tJ"
+                    name: "Storage Dispenser",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook5.webp",
+                    link: "https://link.amazon/B04wPZ3H0"
+                },
+                {
+                    name: "Clothes Clips",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook6.webp",
+                    link: "https://link.amazon/B05Bs8wa1"
                 },
             ]
 
@@ -250,7 +264,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Use the Back of the Door for Extra Storages",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea8.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea8.webp",
 
             description:
                 "The back of a laundry room door can become useful storage for cleaning supplies, brushes, clothespins, and smaller essentials.",
@@ -262,11 +276,10 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Handbag Organization",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B01dSXRuQ"
+                    name: "Over door organizer",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook7.webp",
+                    link: "https://link.amazon/B0iansKDL"
                 },
-
             ]
 
         },
@@ -276,7 +289,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Add a Slim Rolling Laundry Cart",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea9.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea9.webp",
 
             description:
                 "Narrow gaps between the washer, dryer, wall, and cabinets can often be transformed into useful storage.",
@@ -288,9 +301,9 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Over-the-Door Storage",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0byOug7y"
+                    name: "Rolling Cart",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook8.webp",
+                    link: "https://link.amazon/B0bp6qpcM"
                 },
 
             ]
@@ -302,7 +315,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Create a Folding Station in a Small Laundry Room",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea10.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea10.webp",
 
             description:
                 "Even a tiny laundry area can have a practical folding zone using a countertop, wall-mounted table, or surface above the machines.",
@@ -312,17 +325,11 @@ const laundryRoomOrganizationIdeas = {
             ],
 
             shopLook: [
-
-
+            
                 {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B08uWVm9i"
-                },
-                {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B00UIb0A8"
+                    name: "Floating shelf ",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
+                    link: "https://link.amazon/B04uAnFCT"
                 },
 
             ]
@@ -333,7 +340,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Find a Smart Solution for Air-Drying Clothes",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea11.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea11.webp",
 
             description:
                 "Drying racks can take up significant floor space, but wall-mounted and collapsible options make air-drying much easier in compact rooms.",
@@ -345,9 +352,9 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Jewelry Organizer",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B01TtYwIu"
+                    name: "Clothing Rack",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook9.webp",
+                    link: "https://link.amazon/B01junCQk"
                 },
             ]
 
@@ -360,7 +367,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Organize Cleaning Tools Vertically",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea12.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea12.webp",
 
             description:
                 "Mops, brooms, dusters, brushes, and cleaning cloths are awkward to store but can be neatly arranged vertically.",
@@ -372,9 +379,9 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "foldable fabric storage boxes",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B03C06gYt"
+                    name: "Mop & Broom Holder",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook10.webp",
+                    link: "https://link.amazon/B08j4u5Dg"
                 },
 
             ]
@@ -387,7 +394,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Use Cabinets and Baskets to Hide Visual Clutter",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea13.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea13.webp",
 
             description:
                 "Open shelves are convenient, but baskets and closed cabinets can keep a small laundry room looking calm and organized.",
@@ -399,14 +406,9 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "foldable fabric storage boxes",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B03C06gYt"
-                },
-                {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B08uWVm9i"
+                    name: "Woven storage basket ",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
+                    link: "https://link.amazon/B05e6BFRA"
                 },
             ]
 
@@ -417,7 +419,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "Small Laundry Room Organization Mistakes to Avoid",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea14.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea14.webp",
 
             description:
                 "Overcrowding shelves, ignoring vertical space, buying oversized baskets, and storing everything on the floor can make a small laundry room feel even smaller.",
@@ -430,14 +432,14 @@ const laundryRoomOrganizationIdeas = {
 
 
                 {
-                    name: "foldable fabric storage boxes",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B03C06gYt"
+                    name: "Storage Dispenser",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook5.webp",
+                    link: "https://link.amazon/B04wPZ3H0"
                 },
                 {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B08uWVm9i"
+                    name: "Slim laundry hamper",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook3.webp",
+                    link: "https://link.amazon/B07e89r4z"
                 },
 
 
@@ -449,7 +451,7 @@ const laundryRoomOrganizationIdeas = {
 
             title: "How to Keep Your Laundry Room Organized",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea15:webp.webp",
+            image: "/images/blog/article/15-laundry-room-ideas/laundry-room-organization-idea15.webp",
 
             description:
                 "A simple weekly reset can prevent the room from returning to its original cluttered state.",
@@ -461,11 +463,10 @@ const laundryRoomOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Slim velvet hangers",
-                    image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B08uWVm9i"
+                    name: "Label Maker",
+                    image: "/images/blog/article/15-laundry-room-ideas/shoplook11.webp",
+                    link: "https://link.amazon/B07K6eNt9"
                 },
-
 
             ]
 
