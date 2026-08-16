@@ -1,5 +1,6 @@
 
 import closetOrganizationIdeas from "./15ClosetOrganizationIdeas";
+import laundryRoomOrganizationIdeas from "./15LaundryRoomOrganizationIdeas";
 import bathroomDecorIdeas from "./17BathroomDecorIdeas";
 import readingNookIdeas from "./17ReadingNookIdeas";
 import kitchenDecorIdeas from "./18KitchenDecorIdeas";
@@ -22,6 +23,8 @@ const articles = [
     readingNookIdeas,
     smallEntrywayIdeas,
     closetOrganizationIdeas,
+    laundryRoomOrganizationIdeas,
+    
 
 ];
 
