@@ -1,5 +1,6 @@
 import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
+import Head from "next/head";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -37,6 +38,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <meta name="cuelinks-verification" content="VERIFY-CL-DITLT38U"></meta>
+      </head>
       <body className={`${inter.variable} ${playfair.variable} bg-[#F8F6F2] text-[#1E1E1E]`}>
         {children}
       </body>
