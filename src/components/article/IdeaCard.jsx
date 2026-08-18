@@ -31,30 +31,43 @@ const IdeaCard = ({ idea }) => {
                     </ul>
                 </div>
                 {/* SHOP THE LOOK */}
-                <div className="mt-16 rounded-3xl bg-[#f8f5ef] p-8">
-                    <div className="mb-8">
-                        <p className="text-sm uppercase tracking-widest">
-                            Shop The Look
-                        </p>
-                        <h3 className="text-3xl font-bold">
-                            Recreate This Style
-                        </h3>
-                    </div>
-                    <div className=" bg-white rounded-3xl p-6 grid grid-cols-2 md:grid-cols-4 gap-5 ">
-                        {
-                            idea.shopLook.map((product, index) => (
-                                <a href={product.link} target="_blank" key={index} className=" group block "  >
-                                    <div className=" aspect-square rounded-2xl overflow-hidden " >
-                                        <img src={product.image} alt={product.name} className=" w-full h-full object-contain group-hover:scale-110 transition duration-500 " />
+                {idea.shopLook?.length > 0 && (
+                    <div className="mt-16 rounded-3xl bg-[#f8f5ef] p-8">
+                        <div className="mb-8">
+                            <p className="text-sm uppercase tracking-widest">
+                                Shop The Look
+                            </p>
+
+                            <h3 className="text-3xl font-bold">
+                                Recreate This Style
+                            </h3>
+                        </div>
+
+                        <div className="bg-white rounded-3xl p-6 grid grid-cols-2 md:grid-cols-4 gap-5">
+                            {idea.shopLook.map((product, index) => (
+                                <a
+                                    href={product.link}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    key={index}
+                                    className="group block"
+                                >
+                                    <div className="aspect-square rounded-2xl overflow-hidden">
+                                        <img
+                                            src={product.image}
+                                            alt={product.name}
+                                            className="w-full h-full object-contain group-hover:scale-110 transition duration-500"
+                                        />
                                     </div>
-                                    <p className=" mt-3 text-sm font-medium text-center ">
+
+                                    <p className="mt-3 text-sm font-medium text-center">
                                         {product.name}
                                     </p>
                                 </a>
-                            ))
-                        }
+                            ))}
+                        </div>
                     </div>
-                </div>
+                )}
             </div>
         </section>
     )

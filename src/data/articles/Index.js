@@ -7,6 +7,7 @@ import kitchenDecorIdeas from "./18KitchenDecorIdeas";
 import balconyRecreateIdeas from "./21BalconyRecreateIdeas";
 import homeOfficeIdeas from "./21HomeOfficeIdeas";
 import smallEntrywayIdeas from "./21SmallEntrywayIdeas";
+import smallSpaceOrganizationIdeas from "./21SmallSpaceOrganizationIdeas";
 import cozyBedroomDecorIdeas from "./CozyBedroomDecorIdeas";
 import cozyLivingRoom from "./CozyLivingRoom";
 import  minimalistFloatingShelves  from "./MinimalistFloatingShleves";
@@ -24,6 +25,8 @@ const articles = [
     smallEntrywayIdeas,
     closetOrganizationIdeas,
     laundryRoomOrganizationIdeas,
+    smallSpaceOrganizationIdeas,
+    
     
 
 ];
