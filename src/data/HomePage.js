@@ -50,7 +50,7 @@ export const categories = [
     },
     {
         title: "Small Spaces",
-        href: "/small-spaces",
+        href: "/blog/21-Small-Space-Organization-Ideas-That-Actually-Work",
         image: "/images/home-page/small-space.webp",
     },
     {

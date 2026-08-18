@@ -85,7 +85,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Use Vertical Wall Space for Extra Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea1.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea1.webp",
 
             description:
                 "When floor space is limited, look upward. Floating shelves, wall-mounted organizers, and pegboards can turn empty walls into valuable storage without making your room feel crowded. Use them for books, baskets, plants, kitchen essentials, or everyday items you want within easy reach.",
@@ -97,9 +97,9 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Console Entryway Table",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    name: "Wooden Storage floating shelves",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook1.webp",
+                    link: "https://clnk.in/BVfW"
                 },
 
             ]
@@ -111,7 +111,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Add a Slim Storage Cabinet to Tight Spaces",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea2.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea2.webp",
 
             description:
                 "Those narrow gaps between furniture or beside doors don't have to go unused. A slim storage cabinet can fit into awkward spaces while giving you a place to hide toiletries, cleaning supplies, shoes, or everyday clutter.",
@@ -121,12 +121,10 @@ const smallSpaceOrganizationIdeas = {
             ],
 
             shopLook: [
-
-
                 {
-                    name: "Golden Entryway Mirror",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0hyaQX53"
+                    name: "Slim white storage cabinat",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook2.webp",
+                    link: "https://clnk.in/BVf7"
                 },
 
             ]
@@ -138,7 +136,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Make the Most of Under-Bed Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea3.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea3.webp",
 
             description:
                 "The space underneath your bed is one of the easiest places to add storage without taking up additional floor space. Use low-profile boxes or rolling containers for seasonal clothing, extra bedding, shoes, and items you don't use every day.",
@@ -150,9 +148,9 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Entryway Floating Shelf",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B08nFZTEa"
+                    name: "Under bed Storage Organizer",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook3.webp",
+                    link: "https://clnk.in/BVf8"
                 },
 
             ]
@@ -164,7 +162,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Choose Furniture With Hidden Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea4.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea4.webp",
 
             description:
                 "In a small home, furniture can do more than serve one purpose. Storage ottomans, benches, coffee tables, and beds with built-in compartments give you extra space to store things while keeping clutter out of sight.",
@@ -174,11 +172,10 @@ const smallSpaceOrganizationIdeas = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Light Entryway Table",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B020FyONg"
+                    name: "Storage Ottoman",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook4.webp",
+                    link: "https://clnk.in/BVgL"
                 },
 
             ]
@@ -190,7 +187,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Turn an Empty Corner Into Useful Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea5.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea5.webp",
 
             description:
                 "Awkward corners often become wasted space or clutter magnets. A corner shelf, narrow cabinet, or small vertical shelving unit can transform these forgotten areas into useful storage for books, plants, kitchen items, or decorative pieces.",
@@ -200,11 +197,10 @@ const smallSpaceOrganizationIdeas = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Narrow Runner Rug",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B04Ytinhb"
+                    name: "Corner Shef",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook5.webp",
+                    link: "https://clnk.in/BVgM"
                 },
             ]
 
@@ -215,7 +211,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Use Baskets to Hide Everyday Clutter",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea6.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea6.webp",
 
             description:
                 "Storage doesn't have to look utilitarian. Woven baskets and fabric bins can hide toys, blankets, accessories, and miscellaneous items while adding texture and warmth to your room.",
@@ -227,9 +223,9 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Shoe Storage Cabinet",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0fkNopt0"
+                    name: " storage basket",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook6.webp",
+                    link: "https://clnk.in/BVgN"
                 },
             ]
 
@@ -240,7 +236,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Maximize Closet Space With Smart Organizers",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea7.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea7.webp",
 
             description:
                 "A small closet can hold much more when every section is organized intentionally. Shelf dividers, hanging organizers, slim hangers, and storage boxes can help you use vertical space and prevent clothing from becoming one large pile.",
@@ -252,9 +248,14 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Wall Hooks",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B019E7Xku"
+                    name: "Hanger for clothes",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook7.webp",
+                    link: "https://clnk.in/BVgP"
+                },
+                {
+                    name: "Organizers",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook8.webp",
+                    link: "https://clnk.in/BVgQ"
                 },
             ]
 
@@ -265,7 +266,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Create a Functional Entryway in a Small Area",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea8.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea8.webp",
 
             description:
                 "You don't need a large hallway to create an organized entryway. A few wall hooks, a narrow shoe rack, and a small shelf can create a dedicated spot for shoes, bags, keys, and jackets.",
@@ -277,9 +278,9 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Storage Basket",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B0dAahYF6"
+                    name: "Shoe Rack",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook9.webp",
+                    link: "https://clnk.in/BVgR"
                 },
 
             ]
@@ -291,7 +292,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Use Over-the-Door Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea9.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea9.webp",
 
             description:
                 "Doors offer an overlooked storage opportunity in small homes. Over-the-door organizers can hold shoes, cleaning supplies, accessories, toiletries, pantry items, and other small essentials without using valuable floor space.",
@@ -300,15 +301,6 @@ const smallSpaceOrganizationIdeas = {
                 "Use this solution for lightweight items and check the door's clearance before installing a hanging organizer."
             ],
 
-            shopLook: [
-                {
-                    name: "Storage Floating shelf",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B08CBqMDQ"
-                },
-
-            ]
-
         },
 
         {
@@ -316,7 +308,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Organize a Tiny Kitchen With Vertical Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea10.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea10.webp",
 
             description:
                 "Small kitchens become much easier to manage when you take advantage of vertical space. Shelf risers, hanging racks, magnetic organizers, and narrow pantry bins can help you keep countertops and cabinets under control.",
@@ -328,9 +320,9 @@ const smallSpaceOrganizationIdeas = {
 
 
                 {
-                    name: "Storage Bench",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B09HbskeG"
+                    name: "Storage Shelf",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook10.webp",
+                    link: "https://clnk.in/BVhv"
                 },
 
 
@@ -342,7 +334,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Use Drawer Dividers to Keep Small Items Organized",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea11.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea11.webp",
 
             description:
                 "Drawers can quickly turn into messy catch-alls, especially when they're filled with small objects. Adjustable dividers create dedicated sections for utensils, makeup, accessories, office supplies, and other little essentials.",
@@ -351,14 +343,6 @@ const smallSpaceOrganizationIdeas = {
                 "Measure your drawer before purchasing dividers and choose adjustable options when possible for a more customized fit."
             ],
 
-            shopLook: [
-
-                {
-                    name: "Storage Floating shelf",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B08CBqMDQ"
-                },
-            ]
 
         },
 
@@ -369,7 +353,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Make Your Desk Area Work Harder",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea12.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea12.webp",
 
             description:
                 "A compact workspace can still be functional and comfortable. Use vertical organizers, monitor stands, drawer storage, and cable management solutions to keep your desk surface clear while making essential items easy to access.",
@@ -381,9 +365,14 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Easy-Care Plant",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B017Qut27"
+                    name: "Laptop cover",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook12.webp",
+                    link: "https://clnk.in/BVhz"
+                },
+                {
+                    name: "Desk Accessories",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook14.webp",
+                    link: "https://clnk.in/BVhD"
                 },
             ]
 
@@ -395,7 +384,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Choose a Folding or Multifunctional Table",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea13.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea13.webp",
 
             description:
                 "Large furniture can quickly overwhelm a small room. Folding desks, drop-leaf tables, and expandable furniture give you a usable workspace or dining area when needed and can be folded away when you need more room.",
@@ -407,9 +396,9 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Table Lamp",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B00zRjeQX"
+                    name: "Mini dining table ",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook13.webp",
+                    link: "https://clnk.in/BVhE"
                 },
 
             ]
@@ -421,7 +410,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Create More Bathroom Storage Without Remodeling",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea14.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea14.webp",
 
             description:
                 "Bathrooms often have surprisingly little storage, but you can add capacity without a renovation. Over-the-toilet shelving, shower caddies, narrow cabinets, and wall-mounted organizers can create extra places for towels, toiletries, and cleaning essentials.",
@@ -433,9 +422,14 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Gallery Wall Frames",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook14.webp",
-                    link: "https://link.amazon/B0hoQyeA3"
+                    name: "Toilet Paper Holder",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook15.webp",
+                    link: "https://clnk.in/BVhF"
+                },
+                {
+                    name: "Sink organizer",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook16.webp",
+                    link: "https://clnk.in/BVhH"
                 },
 
 
@@ -447,7 +441,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Use Clear Containers to Organize Small Essentials",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea15.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea15.webp",
 
             description:
                 "Clear containers make it easier to see exactly what you have, which is especially helpful in small cabinets, drawers, and pantries. They can organize everything from skincare products to craft supplies and kitchen ingredients.",
@@ -459,9 +453,14 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Large Piece of Artwork",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B05WfELoY"
+                    name: "Air tight container",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook17.webp",
+                    link: "https://clnk.in/BVhJ"
+                },
+                {
+                    name: "Air tight container",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook18.webp",
+                    link: "https://clnk.in/BVhI"
                 },
 
             ]
@@ -475,7 +474,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Install Hooks to Turn Empty Walls Into Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea16.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea16.webp",
 
             description:
                 "Hooks are one of the simplest ways to add storage without taking up floor space. Use them for coats, hats, bags, towels, kitchen utensils, or accessories depending on the room.",
@@ -487,9 +486,9 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Wood Storage Table",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook16.webp",
-                    link: "https://link.amazon/B021pjZPb"
+                    name: "Wall Hooks",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook19.webp",
+                    link: "https://clnk.in/BVh9"
                 },
 
             ]
@@ -501,7 +500,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Use Shelf Risers to Double Your Storage",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea17.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea17.webp",
 
             description:
                 "Tall cabinets often contain a lot of unused vertical space above shorter items. Shelf risers create an additional level so you can stack plates, cans, beauty products, or containers without wasting that space.",
@@ -513,17 +512,10 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Console Entryway Table",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    name: "Shelf Risers",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook20.webp",
+                    link: "https://clnk.in/BVia"
                 },
-
-                {
-                    name: "Golden Entryway Mirror",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0hyaQX53"
-                },
-
             ]
 
         },
@@ -533,7 +525,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Keep Cords and Electronics From Creating Clutter",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea18.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea18.webp",
 
             description:
                 "Cables can make even an organized room look messy. Cable boxes, clips, sleeves, and charging stations can keep cords together and prevent them from spreading across desks, nightstands, and floors.",
@@ -545,15 +537,9 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Console Entryway Table",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook18.webp",
-                    link: "https://link.amazon/B0iuoNtIv"
-                },
-
-                {
-                    name: "Golden Entryway Mirror",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B0hVyHP9r"
+                    name: "Console bedside Table",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook21.webp",
+                    link: "https://clnk.in/BVib"
                 },
 
             ]
@@ -565,7 +551,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Make a Small Bedroom Feel More Spacious",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea19.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea19.webp",
 
             description:
                 "A small bedroom doesn't have to feel cramped. Choosing slim furniture, using wall-mounted lighting, keeping pathways clear, and incorporating hidden storage can make the room feel significantly more open.",
@@ -577,9 +563,14 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Asymmetric Mirror",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook19.webp",
-                    link: "https://link.amazon/B0gwpmkuf"
+                    name: "Console bed with storage",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook23.webp",
+                    link: "https://clnk.in/BVig"
+                },
+                {
+                    name: "Console bed with storage",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook22.webp",
+                    link: "https://clnk.in/BVif"
                 },
 
 
@@ -592,7 +583,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Use Multi-Purpose Furniture in Every Room",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea20.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea20.webp",
 
             description:
                 "Every piece of furniture in a small home should earn its space. Nesting tables, storage ottomans, convertible desks, and multifunctional benches can perform several jobs while reducing the number of items you need.",
@@ -604,10 +595,11 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Console Entryway Table",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    name: "Nesting Table",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook24.webp",
+                    link: "https://clnk.in/BVih"
                 },
+
 
 
             ]
@@ -619,7 +611,7 @@ const smallSpaceOrganizationIdeas = {
 
             title: "Create a Clutter-Free Look With Simple Storage Zones",
 
-            image: "/images/blog/article/21-small-entryway-ideas/small-entryway-idea21.webp",
+            image: "/images/blog/article/21-small-space-organization-ideas/small-space-organization-idea21.webp",
 
             description:
                 "The easiest way to keep a small home organized is to give everything a designated place. Create simple storage zones for categories such as shoes, paperwork, cleaning supplies, electronics, accessories, and everyday essentials.",
@@ -631,9 +623,14 @@ const smallSpaceOrganizationIdeas = {
             shopLook: [
 
                 {
-                    name: "Console Entryway Table",
-                    image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    name: "Kitchen Storage Cabinet",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook25.webp",
+                    link: "https://clnk.in/BVil"
+                },
+                {
+                    name: " Storage organizer",
+                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook26.webp",
+                    link: "https://clnk.in/BVim"
                 },
             ]
 
