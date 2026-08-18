@@ -9,10 +9,8 @@ import {
 } from "lucide-react";
 export const navItems = [
     { title: "Home", href: "/" },
-    { title: "Rooms", href: "/rooms" },
     { title: "Ideas", href: "/ideas" },
-    { title: "DIY", href: "/diy" },
-    { title: "Trends", href: "/trends" },
+    { title: "Contact", href: "/contact" },
     { title: "Blog", href: "/blog" },
     { title: "About", href: "/about" },
 ];

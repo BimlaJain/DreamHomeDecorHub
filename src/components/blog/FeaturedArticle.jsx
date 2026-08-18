@@ -1,14 +1,20 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { articles } from "@/data/Blog";
+import articles from "@/data/articles/Index";
 
 export default function FeaturedArticle() {
 
-    // Latest article automatically select hoga
+    // Automatically find latest article
     const latestArticle = [...articles].sort(
-        (a, b) => new Date(b.updated) - new Date(a.updated)
+        (a, b) =>
+            new Date(b.updated) - new Date(a.updated)
     )[0];
+
+    // Safety check
+    if (!latestArticle) {
+        return null;
+    }
 
     return (
         <section className="py-20">
@@ -36,7 +42,6 @@ export default function FeaturedArticle() {
                 {/* Featured Card */}
                 <div className="grid overflow-hidden rounded-[36px] bg-[#F8F6F2] shadow-sm lg:grid-cols-2">
 
-
                     {/* Image */}
                     <div className="relative min-h-[500px] overflow-hidden">
 
@@ -54,7 +59,6 @@ export default function FeaturedArticle() {
                     {/* Content */}
                     <div className="flex flex-col justify-center p-10 md:p-16">
 
-
                         {/* Category */}
                         <span className="w-fit rounded-full bg-white px-4 py-2 text-xs uppercase tracking-[0.25em] text-stone-600">
                             {latestArticle.category}
@@ -69,7 +73,9 @@ export default function FeaturedArticle() {
 
                         {/* Description */}
                         <p className="mt-6 text-lg leading-8 text-stone-600">
-                            {latestArticle.description}
+                            {Array.isArray(latestArticle.description)
+                                ? latestArticle.description[0]
+                                : latestArticle.description}
                         </p>
 
 
@@ -83,7 +89,9 @@ export default function FeaturedArticle() {
                             <span>•</span>
 
                             <span>
-                                {new Date(latestArticle.updated).toLocaleDateString("en-US", {
+                                {new Date(
+                                    latestArticle.updated
+                                ).toLocaleDateString("en-US", {
                                     month: "long",
                                     year: "numeric",
                                 })}

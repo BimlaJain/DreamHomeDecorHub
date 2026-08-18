@@ -1,25 +1,29 @@
 "use client";
 
 import { useState } from "react";
-import ArticleCard from "./ArticleCard";
-import { articles } from "@/data/Blog";
+import Link from "next/link";
+import Image from "next/image";
+import articles from "@/data/articles/Index";
 
 export default function LatestInspiration() {
+
     const [currentPage, setCurrentPage] = useState(1);
 
-    // Number of articles per page
     const articlesPerPage = 3;
 
-    // Total pages
-    const totalPages = Math.ceil(
-        articles.length / articlesPerPage
+    const sortedArticles = [...articles].sort(
+        (a, b) =>
+            new Date(b.updated) - new Date(a.updated)
     );
 
-    // Calculate articles for current page
+    const totalPages = Math.ceil(
+        sortedArticles.length / articlesPerPage
+    );
+
     const startIndex =
         (currentPage - 1) * articlesPerPage;
 
-    const currentArticles = articles.slice(
+    const currentArticles = sortedArticles.slice(
         startIndex,
         startIndex + articlesPerPage
     );
@@ -29,7 +33,7 @@ export default function LatestInspiration() {
 
             <div className="mx-auto max-w-7xl px-6">
 
-                {/* Section Heading */}
+                {/* Heading */}
                 <div className="mb-14 text-center">
 
                     <p className="text-sm uppercase tracking-[0.3em] text-stone-500">
@@ -41,9 +45,9 @@ export default function LatestInspiration() {
                     </h2>
 
                     <p className="mx-auto mt-5 max-w-2xl text-lg leading-8 text-stone-600">
-                        Explore our newest decorating ideas, styling guides,
-                        and minimalist shelf inspiration to elevate every
-                        room in your home.
+                        Explore our newest decorating ideas,
+                        styling guides, and inspiration to elevate
+                        every room in your home.
                     </p>
 
                 </div>
@@ -53,21 +57,63 @@ export default function LatestInspiration() {
                 <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-3">
 
                     {currentArticles.map((article) => (
-                        <ArticleCard
+
+                        <Link
                             key={article.slug}
-                            {...article}
-                        />
+                            href={`/blog/${article.slug}`}
+                            className="group"
+                        >
+
+                            <div className="overflow-hidden rounded-3xl bg-white shadow-sm transition hover:shadow-xl">
+
+                                <div className=" overflow-hidden">
+
+                                    <Image
+                                        src={article.image}
+                                        alt={article.title}
+                                        width={700}
+                                        height={500}
+                                        className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
+                                    />
+
+                                </div>
+
+                                <div className="p-6">
+
+                                    <p className="text-sm uppercase tracking-widest text-stone-500">
+                                        {article.category}
+                                    </p>
+
+                                    <h3 className="mt-3 text-2xl font-semibold text-stone-900">
+                                        {article.title}
+                                    </h3>
+
+                                    <p className="mt-3 text-sm text-stone-500">
+                                        {article.readTime}
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+                        </Link>
+
                     ))}
 
                 </div>
 
 
                 {/* Pagination */}
+                {/* Pagination */}
                 {totalPages > 1 && (
+
                     <div className="mt-14 flex items-center justify-center gap-3">
 
+                        {/* First 3 pages */}
                         {Array.from(
-                            { length: totalPages },
+                            {
+                                length: Math.min(3, totalPages),
+                            },
                             (_, index) => index + 1
                         ).map((page) => (
 
@@ -75,19 +121,57 @@ export default function LatestInspiration() {
                                 key={page}
                                 onClick={() => setCurrentPage(page)}
                                 className={`
-        flex h-11 w-11 items-center justify-center
-        rounded-full text-sm transition-all duration-300
-        ${currentPage === page
+                    flex h-11 w-11
+                    items-center justify-center
+                    rounded-full
+                    text-sm
+                    transition
+                    ${currentPage === page
                                         ? "bg-stone-900 text-white shadow-md"
                                         : "bg-stone-100 text-stone-600 hover:bg-stone-200"
                                     }
-    `}
+                `}
                             >
                                 {page}
                             </button>
+
                         ))}
 
+
+                        {/* Dots */}
+                        {totalPages > 4 && (
+                            <span className="px-1 text-stone-400">
+                                ...
+                            </span>
+                        )}
+
+
+                        {/* Last page */}
+                        {totalPages > 3 && (
+
+                            <button
+                                onClick={() =>
+                                    setCurrentPage(totalPages)
+                                }
+                                className={`
+                    flex h-11 w-11
+                    items-center justify-center
+                    rounded-full
+                    text-sm
+                    transition
+                    ${currentPage === totalPages
+                                        ? "bg-stone-900 text-white shadow-md"
+                                        : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+                                    }
+                `}
+                            >
+                                {totalPages}
+                            </button>
+
+                        )}
+
                     </div>
+
                 )}
 
             </div>
