@@ -100,6 +100,7 @@ import RelatedArticles from "@/components/article/RelatedArticles";
 import BrandBanner from "@/components/article/BrandBanner";
 import PinterestCTA from "@/components/article/PinterestCTA";
 import Footer from "@/components/home-page/Footer";
+import NewsletterCTA from "@/components/article/NewsletterCTA";
 
 export default async function Page({ params }) {
 
@@ -194,9 +195,10 @@ export default async function Page({ params }) {
 
                 )
             }
-
+            <RelatedArticles/>
             <BrandBanner />
             <PinterestCTA />
+            <NewsletterCTA/>
             <Footer />
         </>
     );

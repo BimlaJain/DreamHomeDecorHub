@@ -93,7 +93,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Create a Warm and Welcoming Entryway",
 
-            image: "/images/blog/article/bedroom/bedroom-idea1.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea1.webp",
 
             description:
                 "Your entryway sets the tone for the rest of your home, so even a small space deserves thoughtful styling. Start with a slim console table or bench, then add a mirror, a small tray for everyday essentials, and one or two decorative accents. A runner can soften the space while adding color and texture.",
@@ -105,15 +105,20 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Natural Jute Area Rug",
-                    image: "/images/blog/article/bedroom/shoplook1.webp",
-                    link: "https://link.amazon/B0ha93r8f"
+                    name: "Wooden console table for entryway",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook1.webp",
+                    link: "https://fkrt.clnk.in/BVJT"
                 },
 
                 {
-                    name: "Woooden Bedside Table",
-                    image: "/images/blog/article/bedroom/shoplook2.webp",
-                    link: "https://link.amazon/B02azEcnN"
+                    name: "Golden round mirror",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
+                    link: "https://clnk.in/BVJU"
+                },
+                {
+                    name: "Woven storage basket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook3.webp",
+                    link: "https://fkrt.clnk.in/BVJQ"
                 },
 
             ]
@@ -125,7 +130,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Layer Your Living Room Lighting",
 
-            image: "/images/blog/article/bedroom/bedroom-idea2.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea2.webp",
 
             description:
                 "Good lighting can completely change how a living room feels. Instead of relying only on overhead lighting, combine a floor lamp, table lamp, and softer accent lights to create different levels of illumination. This layered approach makes the room feel warmer and more inviting, especially in the evening.",
@@ -137,22 +142,15 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Bedside Table Lamp",
-                    image: "/images/blog/article/bedroom/shoplook4.webp",
-                    link: "https://link.amazon/B09NWd5cY"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook4.webp",
+                    link: "https://clnk.in/BVJ4"
                 },
-
                 {
-                    name: "Cream Throw Cotton Sheet",
-                    image: "/images/blog/article/bedroom/shoplook5.webp",
-                    link: "https://link.amazon/B08cbQEPp"
+                    name: "Table lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook5.webp",
+                    link: "https://clnk.in/BVJ3"
                 },
-
-                {
-                    name: "Cotton Pattern Cushion",
-                    image: "/images/blog/article/bedroom/shoplook3.webp",
-                    link: "https://link.amazon/B0iRUVHBT"
-                }
 
             ]
 
@@ -163,7 +161,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Add a Statement Mirror",
 
-            image: "/images/blog/article/bedroom/bedroom-idea3.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea3.webp",
 
             description:
                 "A beautiful mirror can work as both functional decor and a striking focal point. Place a large mirror above a console, fireplace, or sofa, or use a full-length mirror in a bedroom or entryway. Choose a frame that complements the existing furniture and finishes in your room.",
@@ -175,15 +173,9 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Paper Pendant Light for Bedroom",
-                    image: "/images/blog/article/bedroom/shoplook6.webp",
-                    link: "https://link.amazon/B08btOowG"
-                },
-
-                {
-                    name: "Bedroom rug for under the bed",
-                    image: "/images/blog/article/bedroom/shoplook7.webp",
-                    link: "https://link.amazon/B00xgbrR5"
+                    name: "Large statement mirror",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook6.webp",
+                    link: "https://fkrt.clnk.in/BVJ6"
                 },
 
             ]
@@ -195,7 +187,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Make Your Sofa Feel More Cozy",
 
-            image: "/images/blog/article/bedroom/bedroom-idea4.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea4.webp",
 
             description:
                 "Your sofa is often the visual and functional centerpiece of the living room. Add cushions in different sizes and textures, then layer a soft throw over one side for an effortless cozy look. Mixing patterns with neutral solids can add personality without making the space feel overwhelming.",
@@ -207,15 +199,19 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Bedside light lamp",
-                    image: "/images/blog/article/bedroom/shoplook10.webp",
-                    link: "https://link.amazon/B089WbWiC"
+                    name: "Cushion cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
+                    link: "https://fkrt.clnk.in/BVKO"
                 },
-
                 {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook11.webp",
-                    link: "https://link.amazon/B06tLwdWr"
+                    name: "Comfy throw blanket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook8.webp",
+                    link: "https://fkrt.clnk.in/BVKQ"
+                },
+                {
+                    name: "Brown cushion cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook9.webp",
+                    link: "https://clnk.in/BVKS"
                 },
 
             ]
@@ -227,7 +223,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Style Your Coffee Table",
 
-            image: "/images/blog/article/bedroom/bedroom-idea5.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea5.webp",
 
             description:
                 "A thoughtfully styled coffee table can make an entire living room feel more polished. Start with a decorative tray to create structure, then layer a few coffee-table books, a vase, candle, or small decorative object. Keep enough empty space for the table to remain functional.",
@@ -239,9 +235,9 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Bedside light lamp",
-                    image: "/images/blog/article/bedroom/shoplook10.webp",
-                    link: "https://link.amazon/B089WbWiC"
+                    name: "Decorative tray",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shplook10.webp",
+                    link: "https://fkrt.clnk.in/BVK4"
                 },
                 {
                     name: "Decorative scented candle",
@@ -249,9 +245,14 @@ const homeDecorIdeasForEverySpace = {
                     link: "https://link.amazon/B06oh3Pe9"
                 },
                 {
-                    name: "Simple scented candle ",
-                    image: "/images/blog/article/bedroom/shoplook13.webp",
-                    link: "https://link.amazon/B09UVzPkP"
+                    name: "Decorative vase ",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
+                    link: "https://fkrt.clnk.in/BVK5"
+                },
+                {
+                    name: "Console center table",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook12.webp",
+                    link: "https://fkrt.clnk.in/BVK2"
                 },
 
             ]
@@ -263,7 +264,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Bring Nature Indoors With Greenery",
 
-            image: "/images/blog/article/bedroom/bedroom-idea6.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea6.webp",
 
             description:
                 "Plants instantly bring life and softness into an interior. Place greenery on shelves, side tables, windowsills, or empty corners, and use attractive planters to make the plants part of your overall decor. If maintaining real plants isn't practical, realistic artificial greenery can create a similar visual effect.",
@@ -275,20 +276,9 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook11.webp",
-                    link: "https://link.amazon/B06tLwdWr"
-                },
-
-                {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
-                },
-                {
-                    name: "Simple scented candle ",
-                    image: "/images/blog/article/bedroom/shoplook13.webp",
-                    link: "https://link.amazon/B09UVzPkP"
+                    name: "Tall indoor plant",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook13.webp",
+                    link: "https://clnk.in/BVLh"
                 },
 
             ]
@@ -300,7 +290,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Create a Beautiful Gallery Wall",
 
-            image: "/images/blog/article/bedroom/bedroom-idea7.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea7.webp",
 
             description:
                 "A gallery wall is an easy way to personalize an otherwise empty wall. Mix family photographs, artwork, typography, mirrors, or other meaningful pieces to create a collection that feels uniquely yours. Keeping one consistent element, such as frame color or a shared color palette, helps the arrangement feel cohesive.",
@@ -312,22 +302,15 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook16.webp",
-                    link: "https://link.amazon/B0iIKRtKF"
-                },
-
-                {
-                    name: "Artificial Plant with pot ",
-                    image: "/images/blog/article/bedroom/shoplook15.webp",
-                    link: "https://link.amazon/B06BxANky"
+                    name: "Minimal wall art frame ",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook15.webp",
+                    link: "https://fkrt.clnk.in/BVMf"
                 },
                 {
-                    name: "Bedside table lamp",
-                    image: "/images/blog/article/bedroom/shoplook14.webp",
-                    link: "https://link.amazon/B08Q2SDyd"
+                    name: "Black Photo frame",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook14.webp",
+                    link: "https://fkrt.clnk.in/BVMe"
                 },
-
             ]
 
         },
@@ -337,7 +320,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Use Rugs to Define Your Space",
 
-            image: "/images/blog/article/bedroom/bedroom-idea8.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea8.webp",
 
             description:
                 "A rug can instantly make furniture arrangements feel more connected and intentional. In an open-plan room, it can also visually define areas such as the living or dining space. Choose the size carefully so that at least the front legs of your main furniture pieces sit comfortably on the rug.",
@@ -349,22 +332,10 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Reading lamp",
-                    image: "/images/blog/article/bedroom/shoplook17.webp",
-                    link: "https://link.amazon/B02wYOTCi"
+                    name: "Neutral area rug",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook16.webp",
+                    link: "https://fkrt.clnk.in/BVMi"
                 },
-
-                {
-                    name: "Comfortable Armchair ",
-                    image: "/images/blog/article/bedroom/shoplook18.webp",
-                    link: "https://link.amazon/B00T2ndDY"
-                },
-                {
-                    name: "Black round mirror",
-                    image: "/images/blog/article/bedroom/shoplook19.webp",
-                    link: "https://link.amazon/B06PCRWLA"
-                },
-
             ]
 
         },
@@ -374,7 +345,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Decorate With Warm Neutral Colors",
 
-            image: "/images/blog/article/bedroom/bedroom-idea9.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea9.webp",
 
             description:
                 "Warm neutrals create a calm and timeless foundation that works with almost any decorating style. Shades such as cream, beige, taupe, warm white, and soft brown can make a home feel comfortable without looking flat. Add depth through wood, woven materials, textiles, and subtle contrast.",
@@ -386,20 +357,20 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    name: "Neutral area rug",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook16.webp",
+                    link: "https://fkrt.clnk.in/BVMi"
                 },
 
                 {
-                    name: "Wooden Shelves",
-                    image: "/images/blog/article/bedroom/shoplook21.webp",
-                    link: "https://link.amazon/B0dEYOPhi"
+                    name: "Cushion cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
+                    link: "https://fkrt.clnk.in/BVKO"
                 },
                 {
-                    name: "Artificial money plant",
-                    image: "/images/blog/article/bedroom/shoplook22.webp",
-                    link: "https://link.amazon/B0bGTEGHF"
+                    name: "Comfy throw blanket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook8.webp",
+                    link: "https://fkrt.clnk.in/BVKQ"
                 },
             ]
 
@@ -410,7 +381,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Add Texture With Curtains",
 
-            image: "/images/blog/article/bedroom/bedroom-idea10.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea10.webp",
 
             description:
                 "Curtains do more than provide privacy—they can soften a room and make windows feel more finished. Linen-look, cotton, sheer, or textured curtains can introduce subtle movement and warmth while complementing your furniture and color palette.",
@@ -422,28 +393,15 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "White ottoman for leg relaxing",
-                    image: "/images/blog/article/bedroom/shoplook23.webp",
-                    link: "https://link.amazon/B0aM7Miml"
+                    name: "Linen-look curtains",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook17.webp",
+                    link: "https://fkrt.clnk.in/BVMj"
                 },
-
                 {
-                    name: "Comfortable armchair",
-                    image: "/images/blog/article/bedroom/shoplook24.webp",
-                    link: "https://link.amazon/B0gm02Qa8"
+                    name: "Linen-look curtains",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook18.webp",
+                    link: "https://fkrt.clnk.in/BVMk"
                 },
-
-                {
-                    name: "Wooden side table",
-                    image: "/images/blog/article/bedroom/shoplook25.webp",
-                    link: "https://link.amazon/B0aAZM0Of"
-                },
-
-                {
-                    name: "Adjustable reading lamp",
-                    image: "/images/blog/article/bedroom/shoplook26.webp",
-                    link: "https://link.amazon/B0j644FDG"
-                }
 
             ]
 
@@ -453,7 +411,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Create a Cozy Reading Corner",
 
-            image: "/images/blog/article/bedroom/bedroom-idea11.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea11.webp",
 
             description:
                 "An unused corner can become one of the most inviting spots in your home with just a few thoughtful pieces. Add a comfortable accent chair, a small side table, and a warm lamp, then finish the space with a cushion and soft throw. A nearby plant or small bookshelf can make the corner feel even more complete.",
@@ -465,15 +423,19 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Big bed frame",
-                    image: "/images/blog/article/bedroom/shoplook8.webp",
-                    link: "https://link.amazon/B0h3qwZeW"
+                    name: "Accent armchair",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook19.webp",
+                    link: "https://fkrt.clnk.in/BVNZ"
                 },
-
                 {
-                    name: "Wall light Lamp ",
-                    image: "/images/blog/article/bedroom/shoplook9.webp",
-                    link: "https://link.amazon/B0glrybke"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook20.webp",
+                    link: "https://fkrt.clnk.in/BVN0"
+                },
+                {
+                    name: "Round side table",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook21.webp",
+                    link: "https://fkrt.clnk.in/BVN3"
                 },
 
             ]
@@ -487,7 +449,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Style Your Shelves Like a Designer",
 
-            image: "/images/blog/article/bedroom/bedroom-idea12.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea12.webp",
 
             description:
                 "Beautiful shelves usually have a balance of decorative and functional pieces. Mix books with vases, framed artwork, plants, baskets, and small objects instead of lining everything up evenly. Leave some open space between groups to keep the arrangement from looking cluttered.",
@@ -499,15 +461,14 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Linen Window Curtains",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook48.webp",
-                    link: "https://link.amazon/B0ebEGXWs"
+                    name: "Wooden wall shelf",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook22.webp",
+                    link: "https://fkrt.clnk.in/BVN6"
                 },
-
                 {
-                    name: "Velvet Luxury Curtains",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook49.webp",
-                    link: "https://link.amazon/B04mIgzUU"
+                    name: "Ceramic vase set",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook23.webp",
+                    link: "https://clnk.in/BVN83"
                 },
 
             ]
@@ -520,7 +481,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Upgrade Your Bedroom With Soft Textiles",
 
-            image: "/images/blog/article/bedroom/bedroom-idea13.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea13.webp",
 
             description:
                 "Soft textiles can make a bedroom feel instantly more comfortable and luxurious. Layer your bed with quality-looking sheets, a duvet or comforter, decorative cushions, and a throw at the foot of the bed. Matching everything isn't necessary—a coordinated palette usually looks more sophisticated.",
@@ -532,25 +493,19 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Minimal Book Collection",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    name: "Neutral Duvet Cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook24.webp",
+                    link: "https://fkrt.clnk.in/BVOg"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
-                },
-
-                {
-                    name: "Marble Decorative tray",
-                    image: "/images/blog/article/bedroom/shoplook27.webp",
-                    link: "https://link.amazon/B099wyie6"
+                    name: "Cushion cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
+                    link: "https://fkrt.clnk.in/BVKO"
                 },
                 {
-                    name: "Clock for table",
-                    image: "/images/blog/article/bedroom/shoplook28.webp",
-                    link: "https://link.amazon/B0fELykC1"
+                    name: "Comfy throw blanket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook8.webp",
+                    link: "https://fkrt.clnk.in/BVKQ"
                 },
 
             ]
@@ -564,7 +519,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Add a Stylish Bedside Table Setup",
 
-            image: "/images/blog/article/bedroom/bedroom-idea14.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea14.webp",
 
             description:
                 "A bedside table should be useful without becoming a clutter magnet. Keep the essentials within reach, then add a small lamp, decorative tray, book, candle, or tiny plant to create a polished setup. Closed storage can help hide items you don't want on display.",
@@ -576,17 +531,25 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Large Round Wall Mirror",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook60.webp",
-                    link: "https://link.amazon/B00iWWGdy"
+                    name: "Bedside wooden table",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook25.webp",
+                    link: "https://fkrt.clnk.in/BVOx"
                 },
-
                 {
-                    name: "Soft white armchair",
-                    image: "/images/blog/article/bedroom/shoplook29.webp",
-                    link: "https://link.amazon/B09Wua1Ql"
+                    name: "Small ceramic planter",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook26.webp",
+                    link: "https://fkrt.clnk.in/BVOB"
                 },
-
+                {
+                    name: "Table lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook27.webp",
+                    link: "https://fkrt.clnk.in/BVOz"
+                },
+                {
+                    name: "Decorative accessoiries tray",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook28.webp",
+                    link: "https://fkrt.clnk.in/BVOA"
+                },
 
             ]
 
@@ -596,7 +559,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Make Your Dining Area Feel Special",
 
-            image: "/images/blog/article/bedroom/bedroom-idea15.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea15.webp",
 
             description:
                 "You don't need formal dinner parties to make your dining area beautiful. A simple centerpiece, table runner, pendant light, or collection of candles can make everyday meals feel more intentional. Keep the decor proportional to the table so there's still plenty of room for dining comfortably.",
@@ -608,21 +571,19 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    name: "Wooden dining table ",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook29.webp",
+                    link: "https://fkrt.clnk.in/BVPy"
                 },
-
                 {
-                    name: "Bedroom rug for under the bed",
-                    image: "/images/blog/article/bedroom/shoplook7.webp",
-                    link: "https://link.amazon/B00xgbrR5"
+                    name: "Dining table runner",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook30.webp",
+                    link: "https://fkrt.clnk.in/BVPz"
                 },
-
                 {
-                    name: "Soft white armchair",
-                    image: "/images/blog/article/bedroom/shoplook30.webp",
-                    link: "https://link.amazon/B08LkrJau"
+                    name: "Pendant light",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook31.webp",
+                    link: "https://fkrt.clnk.in/BVPA"
                 },
 
             ]
@@ -636,7 +597,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Give Your Kitchen a Decorative Touch",
 
-            image: "/images/blog/article/bedroom/bedroom-idea16.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea16.webp",
 
             description:
                 "Kitchens can be both highly functional and beautifully styled. Display a few attractive everyday items—such as jars, wooden boards, bowls, or utensils—while keeping less attractive essentials tucked away. Open shelving or a small countertop arrangement can add personality without sacrificing practicality.",
@@ -648,19 +609,24 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    name: "Glass storage organizer",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook32.webp",
+                    link: "https://fkrt.clnk.in/BVPH"
                 },
                 {
-                    name: "neutral blanket",
-                    image: "/images/blog/article/bedroom/shoplook31.webp",
-                    link: "https://link.amazon/B0hBflDxT"
+                    name: "Wooden Serving Tray",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook33.webp",
+                    link: "https://fkrt.clnk.in/BVPI"
                 },
                 {
-                    name: "jute basket",
-                    image: "/images/blog/article/bedroom/shoplook32.webp",
-                    link: "https://link.amazon/B08kyYjip"
+                    name: "Ceramic Kitchen Canisters",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook34.webp",
+                    link: "https://fkrt.clnk.in/BVPJ"
+                },
+                {
+                    name: "Countertop Organizer",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook35.webp",
+                    link: "https://fkrt.clnk.in/BVPK"
                 },
 
 
@@ -673,7 +639,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Turn Your Bathroom Into a Spa-Like Retreat",
 
-            image: "/images/blog/article/bedroom/bedroom-idea17.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea17.webp",
 
             description:
                 "Small details can make an ordinary bathroom feel much more relaxing. Bring in soft towels, a textured bath mat, woven baskets, simple greenery, and warm lighting. A clean countertop with a few thoughtfully chosen accessories can create that calm, spa-inspired feeling without a renovation.",
@@ -685,20 +651,14 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Cotton bath towel",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook36.webp",
+                    link: "https://fkrt.clnk.in/BVPM"
                 },
                 {
-                    name: "Minimal Book Collection",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
-                },
-
-                {
-                    name: "Scented diffuser set",
-                    image: "/images/blog/article/bedroom/shoplook33.webp",
-                    link: "https://link.amazon/B03eirtCs"
+                    name: "Golden round mirror",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
+                    link: "https://clnk.in/BVJU"
                 },
 
 
@@ -711,7 +671,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Create a Calm Home Office",
 
-            image: "/images/blog/article/bedroom/bedroom-idea18.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea18.webp",
 
             description:
                 "A beautiful workspace can make working from home feel much more comfortable. Start with a functional desk and supportive chair, then add warm lighting, organized storage, greenery, and a few decorative pieces. Keep the color palette calming so the space feels focused rather than distracting.",
@@ -721,25 +681,25 @@ const homeDecorIdeasForEverySpace = {
             ],
 
             shopLook: [
-
-
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    name: "Wooden desk",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook37.webp",
+                    link: "https://fkrt.clnk.in/BVP2"
                 },
-
-
                 {
-                    name: "Boho style table lamp",
-                    image: "/images/blog/article/bedroom/shoplook34.webp",
-                    link: "https://link.amazon/B01JIerFn"
+                    name: "Lamp for desk",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook38.webp",
+                    link: "https://fkrt.clnk.in/BVP4"
                 },
-
                 {
-                    name: "Macrame wall hanging",
-                    image: "/images/blog/article/bedroom/shoplook35.webp",
-                    link: "https://link.amazon/B0emVRUCY"
+                    name: "Desk organizer",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook39.webp",
+                    link: "https://fkrt.clnk.in/BVP5"
+                },
+                {
+                    name: "Beige desk chair",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook40.webp",
+                    link: "https://fkrt.clnk.in/BVP3"
                 },
 
             ]
@@ -751,7 +711,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Use Baskets for Stylish Storage",
 
-            image: "/images/blog/article/bedroom/bedroom-idea19.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea19.webp",
 
             description:
                 "Storage doesn't have to look boring. Woven and fabric baskets can hide blankets, toys, accessories, laundry, or everyday clutter while adding texture and warmth to a room. Place them beneath consoles, inside shelving units, or beside furniture where they're easy to access.",
@@ -762,22 +722,9 @@ const homeDecorIdeasForEverySpace = {
 
             shopLook: [
                 {
-                    name: "white blanket for bed",
-                    image: "/images/blog/article/bedroom/shoplook36.webp",
-                    link: "https://link.amazon/B06ffIJmd"
-                },
-
-
-                {
-                    name: "Artificial plant for decor",
-                    image: "/images/blog/article/bedroom/shoplook37.webp",
-                    link: "https://link.amazon/B03qSMAyt"
-                },
-
-                {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook38.webp",
-                    link: "https://link.amazon/B0dtuc5tQ"
+                    name: "Woven storage basket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook3.webp",
+                    link: "https://fkrt.clnk.in/BVJQ"
                 },
 
             ]
@@ -791,7 +738,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Decorate Empty Corners",
 
-            image: "/images/blog/article/bedroom/bedroom-idea20.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea20.webp",
 
             description:
                 "Awkward corners can become useful and beautiful features instead of wasted space. Depending on the room, consider adding a tall plant, floor lamp, accent chair, narrow shelf, or small cabinet. The key is choosing something proportional to the available space.",
@@ -803,22 +750,25 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Wall lamp light",
-                    image: "/images/blog/article/bedroom/shoplook39.webp",
-                    link: "https://link.amazon/B0a2uP3tK"
-                },
-
-                {
-                    name: "Wooden Shelves",
-                    image: "/images/blog/article/bedroom/shoplook21.webp",
-                    link: "https://link.amazon/B0dEYOPhi"
+                    name: "Small round side table",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook41.webp",
+                    link: "https://fkrt.clnk.in/BVQf"
                 },
                 {
-                    name: "Artificial plant for decor",
-                    image: "/images/blog/article/bedroom/shoplook37.webp",
-                    link: "https://link.amazon/B03qSMAyt"
+                    name: "Tall indoor plant",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook13.webp",
+                    link: "https://clnk.in/BVLh"
                 },
-
+                {
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook4.webp",
+                    link: "https://clnk.in/BVJ4"
+                },
+                {
+                    name: "Minimal wall art frame ",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook15.webp",
+                    link: "https://fkrt.clnk.in/BVMf"
+                },
             ]
 
         },
@@ -830,7 +780,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Add Personality With Decorative Accessories",
 
-            image: "/images/blog/article/bedroom/bedroom-idea21.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea21.webp",
 
             description:
                 "Decorative accessories are what make a home feel personal rather than generic. Introduce pieces that reflect your taste, such as ceramic vases, sculptures, candles, framed photographs, books, or meaningful objects collected over time. A few carefully selected pieces often have more impact than a crowded display.",
@@ -842,15 +792,19 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Bedside Lamp",
-                    image: "/images/blog/article/bedroom/shoplook40.webp",
-                    link: "https://link.amazon/B0dgJLPMy"
+                    name: "Decorative accessoiries tray",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook28.webp",
+                    link: "https://fkrt.clnk.in/BVOA"
                 },
-
                 {
-                    name: "Decorative LED lights",
-                    image: "/images/blog/article/bedroom/shoplook41.webp",
-                    link: "https://link.amazon/B07VRDHMN"
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
+                },
+                {
+                    name: "Decorative vase ",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
+                    link: "https://fkrt.clnk.in/BVK5"
                 },
 
             ]
@@ -861,7 +815,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Create a Beautiful Accent Wall",
 
-            image: "/images/blog/article/bedroom/bedroom-idea22.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea22.webp",
 
             description:
                 "An accent wall gives you an opportunity to create a strong focal point without redesigning the entire room. You can use artwork, mirrors, floating shelves, textured wallpaper, or even a different paint color to draw attention to one wall.",
@@ -873,15 +827,15 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Bedside Bench",
-                    image: "/images/blog/article/bedroom/shoplook42.webp",
-                    link: "https://link.amazon/B0gM6Dw93"
+                    name: "Minimal wall art frame ",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook15.webp",
+                    link: "https://fkrt.clnk.in/BVMf"
                 },
 
                 {
-                    name: "Decorative Ceramic vase",
-                    image: "/images/blog/article/bedroom/shoplook43.webp",
-                    link: "https://link.amazon/B050Fl8xr"
+                    name: "Table lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook5.webp",
+                    link: "https://clnk.in/BVJ3"
                 },
             ]
 
@@ -891,7 +845,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Mix Different Materials and Textures",
 
-            image: "/images/blog/article/bedroom/bedroom-idea23.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea23.webp",
 
             description:
                 "A room can feel flat when everything has the same finish. Mixing materials such as wood, glass, metal, ceramic, linen, cotton, and woven fibers adds depth and makes the interior feel more layered. The trick is to coordinate them through a consistent color palette.",
@@ -903,21 +857,21 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Cushion cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
+                    link: "https://fkrt.clnk.in/BVKO"
                 },
                 {
-                    name: "Minimal Book Collection",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    name: "Woven storage basket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook3.webp",
+                    link: "https://fkrt.clnk.in/BVJQ"
+                },
+                {
+                    name: "Neutral area rug",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook16.webp",
+                    link: "https://fkrt.clnk.in/BVMi"
                 },
 
-                {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook38.webp",
-                    link: "https://link.amazon/B0dtuc5tQ"
-                },
             ]
 
         },
@@ -926,7 +880,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Choose Multifunctional Furniture",
 
-            image: "/images/blog/article/bedroom/bedroom-idea24.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea24.webp",
 
             description:
                 "Furniture that performs more than one job is especially valuable in smaller homes. A storage ottoman can provide seating and hidden storage, while nesting tables can be separated when needed and tucked away when they aren't. These pieces help keep your home functional without adding unnecessary clutter.",
@@ -938,26 +892,14 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Custom Photo Frame Set",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook65.webp",
-                    link: "https://link.amazon/B0dbWnZi5"
-                },
-
-                {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Storage ottoman",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook42.webp",
+                    link: "https://fkrt.clnk.in/BVQO"
                 },
                 {
-                    name: "Minimal Book Collection",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
-                },
-
-                {
-                    name: "Bedside table drawer",
-                    image: "/images/blog/article/bedroom/shoplook38.webp",
-                    link: "https://link.amazon/B0dtuc5tQ"
+                    name: "Nesting side table",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook43.webp",
+                    link: "https://fkrt.clnk.in/BVQN"
                 },
 
             ]
@@ -968,7 +910,7 @@ const homeDecorIdeasForEverySpace = {
 
             title: "Finish Your Home With Personal Touches",
 
-            image: "/images/blog/article/bedroom/bedroom-idea25.webp",
+            image: "/images/blog/article/25-home-decor-ideas-for-every-space/home-decor-for-every-space-idea25.webp",
 
             description:
                 "The final layer of decorating should be personal. Display favorite photographs, travel memories, books, artwork, handmade pieces, or objects that have sentimental value. These details make your home feel lived-in and authentic rather than perfectly staged.",
@@ -980,28 +922,20 @@ const homeDecorIdeasForEverySpace = {
             shopLook: [
 
                 {
-                    name: "Custom Photo Frame Set",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook65.webp",
-                    link: "https://link.amazon/B0dbWnZi5"
-                },
-
-                {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Floor lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook44.webp",
+                    link: "https://clnk.in/BVQZ"
                 },
                 {
-                    name: "Minimal Book Collection",
-                    image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    name: "Wooden shelf",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook45.webp",
+                    link: "https://fkrt.clnk.in/BVQY"
                 },
-
                 {
-                    name: "Natural Wood Floating Shelf",
-                    image: "/images/blog/article/bedroom/shoplook44.webp",
-                    link: "https://link.amazon/B05PLh38i"
+                    name: "Black Photo frame",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook14.webp",
+                    link: "https://fkrt.clnk.in/BVMe"
                 },
-
             ]
 
         },

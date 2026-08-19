@@ -102,76 +102,143 @@ export default function LatestInspiration() {
 
                 </div>
 
-
-                {/* Pagination */}
                 {/* Pagination */}
                 {totalPages > 1 && (
+                    <div className="mt-14 flex items-center justify-center gap-2">
 
-                    <div className="mt-14 flex items-center justify-center gap-3">
-
-                        {/* First 3 pages */}
-                        {Array.from(
-                            {
-                                length: Math.min(3, totalPages),
-                            },
-                            (_, index) => index + 1
-                        ).map((page) => (
-
-                            <button
-                                key={page}
-                                onClick={() => setCurrentPage(page)}
-                                className={`
-                    flex h-11 w-11
-                    items-center justify-center
-                    rounded-full
-                    text-sm
-                    transition
-                    ${currentPage === page
-                                        ? "bg-stone-900 text-white shadow-md"
-                                        : "bg-stone-100 text-stone-600 hover:bg-stone-200"
-                                    }
-                `}
-                            >
-                                {page}
-                            </button>
-
-                        ))}
-
-
-                        {/* Dots */}
-                        {totalPages > 4 && (
-                            <span className="px-1 text-stone-400">
-                                ...
-                            </span>
-                        )}
-
-
-                        {/* Last page */}
-                        {totalPages > 3 && (
-
-                            <button
-                                onClick={() =>
-                                    setCurrentPage(totalPages)
+                        {/* Previous Button */}
+                        <button
+                            onClick={() =>
+                                setCurrentPage((prev) => Math.max(prev - 1, 1))
+                            }
+                            disabled={currentPage === 1}
+                            className={`
+                flex h-11 w-11 items-center justify-center
+                rounded-full text-lg transition
+                ${currentPage === 1
+                                    ? "cursor-not-allowed bg-stone-100 text-stone-300"
+                                    : "bg-stone-100 text-stone-700 hover:bg-stone-200"
                                 }
+            `}
+                            aria-label="Previous page"
+                        >
+                            ←
+                        </button>
+
+
+                        {/* Pagination Numbers */}
+                        <div className="flex items-center gap-2">
+
+                            {/* First page */}
+                            <button
+                                onClick={() => setCurrentPage(1)}
                                 className={`
-                    flex h-11 w-11
-                    items-center justify-center
-                    rounded-full
-                    text-sm
-                    transition
-                    ${currentPage === totalPages
+                    flex h-11 w-11 items-center justify-center
+                    rounded-full text-sm transition
+                    ${currentPage === 1
                                         ? "bg-stone-900 text-white shadow-md"
                                         : "bg-stone-100 text-stone-600 hover:bg-stone-200"
                                     }
                 `}
                             >
-                                {totalPages}
+                                1
                             </button>
 
-                        )}
+
+                            {/* Left dots */}
+                            {currentPage > 3 && (
+                                <span className="px-1 text-stone-400">
+                                    ...
+                                </span>
+                            )}
+
+
+                            {/* Middle pages */}
+                            {Array.from(
+                                { length: totalPages },
+                                (_, index) => index + 1
+                            )
+                                .filter((page) => {
+
+                                    // First page already shown
+                                    if (page === 1) return false;
+
+                                    // Last page separately shown
+                                    if (page === totalPages) return false;
+
+                                    // Show pages around current page
+                                    return Math.abs(page - currentPage) <= 1;
+                                })
+                                .map((page) => (
+
+                                    <button
+                                        key={page}
+                                        onClick={() => setCurrentPage(page)}
+                                        className={`
+                            flex h-11 w-11 items-center justify-center
+                            rounded-full text-sm transition
+                            ${currentPage === page
+                                                ? "bg-stone-900 text-white shadow-md"
+                                                : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+                                            }
+                        `}
+                                    >
+                                        {page}
+                                    </button>
+
+                                ))}
+
+
+                            {/* Right dots */}
+                            {currentPage < totalPages - 2 && (
+                                <span className="px-1 text-stone-400">
+                                    ...
+                                </span>
+                            )}
+
+
+                            {/* Last page */}
+                            {totalPages > 1 && (
+                                <button
+                                    onClick={() => setCurrentPage(totalPages)}
+                                    className={`
+                        flex h-11 w-11 items-center justify-center
+                        rounded-full text-sm transition
+                        ${currentPage === totalPages
+                                            ? "bg-stone-900 text-white shadow-md"
+                                            : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+                                        }
+                    `}
+                                >
+                                    {totalPages}
+                                </button>
+                            )}
+
+                        </div>
+
+
+                        {/* Next Button */}
+                        <button
+                            onClick={() =>
+                                setCurrentPage((prev) =>
+                                    Math.min(prev + 1, totalPages)
+                                )
+                            }
+                            disabled={currentPage === totalPages}
+                            className={`
+                flex h-11 w-11 items-center justify-center
+                rounded-full text-lg transition
+                ${currentPage === totalPages
+                                    ? "cursor-not-allowed bg-stone-100 text-stone-300"
+                                    : "bg-stone-100 text-stone-700 hover:bg-stone-200"
+                                }
+            `}
+                            aria-label="Next page"
+                        >
+                            →
+                        </button>
 
                     </div>
-
                 )}
 
             </div>
