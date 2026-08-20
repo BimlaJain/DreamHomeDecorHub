@@ -91,16 +91,15 @@ export async function generateMetadata({ params }) {
     };
 }
 
-import ArticleNavbar from "@/components/article/ArticleNavbar";
 import ArticleHero from "@/components/article/ArticleHero";
 import TableOfContents from "@/components/article/TableOfContent";
 import IdeaCard from "@/components/article/IdeaCard";
-import CommonMistakes from "@/components/article/CommonMistakes";
 import RelatedArticles from "@/components/article/RelatedArticles";
 import BrandBanner from "@/components/article/BrandBanner";
 import PinterestCTA from "@/components/article/PinterestCTA";
 import Footer from "@/components/home-page/Footer";
 import NewsletterCTA from "@/components/article/NewsletterCTA";
+import Header from "@/components/home-page/Header";
 
 export default async function Page({ params }) {
 
@@ -157,7 +156,7 @@ export default async function Page({ params }) {
                 }}
             />
       
-            <ArticleNavbar
+            <Header
                 category={article.category}
                 title={article.title}
             />
