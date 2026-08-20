@@ -452,24 +452,14 @@ const diyDecorIdeas = {
             shopLook: [
 
                 {
-                    name: "Bedside wooden table",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook25.webp",
-                    link: "https://fkrt.clnk.in/BVOx"
+                    name: "Woven storage basket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook3.webp",
+                    link: "https://fkrt.clnk.in/BVJQ"
                 },
                 {
-                    name: "Small ceramic planter",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook26.webp",
-                    link: "https://fkrt.clnk.in/BVOB"
-                },
-                {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook27.webp",
-                    link: "https://fkrt.clnk.in/BVOz"
-                },
-                {
-                    name: "Decorative accessoiries tray",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook28.webp",
-                    link: "https://fkrt.clnk.in/BVOA"
+                    name: "Storage basket",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook8.webp",
+                    link: "https://clnk.in/BWsv"
                 },
 
             ]
@@ -492,19 +482,9 @@ const diyDecorIdeas = {
             shopLook: [
 
                 {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook29.webp",
-                    link: "https://fkrt.clnk.in/BVPy"
-                },
-                {
-                    name: "Dining table runner",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook30.webp",
-                    link: "https://fkrt.clnk.in/BVPz"
-                },
-                {
-                    name: "Pendant light",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook31.webp",
-                    link: "https://fkrt.clnk.in/BVPA"
+                    name: "Wooden plant stand",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook9.webp",
+                    link: "https://clnk.in/BWsY"
                 },
 
             ]
@@ -530,25 +510,16 @@ const diyDecorIdeas = {
             shopLook: [
 
                 {
-                    name: "Glass storage organizer",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook32.webp",
-                    link: "https://fkrt.clnk.in/BVPH"
+                    name: "Console center table",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook12.webp",
+                    link: "https://fkrt.clnk.in/BVK2"
                 },
                 {
-                    name: "Wooden Serving Tray",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook33.webp",
-                    link: "https://fkrt.clnk.in/BVPI"
+                    name: "Candle holder",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook4.webp",
+                    link: "https://clnk.in/BWs1"
                 },
-                {
-                    name: "Ceramic Kitchen Canisters",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook34.webp",
-                    link: "https://fkrt.clnk.in/BVPJ"
-                },
-                {
-                    name: "Countertop Organizer",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook35.webp",
-                    link: "https://fkrt.clnk.in/BVPK"
-                },
+
 
 
             ]
@@ -572,16 +543,20 @@ const diyDecorIdeas = {
             shopLook: [
 
                 {
-                    name: "Cotton bath towel",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook36.webp",
-                    link: "https://fkrt.clnk.in/BVPM"
+                    name: "Cushion cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
+                    link: "https://fkrt.clnk.in/BVKO"
                 },
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
-                    link: "https://clnk.in/BVJU"
+                    name: "Upholstered Headboard,",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook10.webp",
+                    link: "https://clnk.in/BWs9"
                 },
-
+                {
+                    name: "Wooden Bedside Table",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook11.webp",
+                    link: "https://clnk.in/BWs8"
+                },
 
             ]
 
@@ -603,24 +578,9 @@ const diyDecorIdeas = {
 
             shopLook: [
                 {
-                    name: "Wooden desk",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook37.webp",
-                    link: "https://fkrt.clnk.in/BVP2"
-                },
-                {
-                    name: "Lamp for desk",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook38.webp",
-                    link: "https://fkrt.clnk.in/BVP4"
-                },
-                {
-                    name: "Desk organizer",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook39.webp",
-                    link: "https://fkrt.clnk.in/BVP5"
-                },
-                {
-                    name: "Beige desk chair",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook40.webp",
-                    link: "https://fkrt.clnk.in/BVP3"
+                    name: "Abstract Wall art",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook5.webp",
+                    link: "https://clnk.in/BWlI"
                 },
 
             ]
@@ -643,9 +603,14 @@ const diyDecorIdeas = {
 
             shopLook: [
                 {
-                    name: "Woven storage basket",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook3.webp",
-                    link: "https://fkrt.clnk.in/BVJQ"
+                    name: "Candle holder",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook12.webp",
+                    link: "https://clnk.in/BWtf"
+                },
+                {
+                    name: "Candles",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
+                    link: "https://clnk.in/BWtg"
                 },
 
             ]
@@ -671,24 +636,9 @@ const diyDecorIdeas = {
             shopLook: [
 
                 {
-                    name: "Small round side table",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook41.webp",
-                    link: "https://fkrt.clnk.in/BVQf"
-                },
-                {
-                    name: "Tall indoor plant",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook13.webp",
-                    link: "https://clnk.in/BVLh"
-                },
-                {
-                    name: "Slim floor lamp",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook4.webp",
-                    link: "https://clnk.in/BVJ4"
-                },
-                {
-                    name: "Minimal wall art frame ",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook15.webp",
-                    link: "https://fkrt.clnk.in/BVMf"
+                    name: "Wooden plant stand",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook9.webp",
+                    link: "https://clnk.in/BWsY"
                 },
             ]
 
