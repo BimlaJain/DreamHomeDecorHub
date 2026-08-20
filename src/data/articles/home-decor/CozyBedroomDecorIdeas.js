@@ -5,6 +5,9 @@ const cozyBedroomDecorIdeas = {
     slug: "25-cozy-bedroom-decor-ideas",
 
     category: "Bedroom",
+    categories: [
+        "Home Decor",
+    ],
 
     title: "25 Bedroom Decor Ideas for a cozy home in 2026",
 

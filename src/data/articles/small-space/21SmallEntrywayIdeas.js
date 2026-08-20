@@ -1,10 +1,11 @@
 
+
 const smallEntrywayIdeas = {
 
 
     slug: "21-Small-Entryway-Ideas-to-Make-Your-Home-Feel-Welcoming",
 
-    category: "Entryway ",
+    category: "Small Spaces",
 
     title: "21 Small Beautiful Entryway Ideas to Make Your Home Feel Instantly Welcoming",
 

@@ -4,7 +4,10 @@ const balconyRecreateIdeas = {
 
     slug: "21-Cozy-Balcony-Decor-Ideas-for-a-Relaxing-Space",
 
-    category: "Home Office",
+    category: "Balcony Decor",
+    categories: [
+        "Home Decor",
+    ],
 
     title: "21 Cozy Balcony Decor Ideas for a Relaxing Space",
 

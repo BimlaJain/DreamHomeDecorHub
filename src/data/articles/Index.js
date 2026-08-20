@@ -1,17 +1,17 @@
 
-import closetOrganizationIdeas from "./15ClosetOrganizationIdeas";
-import laundryRoomOrganizationIdeas from "./15LaundryRoomOrganizationIdeas";
-import bathroomDecorIdeas from "./17BathroomDecorIdeas";
-import readingNookIdeas from "./17ReadingNookIdeas";
-import kitchenDecorIdeas from "./18KitchenDecorIdeas";
-import balconyRecreateIdeas from "./21BalconyRecreateIdeas";
-import homeOfficeIdeas from "./21HomeOfficeIdeas";
-import smallEntrywayIdeas from "./21SmallEntrywayIdeas";
-import smallSpaceOrganizationIdeas from "./21SmallSpaceOrganizationIdeas";
-import homeDecorIdeasForEverySpace from "./25HomeDecorIdeasForEverySpace";
-import cozyBedroomDecorIdeas from "./CozyBedroomDecorIdeas";
-import cozyLivingRoom from "./CozyLivingRoom";
-import  minimalistFloatingShelves  from "./MinimalistFloatingShleves";
+import closetOrganizationIdeas from "./organization/15ClosetOrganizationIdeas";
+import laundryRoomOrganizationIdeas from "./organization/15LaundryRoomOrganizationIdeas";
+import bathroomDecorIdeas from "./home-decor/17BathroomDecorIdeas";
+import readingNookIdeas from "./home-decor/17ReadingNookIdeas";
+import kitchenDecorIdeas from "./home-decor/18KitchenDecorIdeas";
+import balconyRecreateIdeas from "./home-decor/21BalconyRecreateIdeas";
+import homeOfficeIdeas from "./home-decor/21HomeOfficeIdeas";
+import smallEntrywayIdeas from "./small-space/21SmallEntrywayIdeas";
+import smallSpaceOrganizationIdeas from "./small-space/21SmallSpaceOrganizationIdeas";
+import homeDecorIdeasForEverySpace from "./home-decor/25HomeDecorIdeasForEverySpace";
+import cozyBedroomDecorIdeas from "./home-decor/CozyBedroomDecorIdeas";
+import cozyLivingRoom from "./home-decor/CozyLivingRoom";
+import  minimalistFloatingShelves  from "./home-decor/MinimalistFloatingShleves";
 
 const articles = [
 

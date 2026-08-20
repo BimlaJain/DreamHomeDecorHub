@@ -8,11 +8,49 @@ import {
     ChevronRight,
 } from "lucide-react";
 export const navItems = [
-    { title: "Home", href: "/" },
-    { title: "Ideas", href: "/ideas" },
-    { title: "Contact", href: "/contact" },
-    { title: "Blog", href: "/blog" },
-    { title: "About", href: "/about" },
+    {
+        title: "Home",
+        href: "/",
+    },
+    {
+        title: "Home Decor",
+        href: "/home-decor",
+        dropdown: true,
+        categories: [
+            {
+                title: "Rooms",
+                items: [
+                    { title: "Living Room", href: "/home-decor/living-room" },
+                    { title: "Bedroom", href: "/home-decor/bedroom" },
+                    { title: "Kitchen", href: "/home-decor/kitchen" },
+                    { title: "Bathroom", href: "/home-decor/bathroom" },
+                    { title: "Dining Room", href: "/home-decor/dining-room" },
+                    { title: "Home Office", href: "/home-decor/home-office" },
+                ],
+            },
+            {
+                title: "Ideas",
+                items: [
+                    { title: "Small Spaces", href: "/home-decor/small-spaces" },
+                    { title: "Organization", href: "/home-decor/organization" },
+                    { title: "Seasonal Decor", href: "/home-decor/seasonal-decor" },
+                    { title: "Budget Decor", href: "/home-decor/budget-decor" },
+                ],
+            },
+        ],
+    },
+    {
+        title: "Blog",
+        href: "/blog",
+    },
+    {
+        title: "Contact",
+        href: "/contact",
+    },
+    {
+        title: "About",
+        href: "/about",
+    },
 ];
 
 export const categories = [

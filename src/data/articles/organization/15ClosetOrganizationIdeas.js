@@ -4,7 +4,7 @@ const closetOrganizationIdeas = {
 
     slug: "15-Closet-Organization-Ideas-Smart-Ways-to-Maximize-Your-Storage-Space",
 
-    category: "Closet Organization",
+    category: "Organization",
 
     title: "15 Closet Organization Ideas: Smart Ways to Maximize Your Storage Space",
 

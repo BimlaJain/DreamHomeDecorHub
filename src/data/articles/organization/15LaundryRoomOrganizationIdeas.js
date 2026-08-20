@@ -4,8 +4,8 @@ const laundryRoomOrganizationIdeas = {
 
     slug: "Laundry-Room-Organization-Ideas-for-Small-Spaces-Smart-Ways-to-Maximize-Every-Inch",
 
-    category: "Closet Organization",
-
+    category: "Organization",
+    
     title: "Laundry Room Organization Ideas for Small Spaces: Smart Ways to Maximize Every Inch",
 
     readTime: "16 min read",

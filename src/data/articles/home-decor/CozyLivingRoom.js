@@ -1035,6 +1035,9 @@ const article = {
     slug: "21-cozy-living-room-ideas",
 
     category: "Living Room",
+    categories: [
+        "Home Decor",
+    ],
 
     title: "21 Cozy Living Room Ideas You'll Love in 2026",
 

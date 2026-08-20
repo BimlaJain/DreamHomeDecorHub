@@ -5,6 +5,9 @@ const kitchenDecorIdeas = {
     slug: "18-kitchen-decor-ideas",
 
     category: "Kitchen",
+    categories: [
+        "Home Decor",
+    ],
 
     title: "18 Kitchen Decor Ideas to Make Your Space Look Expensive on Any Budget",
 

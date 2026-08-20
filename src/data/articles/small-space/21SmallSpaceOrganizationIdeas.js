@@ -4,7 +4,7 @@ const smallSpaceOrganizationIdeas = {
 
     slug: "21-Small-Space-Organization-Ideas-That-Actually-Work",
 
-    category: "Small Space ",
+    category: "Small Spaces",
 
     title: "21 Small Space Organization Ideas That Actually Work",
 

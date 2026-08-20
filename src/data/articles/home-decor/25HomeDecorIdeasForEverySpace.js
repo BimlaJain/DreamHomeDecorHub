@@ -5,6 +5,9 @@ const homeDecorIdeasForEverySpace = {
     slug: "25-Home-Decor-Ideas-to-Make-Your-Home-Look-Beautiful-and-Cozy",
 
     category: "Home Decor",
+    categories: [
+        "Home Decor",
+    ],
 
     title: "25 Home Decor Ideas to Make Your Home Look Beautiful & Cozy",
 
