@@ -14,7 +14,7 @@ export default function HomeDecorPage() {
 
     const homeDecorArticles = articles
         .filter((article) =>
-            article.categories?.includes("Home Decor")
+            article.category?.includes("Home Decor")
         )
         .sort(
             (a, b) =>

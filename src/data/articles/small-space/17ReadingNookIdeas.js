@@ -4,10 +4,8 @@ const readingNookIdeas = {
 
     slug: "17-Reading-Nook-Ideas-to-Create-Your-Own-Cozy-Escape",
 
-    category: "Reading Nook",
-    categories: [
-        "Home Decor",
-    ],
+    category: "Small Spaces",
+   
 
     title: "17 Reading Nook Ideas to Create Your Own Cozy Escape",
 

@@ -35,6 +35,7 @@ export const navItems = [
                     { title: "Organization", href: "/home-decor/organization" },
                     { title: "Seasonal Decor", href: "/home-decor/seasonal-decor" },
                     { title: "Budget Decor", href: "/home-decor/budget-decor" },
+                    { title: "DIY Decor", href: "/home-decor/diy-decor" },
                 ],
             },
         ],
@@ -56,22 +57,22 @@ export const navItems = [
 export const categories = [
     {
         title: "Living Room",
-        href: "/blog/21-cozy-living-room-ideas",
+        href: "/home-decor/living-room",
         image: "/images/home-page/living-room.webp",
     },
     {
         title: "Bedroom",
-        href: "/blog/25-cozy-bedroom-decor-ideas",
+        href: "/home-decor/bedroom",
         image: "/images/home-page/bedroom.webp",
     },
     {
         title: "Kitchen",
-        href: "/blog/18-kitchen-decor-ideas",
+        href: "/home-decor/kitchen",
         image: "/images/home-page/kitchen.webp",
     },
     {
         title: "Bathroom",
-        href: "/blog/17-bathroom-decor-ideas",
+        href: "/home-decor/bathroom",
         image: "/images/home-page/bathroom.webp",
     },
     {
@@ -86,12 +87,12 @@ export const categories = [
     },
     {
         title: "Small Spaces",
-        href: "/blog/21-Small-Space-Organization-Ideas-That-Actually-Work",
+        href: "/home-decor/small-spaces",
         image: "/images/home-page/small-space.webp",
     },
     {
         title: "DIY Decor",
-        href: "/diy",
+        href: "/home-decor/diy-decor",
         image: "/images/home-page/workspace.webp",
     },
 ];

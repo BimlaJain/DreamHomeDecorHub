@@ -67,6 +67,11 @@ const categories = {
         description:
             "Create a beautiful home without overspending with affordable decorating ideas, budget-friendly styling tips, and smart ways to make your space look expensive for less.",
     },
+    "diy-decor": {
+        name: "DIY Decor",
+        description:
+            "Give your home a personal touch with these creative DIY decor ideas that are simple, affordable, and easy to recreate. From handmade wall art and decorative accents to upcycled furniture, personalized storage, and cozy seasonal pieces, discover beautiful projects that can transform your space without spending a fortune. Whether you're refreshing one corner or giving an entire room a new look, these DIY home decor ideas are perfect for adding character, creativity, and a unique feel to your home.",
+    },
 };
 
 
