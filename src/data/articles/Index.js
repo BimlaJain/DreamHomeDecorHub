@@ -13,6 +13,7 @@ import cozyBedroomDecorIdeas from "./home-decor/CozyBedroomDecorIdeas";
 import cozyLivingRoom from "./home-decor/CozyLivingRoom";
 import  minimalistFloatingShelves  from "./home-decor/MinimalistFloatingShleves";
 import diyDecorIdeas from "./diy-decor/21DIYDecorIdeas";
+import cozyFallHomeDecorIdeas from "./seasonal-decor/27CozyFallHomeDecorIdeas";
 
 const articles = [
 
@@ -30,6 +31,7 @@ const articles = [
     smallSpaceOrganizationIdeas,
     homeDecorIdeasForEverySpace,
     diyDecorIdeas,
+    cozyFallHomeDecorIdeas,
     
     
 
