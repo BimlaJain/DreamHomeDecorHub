@@ -7,6 +7,7 @@ const cozyBedroomDecorIdeas = {
     category: "Bedroom",
     categories: [
         "Home Decor",
+        "Bedroom",
     ],
 
     title: "25 Bedroom Decor Ideas for a cozy home in 2026",

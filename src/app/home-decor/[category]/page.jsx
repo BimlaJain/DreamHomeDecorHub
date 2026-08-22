@@ -91,9 +91,14 @@ export default async function CategoryPage({ params }) {
     const categoryArticles = articles
         .filter((article) => {
 
-            return (
-                article.category?.toLowerCase() ===
-                categoryInfo.name.toLowerCase()
+            const articleCategories = article.categories || [
+                article.category
+            ];
+
+            return articleCategories.some(
+                (cat) =>
+                    cat?.toLowerCase() ===
+                    categoryInfo.name.toLowerCase()
             );
 
         })
@@ -101,7 +106,6 @@ export default async function CategoryPage({ params }) {
             (a, b) =>
                 new Date(b.updated) - new Date(a.updated)
         );
-
 
     return (
         <main>

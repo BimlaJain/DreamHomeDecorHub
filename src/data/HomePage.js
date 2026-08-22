@@ -4,8 +4,7 @@ import {
     Cookie,
     Database,
     User,
-    Mail,
-    ChevronRight,
+   
 } from "lucide-react";
 export const navItems = [
     {
@@ -31,6 +30,7 @@ export const navItems = [
             {
                 title: "Ideas",
                 items: [
+                    { title: "Home Decor", href: "/home-decor" },
                     { title: "Small Spaces", href: "/home-decor/small-spaces" },
                     { title: "Organization", href: "/home-decor/organization" },
                     { title: "Seasonal Decor", href: "/home-decor/seasonal-decor" },

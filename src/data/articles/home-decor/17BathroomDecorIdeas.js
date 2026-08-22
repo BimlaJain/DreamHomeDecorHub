@@ -8,6 +8,7 @@ const bathroomDecorIdeas = {
 
     categories: [
         "Home Decor",
+        "Bathroom"
     ],
     title: "17 Modern Cozy Bathroom Ideas for a Relaxing Spa-Like Feel at Home",
 

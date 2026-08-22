@@ -14,6 +14,7 @@ import cozyLivingRoom from "./home-decor/CozyLivingRoom";
 import  minimalistFloatingShelves  from "./home-decor/MinimalistFloatingShleves";
 import diyDecorIdeas from "./diy-decor/21DIYDecorIdeas";
 import cozyFallHomeDecorIdeas from "./seasonal-decor/27CozyFallHomeDecorIdeas";
+import cozyLivingRoomIdeasOnaBudget from "./budget-decor/27CozyLivingRoomIdeasonaBudget";
 
 const articles = [
 
@@ -32,6 +33,7 @@ const articles = [
     homeDecorIdeasForEverySpace,
     diyDecorIdeas,
     cozyFallHomeDecorIdeas,
+    cozyLivingRoomIdeasOnaBudget,
     
     
 

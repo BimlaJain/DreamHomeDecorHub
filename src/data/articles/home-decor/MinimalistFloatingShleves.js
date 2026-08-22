@@ -4,7 +4,7 @@ const minimalistFloatingShelves = {
 
     slug: "minimalist-floating-shelf-ideas",
 
-    category: "Living Room",
+    category: "Home Decor",
     categories: [
         "Home Decor",
     ],

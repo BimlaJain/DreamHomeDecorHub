@@ -7,6 +7,7 @@ const homeOfficeIdeas = {
     category: "Home Office",
     categories: [
         "Home Decor",
+        "Home Office",
     ],
 
     title: "21 Cozy Home Office Ideas to Create a Productive and Beautiful Workspace",
