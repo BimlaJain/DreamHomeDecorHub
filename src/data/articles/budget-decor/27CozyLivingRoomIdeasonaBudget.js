@@ -108,39 +108,19 @@ const cozyLivingRoomIdeasOnaBudget = {
 
                 {
                     name: "3-seater sofa set ",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
-                    link: "https://clnk.in/BWS8"
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook1.webp",
+                    link: "https://clnk.in/BXgJ"
                 },
 
                 {
-                    name: "Center coffee table",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
-                    link: "https://clnk.in/BWS9"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook2.webp",
+                    link: "https://clnk.in/BXgK"
                 },
                 {
-                    name: "Terracota cushion cover",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
-                    link: "https://clnk.in/BWTc"
-                },
-                {
-                    name: "Beautiful flower vase",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook4.webp",
-                    link: "https://clnk.in/BWTd"
-                },
-                {
-                    name: "Warm table lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BWTf"
-                },
-                {
-                    name: "woven Jute rug",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWTi"
-                },
-                {
-                    name: "Artificial wheat stem",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook7.webp",
-                    link: "https://clnk.in/BWTj"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
 
             ]
@@ -164,42 +144,28 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "3-seater sofa set ",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
-                    link: "https://clnk.in/BWS8"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
 
                 {
-                    name: "Center coffee table",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
-                    link: "https://clnk.in/BWS9"
+                    name: "Grey cushion",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook4.webp",
+                    link: "https://clnk.in/BXgV"
                 },
 
                 {
-                    name: "Slim floor lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook8.webp",
-                    link: "https://clnk.in/BWTo"
-                },
-                {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
-                },
-                {
-                    name: "woven Jute rug",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWTi"
-                },
-                {
-                    name: "Beautiful flower vase",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook4.webp",
-                    link: "https://clnk.in/BWTd"
+                    name: "Brown cushion cover ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook5.webp",
+                    link: "https://clnk.in/BXgW"
                 },
                 {
                     name: "Cushion cover",
                     image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
                     link: "https://fkrt.clnk.in/BVKO"
                 },
+
             ]
 
         },
@@ -221,24 +187,9 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
-                    link: "https://clnk.in/BVJU"
-                },
-                {
-                    name: "Beautiful flower vase",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook4.webp",
-                    link: "https://clnk.in/BWTd"
-                },
-                {
-                    name: "Candle holder",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook12.webp",
-                    link: "https://clnk.in/BWtf"
-                },
-                {
-                    name: "slim wooden console table",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook9.webp",
-                    link: "https://clnk.in/BWTD"
+                    name: "Neutral area rug ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook6.webp",
+                    link: "https://clnk.in/BXg3"
                 },
             ]
 
@@ -261,24 +212,19 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Boucle cushions",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook10.webp",
-                    link: "https://clnk.in/BWTN"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook2.webp",
+                    link: "https://clnk.in/BXgK"
                 },
                 {
-                    name: "Beige throw",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook11.webp",
-                    link: "https://clnk.in/BWTM"
+                    name: "Lantern",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook28.webp",
+                    link: "https://clnk.in/BWWH"
                 },
                 {
-                    name: "Chunky knit throw",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook12.webp",
-                    link: "https://clnk.in/BWTL"
-                },
-                {
-                    name: "Rust throw",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWTJ"
+                    name: "Warm table lamp",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
+                    link: "https://clnk.in/BWTf"
                 },
 
             ]
@@ -302,34 +248,14 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Warm table lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BWTf"
+                    name: "pampas grass",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
+                    link: "https://clnk.in/BWlU"
                 },
                 {
-                    name: "Boucle cushions",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook10.webp",
-                    link: "https://clnk.in/BWTN"
-                },
-                {
-                    name: "Terracota cushion cover",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
-                    link: "https://clnk.in/BWTc"
-                },
-                {
-                    name: "Wooden Bedside Table",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook11.webp",
-                    link: "https://clnk.in/BWs8"
-                },
-                {
-                    name: "Cream bedding",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook14.webp",
-                    link: "https://clnk.in/BWTZ"
-                },
-                {
-                    name: "Beige rug",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook15.webp",
-                    link: "https://clnk.in/BWT0"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
 
 
@@ -352,21 +278,15 @@ const cozyLivingRoomIdeasOnaBudget = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
+                    name: "Beige throw",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook11.webp",
+                    link: "https://clnk.in/BWTM"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
-                },
-                {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook16.webp",
-                    link: "https://clnk.in/BWUG"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook8.webp",
+                    link: "https://clnk.in/BWTo"
                 },
 
             ]
@@ -390,24 +310,9 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
-                },
-                {
-                    name: "3-seater sofa set ",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
-                    link: "https://clnk.in/BWS8"
-                },
-                {
-                    name: "Boucle cushions",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook10.webp",
-                    link: "https://clnk.in/BWTN"
-                },
-                {
-                    name: "Linen-look curtains",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook17.webp",
-                    link: "https://fkrt.clnk.in/BVMj"
+                    name: "Black round mirror",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook7.webp",
+                    link: "https://clnk.in/BXg5"
                 },
 
             ]
@@ -431,29 +336,14 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
+                    name: "Abstract wall art set",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook8.webp",
+                    link: "https://clnk.in/BXhe"
                 },
                 {
-                    name: "3-seater sofa set ",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
-                    link: "https://clnk.in/BWS8"
-                },
-                {
-                    name: "Boucle cushions",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook10.webp",
-                    link: "https://clnk.in/BWTN"
-                },
-                {
-                    name: "Linen-look curtains",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook17.webp",
-                    link: "https://fkrt.clnk.in/BVMj"
-                },
-                {
-                    name: "Warm table lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BWTf"
+                    name: "Black Photo frame",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook14.webp",
+                    link: "https://fkrt.clnk.in/BVMe"
                 },
             ]
 
@@ -473,51 +363,7 @@ const cozyLivingRoomIdeasOnaBudget = {
                 "Repeat one wood tone at least two or three times for a cohesive look."
             ],
 
-            shopLook: [
-
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
-                },
-                {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook29.webp",
-                    link: "https://fkrt.clnk.in/BVPy"
-                },
-                {
-                    name: "Dining table runner",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook30.webp",
-                    link: "https://fkrt.clnk.in/BVPz"
-                },
-                {
-                    name: "Ceramic Dinner set",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook17.webp",
-                    link: "https://clnk.in/BWVY"
-                },
-                {
-                    name: "Amber glassware",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook18.webp",
-                    link: "https://clnk.in/BWV0"
-                },
-                {
-                    name: "Woven placemats",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook19.webp",
-                    link: "https://clnk.in/BWV1"
-                },
-                {
-                    name: "Candle holder",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook20.webp",
-                    link: "https://clnk.in/BWV2"
-                },
-
-                {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
-                },
-            ]
-
+                
         },
 
         {
@@ -537,22 +383,10 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Candle holder",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook20.webp",
-                    link: "https://clnk.in/BWV2"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook4.webp",
+                    link: "https://clnk.in/BVJ4"
                 },
-
-                {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
-                },
-                {
-                    name: "Wooden tray",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook21.webp",
-                    link: "https://clnk.in/BWV4"
-                },
-
             ]
 
         },
@@ -573,31 +407,11 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Candle holder",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook20.webp",
-                    link: "https://clnk.in/BWV2"
+                    name: "Woven storage basket",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook3.webp",
+                    link: "https://fkrt.clnk.in/BVJQ"
                 },
 
-                {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
-                },
-                {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
-                    link: "https://clnk.in/BVJU"
-                },
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
-                },
-                {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook16.webp",
-                    link: "https://clnk.in/BWUG"
-                },
 
             ]
 
@@ -622,24 +436,9 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Warm table lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BWTf"
-                },
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
-                },
-                {
-                    name: "Dried leaf",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook22.webp",
-                    link: "https://clnk.in/BWWc"
-                },
-                {
-                    name: "Dried flowers",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook23.webp",
-                    link: "https://clnk.in/BWWd"
+                    name: "Tall indoor plant",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook13.webp",
+                    link: "https://clnk.in/BVLh"
                 },
 
             ]
@@ -664,30 +463,16 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Warm table lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BWTf"
+                    name: "Linen-look curtains",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook17.webp",
+                    link: "https://fkrt.clnk.in/BVMj"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
+                    name: "Linen-look curtains",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook18.webp",
+                    link: "https://fkrt.clnk.in/BVMk"
                 },
-                {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
-                    link: "https://clnk.in/BVJU"
-                },
-                {
-                    name: "Terracota cushion cover",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
-                    link: "https://clnk.in/BWTc"
-                },
-                {
-                    name: "Small accent armchair",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook24.webp",
-                    link: "https://clnk.in/BWWf"
-                },
+
             ]
 
         },
@@ -711,29 +496,14 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Black Photo frame",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook14.webp",
+                    link: "https://fkrt.clnk.in/BVMe"
                 },
                 {
-                    name: "Ceramic Dinner set",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook17.webp",
-                    link: "https://clnk.in/BWVY"
-                },
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
-                },
-                {
-                    name: "Ceramic Fruit bowl",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook25.webp",
-                    link: "https://clnk.in/BWWn"
-                },
-                {
-                    name: "Wooden cutting board",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook26.webp",
-                    link: "https://clnk.in/BWWo"
+                    name: "Photo frame set",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook27.webp",
+                    link: "https://clnk.in/BWWE"
                 },
             ]
 
@@ -755,14 +525,9 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Accent armchair",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook19.webp",
-                    link: "https://fkrt.clnk.in/BVNZ"
-                },
-                {
-                    name: "Slim floor lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook8.webp",
-                    link: "https://clnk.in/BWTo"
+                    name: "Wooden console table for entryway",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook1.webp",
+                    link: "https://fkrt.clnk.in/BVJT"
                 },
 
             ]
@@ -788,26 +553,15 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Cotton bath towel",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook36.webp",
-                    link: "https://fkrt.clnk.in/BVPM"
+                    name: "Cushion cover",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
+                    link: "https://fkrt.clnk.in/BVKO"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Accent armchair",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook19.webp",
+                    link: "https://fkrt.clnk.in/BVNZ"
                 },
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BWlU"
-                },
-                {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook16.webp",
-                    link: "https://clnk.in/BWUG"
-                },
-
 
             ]
 
@@ -830,22 +584,10 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Slim floor lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook8.webp",
-                    link: "https://clnk.in/BWTo"
+                    name: "Wooden tray",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook21.webp",
+                    link: "https://clnk.in/BWV4"
                 },
-                {
-                    name: "Candle holder",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook20.webp",
-                    link: "https://clnk.in/BWV2"
-                },
-
-                {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
-                },
-
 
             ]
 
@@ -873,9 +615,10 @@ const cozyLivingRoomIdeasOnaBudget = {
                 },
                 {
                     name: "3-seater sofa set ",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
-                    link: "https://clnk.in/BWS8"
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook1.webp",
+                    link: "https://clnk.in/BXgJ"
                 },
+
                 {
                     name: "Cushion cover",
                     image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook7.webp",
@@ -883,9 +626,9 @@ const cozyLivingRoomIdeasOnaBudget = {
                 },
 
                 {
-                    name: "Center coffee table",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
-                    link: "https://clnk.in/BWS9"
+                    name: "Golden round mirror",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
+                    link: "https://clnk.in/BVJU"
                 },
 
             ]
@@ -908,19 +651,14 @@ const cozyLivingRoomIdeasOnaBudget = {
 
             shopLook: [
                 {
-                    name: "Linen-look curtains",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook17.webp",
-                    link: "https://fkrt.clnk.in/BVMj"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook2.webp",
+                    link: "https://clnk.in/BXgK"
                 },
                 {
-                    name: "Warm table lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BWTf"
-                },
-                {
-                    name: "Terracota cushion cover",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
-                    link: "https://clnk.in/BWTc"
+                    name: "Brown accent chair",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook9.webp",
+                    link: "https://clnk.in/BXhp"
                 },
             ]
 
@@ -945,9 +683,15 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "3-seater sofa set ",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
-                    link: "https://clnk.in/BWS8"
+                    name: "Candle holder",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook20.webp",
+                    link: "https://clnk.in/BWV2"
+                },
+
+                {
+                    name: "Candles",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
+                    link: "https://clnk.in/BWtg"
                 },
 
                 {
@@ -955,11 +699,7 @@ const cozyLivingRoomIdeasOnaBudget = {
                     image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
                     link: "https://clnk.in/BWS9"
                 },
-                {
-                    name: "Beige rug",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook15.webp",
-                    link: "https://clnk.in/BWT0"
-                },
+               
             ]
 
         },
@@ -988,19 +728,19 @@ const cozyLivingRoomIdeasOnaBudget = {
                     link: "https://clnk.in/BWlU"
                 },
                 {
-                    name: "Decorative vase ",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
-                    link: "https://fkrt.clnk.in/BVK5"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook4.webp",
+                    link: "https://clnk.in/BVJ4"
                 },
                 {
-                    name: "Black Photo frame",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook14.webp",
-                    link: "https://fkrt.clnk.in/BVMe"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
                 {
-                    name: "Photo frame set",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook27.webp",
-                    link: "https://clnk.in/BWWE"
+                    name: "Accent chair ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook10.webp",
+                    link: "https://clnk.in/BXh3"
                 },
 
             ]
@@ -1022,27 +762,14 @@ const cozyLivingRoomIdeasOnaBudget = {
 
             shopLook: [
                 {
-                    name: "Lantern",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook28.webp",
-                    link: "https://clnk.in/BWWH"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
-
                 {
-                    name: "String lights",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook29.webp",
-                    link: "https://clnk.in/BWWI"
-                },
-
-                {
-                    name: "Candle holder",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook20.webp",
-                    link: "https://clnk.in/BWV2"
-                },
-
-                {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
+                    name: "TV/Media unit",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook11.webp",
+                    link: "https://clnk.in/BXil"
                 },
             ]
 
@@ -1059,6 +786,23 @@ const cozyLivingRoomIdeasOnaBudget = {
 
             tips: [
                 "Look for solid shapes and good materials rather than focusing only on brand names."
+            ],
+            shopLook: [
+                {
+                    name: "3-seater sofa set ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook1.webp",
+                    link: "https://clnk.in/BXgJ"
+                },
+                {
+                    name: "pampas grass",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
+                    link: "https://clnk.in/BWlU"
+                },
+                {
+                    name: "Decorative vase ",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
+                    link: "https://fkrt.clnk.in/BVK5"
+                },
             ],
 
         },
@@ -1079,14 +823,9 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Warm table lamp",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BWTf"
-                },
-                {
-                    name: "Wooden Bedside Table",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook11.webp",
-                    link: "https://clnk.in/BWs8"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
                 {
                     name: "pampas grass",
@@ -1119,9 +858,9 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Floor lamp",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook44.webp",
-                    link: "https://clnk.in/BVQZ"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
                 {
                     name: "pampas grass",
@@ -1129,15 +868,9 @@ const cozyLivingRoomIdeasOnaBudget = {
                     link: "https://clnk.in/BWlU"
                 },
                 {
-                    name: "Decorative vase ",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
-                    link: "https://fkrt.clnk.in/BVK5"
-                },
-
-                {
-                    name: "Golden round mirror",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
-                    link: "https://clnk.in/BVJU"
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
                 },
             ]
 
@@ -1159,24 +892,24 @@ const cozyLivingRoomIdeasOnaBudget = {
             shopLook: [
 
                 {
-                    name: "Dining table runner",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook30.webp",
-                    link: "https://fkrt.clnk.in/BVPz"
+                    name: "Wooden wall shelf",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook22.webp",
+                    link: "https://fkrt.clnk.in/BVN6"
                 },
                 {
-                    name: "Ceramic Dinner set",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook17.webp",
-                    link: "https://clnk.in/BWVY"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
                 {
-                    name: "Amber glassware",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook18.webp",
-                    link: "https://clnk.in/BWV0"
+                    name: "Small ceramic planter",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook26.webp",
+                    link: "https://fkrt.clnk.in/BVOB"
                 },
                 {
-                    name: "Woven placemats",
-                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook19.webp",
-                    link: "https://clnk.in/BWV1"
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
                 },
 
             ]
@@ -1198,15 +931,9 @@ const cozyLivingRoomIdeasOnaBudget = {
 
             shopLook: [
                 {
-                    name: "Accent armchair",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook19.webp",
-                    link: "https://fkrt.clnk.in/BVNZ"
-                },
-
-                {
-                    name: "Floor lamp",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook44.webp",
-                    link: "https://clnk.in/BVQZ"
+                    name: "Ceramic vase ",
+                    image: "/images/blog/article/27-cozy-living-room-ideas-on-a-budget/shoplook3.webp",
+                    link: "https://clnk.in/BXgL"
                 },
                 {
                     name: "pampas grass",
@@ -1214,15 +941,22 @@ const cozyLivingRoomIdeasOnaBudget = {
                     link: "https://clnk.in/BWlU"
                 },
                 {
-                    name: "Decorative vase ",
-                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
-                    link: "https://fkrt.clnk.in/BVK5"
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
                 },
                 {
-                    name: "Candles",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BWtg"
+                    name: "Slim floor lamp",
+                    image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook8.webp",
+                    link: "https://clnk.in/BWTo"
                 },
+
+                {
+                    name: "Golden round mirror",
+                    image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook2.webp",
+                    link: "https://clnk.in/BVJU"
+                },
+
             ]
 
         },
