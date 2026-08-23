@@ -92,18 +92,18 @@ const readingNookIdeas = {
                 {
                     name: "Comfortable chair",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B07dE5xo1"
+                    link: "https://link.amazon/B0foIIG73"
                 },
 
                 {
                     name: "Small wooden side table",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B04uQR2qe"
+                    link: "https://link.amazon/B01jjnOYA"
                 },
                 {
                     name: "Jute Rug",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook26.webp",
-                    link: "https://link.amazon/B0azKp25h"
+                    link: "https://link.amazon/B0aDl8Gza"
                 },
 
             ]
@@ -129,13 +129,13 @@ const readingNookIdeas = {
                 {
                     name: "Comfortable chair",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B05gfD2zg"
+                    link: "https://link.amazon/B0cUQ80Di"
                 },
 
                 {
                     name: "Floor lamp",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B01wwIV7s"
+                    link: "https://link.amazon/B04Hk2Jc0"
                 },
                 {
                     name: "Wooden side table",
@@ -166,13 +166,13 @@ const readingNookIdeas = {
                 {
                     name: "Side table ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0jkvWfHM"
+                    link: "https://link.amazon/B08Rn2kTV"
                 },
 
                 {
                     name: "Comfortable chair",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B06DTrMAl"
+                    link: "https://link.amazon/B0bdgQOV1"
                 },
             ]
 
@@ -197,22 +197,22 @@ const readingNookIdeas = {
                 {
                     name: "Oak floating shelves",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07gmlDsk"
+                    link: "https://link.amazon/B0di8yimi"
                 },
                 {
                     name: "Wall lamp",
                     image: "/images/blog/article/21-home-office-ideas/shoplook23.webp",
-                    link: "https://link.amazon/B02sB0fCq"
+                    link: "https://link.amazon/B040FyLzs"
                 },
                 {
                     name: "Accent side bench ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B0bo5fW6j"
+                    link: "https://link.amazon/B0bf2DwyC"
                 },
                 {
                     name: "Side table ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0jkvWfHM"
+                    link: "https://link.amazon/B08Rn2kTV"
                 },
 
             ]
@@ -236,14 +236,15 @@ const readingNookIdeas = {
             shopLook: [
 
                 {
-                    name: "Comfortable chair",
-                    image: "/images/blog/article/17-reading-nook-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B06DTrMAl"
-                },
-                {
                     name: "Side table ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0jkvWfHM"
+                    link: "https://link.amazon/B08Rn2kTV"
+                },
+
+                {
+                    name: "Comfortable chair",
+                    image: "/images/blog/article/17-reading-nook-ideas/shoplook7.webp",
+                    link: "https://link.amazon/B0bdgQOV1"
                 },
 
             ]
@@ -269,7 +270,7 @@ const readingNookIdeas = {
                 {
                     name: "Side table ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0jkvWfHM"
+                    link: "https://link.amazon/B08Rn2kTV"
                 },
             ]
 
@@ -294,18 +295,18 @@ const readingNookIdeas = {
                 {
                     name: "Neutral area rug",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B0eNY1tMl"
+                    link: "https://link.amazon/B0cbxAAAQ"
                 },
 
                 {
                     name: "Side table ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0jkvWfHM"
+                    link: "https://link.amazon/B08Rn2kTV"
                 },
                 {
                     name: "Cane chair",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B08KmXT2E"
+                    link: "https://link.amazon/B05TUa3gl"
                 },
             ]
 
@@ -330,13 +331,13 @@ const readingNookIdeas = {
                 {
                     name: "Low wooden table",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook11.webp",
-                    link: "https://link.amazon/B0hAjbcXL"
+                    link: "https://link.amazon/B0iuwOvRd"
                 },
 
                 {
-                    name: " lower table",
+                    name: " Floor beige cushion",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B04K38isM"
+                    link: "https://link.amazon/B0f9Po8Aa"
                 },
 
             ]
@@ -362,7 +363,7 @@ const readingNookIdeas = {
                 {
                     name: "Adjustable floor lamp ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B0add2L9W"
+                    link: "https://link.amazon/B09Q7yQYM"
                 },
 
             ]
@@ -389,12 +390,17 @@ const readingNookIdeas = {
                 {
                     name: "Comfortable Armchair ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B0h8boSlt"
+                    link: "https://link.amazon/B07wNKiTv"
                 },
                 {
                     name: "Narrow Bookshelf ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook14.webp",
-                    link: "https://link.amazon/B0gYzwbSB"
+                    link: "https://link.amazon/B0ifac0kW"
+                },
+                {
+                    name: "Jute Rug",
+                    image: "/images/blog/article/21-balcony-recreate-ideas/shoplook26.webp",
+                    link: "https://link.amazon/B0aDl8Gza"
                 },
 
             ]
@@ -419,17 +425,17 @@ const readingNookIdeas = {
                 {
                     name: "Tall indoor plant ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07Wr0nvf"
+                    link: "https://link.amazon/B01WSePjL"
                 },
                 {
                     name: "Money Plant ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook16.webp",
-                    link: "https://link.amazon/B03WYx6xy"
+                    link: "https://link.amazon/B0iL7ZCuH"
                 },
                 {
                     name: "Plant pot stand",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B01BmoF5y"
+                    link: "https://link.amazon/B09b6D8kW"
                 },
             ]
 
@@ -456,18 +462,18 @@ const readingNookIdeas = {
                 {
                     name: "Terracotta cushion covers ",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B0cEKsTSH"
+                    link: "https://link.amazon/B0fDP1kaK"
                 },
 
                 {
                     name: "Soft throw ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B01wRFEL4"
+                    link: "https://link.amazon/B0bYI1Yzd"
                 },
                 {
                     name: "Neutral cushion ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook18.webp",
-                    link: "https://link.amazon/B05yQbH2v"
+                    link: "https://link.amazon/B0bysiEXf"
                 },
 
             ]
@@ -494,17 +500,17 @@ const readingNookIdeas = {
                 {
                     name: " Rattan chair",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook25.webp",
-                    link: "https://link.amazon/B045eyR1I"
+                    link: "https://link.amazon/B01x4jP0Z"
                 },
                 {
                     name: "Small wooden side table",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B04uQR2qe"
+                    link: "https://link.amazon/B05UuZjq2"
                 },
                 {
                     name: "wooden serving tray",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook19.webp",
-                    link: "https://link.amazon/B04YVjUTA"
+                    link: "https://link.amazon/B0dfBWgvN"
                 },
 
             ]
@@ -530,12 +536,12 @@ const readingNookIdeas = {
                 {
                     name: "Storage ottoman",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook20.webp",
-                    link: "https://link.amazon/B007YqvwP"
+                    link: "https://link.amazon/B09SayA42"
                 },
                 {
                     name: "Comfortable armchair",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook21.webp",
-                    link: "https://link.amazon/B08nrlH2Y"
+                    link: "https://link.amazon/B00UvmdVG"
                 },
 
 
@@ -561,13 +567,13 @@ const readingNookIdeas = {
                 {
                     name: "Walnut study table",
                     image: "/images/blog/article/21-home-office-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0avpHI5T"
+                    link: "https://link.amazon/B0f0uYTV1"
                 },
 
                 {
                     name: "Comfortable chair for desk",
                     image: "/images/blog/article/21-home-office-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B03raW25x"
+                    link: "https://link.amazon/B03Aq34rw"
                 }
 
 
@@ -596,17 +602,17 @@ const readingNookIdeas = {
                 {
                     name: "Wooden Shelves",
                     image: "/images/blog/article/bedroom/shoplook21.webp",
-                    link: "https://link.amazon/B0dEYOPhi"
+                    link: "https://link.amazon/B0iTux96R"
                 },
                 {
                     name: "Comfortable armchair",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook22.webp",
-                    link: "https://link.amazon/B0hE9Hp3w"
+                    link: "https://link.amazon/B037ynSNY"
                 },
                 {
                     name: "Tall indoor plant ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07Wr0nvf"
+                    link: "https://link.amazon/B01WSePjL"
                 },
 
             ]
@@ -632,12 +638,12 @@ const readingNookIdeas = {
                 {
                     name: "Tall indoor plant ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07Wr0nvf"
+                    link: "https://link.amazon/B01WSePjL"
                 },
                 {
                     name: "Adjustable floor lamp ",
                     image: "/images/blog/article/17-reading-nook-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B0add2L9W"
+                    link: "https://link.amazon/B09Q7yQYM"
                 },
 
 
