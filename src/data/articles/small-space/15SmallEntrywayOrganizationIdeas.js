@@ -15,7 +15,7 @@ const smallEntrywayOrganizationIdeas = {
     readTime: "16 min read",
 
     image:
-        "/images/blog/article/15-closet-organization-ideas/closet-organization-hero-image.webp",
+        "/images/blog/article/15-small-entryway-organization-ideas/small-entryway-organization-ideas-hero-image.webp",
 
 
     description:
