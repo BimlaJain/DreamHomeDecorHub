@@ -86,7 +86,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/ideal13.webp",
-                    link: "https://amzn.to/4pNMvE4"
+                    link: "https://link.amazon/B0dGLdMGm"
                 }
 
             ]
@@ -108,7 +108,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea2.webp",
-                    link: "https://amzn.to/44XkznR"
+                    link: "https://link.amazon/B06rIGAHo"
                 }
 
             ]
@@ -130,7 +130,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea3.webp",
-                    link: "https://amzn.to/4fzOw3i"
+                    link: "https://link.amazon/B04EOof7Z"
                 }
 
             ]
@@ -157,7 +157,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea4.webp",
-                    link: "https://amzn.to/452RGGN"
+                    link: "https://link.amazon/B0d4nOKrG"
                 }
 
             ]
@@ -182,7 +182,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea5.webp",
-                    link: "https://amzn.to/450nMmw"
+                    link: "https://link.amazon/B09tJ1aGT"
                 }
 
             ]
@@ -207,7 +207,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea6.webp",
-                    link: "https://amzn.to/3RGCAUm"
+                    link: "https://link.amazon/B0gE4RfoH"
                 }
 
             ]
@@ -232,7 +232,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea7.webp",
-                    link: "https://amzn.to/3Twq8XL"
+                    link: "https://link.amazon/B00iBo8T2"
                 }
 
             ]
@@ -257,7 +257,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea8.webp",
-                    link: "https://amzn.to/4fQszMh"
+                    link: "https://link.amazon/B02XHyk4z"
                 }
 
             ]
@@ -282,7 +282,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea9.webp",
-                    link: "https://amzn.to/3RqhoC1"
+                    link: "https://link.amazon/B05dhL2Xc"
                 }
 
             ]
@@ -307,7 +307,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea10.webp",
-                    link: "https://amzn.to/4fQS0xl"
+                       link: "https://link.amazon/B0d1yIPHm"
                 }
 
             ]
@@ -332,7 +332,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea11.webp",
-                    link: "https://amzn.to/451yCsp"
+                        link: "https://link.amazon/B0fA9FUHY"
                 }
 
             ]
@@ -357,7 +357,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea12.webp",
-                    link: "https://amzn.to/4pUKFRZ"
+                       link: "https://link.amazon/B0i2AEhSG"
                 }
 
             ]
@@ -382,7 +382,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/ideal13.webp",
-                    link: "https://amzn.to/4pNMvE4"
+                       link: "https://link.amazon/B02H5qxcF"
                 }
 
             ]
@@ -407,7 +407,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/ideal14.webp",
-                    link: "https://amzn.to/4vZZzrk"
+                       link: "https://link.amazon/B07QWh4YO"
                 }
 
             ]
@@ -432,7 +432,7 @@ const minimalistFloatingShelves = {
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/ideal15.webp",
-                    link: "https://amzn.to/3U7WDvx"
+                       link: "https://link.amazon/B088G4svF"
                 }
 
             ]

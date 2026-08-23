@@ -103,18 +103,18 @@ const balconyRecreateIdeas = {
                 {
                     name: "Beige outdoor lounge chaire",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B00zwG7dn"
+                    link: "https://link.amazon/B01XtQVgh"
                 },
 
                 {
                     name: "Plant pot stand",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B01BmoF5y"
+                    link: "https://link.amazon/B05q3RmBF"
                 },
                 {
                     name: "Small wooden side table",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B0ej0fslw"
+                    link: "https://link.amazon/B091xY4yk"
                 },
 
             ]
@@ -140,18 +140,18 @@ const balconyRecreateIdeas = {
                 {
                     name: "Hanging planter",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B0aunsZub"
+                    link: "https://link.amazon/B0fux2QIo"
                 },
 
                 {
                     name: "Areca palm",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B04GYJbZQ"
+                    link: "https://link.amazon/B0ceE1UbE"
                 },
                 {
                     name: "Snake plant",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B07gn7f25"
+                    link: "https://link.amazon/B0gFutB6H"
                 },
 
             ]
@@ -177,18 +177,18 @@ const balconyRecreateIdeas = {
                 {
                     name: "Plant stand",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B0fUPjEBc"
+                    link: "https://link.amazon/B02RQ1nZ3"
                 },
 
                 {
                     name: "Hanging plant",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B07RyfhsU"
+                    link: "https://link.amazon/B0j9x6aTX"
                 },
                 {
                     name: "Colourful planters",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B0j40QCGq"
+                    link: "https://link.amazon/B0aeSGvv7"
                 },
             ]
 
@@ -213,12 +213,12 @@ const balconyRecreateIdeas = {
                 {
                     name: "Fairy string lights",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B0iK9HjCX"
+                    link: "https://link.amazon/B0gbRGGZ0"
                 },
                 {
                     name: "Snake plant",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B07gn7f25"
+                    link: "https://link.amazon/B0gFutB6H"
                 },
 
             ]
@@ -244,12 +244,12 @@ const balconyRecreateIdeas = {
                 {
                     name: "Beige outdoor lounge chaire",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B00zwG7dn"
+                    link: "https://link.amazon/B01XtQVgh"
                 },
                 {
                     name: "Interlocking wooden deck tiles",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook11.webp",
-                    link: "https://link.amazon/B0frtEQdZ"
+                    link: "https://link.amazon/B06SXwwwk"
                 },
 
             ]
@@ -275,7 +275,7 @@ const balconyRecreateIdeas = {
                 {
                     name: "2-piece balcony bistro chairs",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B09JpWzew"
+                    link: "https://link.amazon/B0cN5v3ee"
                 },
             ]
 
@@ -301,13 +301,13 @@ const balconyRecreateIdeas = {
                 {
                     name: "Balcony lower cushion",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B04K38isM"
+                    link: "https://link.amazon/B0h1YFpIj"
                 },
 
                 {
                     name: "Balcony floor table",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook14.webp",
-                    link: "https://link.amazon/B01BLEgWD"
+                    link: "https://link.amazon/B01qiuc5G"
                 },
             ]
 
@@ -332,13 +332,13 @@ const balconyRecreateIdeas = {
                 {
                     name: "Balcony Rug ",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B0dn4QJUa"
+                    link: "https://link.amazon/B0iEHlP7s"
                 },
 
                 {
                     name: "Wooden Armchair",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook16.webp",
-                    link: "https://link.amazon/B08RWdB04"
+                    link: "https://link.amazon/B00JSEFY1"
                 },
 
             ]
@@ -364,18 +364,18 @@ const balconyRecreateIdeas = {
                 {
                     name: "Terracotta cushion covers ",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B0cEKsTSH"
+                    link: "https://link.amazon/B05p80JV7"
                 },
 
                 {
                     name: "Mustard cushion covers",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook18.webp",
-                    link: "https://link.amazon/B0amMjH0S"
+                    link: "https://link.amazon/B0dggtE8Q"
                 },
                 {
                     name: "Outdoor bench cushion ",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook19.webp",
-                    link: "https://link.amazon/B09JsSAjD"
+                    link: "https://link.amazon/B09cwZ3UL"
                 },
 
             ]
@@ -402,12 +402,12 @@ const balconyRecreateIdeas = {
                 {
                     name: "Hanging plant",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B07RyfhsU"
+                    link: "https://link.amazon/B0j9x6aTX"
                 },
                 {
                     name: "Colourful planters",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B0j40QCGq"
+                    link: "https://link.amazon/B0aeSGvv7"
                 },
 
             ]
@@ -432,17 +432,17 @@ const balconyRecreateIdeas = {
                 {
                     name: "Samll wooden side table",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook20.webp",
-                    link: "https://link.amazon/B0hfZt3UN"
+                    link: "https://link.amazon/B0h4txigP"
                 },
                 {
                     name: "Ceramic mug",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook21.webp",
-                    link: "https://link.amazon/B0fg610z0"
+                    link: "https://link.amazon/B053ZguQq"
                 },
                 {
                     name: "Bamboo chair",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook22.webp",
-                    link: "https://link.amazon/B077bv1Jm"
+                    link: "https://link.amazon/B0hl6JDYi"
                 },
 
             ]
@@ -470,12 +470,12 @@ const balconyRecreateIdeas = {
                 {
                     name: " Charcol Balcony chair",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook23.webp",
-                    link: "https://link.amazon/B0is2fZTP"
+                    link: "https://link.amazon/B00CiKh20"
                 },
                 {
                     name: "Beidge planter with plant",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook24.webp",
-                    link: "https://link.amazon/B01R1huJs"
+                    link: "https://link.amazon/B0ialC0DA"
                 },
 
 
@@ -503,12 +503,12 @@ const balconyRecreateIdeas = {
                 {
                     name: " Rattan chair",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook25.webp",
-                    link: "https://link.amazon/B045eyR1I"
+                    link: "https://link.amazon/B01x4jP0Z"
                 },
                 {
                     name: "Jute Rug",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook26.webp",
-                    link: "https://link.amazon/B0azKp25h"
+                    link: "https://link.amazon/B0aDl8Gza"
                 },
 
             ]
@@ -534,17 +534,17 @@ const balconyRecreateIdeas = {
                 {
                     name: "Cane hanging swing",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook27.webp",
-                    link: "https://link.amazon/B0bQv04Vr"
+                    link: "https://link.amazon/B08lHq4dW"
                 },
                 {
                     name: "Cane hanging swing",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook28.webp",
-                    link: "https://link.amazon/B0jaqtoMT"
+                    link: "https://link.amazon/B0bcavPbS"
                 },
                 {
                     name: " hanging swing",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook29.webp",
-                    link: "https://link.amazon/B03fYG3co"
+                    link: "https://link.amazon/B0bMexaGL"
                 },
 
 
@@ -570,7 +570,7 @@ const balconyRecreateIdeas = {
                 {
                     name: "Privacy Bamboo screens",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook30.webp",
-                    link: "https://link.amazon/B0iIXPrMr"
+                    link: "https://link.amazon/B01IrINhW"
                 },
 
             ]
@@ -598,12 +598,12 @@ const balconyRecreateIdeas = {
                 {
                     name: "Terracotta herb pots",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook31.webp",
-                    link: "https://link.amazon/B0iIXPrMr"
+                    link: "https://link.amazon/B0gt8V3Mj"
                 },
                 {
                     name: "Jute Rug",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook26.webp",
-                    link: "https://link.amazon/B0azKp25h"
+                    link: "https://link.amazon/B0aDl8Gza"
                 },
 
             ]
@@ -629,17 +629,17 @@ const balconyRecreateIdeas = {
                 {
                     name: "Fairy string lights",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B0iK9HjCX"
+                    link: "https://link.amazon/B0gbRGGZ0"
                 },
                 {
                     name: "Terracotta herb pots",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook31.webp",
-                    link: "https://link.amazon/B0iIXPrMr"
+                    link: "https://link.amazon/B0gt8V3Mj"
                 },
                 {
                     name: "Black floor lantern",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook32.webp",
-                    link: "https://link.amazon/B09wOoNTw"
+                    link: "https://link.amazon/B0i1KqwnM"
                 },
 
 
@@ -667,18 +667,18 @@ const balconyRecreateIdeas = {
                 {
                     name: "Plant stand",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B0fUPjEBc"
+                    link: "https://link.amazon/B02RQ1nZ3"
                 },
 
                 {
                     name: "Hanging plant",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B07RyfhsU"
+                    link: "https://link.amazon/B0j9x6aTX"
                 },
                 {
                     name: "Woven storage basket",
                     image: "/images/blog/article/21-home-office-ideas/shoplook16.webp",
-                    link: "https://link.amazon/B0c6fU09p"
+                    link: "https://link.amazon/B02rYnwCh"
                 },
             ]
 
@@ -702,7 +702,7 @@ const balconyRecreateIdeas = {
                 {
                     name: "Foldable Chair and table",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook33.webp",
-                    link: "https://link.amazon/B00rivozk"
+                    link: "https://link.amazon/B0ayTvzH0"
                 },
 
             ]
@@ -730,13 +730,13 @@ const balconyRecreateIdeas = {
                 {
                     name: " Rattan chair",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook25.webp",
-                    link: "https://link.amazon/B045eyR1I"
+                    link: "https://link.amazon/B01x4jP0Z"
                 },
 
                 {
                     name: "Terracotta herb pots",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook31.webp",
-                    link: "https://link.amazon/B0iIXPrMr"
+                    link: "https://link.amazon/B0gt8V3Mj"
                 },
 
             ]
@@ -764,17 +764,17 @@ const balconyRecreateIdeas = {
                 {
                     name: "Deep comfortable armchair",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook34.webp",
-                    link: "https://link.amazon/B02Y9UZLg"
+                    link: "https://link.amazon/B084j51iW"
                 },
                 {
                     name: "Terracotta herb pots",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook31.webp",
-                    link: "https://link.amazon/B0iIXPrMr"
+                    link: "https://link.amazon/B0gt8V3Mj"
                 },
                 {
                     name: "Small wooden side table",
                     image: "/images/blog/article/21-balcony-recreate-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B0ej0fslw"
+                    link: "https://link.amazon/B091xY4yk"
                 },
 
 
