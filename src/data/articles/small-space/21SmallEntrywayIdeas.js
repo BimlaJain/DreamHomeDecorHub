@@ -100,7 +100,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Console Entryway Table",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    link: "https://link.amazon/B0i9LI8vZ"
                 },
 
             ]
@@ -127,7 +127,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Golden Entryway Mirror",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0hyaQX53"
+                    link: "https://link.amazon/B0i9LI8vZ"
                 },
 
             ]
@@ -153,7 +153,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Entryway Floating Shelf",    
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B08nFZTEa"
+                    link: "https://link.amazon/B0e83xry9"
                 },
 
             ]
@@ -179,7 +179,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Light Entryway Table",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B020FyONg"
+                    link: "https://link.amazon/B0hADZX4d"
                 },
 
             ]
@@ -205,7 +205,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Narrow Runner Rug",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B04Ytinhb"
+                    link: "https://link.amazon/B0i0sBUxH"
                 },
             ]
 
@@ -230,7 +230,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Shoe Storage Cabinet",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B0fkNopt0"
+                    link: "https://link.amazon/B0c8bcT6d"
                 },
             ]
 
@@ -255,7 +255,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Wall Hooks",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B019E7Xku"
+                    link: "https://link.amazon/B023mKqkO"
                 },
             ]
 
@@ -280,7 +280,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Storage Basket",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B0dAahYF6"
+                    link: "https://link.amazon/B009ls35b"
                 },
 
             ]
@@ -305,7 +305,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Storage Floating shelf",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B08CBqMDQ"
+                    link: "https://link.amazon/B0f6Z4VFi"
                 },
 
             ]
@@ -331,7 +331,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Storage Bench",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B09HbskeG"
+                    link: "https://link.amazon/B08SATmVc"
                 },
 
 
@@ -357,7 +357,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Storage Floating shelf",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B08CBqMDQ"
+                    link: "https://link.amazon/B01oHPAOC"
                 },
             ]
 
@@ -384,7 +384,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Easy-Care Plant",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B017Qut27"
+                    link: "https://link.amazon/B0eCI9xEn"
                 },
             ]
 
@@ -410,7 +410,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Table Lamp",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B00zRjeQX"
+                    link: "https://link.amazon/B0bRNiIIy"
                 },
 
             ]
@@ -436,7 +436,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Gallery Wall Frames",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook14.webp",
-                    link: "https://link.amazon/B0hoQyeA3"
+                    link: "https://link.amazon/B0fimlH9H"
                 },
 
 
@@ -462,7 +462,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Large Piece of Artwork",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B05WfELoY"
+                    link: "https://link.amazon/B0c5WZhdE"
                 },
 
             ]
@@ -490,7 +490,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Wood Storage Table",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook16.webp",
-                    link: "https://link.amazon/B021pjZPb"
+                    link: "https://link.amazon/B0c3BsEcc"
                 },
 
             ]
@@ -516,13 +516,13 @@ const smallEntrywayIdeas = {
                 {
                     name: "Console Entryway Table",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    link: "https://link.amazon/B0i9LI8vZ"
                 },
 
                 {
                     name: "Golden Entryway Mirror",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0hyaQX53"
+                    link: "https://link.amazon/B0i9LI8vZ"
                 },
 
             ]
@@ -548,13 +548,13 @@ const smallEntrywayIdeas = {
                 {
                     name: "Console Entryway Table",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook18.webp",
-                    link: "https://link.amazon/B0iuoNtIv"
+                    link: "https://link.amazon/B06JvW8WP"
                 },
 
                 {
                     name: "Golden Entryway Mirror",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B0hVyHP9r"
+                    link: "https://link.amazon/B06dSq3aV"
                 },
 
             ]
@@ -580,7 +580,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Asymmetric Mirror",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook19.webp",
-                    link: "https://link.amazon/B0gwpmkuf"
+                    link: "https://link.amazon/B0f54Ou5P"
                 },
 
 
@@ -607,7 +607,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Console Entryway Table",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    link: "https://link.amazon/B0i9LI8vZ"
                 },
 
 
@@ -634,7 +634,7 @@ const smallEntrywayIdeas = {
                 {
                     name: "Console Entryway Table",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0bddoyJ4"
+                    link: "https://link.amazon/B0i9LI8vZ"
                 },
             ]
 
