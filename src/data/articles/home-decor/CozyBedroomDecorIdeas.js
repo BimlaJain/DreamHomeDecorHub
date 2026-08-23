@@ -115,13 +115,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Natural Jute Area Rug",
                     image: "/images/blog/article/bedroom/shoplook1.webp",
-                    link: "https://link.amazon/B0ha93r8f"
+                    link: "https://link.amazon/B08R6JLJM"
                 },
 
                 {
-                    name: "Woooden Bedside Table",
+                    name: "Wooden Bedside Table",
                     image: "/images/blog/article/bedroom/shoplook2.webp",
-                    link: "https://link.amazon/B02azEcnN"
+                    link: "https://link.amazon/B0iG5bCjt"
                 },
 
             ]
@@ -149,19 +149,19 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Bedside Table Lamp",
                     image: "/images/blog/article/bedroom/shoplook4.webp",
-                    link: "https://link.amazon/B09NWd5cY"
+                    link: "https://link.amazon/B03TxRhBn"
                 },
 
                 {
                     name: "Cream Throw Cotton Sheet",
                     image: "/images/blog/article/bedroom/shoplook5.webp",
-                    link: "https://link.amazon/B08cbQEPp"
+                    link: "https://link.amazon/B03A6LTX0"
                 },
 
                 {
                     name: "Cotton Pattern Cushion",
                     image: "/images/blog/article/bedroom/shoplook3.webp",
-                    link: "https://link.amazon/B0iRUVHBT"
+                    link: "https://link.amazon/B0f2PTSeh"
                 }
 
             ]
@@ -189,13 +189,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Paper Pendant Light for Bedroom",
                     image: "/images/blog/article/bedroom/shoplook6.webp",
-                    link: "https://link.amazon/B08btOowG"
+                    link: "https://link.amazon/B0dZ9PdQs"
                 },
 
                 {
                     name: "Bedroom rug for under the bed",
                     image: "/images/blog/article/bedroom/shoplook7.webp",
-                    link: "https://link.amazon/B00xgbrR5"
+                    link: "https://link.amazon/B01mZ4Xaj"
                 },
 
             ]
@@ -262,12 +262,12 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    link: "https://link.amazon/B02JhOVwB"
                 },
                 {
-                    name: "Simple scented candle ",
+                    name: "Simple decorative candle ",
                     image: "/images/blog/article/bedroom/shoplook13.webp",
-                    link: "https://link.amazon/B09UVzPkP"
+                    link: "https://link.amazon/B0hEW2vRQ"
                 },
 
             ]
@@ -301,12 +301,12 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    link: "https://link.amazon/B02JhOVwB"
                 },
                 {
-                    name: "Simple scented candle ",
+                    name: "Simple decorative candle ",
                     image: "/images/blog/article/bedroom/shoplook13.webp",
-                    link: "https://link.amazon/B09UVzPkP"
+                    link: "https://link.amazon/B0hEW2vRQ"
                 },
 
             ]
@@ -334,18 +334,18 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Bedside table drawer",
                     image: "/images/blog/article/bedroom/shoplook16.webp",
-                    link: "https://link.amazon/B0iIKRtKF"
+                    link: "https://link.amazon/B083bf9Eg"
                 },
 
                 {
                     name: "Artificial Plant with pot ",
                     image: "/images/blog/article/bedroom/shoplook15.webp",
-                    link: "https://link.amazon/B06BxANky"
+                    link: "https://link.amazon/B0eZouV1P"
                 },
                 {
                     name: "Bedside table lamp",
                     image: "/images/blog/article/bedroom/shoplook14.webp",
-                    link: "https://link.amazon/B08Q2SDyd"
+                    link: "https://link.amazon/B0gX8BJqN"
                 },
 
             ]
@@ -373,18 +373,18 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Reading lamp",
                     image: "/images/blog/article/bedroom/shoplook17.webp",
-                    link: "https://link.amazon/B02wYOTCi"
+                    link: "https://link.amazon/B01ZAlVBv"
                 },
 
                 {
                     name: "Comfortable Armchair ",
                     image: "/images/blog/article/bedroom/shoplook18.webp",
-                    link: "https://link.amazon/B00T2ndDY"
+                    link: "https://link.amazon/B0fPdOLEP"
                 },
                 {
                     name: "Black round mirror",
                     image: "/images/blog/article/bedroom/shoplook19.webp",
-                    link: "https://link.amazon/B06PCRWLA"
+                    link: "https://link.amazon/B06ocNaUe"
                 },
 
             ]
@@ -412,18 +412,18 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Golden round mirror",
                     image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    link: "https://link.amazon/B0gOkHLXL"
                 },
 
                 {
                     name: "Wooden Shelves",
                     image: "/images/blog/article/bedroom/shoplook21.webp",
-                    link: "https://link.amazon/B0dEYOPhi"
+                    link: "https://link.amazon/B062txNg9i"
                 },
                 {
                     name: "Artificial money plant",
                     image: "/images/blog/article/bedroom/shoplook22.webp",
-                    link: "https://link.amazon/B0bGTEGHF"
+                    link: "https://link.amazon/B0h8jbd8N"
                 },
             ]
 
@@ -450,25 +450,25 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "White ottoman for leg relaxing",
                     image: "/images/blog/article/bedroom/shoplook23.webp",
-                    link: "https://link.amazon/B0aM7Miml"
+                    link: "https://link.amazon/B0hqdb7AJ"
                 },
 
                 {
                     name: "Comfortable armchair",
                     image: "/images/blog/article/bedroom/shoplook24.webp",
-                    link: "https://link.amazon/B0gm02Qa8"
+                    link: "https://link.amazon/B07rRyZI0"
                 },
 
                 {
                     name: "Wooden side table",
                     image: "/images/blog/article/bedroom/shoplook25.webp",
-                    link: "https://link.amazon/B0aAZM0Of"
+                    link: "https://link.amazon/B018OKt2M"
                 },
 
                 {
                     name: "Adjustable reading lamp",
                     image: "/images/blog/article/bedroom/shoplook26.webp",
-                    link: "https://link.amazon/B0j644FDG"
+                    link: "https://link.amazon/B0fzYK6m6"
                 }
 
             ]
@@ -495,13 +495,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Big bed frame",
                     image: "/images/blog/article/bedroom/shoplook8.webp",
-                    link: "https://link.amazon/B0h3qwZeW"
+                    link: "https://link.amazon/B0c5evIx7"
                 },
 
                 {
                     name: "Wall light Lamp ",
                     image: "/images/blog/article/bedroom/shoplook9.webp",
-                    link: "https://link.amazon/B0glrybke"
+                    link: "https://link.amazon/B0bjgi3t0"
                 },
 
             ]
@@ -531,13 +531,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Linen Window Curtains",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook48.webp",
-                    link: "https://link.amazon/B0ebEGXWs"
+                    link: "https://link.amazon/B0edD5Ynr"
                 },
 
                 {
                     name: "Velvet Luxury Curtains",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook49.webp",
-                    link: "https://link.amazon/B04mIgzUU"
+                    link: "https://link.amazon/B0dojCvBV"
                 },
 
             ]
@@ -566,23 +566,23 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Minimal Book Collection",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    link: "https://link.amazon/B02nsebsB"
                 },
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    link: "https://link.amazon/B02JhOVwB"
                 },
 
                 {
                     name: "Marble Decorative tray",
                     image: "/images/blog/article/bedroom/shoplook27.webp",
-                    link: "https://link.amazon/B099wyie6"
+                    link: "https://link.amazon/B00gmQ1IP"
                 },
                 {
                     name: "Clock for table",
                     image: "/images/blog/article/bedroom/shoplook28.webp",
-                    link: "https://link.amazon/B0fELykC1"
+                    link: "https://link.amazon/B0bMLT6Ig"
                 },
 
             ]
@@ -612,13 +612,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Large Round Wall Mirror",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook60.webp",
-                    link: "https://link.amazon/B00iWWGdy"
+                    link: "https://link.amazon/B0aFdAmPB"
                 },
 
                 {
                     name: "Soft white armchair",
                     image: "/images/blog/article/bedroom/shoplook29.webp",
-                    link: "https://link.amazon/B09Wua1Ql"
+                    link: "https://link.amazon/B04kFK2hy"
                 },
 
 
@@ -652,13 +652,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Bedroom rug for under the bed",
                     image: "/images/blog/article/bedroom/shoplook7.webp",
-                    link: "https://link.amazon/B00xgbrR5"
+                    link: "https://link.amazon/B01mZ4Xaj"
                 },
 
                 {
                     name: "Soft white armchair",
                     image: "/images/blog/article/bedroom/shoplook30.webp",
-                    link: "https://link.amazon/B08LkrJau"
+                    link: "https://link.amazon/B04kFK2hy"
                 },
 
             ]
@@ -693,12 +693,12 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "neutral blanket",
                     image: "/images/blog/article/bedroom/shoplook31.webp",
-                    link: "https://link.amazon/B0hBflDxT"
+                    link: "https://link.amazon/B08CzoIOv"
                 },
                 {
                     name: "jute basket",
                     image: "/images/blog/article/bedroom/shoplook32.webp",
-                    link: "https://link.amazon/B08kyYjip"
+                    link: "https://link.amazon/B0i5ldX4M"
                 },
 
 
@@ -727,18 +727,18 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    link: "https://link.amazon/B02JhOVwB"
                 },
                 {
                     name: "Minimal Book Collection",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    link: "https://link.amazon/B02nsebsB"
                 },
 
                 {
                     name: "Scented diffuser set",
                     image: "/images/blog/article/bedroom/shoplook33.webp",
-                    link: "https://link.amazon/B03eirtCs"
+                    link: "https://link.amazon/B0eiDAxwi"
                 },
 
 
@@ -775,13 +775,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Boho style table lamp",
                     image: "/images/blog/article/bedroom/shoplook34.webp",
-                    link: "https://link.amazon/B01JIerFn"
+                    link: "https://link.amazon/B01ys3XCQ"
                 },
 
                 {
                     name: "Macrame wall hanging",
                     image: "/images/blog/article/bedroom/shoplook35.webp",
-                    link: "https://link.amazon/B0emVRUCY"
+                    link: "https://link.amazon/B0fxoAYiu"
                 },
 
             ]
@@ -808,7 +808,7 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "white blanket for bed",
                     image: "/images/blog/article/bedroom/shoplook36.webp",
-                    link: "https://link.amazon/B06ffIJmd"
+                    link: "https://link.amazon/B0d7zJ4AA"
                 },
 
 
@@ -821,7 +821,7 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Bedside table drawer",
                     image: "/images/blog/article/bedroom/shoplook38.webp",
-                    link: "https://link.amazon/B0dtuc5tQ"
+                    link: "https://link.amazon/B0eAro27p"
                 },
 
             ]
@@ -851,13 +851,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Wall lamp light",
                     image: "/images/blog/article/bedroom/shoplook39.webp",
-                    link: "https://link.amazon/B0a2uP3tK"
+                    link: "https://link.amazon/B05wh7Mis"
                 },
 
                 {
                     name: "Wooden Shelves",
                     image: "/images/blog/article/bedroom/shoplook21.webp",
-                    link: "https://link.amazon/B0dEYOPhi"
+                    link: "https://link.amazon/B062txNg9i"
                 },
                 {
                     name: "Artificial plant for decor",
@@ -892,13 +892,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Bedside Lamp",
                     image: "/images/blog/article/bedroom/shoplook40.webp",
-                    link: "https://link.amazon/B0dgJLPMy"
+                    link: "https://link.amazon/B019B6ijy"
                 },
 
                 {
                     name: "Decorative LED lights",
                     image: "/images/blog/article/bedroom/shoplook41.webp",
-                    link: "https://link.amazon/B07VRDHMN"
+                    link: "https://link.amazon/B0d1riAxA"
                 },
 
             ]
@@ -925,13 +925,13 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Bedside Bench",
                     image: "/images/blog/article/bedroom/shoplook42.webp",
-                    link: "https://link.amazon/B0gM6Dw93"
+                    link: "https://link.amazon/B04aABcop"
                 },
 
                 {
                     name: "Decorative Ceramic vase",
                     image: "/images/blog/article/bedroom/shoplook43.webp",
-                    link: "https://link.amazon/B050Fl8xr"
+                    link: "https://link.amazon/B09nrplLr"
                 },
             ]
 
@@ -957,18 +957,18 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    link: "https://link.amazon/B02JhOVwB"
                 },
                 {
                     name: "Minimal Book Collection",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    link: "https://link.amazon/B02nsebsB"
                 },
 
                 {
                     name: "Bedside table drawer",
                     image: "/images/blog/article/bedroom/shoplook38.webp",
-                    link: "https://link.amazon/B0dtuc5tQ"
+                    link: "https://link.amazon/B0eAro27p"
                 },
             ]
 
@@ -994,24 +994,24 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Custom Photo Frame Set",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook65.webp",
-                    link: "https://link.amazon/B0dbWnZi5"
+                    link: "https://link.amazon/B04MyHkhf"
                 },
 
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    link: "https://link.amazon/B02JhOVwB"
                 },
                 {
                     name: "Minimal Book Collection",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    link: "https://link.amazon/B02nsebsB"
                 },
 
                 {
                     name: "Bedside table drawer",
                     image: "/images/blog/article/bedroom/shoplook38.webp",
-                    link: "https://link.amazon/B0dtuc5tQ"
+                    link: "https://link.amazon/B0eAro27p"
                 },
 
             ]
@@ -1038,24 +1038,24 @@ const cozyBedroomDecorIdeas = {
                 {
                     name: "Custom Photo Frame Set",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook65.webp",
-                    link: "https://link.amazon/B0dbWnZi5"
+                    link: "https://link.amazon/B04MyHkhf"
                 },
 
                 {
                     name: "Decorative scented candle",
                     image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    link: "https://link.amazon/B02JhOVwB"
                 },
                 {
                     name: "Minimal Book Collection",
                     image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                    link: "https://link.amazon/B0gE9SfZX"
+                    link: "https://link.amazon/B02nsebsB"
                 },
 
                 {
                     name: "Natural Wood Floating Shelf",
                     image: "/images/blog/article/bedroom/shoplook44.webp",
-                    link: "https://link.amazon/B05PLh38i"
+                    link: "https://link.amazon/B0h1EkbHq"
                 },
 
             ]

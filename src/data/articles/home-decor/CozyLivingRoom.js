@@ -21,25 +21,25 @@ export const livingRoomIdeas = [
             {
                 name: "Cream Linen Sofa",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook1.webp",
-                link: "https://link.amazon/B09NZgvWY"
+                link: "https://link.amazon/B05uUWvFW"
             },
 
             {
                 name: "Natural Jute Area Rug",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook2.webp",
-                link: "https://link.amazon/B02Jp54xw"
+                link: "https://link.amazon/B03eguxqv"
             },
 
             {
                 name: "White Ceramic Vase",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook3.webp",
-                link: "https://link.amazon/B07iLBYcC"
+                link: "https://link.amazon/B05FRp6ny"
             },
 
             {
                 name: "Artificial Olive Tree with pot",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook4.webp",
-                link: "https://link.amazon/B07kZ8lZl"
+                link: "https://link.amazon/B0fqy7vW1"
             }
 
         ]
@@ -75,13 +75,13 @@ export const livingRoomIdeas = [
             {
                 name: "Cream Throw Blanket",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook6.webp",
-                link: "https://link.amazon/B0fSSzacV"
+                link: "https://link.amazon/B0bl0NKGX"
             },
 
             {
                 name: "Cotton Pattern Cushion",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook7.webp",
-                link: "https://link.amazon/B0gxptPrM"
+                link: "https://link.amazon/B05hywRkS"
             }
 
         ]
@@ -111,25 +111,25 @@ export const livingRoomIdeas = [
             {
                 name: "Modern Wooden Coffee Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook8.webp",
-                link: "https://link.amazon/B0hGpVAXc"
+                link: "https://link.amazon/B00qhig3X"
             },
 
             {
                 name: "Decorative Ceramic Vase",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook9.webp",
-                link: "https://link.amazon/B08M7SkO4"
+                link: "https://link.amazon/B0cjcBaq0"
             },
 
             {
                 name: "Abstract Decorative Sculpture",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook10.webp",
-                link: "https://link.amazon/B03ZzkE0E"
+                link: "https://link.amazon/B0iswcTIm"
             },
 
             {
                 name: "Scented Decorative Candle",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook11.webp",
-                link: "https://link.amazon/B0gjh9Lvp"
+                link: "https://link.amazon/B05HlrQKy"
             }
 
         ]
@@ -159,24 +159,24 @@ export const livingRoomIdeas = [
             {
                 name: "Large Floor lamp",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook12.webp",
-                link: "https://link.amazon/B0563FZQa"
+                link: "https://link.amazon/B01CpoWMU"
             },
 
             {
                 name: "Soft Neutral Shag Rug",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook13.webp",
-                link: "https://link.amazon/B0dvOk5d7"
+                link: "https://link.amazon/B010j6Dt0"
             },
 
             {
                 name: " Neutral Linen curtains",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook14.webp",
-                link: "https://link.amazon/B0iViIzPD" 
+                link: "https://link.amazon/B01u2BDUc" 
             },
             {
                 name: "Decorative Scented candle",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook15.webp",
-                link: "https://link.amazon/B01Sskmqi"
+                link: "https://link.amazon/B0aPYTutH"
             }
 
         ]
@@ -206,25 +206,25 @@ export const livingRoomIdeas = [
             {
                 name: "Modern Floor Lamp",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook16.webp",
-                link: "https://link.amazon/B0dhCPgf5"
+                link: "https://link.amazon/B0ha4bl0M"
             },
 
             {
                 name: "Warm LED Decorative Lights",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook17.webp",
-                link: "https://link.amazon/B0ef2Q1Zn"
+                link: "https://link.amazon/B005Kz8uy"
             },
 
             {
                 name: "Glass Candle Lantern",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook18.webp",
-                link: "https://link.amazon/B02PmoG7i"
+                link: "https://link.amazon/B0ddn4Jyo"
             },
 
             {
                 name: "Ceramic Table Lamp",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook19.webp",
-                link: "https://link.amazon/B0bDsufhC"
+                link: "https://link.amazon/B0hKeEirL"
             }
 
         ]
@@ -252,25 +252,25 @@ export const livingRoomIdeas = [
             {
                 name: "Large Indoor Floor Plant",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook20.webp",
-                link: "https://link.amazon/B01tj0evz"
+                link: "https://link.amazon/B01yEjrOR"
             },
 
             {
                 name: "Minimal Ceramic Plant Pot",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook21.webp",
-                link: "https://link.amazon/B0boML5jw"
+                link: "https://link.amazon/B02v28GkZ"
             },
 
             {
                 name: "Wooden Plant Stand",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook22.webp",
-                link: "https://link.amazon/B0dnK1Nkm"
+                link: "https://link.amazon/B0g83ryvu"
             },
 
             {
                 name: "Decorative tray",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook23.webp",
-                link: "https://link.amazon/B0eet58l5"
+                link: "https://link.amazon/B0j8eeY9j"
             }
 
         ]
@@ -300,25 +300,25 @@ export const livingRoomIdeas = [
             {
                 name: "Wooden TV/media console",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook24.webp",
-                link: "https://link.amazon/B0dHKk9Om"
+                link: "https://link.amazon/B0iiNK9Xm"
             },
 
             {
                 name: "Natural Oak Side Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook25.webp",
-                link: "https://link.amazon/B0dYMfJaF"
+                link: "https://link.amazon/B0byt9Xb2"
             },
 
             {
                 name: "Wooden Console Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook26.webp",
-                link: "https://link.amazon/B0h7rCiMh"
+                link: "https://link.amazon/B0gjKFc3j"
             },
 
             {
                 name: "Wooden bookshelf",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook27.webp",
-                link: "https://link.amazon/B0dlxEYL9"
+                link: "https://link.amazon/B00S6HQSR"
             }
 
         ]
@@ -348,25 +348,25 @@ export const livingRoomIdeas = [
             {
                 name: "Wooden bookshelf",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook27.webp",
-                link: "https://link.amazon/B0dlxEYL9"
+                link: "https://link.amazon/B00S6HQSR"
             },
 
             {
                 name: "Adjustable Floor Lamp",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook30.webp",
-                link: "https://link.amazon/B0gqsrGyl"
+                link: "https://link.amazon/B0fXFHGMt"
             },
 
             {
                 name: "Small console Side Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook28.webp",
-                link: "https://link.amazon/B00bsNHQR"
+                link: "https://link.amazon/B0dVvHlUX"
             },
 
             {
                 name: " comfortable armchair",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook29.webp",
-                link: "https://link.amazon/B0j5809u0"
+                link: "https://link.amazon/B097DRNMy"
             }
 
         ]
@@ -396,19 +396,19 @@ export const livingRoomIdeas = [
             {
                 name: "Decorative ceramic vase",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook3.webp",
-                link: "https://link.amazon/B07iLBYcC"
+                link: "https://link.amazon/B05FRp6ny"
             },
 
             {
                 name: "Decorative Wall Accent",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook31.webp",
-                link: "https://link.amazon/B02eMgpg6"
+                link: "https://link.amazon/B0j2wAojZ"
             },
 
             {
                 name: "Neutral Throw Pillows",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook32.webp",
-                link: "https://link.amazon/B08hZ8k4p"
+                link: "https://link.amazon/B0iHKZtlS"
             },
 
         ]
@@ -438,25 +438,25 @@ export const livingRoomIdeas = [
             {
                 name: "Natural Wood Floating Shelf",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook33.webp",
-                link: "https://link.amazon/B0if4hfbq"
+                link: "https://link.amazon/B0cGHDJ6w"
             },
 
             {
                 name: "Decorative Ceramic Vase",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook35.webp",
-                link: "https://link.amazon/B0gSRmAUQ"
+                link: "https://link.amazon/B08bDFN6T"
             },
 
             {
                 name: "Big Indoor Plant",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook34.webp",
-                link: "https://link.amazon/B0dL9QNNI"
+                link: "https://link.amazon/B00mk9vC3"
             },
 
             {
                 name: "Minimal Book Collection",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                link: "https://link.amazon/B0gE9SfZX"
+                link: "https://link.amazon/B0iBN9qBb"
             }
 
         ]
@@ -483,25 +483,25 @@ export const livingRoomIdeas = [
             {
                 name: "Modern Comfortable Sofa",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook37.webp",
-                link: "https://link.amazon/B0fGRHMtZ"
+                link: "https://link.amazon/B05mIM1Cw"
             },
 
             {
                 name: "Luxury Velvet Cushion Set",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook38.webp",
-                link: "https://link.amazon/B0iuwiM0w"
+                link: "https://link.amazon/B0ctITmYU"
             },
 
             {
                 name: "Soft Textured Throw Blanket",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook39.webp",
-                link: "https://link.amazon/B02O4kawN"
+                link: "https://link.amazon/B07tuk3mV"
             },
 
             {
                 name: "Decorative Sofa Tray",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook40.webp",
-                link: "https://link.amazon/B0fcF3a9c"
+                link: "https://link.amazon/B0ed0UfrB"
             }
 
         ]
@@ -531,25 +531,25 @@ export const livingRoomIdeas = [
             {
                 name: "Boucle Accent Chair",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook43.webp",
-                link: "https://link.amazon/B03P2LG0n"
+                link: "https://link.amazon/B02zpFY1T"
             },
 
             {
                 name: "small console side table ",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook28.webp",
-                link: "https://link.amazon/B00bsNHQR"
+                link: "https://link.amazon/B0fkgzuV3"
             },
 
             {
                 name: "Accent Chair Pillow",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook42.webp",
-                link: "https://link.amazon/B0aSD7Zo7"
+                link: "https://link.amazon/B0fk4Q8bu"
             },
 
             {
                 name: "Comfortable Throw Blanket",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook41.webp",
-                link: "https://link.amazon/B0byMfkWS"
+                link: "https://link.amazon/B0df5BAqz"
             }
 
         ]
@@ -578,25 +578,25 @@ export const livingRoomIdeas = [
             {
                 name: "Modern Electric Fireplace",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook44.webp",
-                link: "https://link.amazon/B0c1nHtHU"
+                link: "https://link.amazon/B0a0tsob7"
             },
 
             {
                 name: "Round wooden mirror",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook45.webp",
-                link: "https://link.amazon/B0iCJUcBM"
+                link: "https://link.amazon/B03jICqk3"
             },
 
             {
                 name: "Woven blanket basket",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook46.webp",
-                link: "https://link.amazon/B0aRwYoDa"
+                link: "https://link.amazon/B0ig97dR6"
             },
 
             {
                 name: "Fireplace Candle Set",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook47.webp",
-                link: "https://link.amazon/B08liPhb5"
+                link: "https://link.amazon/B0ieh1E7l"
             }
 
         ]
@@ -626,25 +626,25 @@ export const livingRoomIdeas = [
             {
                 name: "Linen Window Curtains",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook48.webp",
-                link: "https://link.amazon/B0ebEGXWs"
+                link: "https://link.amazon/B03ywvzw8"
             },
 
             {
                 name: "Velvet Luxury Curtains",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook49.webp",
-                link: "https://link.amazon/B04mIgzUU"
+                link: "https://link.amazon/B0eXSiCbV"
             },
 
             {
                 name: "Matte Curtain Rod",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook50.webp",
-                link: "https://link.amazon/B00j7qj1F"
+                link: "https://link.amazon/B05InpNVJ"
             },
 
             {
                 name: "Decorative Curtain Tieback",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook51.webp",
-                link: "https://link.amazon/B0j00VlYK"
+                link: "https://link.amazon/B02JR4arr"
             }
 
         ]
@@ -671,19 +671,19 @@ export const livingRoomIdeas = [
             {
                 name: "Vintage Decorative Mirror",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook52.webp",
-                link: "https://link.amazon/B08Vfsa4C"
+                link: "https://link.amazon/B06KLtG3H"
             },
 
             {
                 name: "Antique Style Table Lamp",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook53.webp",
-                link: "https://link.amazon/B04PGQFDk"
+                link: "https://link.amazon/B007hlcur"
             },
 
             {
                 name: "Vintage Ceramic Vase",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook54.webp",
-                link: "https://link.amazon/B0b76Vd8T"
+                link: "https://link.amazon/B0d3ZS2AW"
             }
 
         ]
@@ -711,27 +711,27 @@ export const livingRoomIdeas = [
         shopLook: [
 
             {
-                name: "Luxury Scented Candle",
+                name: "Luxury Lantern",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook55.webp",
-                link: "https://link.amazon/B0g9BCh31"
+                link: "https://link.amazon/B06vx7qYn"
             },
 
             {
                 name: "Glass Candle Lantern",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook56.webp",
-                link: "https://link.amazon/B0fEUC9u4"
+                link: "https://link.amazon/B02M90cbx"
             },
 
             {
                 name: "Antique Style Table Lamp",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook53.webp",
-                link: "https://link.amazon/B04PGQFDk"
+                link: "https://link.amazon/B007hlcur"
             },
 
             {
                 name: "Natural Wood Floating Shelf",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook33.webp",
-                link: "https://link.amazon/B0if4hfbq"
+                link: "https://link.amazon/B0cGHDJ6w"
             },
 
         ]
@@ -759,25 +759,25 @@ export const livingRoomIdeas = [
             {
                 name: "Round Wooden Coffee Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook57.webp",
-                link: "https://link.amazon/B0gldYZpi"
+                link: "https://link.amazon/B0eCGgLAJ"
             },
 
             {
                 name: "Minimal Book Collection",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                link: "https://link.amazon/B0gE9SfZX"
+                link: "https://link.amazon/B0iBN9qBb"
             },
 
             {
                 name: "Minimal Table Decor Tray",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook59.webp",
-                link: "https://link.amazon/B02BulzxI"
+                link: "https://link.amazon/B05GtMA7X"
             },
 
             {
                 name: "Modern Vase Centerpiece",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook58.webp",
-                link: "https://link.amazon/B09UGS4cE"
+                link: "https://link.amazon/B06HBs1dz"
             }
 
         ]
@@ -805,25 +805,25 @@ export const livingRoomIdeas = [
             {
                 name: "Large Round Wall Mirror",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook60.webp",
-                link: "https://link.amazon/B00iWWGdy"
+                link: "https://link.amazon/B02GW6MaA"
             },
 
             {
                 name: "Round Wooden Coffee Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook57.webp",
-                link: "https://link.amazon/B0gldYZpi"
+                link: "https://link.amazon/B0eCGgLAJ"
             },
 
             {
                 name: "Minimal Book Collection",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook36.webp",
-                link: "https://link.amazon/B0gE9SfZX"
+                link: "https://link.amazon/B0iBN9qBb"
             },
 
             {
                 name: "Modern Vase Centerpiece",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook58.webp",
-                link: "https://link.amazon/B09UGS4cE"
+                link: "https://link.amazon/B024XiXiL"
             }
 
         ]
@@ -851,19 +851,19 @@ export const livingRoomIdeas = [
             {
                 name: "Modern Comfortable Sofa",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook37.webp",
-                link: "https://link.amazon/B0fGRHMtZ"
+                link: "https://link.amazon/B08IdwGEZ"
             },
 
             {
                 name: "Storage Ottoman",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook62.webp",
-                link: "https://link.amazon/B01vA2viE"
+                link: "https://link.amazon/B0ipnpqkP"
             },
 
             {
                 name: "Wooden console Coffee Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook61.webp",
-                link: "https://link.amazon/B0b8hxOL6"
+                link: "https://link.amazon/B03J4UtcV"
             },
 
         ]
@@ -893,25 +893,25 @@ export const livingRoomIdeas = [
             {
                 name: "Luxury Velvet Cushion Set",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook38.webp",
-                link: "https://link.amazon/B0iuwiM0w"
+                link: "https://link.amazon/B0iXuKVkg"
             },
 
             {
                 name: "Wooden console Coffee Table",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook61.webp",
-                link: "https://link.amazon/B0b8hxOL6"
+                link: "https://link.amazon/B03J4UtcV"
             },
 
             {
                 name: "Decorative Seasonal Vase",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook63.webp",
-                link: "https://link.amazon/B04o94w84"
+                link: "https://link.amazon/B08u5Ki5q"
             },
 
             {
                 name: "Cozy Seasonal Blanket",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook64.webp",
-                link: "https://link.amazon/B08QkdIjC"
+                link: "https://link.amazon/B0a7igI8z"
             }
 
         ]
@@ -941,25 +941,25 @@ export const livingRoomIdeas = [
             {
                 name: "Custom Photo Frame Set",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook65.webp",
-                link: "https://link.amazon/B0dbWnZi5"
+                link: "https://link.amazon/B05c6YmUF"
             },
 
             {
                 name: "Handmade Ceramic Decor",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook66.webp",
-                link: "https://link.amazon/B05aXVP1i"
+                link: "https://link.amazon/B06wF7cSG"
             },
 
             {
                 name: "Antique Style Table Lamp",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook53.webp",
-                link: "https://link.amazon/B04PGQFDk"
+                link: "https://link.amazon/B04jtEJIe"
             },
 
             {
                 name: "Natural Wood Floating Shelf",
                 image: "/images/blog/article/25-cozy-living-room-ideas/shoplook33.webp",
-                link: "https://link.amazon/B0if4hfbq"
+                link: "https://link.amazon/B0cGHDJ6w"
             },
 
         ]

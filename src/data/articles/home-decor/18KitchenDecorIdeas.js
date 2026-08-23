@@ -100,18 +100,18 @@ const kitchenDecorIdeas = {
                 {
                     name: "Brushed Brass Cabinet Pulls",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook29.webp",
-                    link: "https://link.amazon/B0eepNXn2"
+                    link: "https://link.amazon/B0gxzoGZy"
                 },
 
  {
                     name: "White Stoneware Dinner Set ",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B05AgTALY"
+                    link: "https://link.amazon/B06gKtl0T"
                 },
                 {
                     name: "Wood Cutting Board Set",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook24.webp",
-                    link: "https://link.amazon/B0gtd3X0K"
+                    link: "https://link.amazon/B0f3ttHyo"
                 },
 
             ]
@@ -139,7 +139,7 @@ const kitchenDecorIdeas = {
                 {
                     name: "Brushed Brass Cabinet Pulls",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook29.webp",
-                    link: "https://link.amazon/B0eepNXn2"
+                    link: "https://link.amazon/B0gxzoGZy"
                 },
 
             ]
@@ -167,12 +167,12 @@ const kitchenDecorIdeas = {
                 {
                     name: "Glass oil dispenser",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B09HmsBlU"
+                    link: "https://link.amazon/B07A7MIV4"
                 },
                 {
                     name: "Ceramic Canister Set",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B02P5mlOp"
+                    link: "https://link.amazon/B03mOKlpB"
                 },
 
             ]
@@ -200,12 +200,12 @@ const kitchenDecorIdeas = {
                 {
                     name: "Woven Rattan Pendant Lights",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook27.webp",
-                    link: "https://link.amazon/B0fZh8HsF"
+                    link: "https://link.amazon/B02VoOUJE"
                 },
                 {
                     name: "Warm LED Edison Bulbs ",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook28.webp",
-                    link: "https://link.amazon/B0cXKpvB0"
+                    link: "https://link.amazon/B03f6uXVS"
                 },
             ]
 
@@ -232,17 +232,17 @@ const kitchenDecorIdeas = {
                 {
                     name: "Oak floating shelves",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07gmlDsk"
+                    link: "https://link.amazon/B04g6wbSV"
                 },
                 {
                     name: "White Stoneware Dinner Set ",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B05AgTALY"
+                    link: "https://link.amazon/B06gKtl0T"
                 },
                 {
                     name: "Artificial money plant",
                     image: "/images/blog/article/bedroom/shoplook22.webp",
-                    link: "https://link.amazon/B0bGTEGHF"
+                    link: "https://link.amazon/B08nqOYep"
                 },
 
             ]
@@ -270,18 +270,18 @@ const kitchenDecorIdeas = {
                 {
                     name: "Woven Basket for Storage",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B08JE3X4s"
+                    link: "https://link.amazon/B08edvMd8"
                 },
 
                 {
                     name: "Airtight Glass Storage Container",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook25.webp",
-                    link: "https://link.amazon/B0gxmKG4V"
+                    link: "https://link.amazon/B03k0I8WI"
                 },
                 {
                     name: "Label Stickers for Glass Jars",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook26.webp",
-                    link: "https://link.amazon/B04m7KdRM"
+                    link: "https://link.amazon/B0dshwxJA"
                 },
 
             ]
@@ -309,13 +309,13 @@ const kitchenDecorIdeas = {
                 {
                     name: "Stoneware Serving Bowl",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook23.webp",
-                    link: "https://link.amazon/B08IfH7ve"
+                    link: "https://link.amazon/B0hkI35sR"
                 },
 
                 {
                     name: "Wood Cutting Board Set",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook24.webp",
-                    link: "https://link.amazon/B0gtd3X0K"
+                    link: "https://link.amazon/B0f3ttHyo"
                 },
             ]
 
@@ -342,13 +342,13 @@ const kitchenDecorIdeas = {
                 {
                     name: "Washable Rug for Kitchen",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook21.webp",
-                    link: "https://link.amazon/B02idcJAW"
+                    link: "https://link.amazon/B0ibtcwf0"
                 },
 
                 {
                     name: "Non-Slip Rug Pad",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook22.webp",
-                    link: "https://link.amazon/B044ZGVnw"
+                    link: "https://link.amazon/B0hLHcCdz"
                 },
 
             ]
@@ -376,18 +376,18 @@ const kitchenDecorIdeas = {
                 {
                     name: "Artificial plant for decor",
                     image: "/images/blog/article/bedroom/shoplook37.webp",
-                    link: "https://link.amazon/B03qSMAyt"
+                    link: "https://link.amazon/B0htag5ni"
                 },
 
                 {
                     name: "Artificial money plant",
                     image: "/images/blog/article/bedroom/shoplook22.webp",
-                    link: "https://link.amazon/B0bGTEGHF"
+                    link: "https://link.amazon/B08nqOYep"
                 },
                 {
                     name: "Artificial Plant with pot ",
                     image: "/images/blog/article/bedroom/shoplook15.webp",
-                    link: "https://link.amazon/B06BxANky"
+                    link: "https://link.amazon/B0fu6R6Qf"
                 },
             ]
 
@@ -414,23 +414,23 @@ const kitchenDecorIdeas = {
                 {
                     name: "Oak floating shelves",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07gmlDsk"
+                    link: "https://link.amazon/B04g6wbSV"
                 },
 
                 {
                     name: "Expresso Coffee Maker",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook18.webp",
-                    link: "https://link.amazon/B0iayalH9"
+                    link: "https://link.amazon/B0hmd5kMX"
                 },
                 {
                     name: "Marble Serving Board ",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook19.webp",
-                    link: "https://link.amazon/B0gB1qo8W"
+                    link: "https://link.amazon/B08mZebma"
                 },
                 {
                     name: "Ceramic Mug Set",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook20.webp",
-                    link: "https://link.amazon/B02yOY7Id"
+                    link: "https://link.amazon/B0h8kOYQU"
                 },
 
             ]
@@ -457,18 +457,18 @@ const kitchenDecorIdeas = {
                 {
                     name: "Oak floating shelves",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07gmlDsk"
+                    link: "https://link.amazon/B04g6wbSV"
                 },
 
                 {
                     name: "Drinking Glass Set",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook16.webp",
-                    link: "https://link.amazon/B0a4knETp"
+                    link: "https://link.amazon/B0iUrthcR"
                 },
                 {
                     name: "White Stoneware Dinner Set ",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B05AgTALY"
+                    link: "https://link.amazon/B06gKtl0T"
                 },
 
             ]
@@ -498,13 +498,13 @@ const kitchenDecorIdeas = {
                 {
                     name: "Decorative LED lights",
                     image: "/images/blog/article/bedroom/shoplook41.webp",
-                    link: "https://link.amazon/B07VRDHMN"
+                    link: "https://link.amazon/B0d5v80gY"
                 },
 
                 {
                     name: "Storage Glass Jar",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook14.webp",
-                    link: "https://link.amazon/B0iCvezno"
+                    link: "https://link.amazon/B0fi9hITV"
                 },
 
             ]
@@ -533,12 +533,12 @@ const kitchenDecorIdeas = {
                 {
                     name: "Decorative Woven tray",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0avgIgb9"
+                    link: "https://link.amazon/B0cn32u58"
                 },
                 {
                     name: "Marble Fruit Bowl",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B01Z11t87"
+                    link: "https://link.amazon/B03U7W0gx"
                 },
 
             ]
@@ -568,13 +568,13 @@ const kitchenDecorIdeas = {
                 {
                     name: "Glass Soap Dispenser",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook11.webp",
-                    link: "https://link.amazon/B0bolfrDf"
+                    link: "https://link.amazon/B01xTFRhR"
                 },
 
                 {
                     name: "Wooden Dish Brush",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B049UtzRB"
+                    link: "https://link.amazon/B044TblhI"
                 },
 
 
@@ -602,13 +602,13 @@ const kitchenDecorIdeas = {
                 {
                     name: "Peel-and-Stick Marble Tiles",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B00JfSh2d"
+                    link: "https://link.amazon/B04EvjcqI"
                 },
 
                 {
                     name: "Decorative LED lights",
                     image: "/images/blog/article/bedroom/shoplook41.webp",
-                    link: "https://link.amazon/B07VRDHMN"
+                    link: "https://link.amazon/B0d5v80gY"
                 },
 
             ]
@@ -638,15 +638,15 @@ const kitchenDecorIdeas = {
                 {
                     name: "Glass oil dispenser",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B09HmsBlU"
+                    link: "https://link.amazon/B07A7MIV4"
                 },
                 {
                     name: "Ceramic Canister Set",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B02P5mlOp"
+                    link: "https://link.amazon/B03mOKlpB"
                 },
                 {
-                    name: "Wooden Utensil with Holder",
+                    name: "https://link.amazon/B0gKeRVtI",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook9.webp",
                     link: "https://link.amazon/B08gdRAfG"
                 },
@@ -677,18 +677,18 @@ const kitchenDecorIdeas = {
                 {
                     name: "Washable Cotton Kitchen Towels",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B0aULxGsH"
+                    link: "https://link.amazon/B0ipXkLXj"
                 },
                 {
                     name: "Woven Basket for Storage",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B08JE3X4s"
+                    link: "https://link.amazon/B08edvMd8"
                 },
 
                 {
                     name: "Amber Glass Flower Vase",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B00lZjJ0u"
+                    link: "https://link.amazon/B02GDHP81"
                 },
 
 
@@ -718,14 +718,14 @@ const kitchenDecorIdeas = {
                 {
                     name: "Marble Fruit Bowl",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B01fxxNig"
+                    link: "https://link.amazon/B03U7W0gx"
                 },
 
 
                 {
                     name: "Decorative Woven tray",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0avgIgb9"
+                    link: "https://link.amazon/B0cn32u58"
                 },
 
                 {
