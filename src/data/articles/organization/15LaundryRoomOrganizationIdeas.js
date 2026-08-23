@@ -87,7 +87,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Woven storage basket ",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B05e6BFRA"
+                    link: "https://link.amazon/B00wE7K08"
                 },
             ]
 
@@ -111,7 +111,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Oak floating shelves",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07gmlDsk"
+                    link: "https://link.amazon/B01mFv36l"
                 },
 
             ]
@@ -137,7 +137,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Floating shelf ",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B04uAnFCT"
+                    link: "https://link.amazon/B0cElKMwp"
                 },
             ]
 
@@ -162,12 +162,12 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Woven storage basket ",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B05e6BFRA"
+                    link: "https://link.amazon/B00wE7K08"
                 },
                 {
                     name: "Floating shelf ",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B04uAnFCT"
+                    link: "https://link.amazon/B0cElKMwp"
                 },
 
             ]
@@ -193,12 +193,12 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Slim laundry hamper",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B08fYLNn7"
+                    link: "https://link.amazon/B01eLuW59"
                 },
                 {
                     name: "Slim laundry hamper",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B07e89r4z"
+                    link: "https://link.amazon/B0fOOp3Vu"
                 },
             ]
 
@@ -248,12 +248,12 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Storage Dispenser",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B04wPZ3H0"
+                    link: "https://link.amazon/B09mT10LM"
                 },
                 {
                     name: "Clothes Clips",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B05Bs8wa1"
+                    link: "https://link.amazon/B03KCwro2"
                 },
             ]
 
@@ -278,7 +278,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Over door organizer",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B0iansKDL"
+                    link: "https://link.amazon/B07XcBTpz"
                 },
             ]
 
@@ -303,7 +303,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Rolling Cart",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B0bp6qpcM"
+                    link: "https://link.amazon/B0fQxVZbh"
                 },
 
             ]
@@ -329,7 +329,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Floating shelf ",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B04uAnFCT"
+                    link: "https://link.amazon/B0cElKMwp"
                 },
 
             ]
@@ -354,7 +354,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Clothing Rack",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B01junCQk"
+                    link: "https://link.amazon/B0b0kyCpb"
                 },
             ]
 
@@ -381,7 +381,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Mop & Broom Holder",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B08j4u5Dg"
+                    link: "https://link.amazon/B0iqlLSis"
                 },
 
             ]
@@ -408,7 +408,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Woven storage basket ",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B05e6BFRA"
+                    link: "https://link.amazon/B00wE7K08"
                 },
             ]
 
@@ -434,12 +434,12 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Storage Dispenser",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B04wPZ3H0"
+                    link: "https://link.amazon/B09mT10LM"
                 },
                 {
                     name: "Slim laundry hamper",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B07e89r4z"
+                    link: "https://link.amazon/B0fOOp3Vu"
                 },
 
 
@@ -465,7 +465,7 @@ const laundryRoomOrganizationIdeas = {
                 {
                     name: "Label Maker",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook11.webp",
-                    link: "https://link.amazon/B07K6eNt9"
+                    link: "https://link.amazon/B0ci9YEHi"
                 },
 
             ]
