@@ -98,13 +98,13 @@ const bathroomDecorIdeas = {
                 {
                     name: "Beige waffle towels",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B00i04ZLX"
+                    link: "https://link.amazon/B0aCe5Ei2"
                 },
 
                 {
                     name: "oval bathroom mirror",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B02m0VAet"
+                    link: "https://link.amazon/B0fJ56I7P"
                 },
 
             ]
@@ -132,13 +132,13 @@ const bathroomDecorIdeas = {
                 {
                     name: "Golden round mirror",
                     image: "/images/blog/article/bedroom/shoplook20.webp",
-                    link: "https://link.amazon/B0haagDNo"
+                    link: "https://link.amazon/B0hIVsAzd"
                 },
 
                 {
                     name: "Wall light lamp",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B0gGuwWyf"
+                    link: "https://link.amazon/B05TRFIML"
                 },
 
             ]
@@ -166,12 +166,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Neutral Bathrobe",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B06OJFzkb"
+                    link: "https://link.amazon/B06NOCKRH"
                 },
                 {
                     name: "Cotton bath towel set",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B09ryyDhR"
+                    link: "https://link.amazon/B0dZClBo1"
                 },
 
             ]
@@ -199,12 +199,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Wooden bath tub tray",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B079qdPkP"
+                    link: "https://link.amazon/B03RqH81C"
                 },
                 {
                     name: "Teal Bathroom stool",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B02KeVdjH"
+                    link: "https://link.amazon/B0c3S5dKY"
                 },
             ]
 
@@ -231,12 +231,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Hanging Plant Basket",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B0its5sjv"
+                    link: "https://link.amazon/B065Hmt72"
                 },
                 {
                     name: "White ceramic plant pot ",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B09DkQwZi"
+                    link: "https://link.amazon/B0dzUW5JW"
                 },
                
             ]
@@ -264,18 +264,18 @@ const bathroomDecorIdeas = {
                 {
                     name: "Wooden bath tub tray",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B079qdPkP"
+                    link: "https://link.amazon/B03RqH81C"
                 },
 
                 {
                     name: "Scented Candle for Relaxation",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B0fbH6PpX"
+                    link: "https://link.amazon/B0ddz026a"
                 },
                 {
                     name: "eucalyptus stems",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook11.webp",
-                    link: "https://link.amazon/B058gSL6Z"
+                    link: "https://link.amazon/B0ecIgXT9"
                 },
 
             ]
@@ -303,12 +303,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Woven Basket",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook12.webp",
-                    link: "https://link.amazon/B0349l7Kx"
+                    link: "https://link.amazon/B036oeXus"
                 },
                 {
                     name: "Waffel bath mat",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B0eHKAAOp"
+                    link: "https://link.amazon/B01T3VyXK"
                 },
             ]
 
@@ -335,12 +335,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Wooden bath tub tray",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B079qdPkP"
+                    link: "https://link.amazon/B03RqH81C"
                 },
                 {
                     name: "Ceramic coffee cup",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook14.webp",
-                    link: "https://link.amazon/B079qdPkP"
+                    link: "https://link.amazon/B0aMtBbjX"
                 },
 
             ]
@@ -395,18 +395,19 @@ const bathroomDecorIdeas = {
                 {
                     name: "Oak floating shelves",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B07gmlDsk"
+                    link: "https://link.amazon/B0fOtelyX"
                 },
 
                 {
                     name: "Cotton bath towel set",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B09ryyDhR"
+                    link: "https://link.amazon/B0dZClBo1"
                 },
+
                 {
                     name: "Scented Candle for Relaxation",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B0fbH6PpX"
+                    link: "https://link.amazon/B0ddz026a"
                 },
 
             ]
@@ -432,12 +433,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Toothbrush holder",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook16.webp",
-                    link: "https://link.amazon/B0aXz3lkI"
+                    link: "https://link.amazon/B09oIv8LG"
                 },
                 {
                     name: "Soap holder",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook17.webp",
-                    link: "https://link.amazon/B00giqKHN"
+                    link: "https://link.amazon/B00LsDVqB"
                 },
 
 
@@ -464,17 +465,16 @@ const bathroomDecorIdeas = {
             ],
 
             shopLook: [
-
                 {
                     name: "Waffel bath mat",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook13.webp",
-                    link: "https://link.amazon/B0eHKAAOp"
+                    link: "https://link.amazon/B01T3VyXK"
                 },
 
                 {
                     name: "Linen-look shower curtain",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook18.webp",
-                    link: "https://link.amazon/B07udX0br"
+                    link: "https://link.amazon/B05vr2ksV"
                 },
 
             ]
@@ -503,13 +503,13 @@ const bathroomDecorIdeas = {
                 {
                     name: "Soap dispenser",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook19.webp",
-                    link: "https://link.amazon/B08mZY3bz"
+                    link: "https://link.amazon/B06Pb7j9o"
                 },
 
                 {
                     name: "Wooden vanity tray",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook20.webp",
-                    link: "https://link.amazon/B0dKYOe9i"
+                    link: "https://link.amazon/B07hGVjnr"
                 },
 
             ]
@@ -535,17 +535,15 @@ const bathroomDecorIdeas = {
             ],
 
             shopLook: [
-
                 {
                     name: "Scented Candle for Relaxation",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B0fbH6PpX"
+                    link: "https://link.amazon/B0ddz026a"
                 },
-
                 {
                     name: "Ceramic diffuser",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook21.webp",
-                    link: "https://link.amazon/B0hzLTSoT"
+                    link: "https://link.amazon/B04oMohvR"
                 },
 
 
@@ -574,13 +572,13 @@ const bathroomDecorIdeas = {
                 {
                     name: "Ceramic vase",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook22.webp",
-                    link: "https://link.amazon/B024zXG7M"
+                    link: "https://link.amazon/B091n5cxx"
                 },
 
                 {
                     name: "Botanical bathroom print",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook23.webp",
-                    link: "https://link.amazon/B0eU1CJ2d"
+                    link: "https://link.amazon/B02RkjsYh"
                 },
             ]
 
@@ -609,12 +607,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Cotton bath towel set",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B09ryyDhR"
+                    link: "https://link.amazon/B0dZClBo1"
                 },
                 {
                     name: "Teal Bathroom stool",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B02KeVdjH"
+                    link: "https://link.amazon/B08oMUOos"
                 },
 
             ]
@@ -642,12 +640,12 @@ const bathroomDecorIdeas = {
                 {
                     name: "Cotton bath towel set",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B09ryyDhR"
+                    link: "https://link.amazon/B0dZClBo1"
                 },
                 {
                     name: "Teal Bathroom stool",
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B02KeVdjH"
+                    link: "https://link.amazon/B08oMUOos"
                 },
             ]
         },
