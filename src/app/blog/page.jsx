@@ -1,5 +1,4 @@
 
-import DesignerTip from "@/components/article/DesignerTip";
 import NewsletterCTA from "@/components/article/NewsletterCTA";
 import CategoryBar from "@/components/blog/CategoryBar";
 import FeaturedArticle from "@/components/blog/FeaturedArticle";
@@ -20,7 +19,6 @@ export default function BlogPage() {
             <HeroSection />
             <FeaturedArticle />
             <LatestInspiration />
-            <DesignerTip />
             <NewsletterCTA />
             <Footer />
         </>
