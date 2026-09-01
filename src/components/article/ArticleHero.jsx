@@ -3,7 +3,7 @@
 import Image from "next/image";
 
 export default function ArticleHero({
-    category,
+    categories,
     title,
     description,
     updated,
@@ -19,11 +19,16 @@ export default function ArticleHero({
 
                 {/* Category */}
 
-                <span className="inline-flex rounded-full bg-[#F4E6D8] px-5 py-2 text-xs font-semibold uppercase tracking-[3px] text-[#9C6A3F]">
-
-                    {category}
-
-                </span>
+                <div className="flex flex-wrap gap-2">
+                    {categories?.map((category) => (
+                        <span
+                            key={category}
+                            className="inline-flex rounded-full bg-[#F4E6D8] px-5 py-2 text-xs font-semibold uppercase tracking-[3px] text-[#9C6A3F]"
+                        >
+                            {category}
+                        </span>
+                    ))}
+                </div>
 
                 {/* Title */}
 
