@@ -130,16 +130,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Cable clips Organizer",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia1.webp",
-                        link: "https://link.amazon/B0e4XwbET"
+                        name: "Woven storage basket ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia1.webp",
+                        link: "https://link.amazon/B04OjnrzJ"
                     }
                 ],
                 us: [
                     {
-                        name: "Cable clips Organizer",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS1.webp",
-                        link: "https://amzn.to/4x0wsVx"
+                        name: "Woven Storage basket ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                        link: "https://amzn.to/3UwGJv4"
                     }
                 ]
             }
@@ -163,19 +163,20 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Adjustable aluminum stand,",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia2.webp",
-                        link: "https://link.amazon/B07wLJ8zw"
+                        name: "Drawer Organizers ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia2.webp",
+                        link: "https://link.amazon/B0b1OIKIU"
                     }
                 ],
                 us: [
                     {
-                        name: "Adjustable aluminum stand,",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS2.webp",
-                        link: "https://amzn.to/4iCMj92"
+                        name: "Drawer Organizers ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS2.webp",
+                        link: "https://amzn.to/4qSk6gT"
                     }
                 ]
             }
+
 
         },
 
@@ -196,20 +197,20 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Insulated stainless-steel bottle",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia3.webp",
-                        link: "https://link.amazon/B03eeIWhs"
+                        name: "Under-Sink Organizers",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia7.webp",
+                        link: "https://link.amazon/B04k3oHzu"
                     }
                 ],
                 us: [
                     {
-                        name: "Insulated stainless-steel bottle",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS3.webp",
-                        link: "https://amzn.to/4gEiF0J"
+                        name: "Under-Sink Organizers",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS7.webp",
+                        link: "https://amzn.to/3Ur3Uab"
                     }
                 ]
+            
             }
-
         },
 
         {
@@ -229,16 +230,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "multi-device charging dock",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia4.webp",
-                        link: "https://link.amazon/B07xkn45X"
+                        name: "Shelf Dividers ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia3.webp",
+                        link: "https://link.amazon/B08KsriAj"
                     }
                 ],
                 us: [
                     {
-                        name: "multi-device charging dock",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS4.webp",
-                        link: "https://amzn.to/4xMrKvX"
+                        name: "Shelf Dividers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia3.webp",
+                        link: "https://amzn.to/3V8HR8j"
                     }
                 ]
             }
@@ -261,16 +262,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "motion-sensor night light",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia5.webp",
-                        link: "https://link.amazon/B069kIHqn"
+                        name: "Over the door organizer ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia4.webp",
+                        link: "https://link.amazon/B0bsmkI5o"
                     }
                 ],
                 us: [
                     {
-                        name: "motion-sensor night light",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS5.webp",
-                        link: "https://amzn.to/4gFM4aK"
+                        name: "Over the door organizer ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia4.webp",
+                        link: "https://amzn.to/4x76OhZ"
                     }
                 ]
             }
@@ -294,16 +295,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Adjustable dividers,",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia6.webp",
-                        link: "https://link.amazon/B01CKIlYe"
+                        name: "Storage Ottomans ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia5.webp",
+                        link: "https://link.amazon/B0aGoCsNO"
                     }
                 ],
                 us: [
                     {
-                        name: "Adjustable dividers,",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia6.webp",
-                        link: "https://amzn.to/4gFM4aK"
+                        name: "Storage Ottomans ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS5.webp",
+                        link: "https://amzn.to/4iMUU9c"
                     }
                 ]
             }
@@ -327,19 +328,20 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "expandable under-sink rack",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia7.webp",
-                        link: "https://link.amazon/B04k3oHzu"
+                        name: "Slim Shoe Racks ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia6.webp",
+                        link: "https://link.amazon/B07nSG07X"
                     }
                 ],
                 us: [
                     {
-                        name: "expandable under-sink rack",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS7.webp",
-                        link: "https://amzn.to/3Ur3Uab"
+                        name: "Slim Shoe Racks ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS6.webp",
+                        link: "https://amzn.to/3Ut3mR7"
                     }
                 ]
             }
+
 
         },
 
@@ -360,16 +362,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "4–6 piece packing-cube set",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia8.webp",
-                        link: "https://link.amazon/B0eA9w1HG"
+                        name: "Soft Throw Blanket",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia7.webp",
+                        link: "https://link.amazon/B00BALE3J"
                     }
                 ],
                 us: [
                     {
-                        name: "4–6 piece packing-cube set",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS8.webp",
-                        link: "https://amzn.to/4wTXqhl"
+                        name: "Soft Throw Blanket",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS7.webp",
+                        link: "https://amzn.to/4x4P4DT"
                     }
                 ]
             }
@@ -393,17 +395,17 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Hanging toiletry bag",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia9.webp",
-                        link: "https://link.amazon/B0f98ycfr"
-                    }
+                        name: "Terracota cushion cover",
+                        image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
+                        link: "https://clnk.in/BWTc"
+                    },
                 ],
                 us: [
                     {
-                        name: "Hanging toiletry bag",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS9.webp",
-                        link: "https://amzn.to/4gEnmr8"
-                    }
+                        name: "Terracota cushion cover",
+                        image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
+                        link: "https://amzn.to/4gXIABP"
+                    },
                 ]
             }
         },
@@ -425,16 +427,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "power bank",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia10.webp",
-                        link: "https://link.amazon/B0fsKIcHn"
+                        name: "Warm Table Lamp",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia8.webp",
+                        link: "https://link.amazon/A0eVttTOz"
                     }
                 ],
                 us: [
                     {
-                        name: "power bank",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS10.webp",
-                        link: "https://amzn.to/3UpkJ5q"
+                        name: "Warm Table Lamp",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS8.webp",
+                        link: "https://amzn.to/4zSdHWY"
                     }
                 ]
             }
@@ -457,16 +459,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "foldable phone holder",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia11.webp",
-                        link: "https://link.amazon/B0hai2jUF"
+                        name: "Wooden Tray",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia9.webp",
+                        link: "https://link.amazon/B0ctSHMH8"
                     }
                 ],
                 us: [
                     {
-                        name: "foldable phone holder",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS11.webp",
-                        link: "https://amzn.to/45WMjJK"
+                        name: "Wooden Tray",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS9.webp",
+                        link: "https://amzn.to/4coJGEd"
                     }
                 ]
             }
@@ -492,17 +494,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Under-desk footrest",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia12.webp",
-                        link: "https://link.amazon/B054Mw9OF"
+                        name: "Woven storage basket ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia1.webp",
+                        link: "https://link.amazon/B04OjnrzJ"
                     }
                 ],
                 us: [
                     {
-                        name: "Under-desk footrest",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS12.webp",
-                        link: "https://amzn.to/4gC7Z2C"
+                        name: "Woven Storage basket ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                        link: "https://amzn.to/3UwGJv4"
                     }
+                
                 ]
             }
 
@@ -526,17 +529,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "drawer-style desk organizer",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia13.webp",
-                        link: "https://link.amazon/B03Tpnlze"
+                        name: " Decorative Vases ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia10.webp",
+                        link: "https://link.amazon/B0avm2dzB"
                     }
                 ],
                 us: [
                     {
-                        name: "drawer-style desk organizer",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS13.webp",
-                        link: "https://amzn.to/4zNn2PO"
+                        name: " Decorative Vases ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS10.webp",
+                        link: "https://amzn.to/4gxl6Dy"
                     }
+
                 ]
             }
 
@@ -561,16 +565,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "glass food containers",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia14.webp",
-                        link: "https://link.amazon/B0j96nA7y"
+                        name: "Area Rugs",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS3.webp",
+                        link: "https://link.amazon/B014Ix0oL"
                     }
                 ],
                 us: [
                     {
-                        name: "glass food containers",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS14.webp",
-                        link: "https://amzn.to/4gKuqTp"
+                        name: "Area Rugs",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS3.webp",
+                        link: "https://amzn.to/4yd4EOH"
                     }
                 ]
             }
@@ -592,17 +596,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Spice rack",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia15.webp",
-                        link: "https://link.amazon/B0fFH4GrZ"
+                        name: "Cozy Bedding ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia11.webp",
+                        link: "https://link.amazon/B01jcURSE"
                     }
                 ],
                 us: [
                     {
-                        name: "Spice rack",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS15.webp",
-                        link: "https://amzn.to/45SRBpF"
+                        name: "Cozy Bedding ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS11.webp",
+                        link: "https://amzn.to/4xCoq6m"
                     }
+
                 ]
             }
 
@@ -627,17 +632,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Manual chopper",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia16.webp",
-                        link: "https://link.amazon/B03HugMDZ"
+                        name: "Bedside Organizers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia12.webp",
+                        link: "https://link.amazon/B08shwlg3"
                     }
                 ],
                 us: [
                     {
-                        name: "Manual chopper",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS16.webp",
-                        link: "https://amzn.to/4i2H2ri"
+                        name: "Bedside Organizers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS12.webp",
+                        link: "https://amzn.to/3T8Csxx"
                     }
+
                 ]
             }
 
@@ -661,17 +667,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Reusable silicone storage bags",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia17.webp",
-                        link: "https://link.amazon/B0dLjxq7f"
+                        name: "Blackout Curtains ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia13.webp",
+                        link: "https://link.amazon/B0dopBWF8"
                     }
                 ],
                 us: [
                     {
-                        name: "Reusable silicone storage bags",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS17.webp",
-                        link: "https://amzn.to/3T5mlRg"
+                        name: "Blackout Curtains ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS13.webp",
+                        link: "https://amzn.to/4qQkLiz"
                     }
+
                 ]
             }
 
@@ -695,17 +702,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "clothing organizers",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia18.webp",
-                        link: "https://link.amazon/B0i7uiBm0"
+                        name: "Soft Bed Throws ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia14.webp",
+                        link: "https://link.amazon/B0hMz2uKs"
                     }
                 ],
                 us: [
                     {
-                        name: "clothing organizers",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS18.webp",
-                        link: "https://amzn.to/3V1JEvQ"
+                        name: "Soft Bed Throws ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS14.webp",
+                        link: "https://amzn.to/4i2WF1V"
                     }
+
                 ]
             }
 
@@ -728,17 +736,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "clothing organizers",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia18.webp",
-                        link: "https://link.amazon/B0i7uiBm0"
+                        name: "Bedside Lamp",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia15.webp",
+                        link: "https://link.amazon/B0cx633tY"
                     }
                 ],
                 us: [
                     {
-                        name: "clothing organizers",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS18.webp",
-                        link: "https://amzn.to/3V1JEvQ"
+                        name: "Bedside Lamp",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS15.webp",
+                        link: "https://amzn.to/4h3VIp4"
                     }
+
                 ]
             }
 
@@ -763,16 +772,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Digital luggage scale",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia19.webp",
-                        link: "https://link.amazon/B01X5OFWg"
+                        name: "Adjustable aluminum stand,",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia2.webp",
+                        link: "https://link.amazon/B07wLJ8zw"
                     }
                 ],
                 us: [
                     {
-                        name: "Digital luggage scale",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS19.webp",
-                        link: "https://amzn.to/3ULRUjw"
+                        name: "Adjustable aluminum stand,",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS2.webp",
+                        link: "https://amzn.to/4iCMj92"
                     }
                 ]
             }
@@ -797,16 +806,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia20.webp",
-                        link: "https://link.amazon/B03k85vna"
+                        name: "drawer-style desk organizer",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia13.webp",
+                        link: "https://link.amazon/B03Tpnlze"
                     }
                 ],
                 us: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS20.webp",
-                        link: "https://amzn.to/4zQGc7u"
+                        name: "drawer-style desk organizer",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS13.webp",
+                        link: "https://amzn.to/4zNn2PO"
                     }
                 ]
             }
@@ -829,16 +838,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia21.webp",
-                        link: "https://link.amazon/B0e5tZMds"
+                        name: "Cable clips Organizer",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia1.webp",
+                        link: "https://link.amazon/B0e4XwbET"
                     }
                 ],
                 us: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS21.webp",
-                        link: "https://amzn.to/4xhuFf3"
+                        name: "Cable clips Organizer",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS1.webp",
+                        link: "https://amzn.to/4x0wsVx"
                     }
                 ]
             }
@@ -860,16 +869,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia22.webp",
-                        link: "https://link.amazon/B04oHvKQL"
+                        name: "Under-desk footrest",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia12.webp",
+                        link: "https://link.amazon/B054Mw9OF"
                     }
                 ],
                 us: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS22.webp",
-                        link: "https://amzn.to/3SIsov1"
+                        name: "Under-desk footrest",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS12.webp",
+                        link: "https://amzn.to/4gC7Z2C"
                     }
                 ]
             }
@@ -891,17 +900,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Contoured sleep mask",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia23.webp",
-                        link: "https://link.amazon/B0g1Tcsxl"
+                        name: "Monitor Stand",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia16.webp",
+                        link: "https://link.amazon/B09G2C6M0"
                     }
                 ],
                 us: [
                     {
-                        name: "Contoured sleep mask",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia23.webp",
-                        link: "https://amzn.to/4gK9YSx"
+                        name: "Monitor Stand",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS16.webp",
+                        link: "https://amzn.to/4zQ0Ft3"
                     }
+
                 ]
             }
 
@@ -923,17 +933,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS24.webp",
-                        link: "https://link.amazon/B04oHvKQL"
+                        name: "Stackable Food Containers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia17.webp",
+                        link: "https://link.amazon/B03pxjtiC"
                     }
                 ],
                 us: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS25.webp",
-                        link: "https://amzn.to/3SIsov1"
+                        name: "Stackable Food Containers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS17.webp",
+                        link: "https://amzn.to/462QCDe"
                     }
+
                 ]
             }
         },
@@ -955,16 +966,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia21.webp",
-                        link: "https://link.amazon/B0e5tZMds"
+                        name: "Spice rack",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia15.webp",
+                        link: "https://link.amazon/B0fFH4GrZ"
                     }
                 ],
                 us: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS21.webp",
-                        link: "https://amzn.to/4xhuFf3"
+                        name: "Spice rack",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS15.webp",
+                        link: "https://amzn.to/45SRBpF"
                     }
                 ]
             }
@@ -986,17 +997,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia22.webp",
-                        link: "https://link.amazon/B04oHvKQL"
+                        name: "Countertop Organizers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia20.webp",
+                        link: "https://link.amazon/B0gfVOPja"
                     }
                 ],
                 us: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS22.webp",
-                        link: "https://amzn.to/3SIsov1"
+                        name: "Countertop Organizers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS20.webp",
+                        link: "https://amzn.to/4qP2CSp"
                     }
+
                 ]
             }
         },
@@ -1013,23 +1025,6 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             tips: [
                 "Before buying, check the cabinet's construction and available clearance to make sure the product can be installed safely and comfortably."
             ],
-
-            shopLook: {
-                india: [
-                    {
-                        name: "Contoured sleep mask",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia23.webp",
-                        link: "https://link.amazon/B0g1Tcsxl"
-                    }
-                ],
-                us: [
-                    {
-                        name: "Contoured sleep mask",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia23.webp",
-                        link: "https://amzn.to/4gK9YSx"
-                    }
-                ]
-            }
 
         },
         {
@@ -1049,16 +1044,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS24.webp",
-                        link: "https://link.amazon/B04oHvKQL"
+                        name: "Wooden Tray",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia9.webp",
+                        link: "https://link.amazon/B0ctSHMH8"
                     }
                 ],
                 us: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS25.webp",
-                        link: "https://amzn.to/3SIsov1"
+                        name: "Wooden Tray",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS9.webp",
+                        link: "https://amzn.to/4coJGEd"
                     }
                 ]
             }
@@ -1080,20 +1075,20 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Digital luggage scale",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia19.webp",
-                        link: "https://link.amazon/B01X5OFWg"
+                        name: "Bathroom Storage Organizers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia18.webp",
+                        link: "https://link.amazon/B0biHAsCn"
                     }
                 ],
                 us: [
                     {
-                        name: "Digital luggage scale",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS19.webp",
-                        link: "https://amzn.to/3ULRUjw"
+                        name: "Bathroom Storage Organizers",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS18.webp",
+                        link: "https://amzn.to/4cQBWec"
                     }
+
                 ]
             }
-
 
         },
 
@@ -1114,17 +1109,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia20.webp",
-                        link: "https://link.amazon/B03k85vna"
+                        name: "Shower Caddies",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia19.webp",
+                        link: "https://link.amazon/B03JQwuto"
                     }
                 ],
                 us: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS20.webp",
-                        link: "https://amzn.to/4zQGc7u"
+                        name: "Shower Caddies",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS19.webp",
+                        link: "https://amzn.to/4qOWZUd"
                     }
+
                 ]
             }
 
@@ -1146,17 +1142,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia21.webp",
-                        link: "https://link.amazon/B0e5tZMds"
+                        name: "Matching Soap Dispenser",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia21.webp",
+                        link: "https://link.amazon/B0gOpKtih"
                     }
                 ],
                 us: [
                     {
-                        name: "5-in-1 USB-C hub",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS21.webp",
-                        link: "https://amzn.to/4xhuFf3"
+                        name: "Matching Soap Dispenser",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS21.webp",
+                        link: "https://amzn.to/4x23tRa"
                     }
+
                 ]
             }
         },
@@ -1177,16 +1174,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia22.webp",
-                        link: "https://link.amazon/B04oHvKQL"
+                        name: "motion-sensor night light",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia5.webp",
+                        link: "https://link.amazon/B069kIHqn"
                     }
                 ],
                 us: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS22.webp",
-                        link: "https://amzn.to/3SIsov1"
+                        name: "motion-sensor night light",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS5.webp",
+                        link: "https://amzn.to/4gFM4aK"
                     }
                 ]
             }
@@ -1208,16 +1205,16 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Contoured sleep mask",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia23.webp",
-                        link: "https://link.amazon/B0g1Tcsxl"
+                        name: "Smart Plugs",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia21.webp",
+                        link: "https://link.amazon/B0e5tZMds"
                     }
                 ],
                 us: [
                     {
-                        name: "Contoured sleep mask",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia23.webp",
-                        link: "https://amzn.to/4gK9YSx"
+                        name: "Smart Plugs",
+                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS21.webp",
+                        link: "https://amzn.to/4xhuFf3"
                     }
                 ]
             }
@@ -1240,17 +1237,18 @@ const homeProductsThatMakeYourSpaceLookBetter = {
             shopLook: {
                 india: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS24.webp",
-                        link: "https://link.amazon/B04oHvKQL"
+                        name: "Mirror",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
+                        link: "https://link.amazon/B07mEtlp9"
                     }
                 ],
                 us: [
                     {
-                        name: "Electric scrubber",
-                        image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS25.webp",
-                        link: "https://amzn.to/3SIsov1"
+                        name: "Mirror",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
+                        link: "https://amzn.to/4ylue4d"
                     }
+
                 ]
             }
         },

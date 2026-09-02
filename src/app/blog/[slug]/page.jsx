@@ -13,6 +13,21 @@ import Footer from "@/components/home-page/Footer";
 import NewsletterCTA from "@/components/article/NewsletterCTA";
 import Header from "@/components/home-page/Header";
 
+
+// Helper function
+const getCategories = (article) => {
+    if (Array.isArray(article.categories)) {
+        return article.categories;
+    }
+
+    if (article.category) {
+        return [article.category];
+    }
+
+    return [];
+};
+
+
 export async function generateMetadata({ params }) {
     const { slug } = await params;
 
@@ -29,12 +44,6 @@ export async function generateMetadata({ params }) {
     const description = Array.isArray(article.description)
         ? article.description.join(" ")
         : article.description;
-
-    const categories = Array.isArray(article.categories)
-        ? article.categories
-        : article.category
-            ? [article.category]
-            : [];
 
     return {
         title: article.title,
@@ -56,6 +65,7 @@ export async function generateMetadata({ params }) {
 
 openGraph: {
     title: article.title,
+
         description,
 
         url: `https://dream-home-decor-hub.vercel.app/blog/${article.slug}`,
@@ -75,7 +85,9 @@ openGraph: {
 
 twitter: {
     card: "summary_large_image",
+
         title: article.title,
+
             description,
 
             images: [
@@ -84,6 +96,7 @@ twitter: {
         },
     };
 }
+
 
 export default async function Page({ params }) {
     const { slug } = await params;
@@ -96,12 +109,31 @@ export default async function Page({ params }) {
         notFound();
     }
 
-    const categories = Array.isArray(article.categories)
-        ? article.categories
-        : article.category
-            ? [article.category]
-            : [];
 
+    // Current article categories
+    const categories = getCategories(article);
+
+
+    // Find related articles
+    const relatedArticles = articles
+        .filter(
+            (item) => item.slug !== article.slug
+        )
+        .filter((item) => {
+            const itemCategories = getCategories(item);
+
+            return itemCategories.some((itemCategory) =>
+                categories.some(
+                    (category) =>
+                        itemCategory.toLowerCase().trim() ===
+                        category.toLowerCase().trim()
+                )
+            );
+        })
+        .slice(0, 4);
+
+
+    // Article Schema
     const articleSchema = {
         "@context": "https://schema.org",
         "@type": "Article",
@@ -143,6 +175,7 @@ export default async function Page({ params }) {
         },
     };
 
+
     return (
         <>
             {/* Article Schema */}
@@ -153,11 +186,15 @@ export default async function Page({ params }) {
                 }}
             />
 
+
+            {/* Header */}
             <Header
                 categories={categories}
                 title={article.title}
             />
 
+
+            {/* Article Hero */}
             <ArticleHero
                 categories={categories}
                 title={article.title}
@@ -167,12 +204,16 @@ export default async function Page({ params }) {
                 image={article.image}
             />
 
+
+            {/* Table of Contents */}
             <TableOfContents
                 items={article.tableOfContents}
                 totalIdeas={article.totalIdeas}
                 totalProducts={article.totalProducts}
             />
 
+
+            {/* Ideas */}
             {article.ideas?.length > 0 &&
                 article.ideas.map((idea) => (
                     <IdeaCard
@@ -181,12 +222,16 @@ export default async function Page({ params }) {
                     />
                 ))}
 
-            {article.relatedArticles?.length > 0 && (
+
+            {/* Related Articles */}
+            {relatedArticles.length > 0 && (
                 <RelatedArticles
-                    articles={article.relatedArticles}
+                    articles={relatedArticles}
                 />
             )}
 
+
+            {/* Bottom Sections */}
             <BrandBanner />
 
             <PinterestCTA />

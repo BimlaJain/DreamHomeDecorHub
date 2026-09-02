@@ -811,14 +811,14 @@ const geniusEverydayProductsYouWillBoughtSooner = {
             shopLook: {
                 india: [
                     {
-                        name: "5-in-1 USB-C hub",
+                        name: "Smart Plugs",
                         image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/ShoplookIndia21.webp",
                         link: "https://link.amazon/B0e5tZMds"
                     }
                 ],
                 us: [
                     {
-                        name: "5-in-1 USB-C hub",
+                        name: "Smart Plugs",
                         image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS21.webp",
                         link: "https://amzn.to/4xhuFf3"
                     }
