@@ -17,7 +17,7 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
     readTime: "16 min read",
 
     image:
-        "/images/blog/article/21-small-space-organization-ideas/small-space-organization-hero-image.webp",
+        "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/classy-halloween-home-decor-hero-image.webp",
 
 
     description:
