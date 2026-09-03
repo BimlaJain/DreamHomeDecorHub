@@ -99,9 +99,19 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Wooden Storage floating shelves",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook1.webp",
-                    link: "https://clnk.in/BVfW"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "Lantern",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook2.webp",
+                    link: "https://amzn.to/3SuxlaN"
+                },
+                {
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
                 },
 
             ]
@@ -124,10 +134,21 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
 
             shopLook: [
                 {
-                    name: "Slim white storage cabinat",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook2.webp",
-                    link: "https://clnk.in/BVf7"
+                    name: "black velvet pillow covers",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook4.webp",
+                    link: "https://amzn.to/4cmAj7V"
                 },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "Candle holder",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook5.webp",
+                    link: "https://amzn.to/3UytH0b"
+                },
+                
 
             ]
 
@@ -150,9 +171,24 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Under bed Storage Organizer",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook3.webp",
-                    link: "https://clnk.in/BVf8"
+                    name: "black taper candles",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook6.webp",
+                    link: "https://amzn.to/4guqpDG"
+                },
+                {
+                    name: "Candle Holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook7.webp",
+                    link: "https://amzn.to/3Tavjg8"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
                 },
 
             ]
@@ -175,9 +211,24 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
 
             shopLook: [
                 {
-                    name: "Storage Ottoman",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook4.webp",
-                    link: "https://clnk.in/BVgL"
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "black velvet pillow covers",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook4.webp",
+                    link: "https://amzn.to/4cmAj7V"
+                },
+                {
+                    name: "Black vases",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook9.webp",
+                    link: "https://amzn.to/4i4I1Hr"
                 },
 
             ]
@@ -200,9 +251,24 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
 
             shopLook: [
                 {
-                    name: "Corner Shef",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook5.webp",
-                    link: "https://clnk.in/BVgM"
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "Lantern",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook2.webp",
+                    link: "https://amzn.to/3SuxlaN"
+                },
+                {
+                    name: "Black vases",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook9.webp",
+                    link: "https://amzn.to/4i4I1Hr"
                 },
             ]
 
@@ -225,9 +291,24 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: " storage basket",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook6.webp",
-                    link: "https://clnk.in/BVgN"
+                    name: "Black table runner",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook10.webp",
+                    link: "https://amzn.to/4zXGZUg"
+                },
+                {
+                    name: "black taper candles",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook6.webp",
+                    link: "https://amzn.to/4guqpDG"
+                },
+                {
+                    name: " candle holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook11.webp",
+                    link: "https://amzn.to/4i5w1W8"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
                 },
             ]
 
@@ -250,14 +331,24 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Hanger for clothes",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook7.webp",
-                    link: "https://clnk.in/BVgP"
+                    name: "black taper candles",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook6.webp",
+                    link: "https://amzn.to/4guqpDG"
                 },
                 {
-                    name: "Organizers",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook8.webp",
-                    link: "https://clnk.in/BVgQ"
+                    name: " candle holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook11.webp",
+                    link: "https://amzn.to/4i5w1W8"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "Black vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook12.webp",
+                    link: "https://amzn.to/3Tff8y9"
                 },
             ]
 
@@ -280,9 +371,24 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Shoe Rack",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook9.webp",
-                    link: "https://clnk.in/BVgR"
+                    name: "Black vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook12.webp",
+                    link: "https://amzn.to/3Tff8y9"
+                },
+                {
+                    name: "Candle holder with glass Dome",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook13.webp",
+                    link: "https://amzn.to/4gHd61u"
+                },
+                {
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
                 },
 
             ]
@@ -302,6 +408,31 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             tips: [
                 "Repeat two or three colors across your porch decor to create a cohesive look from the street."
             ],
+            shopLook: [
+               
+                {
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "Lantern",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook2.webp",
+                    link: "https://amzn.to/3SuxlaN"
+                },
+                {
+                    name: "Halloween Wreath",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook14.webp",
+                    link: "https://amzn.to/3SPT7G3"
+                },
+                
+
+            ]
 
         },
 
@@ -320,13 +451,21 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
 
             shopLook: [
 
-
                 {
-                    name: "Storage Shelf",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook10.webp",
-                    link: "https://clnk.in/BVhv"
+                    name: "black velvet pillow covers",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook4.webp",
+                    link: "https://amzn.to/4cmAj7V"
                 },
-
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "Lantern",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook2.webp",
+                    link: "https://amzn.to/3SuxlaN"
+                },
 
             ]
 
@@ -344,6 +483,29 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             tips: [
                 "Don't decorate every shelf. Leaving some negative space will make your Halloween accents stand out more."
             ],
+            shopLook: [
+                {
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+
+                {
+                    name: "Black vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook12.webp",
+                    link: "https://amzn.to/3Tff8y9"
+                },
+                {
+                    name: " candle holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook11.webp",
+                    link: "https://amzn.to/4i5w1W8"
+                },
+            ]
 
 
         },
@@ -367,14 +529,25 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Laptop cover",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook12.webp",
-                    link: "https://clnk.in/BVhz"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+
+                {
+                    name: "Black vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook12.webp",
+                    link: "https://amzn.to/3Tff8y9"
                 },
                 {
-                    name: "Desk Accessories",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook14.webp",
-                    link: "https://clnk.in/BVhD"
+                    name: "Black candle holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook15.webp",
+                    link: "https://amzn.to/4qRl2St"
+                },
+                {
+                    name: "Lantern",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook2.webp",
+                    link: "https://amzn.to/3SuxlaN"
                 },
             ]
 
@@ -398,11 +571,26 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Mini dining table ",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook13.webp",
-                    link: "https://clnk.in/BVhE"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
                 },
 
+                {
+                    name: "Black vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook12.webp",
+                    link: "https://amzn.to/3Tff8y9"
+                },
+                {
+                    name: "black taper candles",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook6.webp",
+                    link: "https://amzn.to/4guqpDG"
+                },
+                {
+                    name: "Candle Holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook7.webp",
+                    link: "https://amzn.to/3Tavjg8"
+                },
             ]
 
         },
@@ -424,16 +612,15 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Toilet Paper Holder",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook15.webp",
-                    link: "https://clnk.in/BVhF"
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
                 },
                 {
-                    name: "Sink organizer",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook16.webp",
-                    link: "https://clnk.in/BVhH"
+                    name: "White Ceramic vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook16.webp",
+                    link: "https://amzn.to/4gLzarY"
                 },
-
 
             ]
 
@@ -455,16 +642,37 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Air tight container",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook17.webp",
-                    link: "https://clnk.in/BVhJ"
-                },
-                {
-                    name: "Air tight container",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook18.webp",
-                    link: "https://clnk.in/BVhI"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
                 },
 
+                {
+                    name: "Black vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook12.webp",
+                    link: "https://amzn.to/3Tff8y9"
+                },
+                {
+                    name: "black taper candles",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook6.webp",
+                    link: "https://amzn.to/4guqpDG"
+                },
+                {
+                    name: "Black candle holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook15.webp",
+                    link: "https://amzn.to/4qRl2St"
+                },
+                {
+                    name: " candle holders",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook11.webp",
+                    link: "https://amzn.to/4i5w1W8"
+                },
+
+                {
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
             ]
 
         },
@@ -488,9 +696,25 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Wall Hooks",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook19.webp",
-                    link: "https://clnk.in/BVh9"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+
+                {
+                    name: "Black vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook12.webp",
+                    link: "https://amzn.to/3Tff8y9"
+                },
+                {
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
                 },
 
             ]
@@ -514,9 +738,34 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Shelf Risers",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook20.webp",
-                    link: "https://clnk.in/BVia"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "black velvet pillow covers",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook4.webp",
+                    link: "https://amzn.to/4cmAj7V"
+                },
+                {
+                    name: "Decorative Scented Candle",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook17.webp",
+                    link: "https://amzn.to/4gA4gnz"
+                },
+                {
+                    name: "Decorative String Lights",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
+                    link: "https://amzn.to/46o5a0B"
+                },
+                {
+                    name: "black taper candles",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook6.webp",
+                    link: "https://amzn.to/4guqpDG"
                 },
             ]
 
@@ -539,9 +788,24 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Console bedside Table",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook21.webp",
-                    link: "https://clnk.in/BVib"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
+                },
+                {
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "black velvet pillow covers",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook4.webp",
+                    link: "https://amzn.to/4cmAj7V"
+                },
+                {
+                    name: "black photo frame set ",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook19.webp",
+                    link: "https://amzn.to/3UBisE7"
                 },
 
             ]
@@ -565,14 +829,34 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
             shopLook: [
 
                 {
-                    name: "Console bed with storage",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook23.webp",
-                    link: "https://clnk.in/BVig"
+                    name: "Black Decorative Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook1.webp",
+                    link: "https://amzn.to/4h4bSyJ"
                 },
                 {
-                    name: "Console bed with storage",
-                    image: "/images/blog/article/21-small-space-organization-ideas/shoplook22.webp",
-                    link: "https://clnk.in/BVif"
+                    name: "White Ceramic Pumpkins",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
+                    link: "https://amzn.to/4qS4Q3f"
+                },
+                {
+                    name: "black velvet pillow covers",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook4.webp",
+                    link: "https://amzn.to/4cmAj7V"
+                },
+                {
+                    name: "White Ceramic vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook16.webp",
+                    link: "https://amzn.to/4gLzarY"
+                },
+                {
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
+                },
+                {
+                    name: "Lantern",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook2.webp",
+                    link: "https://amzn.to/3SuxlaN"
                 },
 
 
