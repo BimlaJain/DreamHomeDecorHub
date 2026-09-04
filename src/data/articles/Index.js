@@ -19,6 +19,8 @@ import smallEntrywayOrganizationIdeas from "./small-space/15SmallEntrywayOrganiz
 import geniusEverydayProductsYouWillBoughtSooner from "./organization/25GeniusEverydayProductsYou’llWishYouBoughtSooner";
 import homeProductsThatMakeYourSpaceLookBetter from "./organization/35HomeProductsThatMakeYourSpaceLookBetter";
 import classyHalloweenHomeDecorIdeasThatLookExpensive from "./seasonal-decor/19ClassyHalloweenHomeDecorIdeasThatLookExpensive";
+import halloweenFrontPorchIdeastoCreateStylishSpookyEntrance from "./seasonal-decor/19ClassyHalloweenHomeDecorIdeasThatLookExpensive";
+import halloweenFrontPorchIdeasForSpookyEntrance from "./seasonal-decor/17HalloweenFrontPorchIdeasForSpookyEntrance";
 
 const articles = [
 
@@ -42,6 +44,8 @@ const articles = [
     geniusEverydayProductsYouWillBoughtSooner,
     homeProductsThatMakeYourSpaceLookBetter,
     classyHalloweenHomeDecorIdeasThatLookExpensive,
+   halloweenFrontPorchIdeasForSpookyEntrance,
+    
     
 
 ];

@@ -31,7 +31,7 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
     totalIdeas: 19,
 
 
-    totalProducts: 35,
+    totalProducts: 20,
 
 
     author:

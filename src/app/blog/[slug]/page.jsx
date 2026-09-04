@@ -214,13 +214,12 @@ export default async function Page({ params }) {
 
 
             {/* Ideas */}
-            {article.ideas?.length > 0 &&
-                article.ideas.map((idea) => (
-                    <IdeaCard
-                        key={idea.id}
-                        idea={idea}
-                    />
-                ))}
+            {article.ideas?.map((idea) => (
+                <IdeaCard
+                    key={`${article.slug}-idea-${idea.id}`}
+                    idea={idea}
+                />
+            ))}
 
 
             {/* Related Articles */}
