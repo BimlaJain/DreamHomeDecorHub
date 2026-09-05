@@ -21,6 +21,7 @@ import homeProductsThatMakeYourSpaceLookBetter from "./organization/35HomeProduc
 import classyHalloweenHomeDecorIdeasThatLookExpensive from "./seasonal-decor/19ClassyHalloweenHomeDecorIdeasThatLookExpensive";
 import halloweenFrontPorchIdeastoCreateStylishSpookyEntrance from "./seasonal-decor/19ClassyHalloweenHomeDecorIdeasThatLookExpensive";
 import halloweenFrontPorchIdeasForSpookyEntrance from "./seasonal-decor/17HalloweenFrontPorchIdeasForSpookyEntrance";
+import fallAndHalloweenDecorIdeasThatWorkForBothSeasons from "./seasonal-decor/21FallandHalloweenDecorIdeasThatWorkforBothSeasons";
 
 const articles = [
 
@@ -45,7 +46,7 @@ const articles = [
     homeProductsThatMakeYourSpaceLookBetter,
     classyHalloweenHomeDecorIdeasThatLookExpensive,
    halloweenFrontPorchIdeasForSpookyEntrance,
-    
+    fallAndHalloweenDecorIdeasThatWorkForBothSeasons,
     
 
 ];
