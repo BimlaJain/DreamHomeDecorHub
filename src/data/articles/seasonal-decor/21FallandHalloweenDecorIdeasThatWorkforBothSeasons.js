@@ -17,7 +17,7 @@ const fallAndHalloweenDecorIdeasThatWorkForBothSeasons = {
     readTime: "18 min read",
 
     image:
-        "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/classy-halloween-home-decor-hero-image.webp",
+        "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/fall-and-halloween-decor-ideas-that-work-for-both-seasons-hero-image.webp",
 
 
     description:
