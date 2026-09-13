@@ -105,30 +105,20 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
                 "Your bed is the easiest place to start when creating a cozy fall bedroom. Layer a soft duvet with a quilt, textured blanket, and a few decorative pillows in warm shades like cream, caramel, rust, terracotta, or chocolate brown. Mixing different textures makes the bed look fuller and more inviting without requiring a complete bedroom makeover.",
 
             tips: [
-                "nstead of buying an entirely new bedding set, keep your existing neutral duvet and add a seasonal throw and 2–3 autumn-colored pillow covers. It’s an affordable way to change the look without storing bulky seasonal bedding.",
+                "Instead of buying an entirely new bedding set, keep your existing neutral duvet and add a seasonal throw and 2–3 autumn-colored pillow covers. It’s an affordable way to change the look without storing bulky seasonal bedding.",
             ],
 
             shopLook: [
 
                 {
-                    name: "Warm white LED bulbs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook1.webp",
-                    link: "https://amzn.to/3Vj28YT"
+                    name: "Beige duvet cover",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook1.webp",
+                    link: "https://amzn.to/4gZhHfx"
                 },
                 {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
-                },
-                {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
-                },
-                {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "Terracotta pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook2.webp",
+                    link: "https://amzn.to/3UJR477"
                 },
 
             ]
@@ -151,14 +141,9 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Warm white LED bulbs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook1.webp",
-                    link: "https://amzn.to/3Vj28YT"
-                },
-                {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
+                    name: "Chunky Knit Throw blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                    link: "https://amzn.to/46ieTWb"
                 },
 
             ]
@@ -181,24 +166,19 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook3.webp",
-                    link: "https://amzn.to/4xLeFCY"
+                    name: "Terracotta pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook2.webp",
+                    link: "https://amzn.to/3UJR477"
                 },
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Rust velvet pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook4.webp",
+                    link: "https://amzn.to/3UJRqKZ"
                 },
                 {
-                    name: "Artificial Fall leaves",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
-                    link: "https://amzn.to/4gHaiBm"
-                },
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Beige textured pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook5.webp",
+                    link: "https://amzn.to/4r5E7Ao"
                 },
 
             ]
@@ -221,11 +201,20 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Royal Large mirror",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook4.webp",
-                    link: "https://amzn.to/4gFvLft"
+                    name: "Cream Bedding ",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook6.webp",
+                    link: "https://amzn.to/4h2jHDL"
                 },
-
+                {
+                    name: "Beige duvet cover",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook1.webp",
+                    link: "https://amzn.to/4gZhHfx"
+                },
+                {
+                    name: "Beige textured pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook5.webp",
+                    link: "https://amzn.to/4r5E7Ao"
+                },
             ]
 
         },
@@ -246,24 +235,9 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Burgundy linen napkins",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook5.webp",
-                    link: "https://amzn.to/4gHpm3u"
-                },
-                {
-                    name: "Ceramic Dinner Plates",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook4.webp",
-                    link: "https://amzn.to/4A0Cwjp"
-                },
-                {
-                    name: "Artificial Red Roses",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook10.webp",
-                    link: "https://amzn.to/46clYHB"
-                },
-                {
-                    name: "Artificial Leaves",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook11.webp",
-                    link: "https://amzn.to/3V1esgl"
+                    name: "Plaid Accent blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook7.webp",
+                    link: "https://amzn.to/4di8Y7d"
                 },
             ]
 
@@ -286,19 +260,14 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
             shopLook: [
 
                 {
-                    name: "Chocolate brown linen napkins",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook12.webp",
-                    link: "https://amzn.to/4A5xz9k"
+                    name: " Warm Ambient Lighting Lamp",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook8.webp",
+                    link: "https://amzn.to/3UFw9lE"
                 },
                 {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
-                },
-                {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "Decorative String Lights",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
+                    link: "https://amzn.to/46o5a0B"
                 },
             ]
 
@@ -320,35 +289,9 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook3.webp",
-                    link: "https://amzn.to/4xLeFCY"
-                },
-
-                {
-                    name: "Artificial Red Roses",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook10.webp",
-                    link: "https://amzn.to/46clYHB"
-                },
-                {
-                    name: "Artificial Leaves",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook11.webp",
-                    link: "https://amzn.to/3V1esgl"
-                },
-                {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
-                },
-                {
-                    name: "Artificial Fall leaves",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
-                    link: "https://amzn.to/4gHaiBm"
-                },
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
                 },
             ]
 
@@ -370,19 +313,9 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Console table",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook5.webp",
-                    link: "https://amzn.to/4gHPb3d"
-                },
-                {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
-                },
-                {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "Velvet Pumpkins",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook9.webp",
+                    link: "https://amzn.to/4h5ymhy"
                 },
             ]
 
@@ -403,24 +336,24 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
             ],
             shopLook: [
                 {
-                    name: "Cream upholstered dining chairs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4zVsm3z"
+                    name: "Bedside table lamp",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
+                    link: "https://amzn.to/4gZiyNh"
                 },
                 {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4hdkLpI"
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
                 },
                 {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
+                    name: "Ceramic vase with stems",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook11.webp",
+                    link: "https://amzn.to/4yuAFBW"
                 },
                 {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "Bedside Decorative tray",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook12.webp",
+                    link: "https://amzn.to/4h2k9lr"
                 },
             ]
 
@@ -441,9 +374,14 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Soft area rug",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4hiyLh1"
+                    name: "Bedside Decorative tray",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook12.webp",
+                    link: "https://amzn.to/4h2k9lr"
+                },
+                {
+                    name: "Woven Storage basket ",
+                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                    link: "https://amzn.to/3UwGJv4"
                 },
             ]
 
@@ -463,9 +401,9 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
             ],
             shopLook: [
                 {
-                    name: "Oversized wall art",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook9.webp",
-                    link: "https://amzn.to/3SXACj1"
+                    name: "Soft Area Rug",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook13.webp",
+                    link: "https://amzn.to/3USEXVd"
                 },
             ]
 
@@ -489,19 +427,19 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
             ],
             shopLook: [
                 {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook10.webp",
-                    link: "https://amzn.to/3Vhr03e"
+                    name: "Small wooden side table",
+                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook14.webp",
+                    link: "https://amzn.to/4xhk7MS"
                 },
                 {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
+                    name: "Accent chair",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook14.webp",
+                    link: "https://amzn.to/4cJuuBE"
                 },
                 {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "Chunky Knit Throw blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                    link: "https://amzn.to/46ieTWb"
                 },
             ]
 
@@ -524,24 +462,24 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Cream upholstered dining chairs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4zVsm3z"
+                    name: "White Ceramic vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook16.webp",
+                    link: "https://amzn.to/4gLzarY"
                 },
                 {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook3.webp",
-                    link: "https://amzn.to/4xLeFCY"
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
                 },
                 {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
+                    name: "Artificial Fall leaves",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
+                    link: "https://amzn.to/4gHaiBm"
                 },
                 {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "pampas grass",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/4h1STos"
                 },
             ]
 
@@ -563,30 +501,9 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Royal Large mirror",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook4.webp",
-                    link: "https://amzn.to/4gFvLft"
-                },
-
-                {
-                    name: "White Ceramic vase",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook16.webp",
-                    link: "https://amzn.to/4gLzarY"
-                },
-                {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
-                },
-                {
-                    name: "Artificial Fall leaves",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
-                    link: "https://amzn.to/4gHaiBm"
-                },
-                {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Bedside table",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook15.webp",
+                    link: "https://amzn.to/3SXaRPV"
                 },
 
             ]
@@ -608,14 +525,19 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Linen-look floor-length curtains",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook11.webp",
-                    link: "https://amzn.to/4qYZIKV"
+                    name: "Chunky Knit Throw blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                    link: "https://amzn.to/46ieTWb"
                 },
                 {
-                    name: "Curtain rod set",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook12.webp",
-                    link: "https://amzn.to/4A5pW2E"
+                    name: "Terracotta pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook2.webp",
+                    link: "https://amzn.to/3UJR477"
+                },
+                {
+                    name: "Beige textured pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook5.webp",
+                    link: "https://amzn.to/4r5E7Ao"
                 },
             ]
 
@@ -639,47 +561,9 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Royal Large mirror",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook4.webp",
-                    link: "https://amzn.to/4gFvLft"
-                },
-                {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
-                },
-
-                {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook3.webp",
-                    link: "https://amzn.to/4xLeFCY"
-                },
-
-                {
-                    name: "Artificial Red Roses",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook10.webp",
-                    link: "https://amzn.to/46clYHB"
-                },
-                {
-                    name: "Artificial Leaves",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook11.webp",
-                    link: "https://amzn.to/3V1esgl"
-                },
-                {
-                    name: "Artificial Fall leaves",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
-                    link: "https://amzn.to/4gHaiBm"
-                },
-
-                {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
-                },
-                {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "Fall-Inspired Wall Art",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook16.webp",
+                    link: "https://amzn.to/4xSjB9f"
                 },
             ]
 
@@ -701,29 +585,14 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Linen-look floor-length curtains",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook11.webp",
-                    link: "https://amzn.to/4qYZIKV"
+                    name: "Brown Bedding ",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook17.webp",
+                    link: "https://amzn.to/46o0tUj"
                 },
                 {
-                    name: "Cream upholstered dining chairs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4zVsm3z"
-                },
-                {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4hdkLpI"
-                },
-                {
-                    name: "Cream linen napkins",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook15.webp",
-                    link: "https://amzn.to/4gRK53o"
-                },
-                {
-                    name: "Ceramic Dinner Plates",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook4.webp",
-                    link: "https://amzn.to/4A0Cwjp"
+                    name: "Grey Paint for Walls",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook18.webp",
+                    link: "https://amzn.to/3T1yUx6"
                 },
 
             ]
@@ -745,16 +614,20 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
             ],
 
             shopLook: [
-
                 {
-                    name: "White Ceramic Pumpkins",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4qS4Q3f"
+                    name: "White bedding",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook19.webp",
+                    link: "https://amzn.to/4r5OKTO"
                 },
                 {
-                    name: " Decorative Pumpkins",
-                    image: "/images/blog/article/17-halloween-front-porch-ideas-for-spooky-entrance/shoplook1.webp",
-                    link: "https://amzn.to/3UqdEl4"
+                    name: "Bedside table lamp",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
+                    link: "https://amzn.to/4gZiyNh"
+                },
+                {
+                    name: "Bedside table",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook15.webp",
+                    link: "https://amzn.to/3SXaRPV"
                 },
 
             ]
@@ -778,19 +651,19 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
             shopLook: [
 
                 {
-                    name: "Accent chair",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook13.webp",
-                    link: "https://amzn.to/4xdrYeo"
+                    name: "Rust velvet pillow covers",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook4.webp",
+                    link: "https://amzn.to/3UJRqKZ"
                 },
                 {
-                    name: "Small wooden side table",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook14.webp",
-                    link: "https://amzn.to/4xhk7MS"
+                    name: "White bedding",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook19.webp",
+                    link: "https://amzn.to/4r5OKTO"
                 },
                 {
-                    name: "Adjustable Floor lamp",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook15.webp",
-                    link: "https://amzn.to/4zXxgNy"
+                    name: "Bedside table",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook20.webp",
+                    link: "https://amzn.to/4dcP6SU"
                 },
             ]
 
@@ -811,26 +684,10 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Matte black candle holder",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook17.webp",
-                    link: "https://amzn.to/4gNWbdD"
+                    name: "Bench for bedroom",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook21.webp",
+                    link: "https://amzn.to/4dyUP5A"
                 },
-                {
-                    name: "Black linen napkins",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook18.webp",
-                    link: "https://amzn.to/4zZRxCe"
-                },
-                {
-                    name: "black photo frame set ",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook19.webp",
-                    link: "https://amzn.to/3UBisE7"
-                },
-                {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
-                },
-
             ]
 
         },
@@ -850,44 +707,29 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "White Ceramic Pumpkins",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4qS4Q3f"
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
                 },
                 {
-                    name: "Neutral table runner",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook1.webp",
-                    link: "https://amzn.to/4xJElzT"
+                    name: "Artificial Fall leaves",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
+                    link: "https://amzn.to/4gHaiBm"
                 },
                 {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
+                    name: "pampas grass",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/4h1STos"
                 },
                 {
-                    name: "Woven placemats",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook2.webp",
-                    link: "https://amzn.to/3Vhjk0Q"
+                    name: "Bedside table lamp",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
+                    link: "https://amzn.to/4gZiyNh"
                 },
                 {
-                    name: "Ceramic Dinner Plates",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook4.webp",
-                    link: "https://amzn.to/4A0Cwjp"
-                },
-                {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
-                },
-                {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
-                },
-                {
-                    name: "Ceramic vase",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook3.webp",
-                    link: "https://amzn.to/4xLeFCY"
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
                 },
             ]
 
@@ -908,36 +750,45 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Cream upholstered dining chairs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4zVsm3z"
+                    name: "Mirror",
+                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
+                    link: "https://amzn.to/4ylue4d"
                 },
                 {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4hdkLpI"
+                    name: "White Ceramic vase",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook16.webp",
+                    link: "https://amzn.to/4gLzarY"
                 },
                 {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
                 },
                 {
-                    name: "Brass flatware",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook19.webp",
-                    link: "https://amzn.to/4ymQgmW"
+                    name: "Artificial Fall leaves",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
+                    link: "https://amzn.to/4gHaiBm"
                 },
                 {
-                    name: "Brass candle holders",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4gUlz1C"
+                    name: "pampas grass",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/4h1STos"
                 },
                 {
-                    name: "Flameless ivory taper candles",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook7.webp",
-                    link: "https://amzn.to/4ytT8yJ"
+                    name: "Table lamp",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
+                    link: "https://amzn.to/4gZiyNh"
                 },
-
+                {
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
+                },
+                {
+                    name: " Decorative tray",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook12.webp",
+                    link: "https://amzn.to/4h2k9lr"
+                },
             ]
 
         },
@@ -955,28 +806,6 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
                 "Mix rustic pieces with simple modern basics. Too many matching farmhouse decorations can make the room feel like a themed display rather than a comfortable bedroom."
             ],
 
-            shopLook: [
-                {
-                    name: "Cream upholstered dining chairs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4zVsm3z"
-                },
-                {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4hdkLpI"
-                },
-                {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
-                }, {
-                    name: "Linen-look floor-length curtains",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook11.webp",
-                    link: "https://amzn.to/4qYZIKV"
-                },
-
-            ]
         },
         {
             id: 24,
@@ -992,28 +821,6 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
                 "Let texture do most of the decorating. Boucle, linen, knitted fabrics, wool-look textiles, and natural wood can make a modern room feel cozy without adding lots of decorative objects."
             ],
 
-            shopLook: [
-                {
-                    name: "Cream upholstered dining chairs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4zVsm3z"
-                },
-                {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4hdkLpI"
-                },
-                {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
-                }, {
-                    name: "Linen-look floor-length curtains",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook11.webp",
-                    link: "https://amzn.to/4qYZIKV"
-                },
-
-            ]
         },
         {
             id: 25,
@@ -1031,23 +838,24 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
             shopLook: [
                 {
-                    name: "Cream upholstered dining chairs",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook6.webp",
-                    link: "https://amzn.to/4zVsm3z"
+                    name: "artificial eucalyptus",
+                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
+                    link: "https://amzn.to/465NZ3D"
                 },
                 {
-                    name: "Wooden dining table ",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook8.webp",
-                    link: "https://amzn.to/4hdkLpI"
+                    name: "pampas grass",
+                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/4h1STos"
                 },
                 {
-                    name: "Brass chandelier",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook2.webp",
-                    link: "https://amzn.to/4xKJTKv"
-                }, {
-                    name: "Linen-look floor-length curtains",
-                    image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook11.webp",
-                    link: "https://amzn.to/4qYZIKV"
+                    name: "Table lamp",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
+                    link: "https://amzn.to/4gZiyNh"
+                },
+                {
+                    name: "Decorative scented candle",
+                    image: "/images/blog/article/bedroom/shoplook12.webp",
+                    link: "https://link.amazon/B06oh3Pe9"
                 },
 
             ]
