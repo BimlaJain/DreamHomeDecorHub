@@ -438,17 +438,37 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Sculptural pendant light",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia12.webp",
+                        link: "https://link.amazon/B0aVFDZvH"
+                    },
+                    {
+                        name: "Compact black espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia13.webp",
+                        link: "https://link.amazon/A0ilEDYQA"
+                    },
+                    {
+                        name: "Dark stone-look tray",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia14.webp",
+                        link: "https://link.amazon/B0fq25tl2"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
+                        name: "Sculptural pendant light",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS12.webp",
+                        link: "https://amzn.to/4iuC6vs"
+                    },
+                    {
+                        name: "Compact black espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS13.webp",
+                        link: "https://amzn.to/3T09IHm"
+                    },
+                    {
+                        name: "Dark stone-look tray",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS14.webp",
+                        link: "https://amzn.to/4gOWHJK"
+                    },
 
                 ]
             }
@@ -472,18 +492,27 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Floating Shelf",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia15.webp",
+                        link: "https://link.amazon/B0i42TfZw"
+                    },
+                    {
+                        name: "Wall-mounted mug hooks",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia6.webp",
+                        link: "https://link.amazon/B04RcaHpC"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
-
+                        name: "Floating Shelf",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS15.webp",
+                        link: "https://amzn.to/4rfkwy3"
+                    },
+                    {
+                        name: "Wall-mounted mug hooks",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS6.webp",
+                        link: "https://amzn.to/4dhJKWx"
+                    },
                 ]
             }
 
@@ -506,17 +535,28 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Rattan/woven cabinet",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia16.webp",
+                        link: "https://link.amazon/B0asJPwED"
+                    },
+                    {
+                        name: "Ceramic pot with plant",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia17.webp",
+                        link: "https://link.amazon/B07hLwkVm"
+                    },
+                    
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
+                        name: "Rattan/woven cabinet",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS16.webp",
+                        link: "https://amzn.to/4Ad7vsz"
+                    },
+                    {
+                        name: "Ceramic pot with plant",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS17.webp",
+                        link: "https://amzn.to/46XDQGx"
+                    },
 
                 ]
             }
@@ -539,17 +579,27 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Airtight coffee storage containers",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia18.webp",
+                        link: "https://link.amazon/B08lcfGwg"
+                    },
+                    {
+                        name: "Bamboo organizer tray",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia19.webp",
+                        link: "https://link.amazon/B08Oo6K86"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
+                        name: "Airtight coffee storage containers",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS18.webp",
+                        link: "https://amzn.to/4dg8Q8e"
+                    },
+                    {
+                        name: "Bamboo organizer tray",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS19.webp",
+                        link: "https://amzn.to/46qhEog"
+                    },
 
                 ]
             }
@@ -572,23 +622,6 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
                 "Measure your available space before buying furniture or appliances. In a small apartment, choosing appropriately sized pieces is more important than adding lots of decorative accessories."
             ],
 
-            shopLook: {
-                india: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
-                ],
-                us: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
-
-                ]
-            }
 
         },
 
@@ -610,17 +643,17 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Compact espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia1.webp",
+                        link: "https://link.amazon/B0539twzD"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
+                        name: "Compact espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS1.webp",
+                        link: "https://amzn.to/46SzgJE"
+                    },
 
                 ]
             }
@@ -644,17 +677,37 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Compact black espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia13.webp",
+                        link: "https://link.amazon/A0ilEDYQA"
+                    },
+                    {
+                        name: "Black ceramic coffee mugs",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia20.webp",
+                        link: "https://link.amazon/B0j9vbLvn"
+                    },
+                    {
+                        name: "Airtight coffee storage containers",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia18.webp",
+                        link: "https://link.amazon/B08lcfGwg"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
+                        name: "Compact black espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS13.webp",
+                        link: "https://amzn.to/3T09IHm"
+                    },
+                    {
+                        name: "Black ceramic coffee mugs",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS20.webp",
+                        link: "https://amzn.to/4AiSK7S"
+                    },
+                    {
+                        name: "Airtight coffee storage containers",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS18.webp",
+                        link: "https://amzn.to/4dg8Q8e"
+                    },
 
                 ]
             }
@@ -677,18 +730,27 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Sculptural pendant light",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia12.webp",
+                        link: "https://link.amazon/B0aVFDZvH"
+                    },
+                    {
+                        name: "Compact espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia1.webp",
+                        link: "https://link.amazon/B0539twzD"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
-
+                        name: "Sculptural pendant light",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS12.webp",
+                        link: "https://amzn.to/4iuC6vs"
+                    },
+                    {
+                        name: "Compact espresso machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS1.webp",
+                        link: "https://amzn.to/46SzgJE"
+                    },
                 ]
             }
 
@@ -713,18 +775,27 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Retro-style coffee machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia21.webp",
+                        link: "https://link.amazon/A0gJ9aoDf"
+                    },
+                    {
+                        name: "Amber glass jars",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia22.webp",
+                        link: "https://link.amazon/B0aDgQ7PI"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
-
+                        name: "Retro-style coffee machine",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS21.webp",
+                        link: "https://amzn.to/46ZREAg"
+                    },
+                    {
+                        name: "Amber glass jars",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS22.webp",
+                        link: "https://amzn.to/3VvYCdK"
+                    },
                 ]
             }
 
@@ -743,24 +814,6 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             tips: [
                 "Set a budget before shopping and prioritize function first. Spend more on equipment you use daily and look for affordable or DIY alternatives for purely decorative pieces."
             ],
-
-            shopLook: {
-                india: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
-                ],
-                us: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
-
-                ]
-            }
 
         },
 
@@ -781,17 +834,27 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             shopLook: {
                 india: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
+                        name: "Ivory ceramic coffee mugs",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia2.webp",
+                        link: "https://link.amazon/B0iB307Sv"
+                    },
+                    {
+                        name: "Stone coaster",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia23.webp",
+                        link: "https://link.amazon/B05fttCjA"
+                    },
                 ],
                 us: [
                     {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
+                        name: "Ivory ceramic coffee mugs",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS2.webp",
+                        link: "https://amzn.to/4xmbWik"
+                    },
+                    {
+                        name: "Stone coaster",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS23.webp",
+                        link: "https://amzn.to/4dFgcST"
+                    },
 
                 ]
             }
@@ -812,23 +875,6 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
                 "Make a list of your daily coffee habits before shopping. Buy equipment based on what you actually drink rather than purchasing every gadget that looks attractive online."
             ],
 
-            shopLook: {
-                india: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
-                ],
-                us: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
-
-                ]
-            }
         },
 
         {
@@ -844,24 +890,6 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
             tips: [
                 "Spend five minutes resetting your coffee station after each day. A quick wipe, restock, and tidy-up will keep your cozy café looking beautiful without requiring a big cleaning session."
             ],
-
-            shopLook: {
-                india: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia22.webp",
-                        link: "https://link.amazon/B07mEtlp9"
-                    }
-                ],
-                us: [
-                    {
-                        name: "Mirror",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                        link: "https://amzn.to/4ylue4d"
-                    }
-
-                ]
-            }
 
         },
 
