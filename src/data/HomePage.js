@@ -36,6 +36,7 @@ export const navItems = [
                     { title: "Seasonal Decor", href: "/home-decor/seasonal-decor" },
                     { title: "Budget Decor", href: "/home-decor/budget-decor" },
                     { title: "DIY Decor", href: "/home-decor/diy-decor" },
+                    { title: "Gift Ideas", href: "/home-decor/gift-ideas" },
                 ],
             },
         ],

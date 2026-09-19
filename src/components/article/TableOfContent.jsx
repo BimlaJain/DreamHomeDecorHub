@@ -119,7 +119,7 @@ export default function TableOfContents({
 
                                 <Link
                                     key={index}
-                                    href={`#section-${index + 1}`}
+                                    href={`#idea-${index + 1}`}
                                     className="group flex items-center gap-4 rounded-2xl border border-transparent p-4 transition hover:border-[#E9D8C8] hover:bg-[#FAF7F2]"
                                 >
 

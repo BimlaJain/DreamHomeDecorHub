@@ -12,7 +12,10 @@ const IdeaCard = ({ idea }) => {
     const showCountryHeadings = hasIndia && hasUS;
 
     return (
-        <section className="py-20">
+        <section
+            id={`idea-${idea.id}`}
+            className="py-20 scroll-mt-24"
+        >
             <div className="max-w-6xl mx-auto px-5">
 
                 {/* ================= IDEA ================= */}
@@ -51,7 +54,6 @@ const IdeaCard = ({ idea }) => {
                     </ul>
                 </div>
 
-
                 {/* ================= SHOP THE LOOK ================= */}
 
                 {hasShopLook && (
@@ -67,7 +69,6 @@ const IdeaCard = ({ idea }) => {
                                 Shop These Useful Finds
                             </h3>
                         </div>
-
 
                         {/* ================= INDIA ================= */}
 
@@ -114,7 +115,6 @@ const IdeaCard = ({ idea }) => {
                             </div>
                         )}
 
-
                         {/* ================= USA ================= */}
 
                         {hasUS && (
@@ -159,7 +159,6 @@ const IdeaCard = ({ idea }) => {
                                 </div>
                             </div>
                         )}
-
 
                         {/* ================= OLD FORMAT ================= */}
 
