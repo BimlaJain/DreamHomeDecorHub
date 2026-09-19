@@ -16,7 +16,7 @@ const thoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial  = {
     readTime: "30 min read",
 
     image:
-        "/images/blog/article/35-home-products-that-make-you-space-look-better/home-products that-make-your-space-look-better-hero-image.webp",
+        "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/thoughtful-housewarming-gifts-for-new-houseowners-hero-image.webp",
 
 
     description:
