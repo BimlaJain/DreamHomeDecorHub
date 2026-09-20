@@ -17,7 +17,7 @@ export default function TableOfContents({
     if (!items.length) return null;
 
     return (
-        <section className="bg-[#FAF7F2] py-20">
+        <section className="bg-[#FAF7F2] py-20 max-sm:hidden">
 
             <div className="mx-auto max-w-6xl px-6">
 
