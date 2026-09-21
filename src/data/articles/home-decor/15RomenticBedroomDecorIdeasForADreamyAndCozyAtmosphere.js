@@ -15,7 +15,7 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
     readTime: "12 min read",
 
     image:
-        "/images/blog/article/15-closet-organization-ideas/closet-organization-hero-image.webp",
+        "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-hero-image.webp",
 
 
     description:
@@ -75,31 +75,31 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 1,
 
-            title: "How to Start Organizing Your Closet",
+            title: "Warm Fairy Light Canopy",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea1.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea1.webp",
 
             description:
-                "Start by taking everything out and assessing what you actually use. Sort your clothes, shoes, and accessories before deciding where each category should go.",
+                "Create a magical bedroom atmosphere by draping warm fairy lights around the headboard or above the bed. Keep the rest of the lighting soft so the warm glow becomes the focal point.",
 
             tips: [
-                "Don't buy organizers before decluttering—measure the space and identify your actual storage needs first.",
+                "Choose warm-white lights instead of cool white for a softer and more romantic feel.",
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
+                        name: "Decorative String Lights",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia1.webp",
+                        link: "https://link.amazon/B04Sjkbnn"
                     }
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Decorative String Lights",
+                        image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
+                        link: "https://amzn.to/46o5a0B"
+                    },
                 ]
             }
 
@@ -109,30 +109,40 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 2,
 
-            title: "Declutter Your Closet Before Organizing",
+            title: "Soft Pink & Neutral Bedding",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea2.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea2.webp",
 
             description:
-                "A well-organized closet starts with fewer unnecessary items. Create separate piles for things you want to keep, donate, sell, repair, or discard.",
+                "Combine blush pink, cream, beige, or white bedding to create a subtle romantic palette without making the room feel overly themed.",
 
             tips: [
-                "If you haven't worn something in the last year and it doesn't have a specific purpose, consider letting it go."
+                "Layer different textures such as cotton sheets, a quilt, and two or three decorative cushions."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
+                        name: "White bedding",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia2.webp",
+                        link: "https://link.amazon/B09JfuC1Y"
+                    },
+                    {
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
+                        link: "https://link.amazon/B09UaXoA4"
                     }
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
+                        name: "White bedding",
+                        image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook19.webp",
+                        link: "https://amzn.to/4r5OKTO"
+                    },
+                    {
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
+                        link: "https://amzn.to/4hDjad2"
                     }
                 ]
             }
@@ -143,31 +153,41 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 3,
 
-            title: "Create Closet Zones for Better Organization",
+            title: "Romantic Bedside Lighting",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea3.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea3.webp",
 
             description:
-                "Divide your closet into specific zones for everyday clothes, workwear, occasion wear, accessories, and other categories. This makes finding things much faster.",
+                "Replace harsh overhead lighting with warm bedside lamps or small table lamps. Soft pools of light instantly make the bedroom feel more intimate and relaxing.",
 
             tips: [
-                "Keep the items you use most often at eye level and within easy reach."
+                "Use matching lamps on both sides of the bed for a balanced, hotel-inspired look."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
+                        name: "Bedside Lamp",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia4.webp",
+                        link: "https://link.amazon/B0iKcRzJN"
+                    },
+                    {
+                        name: "Decorative String Lights",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia1.webp",
+                        link: "https://link.amazon/B04Sjkbnn"
                     }
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Bedside Lamp",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS4.webp",
+                        link: "https://amzn.to/478p0wS"
+                    },
+                    {
+                        name: "Decorative String Lights",
+                        image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
+                        link: "https://amzn.to/46o5a0B"
+                    },
                 ]
             }
 
@@ -177,31 +197,31 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 4,
 
-            title: "Use Matching Hangers to Maximize Hanging Space",
+            title: "Candlelit Bedroom Corner",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea4.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea4.webp",
 
             description:
-                "Bulky, mismatched hangers can make a closet feel crowded. Slim, matching hangers create a cleaner appearance while giving you more hanging room.",
+                "Create a cozy corner with LED candles, a decorative tray, and a small vase or floral arrangement. It adds warmth without requiring a complete bedroom makeover.",
 
             tips: [
-                "Choose non-slip slim hangers with a consistent design to prevent clothes from sliding off and maximize available space."
+                "Use flameless LED candles around fabrics and curtains for a safer setup."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
+                        name: "Flameless LED Candles",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia5.webp",
+                        link: "https://link.amazon/B0eiIUGBU"
+                    },
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Flameless LED Candles",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS5.webp",
+                        link: "https://amzn.to/4xukFyR"
+                    },
                 ]
             }
 
@@ -211,31 +231,37 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 5,
 
-            title: "Add Shelf Organizers for Folded Clothes",
+            title: "Fresh & Faux Floral Accents",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea5.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea5.webp",
 
             description:
-                "Shelf dividers, stackable shelves, and closet cubes can turn messy piles into organized sections for sweaters, T-shirts, jeans, and other folded clothing.",
+                "Flowers can bring softness and romance into a bedroom. Use a small vase of fresh flowers or realistic faux stems on a nightstand, dresser, or console.",
 
             tips: [
-                "Don't stack clothes too high. Keep smaller stacks so you can remove one item without disturbing everything underneath."
+                "Stick to one or two flower colors so the arrangement complements the existing bedroom palette."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
+                        name: "Ceramic vase",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia6.webp",
+                        link: "https://link.amazon/B0i7Se4Qf"
+                    },
+                    {
+                        name: "Faux flowers",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia7.webp",
+                        link: "https://link.amazon/B08jl67qT"
+                    },
+
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Faux flowers with ceramic vase",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS6.webp",
+                        link: "https://amzn.to/4xyTSBG"
+                    },
                 ]
             }
 
@@ -245,30 +271,50 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 6,
 
-            title: "Use Closet Bins and Baskets for Small Items",
+            title: "Cozy Layered Throw Blankets",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea6.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea6.webp",
 
             description:
-                "Bins and baskets are perfect for grouping smaller or less frequently used items such as scarves, belts, seasonal accessories, and extra clothing.",
+                "Add a textured throw blanket across the end of the bed to make the room look warmer and more inviting.",
 
             tips: [
-                "Label each bin so you can quickly find what you need without opening multiple containers."
+                "Choose materials such as knitted cotton, soft fleece, or quilted fabric and coordinate the color with your cushions."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
+                        name: "Soft Throw Blanket",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia7.webp",
+                        link: "https://link.amazon/B00BALE3J"
+                    },
+                    {
+                        name: "White bedding",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia2.webp",
+                        link: "https://link.amazon/B09JfuC1Y"
+                    },
+                    {
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
+                        link: "https://link.amazon/B09UaXoA4"
                     }
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
+                        name: "Chunky Knit Throw blanket",
+                        image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                        link: "https://amzn.to/46ieTWb"
+                    },
+                    {
+                        name: "White bedding",
+                        image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook19.webp",
+                        link: "https://amzn.to/4r5OKTO"
+                    },
+                    {
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
+                        link: "https://amzn.to/4hDjad2"
                     }
                 ]
             }
@@ -279,31 +325,31 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 7,
 
-            title: "Organize Shoes Without Wasting Closet Space",
+            title: "Romantic Bedroom Gallery Wall",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea7.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea7.webp",
 
             description:
-                "Shoes can quickly consume valuable floor space. Shoe racks, stackable boxes, and hanging organizers help keep footwear visible and easy to access.",
+                "Create a small gallery wall above a dresser or beside the bed using soft-toned artwork, botanical prints, or meaningful photographs.",
 
             tips: [
-                "Store your most frequently worn shoes at the front or at eye level, while keeping occasional footwear in higher or less accessible areas."
+                "Keep the frames within the same color family for a more polished appearance."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
+                        name: "Gallery frames",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia8.webp",
+                        link: "https://link.amazon/B0hPKeRBd"
+                    },
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Gallery frames",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS2.webp",
+                        link: "https://amzn.to/3TkGwuy"
+                    },
                 ]
             }
 
@@ -313,31 +359,31 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 8,
 
-            title: "Smart Ways to Organize Bags and Purses",
+            title: "Elegant Bedside Tray",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea8.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea8.webp",
 
             description:
-                "Handbags and purses can lose their shape or create clutter when they're stacked randomly. Hooks, shelf dividers, and purse organizers can keep them upright and protected.",
+                "A decorative tray can turn an ordinary nightstand into a styled corner. Add a candle, small vase, fragrance diffuser, or a favorite book.",
 
             tips: [
-                "Stuff structured bags with tissue paper or soft fabric when storing them for long periods to help maintain their shape."
+                "Keep the arrangement simple and leave some empty space so it doesn't look cluttered."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
+                        name: "Wooden round tray",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia9.webp",
+                        link: "https://link.amazon/B0iMeVVyq"
+                    },
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Wooden round tray",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS1.webp",
+                        link: "https://amzn.to/4h2WcMj"
+                    },
                 ]
             }
 
@@ -346,31 +392,32 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 9,
 
-            title: "Make Better Use of Closet Doors and Vertical Space",
+            title: "Dreamy Sheer Curtains",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea9.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea9.webp",
 
             description:
-                "The back of your closet door and unused vertical areas can provide valuable storage space for accessories, shoes, cleaning items, and smaller essentials.",
+                "Sheer curtains allow natural light to filter through while giving the bedroom a soft, airy appearance.",
 
             tips: [
-                "Use over-the-door organizers or adhesive hooks only after checking the door and wall weight limits."
+                "Hang curtains slightly higher and wider than the window frame to create the illusion of taller, more spacious windows."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
+                        name: "Sheer curtain panels",
+                        image: "/images/blog/article/25-cozy-living-room-ideas/shoplook48.webp",
+                        link: "https://link.amazon/B0edD5Ynr"
+                    },
+
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Sheer curtain panels",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS7.webp",
+                        link: "https://amzn.to/4y8NmCM"
+                    },
                 ]
             }
 
@@ -380,30 +427,52 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 10,
 
-            title: "Small Closet Organization Ideas to Maximize Every Inch",
+            title: "Cozy Reading & Relaxation Corner",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea10.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea10.webp",
 
             description:
-                "Small closets require smarter use of vertical and hidden storage. Slim hangers, hanging shelves, stackable organizers, and under-bed storage can significantly increase usable space.",
+                "Turn an unused bedroom corner into a peaceful retreat with a comfortable chair, floor lamp, small side table, and soft throw.",
 
             tips: [
-                "Look upward before adding more furniture—vertical space is often the easiest area to maximize in a small closet."
+                "Add one cushion and a small plant to make the corner feel finished without overcrowding it."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
+                        name: " Floor lamp",
+                        image: "/images/blog/article/25-cozy-living-room-ideas/shoplook12.webp",
+                        link: "https://link.amazon/B01CpoWMU"
+                    },
+                    {
+                        name: "Boucle Accent Chair",
+                        image: "/images/blog/article/25-cozy-living-room-ideas/shoplook43.webp",
+                        link: "https://link.amazon/B02zpFY1T"
+                    },
+                    {
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
+                        link: "https://link.amazon/B09UaXoA4"
                     }
+
+
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
+                        name: "Floor lamp",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS8.webp",
+                        link: "https://amzn.to/4y8NmCM"
+                    },
+                    {
+                        name: "Reading chair",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS9.webp",
+                        link: "https://amzn.to/3TeR5PO"
+                    },
+                    {
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
+                        link: "https://amzn.to/4hDjad2"
                     }
                 ]
             }
@@ -413,31 +482,31 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 11,
 
-            title: "How to Organize Accessories and Jewelry",
+            title: "Minimalist Couple Photo Display",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea11.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea11.webp",
 
             description:
-                "Jewelry, belts, scarves, sunglasses, and other accessories are easier to manage when each item has a dedicated storage spot. Drawer dividers, jewelry trays, and hooks can prevent tangles and clutter.",
+                "Display a few meaningful photographs instead of covering an entire wall with pictures. A simple frame arrangement can add personality while keeping the bedroom elegant.",
 
             tips: [
-                "Keep everyday accessories where you can see them, while storing special-occasion pieces in protective compartments."
+                "Choose black, white, wood, or neutral frames that match the rest of the room."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
+                        name: "Gallery frames",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia8.webp",
+                        link: "https://link.amazon/B0hPKeRBd"
+                    },
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Gallery frames",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS2.webp",
+                        link: "https://amzn.to/3TkGwuy"
+                    },
                 ]
             }
 
@@ -449,31 +518,31 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 12,
 
-            title: "Organize Seasonal Clothes Efficiently",
+            title: "Warm Neutral Romantic Bedroom",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea12.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea12.webp",
 
             description:
-                "You don't need your entire wardrobe taking up prime closet space all year. Move out-of-season clothing into labeled storage bins, vacuum bags, or under-bed containers.",
+                "Create a sophisticated romantic look using beige, cream, taupe, warm white, and natural wood tones.",
 
             tips: [
-                "Clean and completely dry clothes before storing them for the season to help prevent odors and damage."
+                "Introduce romance through textures and lighting rather than relying only on pink or red."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
+                        link: "https://link.amazon/B09UaXoA4"
                     }
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Soft pink cushion cover",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
+                        link: "https://amzn.to/4hDjad2"
+                    },
                 ]
             }
 
@@ -483,31 +552,41 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 13,
 
-            title: "Create an Organized Closet on a Budget",
+            title: "Decorative Mirror with Soft Lighting",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea13.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea13.webp",
 
             description:
-                "An organized closet doesn't have to require an expensive makeover. Affordable bins, hooks, dividers, and simple storage solutions can make a noticeable difference.",
+                "A decorative mirror can make a bedroom feel brighter and visually larger while also becoming an elegant focal point.",
 
             tips: [
-                "Start with inexpensive solutions and only invest in premium organizers for areas that genuinely need them."
+                "Place a warm lamp or subtle lighting near the mirror to create a gentle evening glow."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
+                        name: "Wall mirror",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia10.webp",
+                        link: "https://link.amazon/B02NgpBzx"
+                    },
+                    {
+                        name: "Decorative String Lights",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia1.webp",
+                        link: "https://link.amazon/B04Sjkbnn"
                     }
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Wall mirror",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS10.webp",
+                        link: "https://amzn.to/4iFDMT4"
+                    },
+                    {
+                        name: "Decorative String Lights",
+                        image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
+                        link: "https://amzn.to/46o5a0B"
+                    },
                 ]
             }
 
@@ -517,31 +596,51 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 14,
 
-            title: "Closet Organization Mistakes to Avoid",
+            title: "Luxury Hotel-Inspired Bedroom",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea14.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea14.webp",
 
             description:
-                "Even a beautifully arranged closet can become difficult to maintain if it's overcrowded or poorly planned. Learn which common mistakes reduce space and make organization harder.",
+                "Bring the feeling of a boutique hotel home with crisp bedding, symmetrical nightstands, layered pillows, soft lighting, and minimal decorative pieces.",
 
             tips: [
-                "Leave a little breathing room between hanging clothes and avoid filling every shelf to its maximum capacity."
+                "Focus on clean styling and high-quality-looking textures rather than adding too many accessories."
             ],
 
             shopLook: {
                 india: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
+                        name: "Bedside Lamp",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia4.webp",
+                        link: "https://link.amazon/B0iKcRzJN"
+                    },
+                    {
+                        name: "Premium hotel-style bedding",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia11.webp",
+                        link: "https://link.amazon/B076wQZcF"
+                    },
+                    {
+                        name: "Cushion set",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia12.webp",
+                        link: "https://link.amazon/B0875nSYv"
+                    },
                 ],
                 us: [
                     {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
+                        name: "Bedside Lamp",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS4.webp",
+                        link: "https://amzn.to/478p0wS"
+                    },
+                    {
+                        name: "Premium hotel-style bedding",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS11.webp",
+                        link: "https://amzn.to/3VplXOi"
+                    },
+                    {
+                        name: "cushion set",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS12.webp",
+                        link: "https://amzn.to/4y8M62x"
+                    },
                 ]
             }
 
@@ -550,35 +649,16 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         {
             id: 15,
 
-            title: "How to Keep Your Closet Organized Long-Term",
+            title: "Personalized Romantic Bedroom Details",
 
-            image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea15:webp.webp",
+            image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere-idea15.webp",
 
             description:
-                "The key to an organized closet isn't just the initial cleanup—it's maintaining the system. Small, regular habits can prevent clutter from building up again.",
+                "Finish the room with small details that feel personal, such as initials, a framed quote, a meaningful photograph, personalized cushions, or a decorative keepsake.",
 
             tips: [
-                "Spend 5–10 minutes each week returning misplaced items and removing anything you no longer use."
+                "Choose one or two personalized pieces and let them complement the overall bedroom style rather than dominating it."
             ],
-
-            shopLook: {
-                india: [
-                    {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia2.webp",
-                        link: "https://link.amazon/B03EazcQl"
-                    }
-                ],
-                us: [
-                    {
-                        name: "Soy Scented Candles for gift",
-                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                        link: "https://amzn.to/4yJRAAu"
-                    }
-                ]
-            }
-
-
         },
 
     ],
