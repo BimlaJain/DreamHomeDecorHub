@@ -29,7 +29,7 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
     totalIdeas: 20,
 
 
-    totalProducts: 40,
+    totalProducts: 35,
 
 
     author:
@@ -99,16 +99,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Decorative String Lights",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia1.webp",
-                        link: "https://link.amazon/B04Sjkbnn"
+                        name: "Wall sconces",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia1.webp",
+                        link: "https://link.amazon/B0igxhIWX"
                     }
                 ],
                 us: [
                     {
-                        name: "Decorative String Lights",
-                        image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
-                        link: "https://amzn.to/46o5a0B"
+                        name: "Wall sconces",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS1.webp",
+                        link: "https://amzn.to/4ySSWcm"
                     },
                 ]
             }
@@ -133,27 +133,17 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "White bedding",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia2.webp",
-                        link: "https://link.amazon/B09JfuC1Y"
-                    },
-                    {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
-                        link: "https://link.amazon/B09UaXoA4"
+                        name: "Beige/cream area rug",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia2.webp",
+                        link: "https://link.amazon/B07yZaBaG"
                     }
                 ],
                 us: [
                     {
-                        name: "White bedding",
-                        image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook19.webp",
-                        link: "https://amzn.to/4r5OKTO"
+                        name: "Beige/cream area rug",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS2.webp",
+                        link: "https://amzn.to/4AuxmMV"
                     },
-                    {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
-                        link: "https://amzn.to/4hDjad2"
-                    }
                 ]
             }
 
@@ -177,26 +167,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Bedside Lamp",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia4.webp",
-                        link: "https://link.amazon/B0iKcRzJN"
-                    },
-                    {
-                        name: "Decorative String Lights",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia1.webp",
-                        link: "https://link.amazon/B04Sjkbnn"
+                        name: "Peel-and-stick botanical wallpaper",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia3.webp",
+                        link: "https://link.amazon/B0bukOBif"
                     }
                 ],
                 us: [
                     {
-                        name: "Bedside Lamp",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS4.webp",
-                        link: "https://amzn.to/478p0wS"
-                    },
-                    {
-                        name: "Decorative String Lights",
-                        image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
-                        link: "https://amzn.to/46o5a0B"
+                        name: "Peel-and-stick botanical wallpaper",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS3.webp",
+                        link: "https://amzn.to/4rot05O"
                     },
                 ]
             }
@@ -221,16 +201,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Flameless LED Candles",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia5.webp",
-                        link: "https://link.amazon/B0eiIUGBU"
-                    },
+                        name: "Large framed artworkr",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia4.webp",
+                        link: "https://link.amazon/B0esCFCOI"
+                    }
                 ],
                 us: [
                     {
-                        name: "Flameless LED Candles",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS5.webp",
-                        link: "https://amzn.to/4xukFyR"
+                        name: "Large framed artwork",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS4.webp",
+                        link: "https://amzn.to/3TpCOjx"
                     },
                 ]
             }
@@ -255,22 +235,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Ceramic vase",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia6.webp",
-                        link: "https://link.amazon/B0i7Se4Qf"
-                    },
-                    {
-                        name: "Faux flowers",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia7.webp",
-                        link: "https://link.amazon/B08jl67qT"
-                    },
-
+                        name: "Large framed artworkr",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia5.webp",
+                        link: "https://link.amazon/B07hcueEu"
+                    }
                 ],
                 us: [
                     {
-                        name: "Faux flowers with ceramic vase",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS6.webp",
-                        link: "https://amzn.to/4xyTSBG"
+                        name: "Large framed artwork",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS5.webp",
+                        link: "https://amzn.to/4hkz8Hz"
                     },
                 ]
             }
@@ -295,37 +269,17 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Soft Throw Blanket",
-                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia7.webp",
-                        link: "https://link.amazon/B00BALE3J"
-                    },
-                    {
-                        name: "White bedding",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia2.webp",
-                        link: "https://link.amazon/B09JfuC1Y"
-                    },
-                    {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
-                        link: "https://link.amazon/B09UaXoA4"
+                        name: "Extra-long linen curtains",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia6.webp",
+                        link: "https://link.amazon/B00Oxvnr9"
                     }
                 ],
                 us: [
                     {
-                        name: "Chunky Knit Throw blanket",
-                        image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
-                        link: "https://amzn.to/46ieTWb"
+                        name: "Extra-long linen curtains",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS6.webp",
+                        link: "https://amzn.to/4ruN3jh"
                     },
-                    {
-                        name: "White bedding",
-                        image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook19.webp",
-                        link: "https://amzn.to/4r5OKTO"
-                    },
-                    {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
-                        link: "https://amzn.to/4hDjad2"
-                    }
                 ]
             }
 
@@ -349,16 +303,31 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Gallery frames",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia8.webp",
-                        link: "https://link.amazon/B0hPKeRBd"
+                        name: "Boucle Accent Chair",
+                        image: "/images/blog/article/25-cozy-living-room-ideas/shoplook43.webp",
+                        link: "https://link.amazon/B02zpFY1T"
+                    },
+                    {
+                        name: "Floor lamp",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia11.webp",
+                        link: "https://link.amazon/B0gUA1ehi"
                     },
                 ],
                 us: [
                     {
-                        name: "Gallery frames",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS2.webp",
-                        link: "https://amzn.to/3TkGwuy"
+                        name: "Reading chair",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS9.webp",
+                        link: "https://amzn.to/3TeR5PO"
+                    },
+                    {
+                        name: "Small wooden side table",
+                        image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook14.webp",
+                        link: "https://amzn.to/4xhk7MS"
+                    },
+                    {
+                        name: "Chunky Knit Throw blanket",
+                        image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                        link: "https://amzn.to/46ieTWb"
                     },
                 ]
             }
@@ -383,16 +352,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Wooden round tray",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia9.webp",
-                        link: "https://link.amazon/B0iMeVVyq"
-                    },
+                        name: "Bedside table",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia7.webp",
+                        link: "https://link.amazon/B0fNbctDY"
+                    }
                 ],
                 us: [
                     {
-                        name: "Wooden round tray",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS1.webp",
-                        link: "https://amzn.to/4h2WcMj"
+                        name: "Bedside table",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS7.webp",
+                        link: "https://amzn.to/4yNu9pZ"
                     },
                 ]
             }
@@ -416,17 +385,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Sheer curtain panels",
-                        image: "/images/blog/article/25-cozy-living-room-ideas/shoplook48.webp",
-                        link: "https://link.amazon/B0edD5Ynr"
-                    },
-
+                        name: "Floor Mirror",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia8.webp",
+                        link: "https://link.amazon/B017qp53n"
+                    }
                 ],
                 us: [
                     {
-                        name: "Sheer curtain panels",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS7.webp",
-                        link: "https://amzn.to/4y8NmCM"
+                        name: "Floor Mirror",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS8.webp",
+                        link: "https://amzn.to/46GbzUQ"
                     },
                 ]
             }
@@ -451,39 +419,17 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: " Floor lamp",
-                        image: "/images/blog/article/25-cozy-living-room-ideas/shoplook12.webp",
-                        link: "https://link.amazon/B01CpoWMU"
+                        name: "Gallery frames",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia8.webp",
+                        link: "https://link.amazon/B0hPKeRBd"
                     },
-                    {
-                        name: "Boucle Accent Chair",
-                        image: "/images/blog/article/25-cozy-living-room-ideas/shoplook43.webp",
-                        link: "https://link.amazon/B02zpFY1T"
-                    },
-                    {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
-                        link: "https://link.amazon/B09UaXoA4"
-                    }
-
-
                 ],
                 us: [
                     {
-                        name: "Floor lamp",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS8.webp",
-                        link: "https://amzn.to/4y8NmCM"
+                        name: "Gallery frames",
+                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS2.webp",
+                        link: "https://amzn.to/3TkGwuy"
                     },
-                    {
-                        name: "Reading chair",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS9.webp",
-                        link: "https://amzn.to/3TeR5PO"
-                    },
-                    {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
-                        link: "https://amzn.to/4hDjad2"
-                    }
                 ]
             }
 
@@ -506,16 +452,26 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Gallery frames",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia8.webp",
-                        link: "https://link.amazon/B0hPKeRBd"
+                        name: "Terracota cushion cover",
+                        image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
+                        link: "https://clnk.in/BWTc"
                     },
+                    {
+                        name: "Bedding set",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia9.webp",
+                        link: "https://link.amazon/B0ev8n9W9"
+                    }
                 ],
                 us: [
                     {
-                        name: "Gallery frames",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS2.webp",
-                        link: "https://amzn.to/3TkGwuy"
+                        name: "Terracota cushion cover",
+                        image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook3.webp",
+                        link: "https://amzn.to/4gXIABP"
+                    },
+                    {
+                        name: "Bedding set",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS9.webp",
+                        link: "https://amzn.to/4hG9r5D"
                     },
                 ]
             }
@@ -542,17 +498,17 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
-                        link: "https://link.amazon/B09UaXoA4"
+                        name: "Woven storage basket ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookindia1.webp",
+                        link: "https://link.amazon/B04OjnrzJ"
                     }
                 ],
                 us: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
-                        link: "https://amzn.to/4hDjad2"
-                    },
+                        name: "Woven Storage basket ",
+                        image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                        link: "https://amzn.to/3UwGJv4"
+                    }
                 ]
             }
 
@@ -576,26 +532,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Wall mirror",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia10.webp",
-                        link: "https://link.amazon/B02NgpBzx"
-                    },
-                    {
-                        name: "Decorative String Lights",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia1.webp",
-                        link: "https://link.amazon/B04Sjkbnn"
+                        name: "Freestanding Clothing Rack",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia10.webp",
+                        link: "https://link.amazon/B01HapMex"
                     }
                 ],
                 us: [
                     {
-                        name: "Wall mirror",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS10.webp",
-                        link: "https://amzn.to/4iFDMT4"
-                    },
-                    {
-                        name: "Decorative String Lights",
-                        image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook18.webp",
-                        link: "https://amzn.to/46o5a0B"
+                        name: "Freestanding Clothing Rack",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS10.webp",
+                        link: "https://amzn.to/4ySWETp"
                     },
                 ]
             }
@@ -620,36 +566,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Bedside Lamp",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia4.webp",
-                        link: "https://link.amazon/B0iKcRzJN"
-                    },
-                    {
-                        name: "Premium hotel-style bedding",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia11.webp",
-                        link: "https://link.amazon/B076wQZcF"
-                    },
-                    {
-                        name: "Cushion set",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia12.webp",
-                        link: "https://link.amazon/B0875nSYv"
-                    },
+                        name: "Soft Window Seat",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia11.webp",
+                        link: "https://link.amazon/B099GwLRl"
+                    }
                 ],
                 us: [
                     {
-                        name: "Bedside Lamp",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS4.webp",
-                        link: "https://amzn.to/478p0wS"
-                    },
-                    {
-                        name: "Premium hotel-style bedding",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS11.webp",
-                        link: "https://amzn.to/3VplXOi"
-                    },
-                    {
-                        name: "cushion set",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS12.webp",
-                        link: "https://amzn.to/4y8M62x"
+                        name: "Soft Window Seat",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS11.webp",
+                        link: "https://amzn.to/4xKFhTR"
                     },
                 ]
             }
@@ -669,6 +595,33 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             tips: [
                 "Group plants at different heights to create a more natural-looking arrangement."
             ],
+            shopLook: {
+                india: [
+                    {
+                        name: "Ceramic pot with plant",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia17.webp",
+                        link: "https://link.amazon/B07hLwkVm"
+                    },
+                    {
+                        name: "Indoor plant with pot",
+                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookIndia3.webp",
+                        link: "https://link.amazon/B0dFdJLih"
+                    }
+
+                ],
+                us: [
+                    {
+                        name: "Ceramic pot with plant",
+                        image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS17.webp",
+                        link: "https://amzn.to/46XDQGx"
+                    },
+                    {
+                        name: "Ceramic pot set for indoor plant",
+                        image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS3.webp",
+                        link: "https://amzn.to/4hdUI0C"
+                    }
+                ]
+            }
         },
         {
             id: 16,
@@ -687,16 +640,26 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
-                        link: "https://link.amazon/B09UaXoA4"
+                        name: "Freestanding canopy frame",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia12.webp",
+                        link: "https://link.amazon/B0e2b1Q6E"
+                    },
+                    {
+                        name: "Lightweight sheer curtains",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia13.webp",
+                        link: "https://link.amazon/B02IiGgmh"
                     }
                 ],
                 us: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
-                        link: "https://amzn.to/4hDjad2"
+                        name: "Freestanding canopy frame",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS12.webp",
+                        link: "https://amzn.to/3VKGJIk"
+                    },
+                    {
+                        name: "Lightweight sheer curtains",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS13.webp",
+                        link: "https://amzn.to/47dgOeO"
                     },
                 ]
             }
@@ -719,16 +682,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
-                        link: "https://link.amazon/B09UaXoA4"
+                        name: "Adjustable tension rod",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia14.webp",
+                        link: "https://link.amazon/B03zZ40D0"
                     }
                 ],
                 us: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
-                        link: "https://amzn.to/4hDjad2"
+                        name: "Adjustable tension rod",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS14.webp",
+                        link: "https://amzn.to/3V8AGgx"
                     },
                 ]
             }
@@ -751,16 +714,16 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
             shopLook: {
                 india: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookIndia3.webp",
-                        link: "https://link.amazon/B09UaXoA4"
+                        name: "Botanical removable decals",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookIndia15.webp",
+                        link: "https://link.amazon/B0firsl1e"
                     }
                 ],
                 us: [
                     {
-                        name: "Soft pink cushion cover",
-                        image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS3.webp",
-                        link: "https://amzn.to/4hDjad2"
+                        name: "Botanical removable decals",
+                        image: "/images/blog/article/20-rental-friendly-cozy-bedroom-ideas-that-landlords-will-approve/shoplookUS15.webp",
+                        link: "https://amzn.to/4d1hPKr"
                     },
                 ]
             }
