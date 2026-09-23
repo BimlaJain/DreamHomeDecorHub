@@ -28,6 +28,7 @@ import cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat from "./seasonal-deco
 import cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome from "./home-decor/20CozyHomeCafeIdeastoCreateYourOwnCoffeeShopatHome";
 import thoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial from "./gift-ideas/50ThoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial";
 import romenticBedroomDecorIdeasForADreamyRoom from "./home-decor/15RomenticBedroomDecorIdeasForADreamyAndCozyAtmosphere";
+import rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove from "./small-space/20RentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove";
 
 const articles = [
 
@@ -59,6 +60,7 @@ const articles = [
     cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome,
     thoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial,
     romenticBedroomDecorIdeasForADreamyRoom,
+    rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove,
 
 ];
 
