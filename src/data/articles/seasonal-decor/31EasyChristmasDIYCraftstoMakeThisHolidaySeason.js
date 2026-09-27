@@ -12,7 +12,7 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
     readTime: "23 min read",
 
     image:
-        "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate-hero-image.webp",
+        "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/easy-christmas-DIY-craft-idea-hero-image.webp",
 
 
     description:
