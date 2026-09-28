@@ -984,29 +984,24 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Blank canvas",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook56.webp",
+                    link: "https://amzn.to/3TUVJmv"
                 },
                 {
-                    name: "Artificial Fall leaves",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
-                    link: "https://amzn.to/4gHaiBm"
+                    name: "Buttons",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook57.webp",
+                    link: "https://amzn.to/4ykHypW"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Waterproof craft glue",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook15.webp",
+                    link: "https://amzn.to/4jr7StC"
                 },
                 {
-                    name: "Bedside table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
-                },
-                {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Jute twine",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4hgHy4f"
                 },
             ]
 
@@ -1027,44 +1022,29 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "Mirror",
-                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS22.webp",
-                    link: "https://amzn.to/4ylue4d"
+                    name: "Wooden popsicle sticks",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook5.webp",
+                    link: "https://amzn.to/4hMJ7H8"
                 },
                 {
-                    name: "White Ceramic vase",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook16.webp",
-                    link: "https://amzn.to/4gLzarY"
+                    name: "Acrylic paints",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook27.webp",
+                    link: "https://amzn.to/3V41yhT"
                 },
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Silver glitter",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook7.webp",
+                    link: "https://amzn.to/3VTgDms"
                 },
                 {
-                    name: "Artificial Fall leaves",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
-                    link: "https://amzn.to/4gHaiBm"
+                    name: "Ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook43.webp",
+                    link: "https://amzn.to/4AC4DG3"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
-                },
-                {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
-                },
-                {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
-                },
-                {
-                    name: " Decorative tray",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook12.webp",
-                    link: "https://amzn.to/4h2k9lr"
+                    name: "Hot glue gun",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
+                    link: "https://amzn.to/4763skR"
                 },
             ]
 
@@ -1082,6 +1062,38 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
             tips: [
                 "Use wired burlap ribbon if possible because it holds its shape better. Fluff the loops and tails after tying to make the bow look fuller and more professional."
             ],
+            shopLook: [
+                {
+                    name: "Burlap Ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook58.webp",
+                    link: "https://amzn.to/4AAXWEd"
+                },
+                {
+                    name: "Red Christmas ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
+                    link: "https://amzn.to/4AwpDhz"
+                },
+                {
+                    name: "Floral wire",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
+                    link: "https://amzn.to/4rxAkMH"
+                },
+                {
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
+                },
+                {
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
+                },
+                {
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
+                },
+            ]
 
         },
         {
@@ -1097,6 +1109,39 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
             tips: [
                 "Make your gift tags in batches using one consistent color palette. This saves time and gives all your presents a coordinated, boutique-style appearance."
             ],
+            shopLook: [
+                {
+                    name: "Kraft gift tags",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook60.webp",
+                    link: "https://amzn.to/3VTyQ3j"
+                },
+                {
+                    name: "Christmas stickers",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook61.webp",
+                    link: "https://amzn.to/4z2itQs"
+                },
+                {
+                    name: "Red/green ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook62.webp",
+                    link: "https://amzn.to/4hQuRNz"
+                },
+                {
+                    name: "Gold Maker",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook63.webp",
+                    link: "https://amzn.to/4rCejME"
+                },
+                {
+                    name: "Jute twine",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4hgHy4f"
+                },
+                {
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
+                },
+            ]
+
 
         },
         {
@@ -1115,26 +1160,35 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Miniature Christmas houses",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook64.webp",
+                    link: "https://amzn.to/3To88iH"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Bottle-brush trees",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook65.webp",
+                    link: "https://amzn.to/4z1HIT4"
                 },
                 {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
+                    name: "Faux snow",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook14.webp",
+                    link: "https://amzn.to/4d3RTOn"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Mini Christmas trees/figurines",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook66.webp",
+                    link: "https://amzn.to/4yYxNNT"
                 },
-
+                {
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
+                },
+                {
+                    name: "Wooden display tray",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook67.webp",
+                    link: "https://amzn.to/4hPA9J9"
+                },
             ]
         },
         {
@@ -1153,24 +1207,29 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "White cardstock",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook50.webp",
+                    link: "https://amzn.to/4hh9Z1X"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Gold glitter paper",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook21.webp",
+                    link: "https://amzn.to/4iRt4ZO"
                 },
                 {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
+                    name: "Jute twine",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4hgHy4f"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Craft scissors",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook3.webp",
+                    link: "https://amzn.to/47jtpx9"
+                },
+                {
+                    name: "Hot glue gun",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
+                    link: "https://amzn.to/4763skR"
                 },
 
             ]
@@ -1191,26 +1250,20 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "White , black , Orange felt",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook68.webp",
+                    link: "https://amzn.to/4yojpi8"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Mini scarf and Hat material",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook69.webp",
+                    link: "https://amzn.to/4rDf7RB"
                 },
                 {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
+                    name: "Fabric glue",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook35.webp",
+                    link: "https://amzn.to/4rxC0FZ"
                 },
-                {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
-                },
-
             ]
         },
         {
@@ -1229,24 +1282,29 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
                 },
                 {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Red/green ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook62.webp",
+                    link: "https://amzn.to/4hQuRNz"
+                },
+                {
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ABtdGS"
                 },
 
             ]
@@ -1267,24 +1325,29 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Small craft twigs",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook45.webp",
+                    link: "https://amzn.to/3VeJCkA"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
+                    link: "https://amzn.to/4iStz5Q"
                 },
                 {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
+                    name: "Jute twine",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4hgHy4f"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
+                },
+                {
+                    name: "Wooden star",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook71.webp",
+                    link: "https://amzn.to/46MvwcQ"
                 },
 
             ]
@@ -1305,26 +1368,36 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Red and White pipe cleaners",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook72.webp",
+                    link: "https://amzn.to/4yW2KSU"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
                 },
                 {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
+                    name: "Red/green ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook62.webp",
+                    link: "https://amzn.to/4hQuRNz"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
                 },
-
+                {
+                    name: "Floral wire",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
+                    link: "https://amzn.to/4rxAkMH"
+                },
+                {
+                    name: "Hot glue gun",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
+                    link: "https://amzn.to/4763skR"
+                },
+            
             ]
         },
         {
@@ -1343,26 +1416,35 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
             shopLook: [
                 {
-                    name: "artificial eucalyptus",
-                    image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook3.webp",
-                    link: "https://amzn.to/465NZ3D"
+                    name: "Wire wreath frame",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
+                    link: "https://amzn.to/4yd11Zq"
                 },
                 {
-                    name: "pampas grass",
-                    image: "/images/blog/article/21-diy-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4h1STos"
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
                 },
                 {
-                    name: "Table lamp",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook10.webp",
-                    link: "https://amzn.to/4gZiyNh"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Decorative scented candle",
-                    image: "/images/blog/article/bedroom/shoplook12.webp",
-                    link: "https://link.amazon/B06oh3Pe9"
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
                 },
-
+                {
+                    name: "Christmas ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
+                    link: "https://amzn.to/4hug1uK"
+                },
+                {
+                    name: "Floral wire",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
+                    link: "https://amzn.to/4rxAkMH"
+                },
             ]
         },
 
