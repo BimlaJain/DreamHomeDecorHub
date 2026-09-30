@@ -32,6 +32,7 @@ import rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove from "./small-spac
 import pistachioGreenandGoldChristmasDecorIdeasforanElegantHolidayHome from "./seasonal-decor/17PistachioGreenandGoldChristmasDecorIdeasforanElegantHolidayHome";
 import evilEyeWallDecorIdeastoAddaStylishTouchtoYourHome from "./home-decor/21EvilEyeWallDecorIdeastoAddaStylishTouchtoYourHome";
 import easyChristmasDIYCraftstoMakeThisHolidaySeason from "./seasonal-decor/31EasyChristmasDIYCraftstoMakeThisHolidaySeason";
+import giftsforYourBoyfriendHeWillActuallyLove from "./gift-ideas/55GiftsforYourBoyfriendHeWillActuallyLove";
 
 const articles = [
 
@@ -67,6 +68,7 @@ const articles = [
     pistachioGreenandGoldChristmasDecorIdeasforanElegantHolidayHome,
     evilEyeWallDecorIdeastoAddaStylishTouchtoYourHome,
     easyChristmasDIYCraftstoMakeThisHolidaySeason,
+    giftsforYourBoyfriendHeWillActuallyLove,
 
 ];
 

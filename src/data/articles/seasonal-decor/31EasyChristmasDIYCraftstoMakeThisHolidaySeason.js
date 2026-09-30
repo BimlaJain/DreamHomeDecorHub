@@ -26,7 +26,7 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
     totalIdeas: 31,
 
 
-    totalProducts: 30,
+    totalProducts: 70,
 
 
     author:
