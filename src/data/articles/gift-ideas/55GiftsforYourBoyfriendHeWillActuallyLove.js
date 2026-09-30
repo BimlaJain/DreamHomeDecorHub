@@ -115,14 +115,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Leather Wallet",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook1.webp",
+                    link: "https://amzn.to/4rIYvb8"
                 },
             ]
 
@@ -144,15 +139,11 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
+                    name: "Keychain",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook2.webp",
+                    link: "https://amzn.to/4ADIEym"
                 },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
-                },
+            
             ]
 
         },
@@ -173,14 +164,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Custom Photo Book",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook3.webp",
+                    link: "https://amzn.to/4yh2bTM"
                 },
             ]
         },
@@ -201,14 +187,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Personalized Bracelet",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook4.webp",
+                    link: "https://amzn.to/3VIy3lP"
                 },
             ]
         },
@@ -229,14 +210,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Custom couple portrait",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook5.webp",
+                    link: "https://amzn.to/3VkwSsK"
                 },
             ]
 
@@ -258,14 +234,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Personalized Watch Box",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook6.webp",
+                    link: "https://amzn.to/4hwP4Xp"
                 },
             ]
 
@@ -287,14 +258,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Gift Box",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook7.webp",
+                    link: "https://amzn.to/3TCGcHV"
                 },
             ]
 
@@ -316,14 +282,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Travel Map",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook8.webp",
+                    link: "https://amzn.to/4deO7Sm"
                 },
             ]
 
@@ -345,14 +306,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Wireless Charging Station",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook9.webp",
+                    link: "https://amzn.to/4AN9sfV"
                 },
             ]
         },
@@ -373,14 +329,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Noise-Canceling Headphones",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook10.webp",
+                    link: "https://amzn.to/4dbGCf1"
                 },
             ]
         },
@@ -400,14 +351,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "bluetooth speaker",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook11.webp",
+                    link: "https://amzn.to/4hvNjtA"
                 },
             ]
         },
@@ -430,14 +376,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Wireless Earbuds",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook12.webp",
+                    link: "https://amzn.to/46T2XdD"
                 },
             ]
         },
@@ -459,14 +400,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Portable Power Bank",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook13.webp",
+                    link: "https://amzn.to/46OxERl"
                 },
             ]
         },
@@ -489,14 +425,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Light Strips",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook14.webp",
+                    link: "https://amzn.to/4hnLyji"
                 },
             ]
         },
@@ -516,14 +447,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Phone Stand",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook15.webp",
+                    link: "https://amzn.to/4z6Tgo0"
                 },
             ]
 
@@ -547,14 +473,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Portable Bluetooth Tracker",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook16.webp",
+                    link: "https://amzn.to/4rDwMsd"
                 },
             ]
 
@@ -576,14 +497,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Gaming Headset",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook17.webp",
+                    link: "https://amzn.to/4hlkSzJ"
                 },
             ]
         },
@@ -604,14 +520,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Large Gaming Mouse Pad",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook18.webp",
+                    link: "https://amzn.to/4rYjBm1"
                 },
             ]
         },
@@ -632,14 +543,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Gaming Controller Stand",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook19.webp",
+                    link: "https://amzn.to/4z38RVv"
                 },
             ]
         },
@@ -662,14 +568,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Gaming Desk Accessories",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook20.webp",
+                    link: "https://amzn.to/4AFpxE3"
                 },
             ]
         },
@@ -690,14 +591,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Gaming Gift Card",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook21.webp",
+                    link: "https://amzn.to/3TqDgy1"
                 },
             ]
 
@@ -718,14 +614,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Classic Watch",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook22.webp",
+                    link: "https://amzn.to/3VjhSvi"
                 },
             ]
         },
@@ -745,14 +636,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Sunglasses",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook23.webp",
+                    link: "https://amzn.to/4hhah8Y"
                 },
             ]
         },
@@ -772,14 +658,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Leather Belt",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook24.webp",
+                    link: "https://amzn.to/4zrnRNp"
                 },
             ]
 
@@ -800,14 +681,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Card Holder",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook25.webp",
+                    link: "https://amzn.to/4AFpY19"
                 },
             ]
         },
@@ -828,14 +704,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Men's Grooming Kit",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook26.webp",
+                    link: "https://amzn.to/4AxJ3T0"
                 },
             ]
         },
@@ -855,14 +726,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Fragrance Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook27.webp",
+                    link: "https://amzn.to/4hzO98y"
                 },
             ]
         },
@@ -881,14 +747,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Cozy Hoodie",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook28.webp",
+                    link: "https://amzn.to/46T4Dnr"
                 },
             ]
         },
@@ -908,14 +769,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Socks Gift Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook29.webp",
+                    link: "https://amzn.to/46NMrvx"
                 },
             ]
         },
@@ -935,14 +791,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Water Bottle",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook30.webp",
+                    link: "https://amzn.to/4ynImtY"
                 },
             ]
 
@@ -963,14 +814,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Gym Bag",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook31.webp",
+                    link: "https://amzn.to/4hTiJLQ"
                 },
             ]
         },
@@ -990,14 +836,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Fitness Tracker",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook32.webp",
+                    link: "https://amzn.to/4hzOtEi"
                 },
             ]
         },
@@ -1017,14 +858,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Resistance Bands Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook33.webp",
+                    link: "https://amzn.to/4hEjBmj"
                 },
             ]
         },
@@ -1044,14 +880,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Massage Gun",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook34.webp",
+                    link: "https://amzn.to/4zaDmZY"
                 },
             ]
         },
@@ -1071,14 +902,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Camping Hammock",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook35.webp",
+                    link: "https://amzn.to/47qR9zv"
                 },
             ]
         },
@@ -1099,14 +925,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Insulated Travel Mug",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook36.webp",
+                    link: "https://amzn.to/3Vf6lwZ"
                 },
             ]
         },
@@ -1125,14 +946,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Coffee Gift Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook37.webp",
+                    link: "https://amzn.to/4rMZ3g8"
                 },
             ]
 
@@ -1153,14 +969,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Hot Sauce Gift Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook38.webp",
+                    link: "https://amzn.to/4rE2Vjj"
                 },
             ]
         },
@@ -1180,14 +991,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Snack Gift Box",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook39.webp",
+                    link: "https://amzn.to/4d9qV83"
                 },
             ]
 
@@ -1208,14 +1014,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Tool Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook40.webp",
+                    link: "https://amzn.to/4xQseQw"
                 },
             ]
         },
@@ -1235,14 +1036,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Cocktail Mixing set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook41.webp",
+                    link: "https://amzn.to/3TZAAaP"
                 },
             ]
         },
@@ -1262,14 +1058,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Personalized Tumbler",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook42.webp",
+                    link: "https://amzn.to/4hUsVnh"
                 },
             ]
         },
@@ -1289,14 +1080,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Multi-Tool",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook43.webp",
+                    link: "https://amzn.to/4ytJTiq"
                 },
             ]
 
@@ -1317,14 +1103,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Backpack",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook44.webp",
+                    link: "https://amzn.to/4zbSy97"
                 },
             ]
         },
@@ -1343,14 +1124,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Desk Organizer",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook45.webp",
+                    link: "https://amzn.to/4AHd02W"
                 },
             ]
 
@@ -1371,14 +1147,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Portable Tool Kit",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook46.webp",
+                    link: "https://amzn.to/4AHeUk8"
                 },
             ]
         },
@@ -1398,14 +1169,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Car Cleaning Kit",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook47.webp",
+                    link: "https://amzn.to/4AxKOj4"
                 },
             ]
         },
@@ -1424,14 +1190,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Car Phone Mount",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook48.webp",
+                    link: "https://amzn.to/4htzqMs"
                 },
             ]
         },
@@ -1451,14 +1212,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Lego Building Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook49.webp",
+                    link: "https://amzn.to/3U3x3Z3"
                 },
             ]
 
@@ -1479,14 +1235,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Board Game for Two",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook50.webp",
+                    link: "https://amzn.to/3TUgmPI"
                 },
             ]
         },
@@ -1506,14 +1257,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Mini Projector",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook51.webp",
+                    link: "https://amzn.to/4jfQp7J"
                 },
             ]
         },
@@ -1533,14 +1279,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Personalized Neon Sign",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook52.webp",
+                    link: "https://amzn.to/4zbTgTP"
                 },
             ]
         },
@@ -1560,14 +1301,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Travel Map",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook8.webp",
+                    link: "https://amzn.to/4deO7Sm"
                 },
             ]
         },
@@ -1587,14 +1323,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Experience Gift",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook53.webp",
+                    link: "https://amzn.to/4rEqmc8"
                 },
             ]
         },
@@ -1614,14 +1345,9 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "stockings",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4yf6u23"
-                },
-                {
-                    name: "stocings holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3Vw0ymB"
+                    name: "Snack Gift Box",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook39.webp",
+                    link: "https://amzn.to/4d9qV83"
                 },
             ]
         },
