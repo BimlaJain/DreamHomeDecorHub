@@ -33,6 +33,7 @@ import pistachioGreenandGoldChristmasDecorIdeasforanElegantHolidayHome from "./s
 import evilEyeWallDecorIdeastoAddaStylishTouchtoYourHome from "./home-decor/21EvilEyeWallDecorIdeastoAddaStylishTouchtoYourHome";
 import easyChristmasDIYCraftstoMakeThisHolidaySeason from "./seasonal-decor/31EasyChristmasDIYCraftstoMakeThisHolidaySeason";
 import giftsforYourBoyfriendHeWillActuallyLove from "./gift-ideas/55GiftsforYourBoyfriendHeWillActuallyLove";
+import cozyChristmasHomeDecorIdeastoMakeYourHomeMagical from "./seasonal-decor/40CozyChristmasHomeDecorIdeastoMakeYourHomeMagical";
 
 const articles = [
 
@@ -69,6 +70,7 @@ const articles = [
     evilEyeWallDecorIdeastoAddaStylishTouchtoYourHome,
     easyChristmasDIYCraftstoMakeThisHolidaySeason,
     giftsforYourBoyfriendHeWillActuallyLove,
+    cozyChristmasHomeDecorIdeastoMakeYourHomeMagical,
 
 ];
 
