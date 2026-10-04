@@ -136,24 +136,34 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
             shopLook: [
 
                 {
-                    name: "Colored cardstock ",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook1.webp",
-                    link: "https://amzn.to/4ytImIQ"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
                 },
                 {
-                    name: "Gold star stickers",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook2.webp",
-                    link: "https://amzn.to/4iQJxxi"
+                    name: "candle holders",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook11.webp",
+                    link: "https://amzn.to/3TN2Qxe"
                 },
                 {
-                    name: "Craft scissors",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook3.webp",
-                    link: "https://amzn.to/47jtpx9"
+                    name: " stocking",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook54.webp",
+                    link: "https://amzn.to/4xLi2Ji"
                 },
                 {
-                    name: "Double-sided tape / glue",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook4.webp",
-                    link: "https://amzn.to/4d8LfXf"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
+                },
+                {
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
+                },
+                {
+                    name: "LED tea light",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook53.webp",
+                    link: "https://amzn.to/4yhGsuN"
                 },
 
             ]
@@ -176,24 +186,29 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wooden popsicle sticks",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook5.webp",
-                    link: "https://amzn.to/4hMJ7H8"
+                    name: "Staircase garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook21.webp",
+                    link: "https://amzn.to/3Tmxzkr"
                 },
                 {
-                    name: "White acrylic paint",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook6.webp",
-                    link: "https://amzn.to/4z3xd1y"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Silver glitter",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook7.webp",
-                    link: "https://amzn.to/3VTgDms"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
+                    name: "Red Christmas ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
+                    link: "https://amzn.to/4AwpDhz"
+                },
+                {
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
 
 
@@ -217,27 +232,25 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
+                },
+                {
                     name: "Natural pinecones",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
                     link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Mini star toppers",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook11.webp",
-                    link: "https://amzn.to/4hrhimn"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
                     name: "Mini Christmas ornaments",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
                     link: "https://amzn.to/4ABtdGS"
                 },
-                {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
-                },
-
-
             ]
 
         },
@@ -258,24 +271,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Mason jars",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4d8LRMx"
+                    name: "Mini Christmas tree",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4Atjtyv"
                 },
                 {
-                    name: "Mini Christmas trees/figurines",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook13.webp",
-                    link: "https://amzn.to/4yhKHGR"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Faux snow",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook14.webp",
-                    link: "https://amzn.to/4d3RTOn"
-                },
-                {
-                    name: "Waterproof craft glue",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook15.webp",
-                    link: "https://amzn.to/4jr7StC"
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ABtdGS"
                 },
             ]
 
@@ -297,14 +305,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Table runner",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook1.webp",
+                    link: "https://amzn.to/470atU9"
+                },
+                {
+                    name: "Woven placemats",
+                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook2.webp",
+                    link: "https://amzn.to/3Vhjk0Q"
+                },
+                {
+                    name: "Ceramic dinnerware ",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4xLMcfo"
                 },
                 {
                     name: "Natural pinecones",
@@ -317,14 +335,14 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     link: "https://amzn.to/4dCPSc6"
                 },
                 {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
+                    name: "candles holder",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook19.webp",
+                    link: "https://amzn.to/46IvG4L"
                 },
                 {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: " candles",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/4yoJ6iw"
                 },
             ]
 
@@ -347,29 +365,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
             shopLook: [
 
                 {
-                    name: "Colored cardstock ",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook1.webp",
-                    link: "https://amzn.to/4ytImIQ"
+                    name: "Mini Christmas tree",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4Atjtyv"
                 },
                 {
-                    name: "Gold/silver glitter paper",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook21.webp",
-                    link: "https://amzn.to/4iRt4ZO"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Ornament hooks",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook22.webp",
-                    link: "https://amzn.to/3VeU7V4"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
-                },
-                {
-                    name: "Craft punch",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook24.webp",
-                    link: "https://amzn.to/4hrYOlU"
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ABtdGS"
                 },
             ]
 
@@ -391,34 +404,29 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "All-purpose flour",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook25.webp",
-                    link: "https://amzn.to/4z0HmMb"
+                    name: "Mini Christmas tree",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4Atjtyv"
                 },
                 {
-                    name: "Fine salt",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook26.webp",
-                    link: "https://amzn.to/3V41wXj"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Acrylic paints",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook27.webp",
-                    link: "https://amzn.to/3V41yhT"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Paint brushes",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook28.webp",
-                    link: "https://amzn.to/3TOyp9Y"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Christmas cookie cutters",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook29.webp",
-                    link: "https://amzn.to/4yhLRCd"
-                },
-                {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
+                    name: "burlap fabric",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook55.webp",
+                    link: "https://amzn.to/4hB6fay"
                 },
             ]
 
@@ -440,24 +448,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Cinnamon sticks",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook30.webp",
-                    link: "https://amzn.to/4hgwSCx"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
                 },
                 {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
                     name: "Red berries",
@@ -483,24 +486,34 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
             ],
             shopLook: [
                 {
-                    name: "Felt sheets",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook32.webp",
-                    link: "https://amzn.to/3TrUJpB"
+                    name: "Christmas Throw Blanketr",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook3.webp",
+                    link: "https://amzn.to/470atU9"
                 },
                 {
-                    name: "Mini pom-poms",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook33.webp",
-                    link: "https://amzn.to/4hNDCIi"
+                    name: "Mini Christmas tree",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
+                    link: "https://amzn.to/4Atjtyv"
                 },
                 {
-                    name: "Buttons",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook34.webp",
-                    link: "https://amzn.to/46LmBZa"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Fabric glue",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook35.webp",
-                    link: "https://amzn.to/4rxC0FZ"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
+                },
+                {
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ABtdGS"
+                },
+                {
+                    name: "LED tea light",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook53.webp",
+                    link: "https://amzn.to/4yhGsuN"
                 },
             ]
 
@@ -521,30 +534,25 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Cardboard craft tubes",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook36.webp",
-                    link: "https://amzn.to/4rB35rQ"
+                    name: "Slim Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook4.webp",
+                    link: "https://amzn.to/4jD1O1d"
                 },
                 {
-                    name: "Colored cardstock ",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook1.webp",
-                    link: "https://amzn.to/4ytImIQ"
+                    name: "Mini Christmas Wreath",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/46VVjPR"
                 },
                 {
-                    name: "White cotton",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook37.webp",
-                    link: "https://amzn.to/4dAhSgw"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Googly eyes",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook38.webp",
-                    link: "https://amzn.to/4xRkUEC"
-                },
-                {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
-                },
+                    name: "Woven Storage basket ",
+                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                    link: "https://amzn.to/3UwGJv4"
+                }
             ]
 
         },
@@ -563,29 +571,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
             ],
             shopLook: [
                 {
-                    name: "White paper plates",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook39.webp",
-                    link: "https://amzn.to/4d8zLCX"
+                    name: "Artificial Green Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/3W4UQbA"
                 },
                 {
-                    name: "Colored cardstock ",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook1.webp",
-                    link: "https://amzn.to/4ytImIQ"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "White cotton",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook37.webp",
-                    link: "https://amzn.to/4dAhSgw"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Googly eyes",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook38.webp",
-                    link: "https://amzn.to/4xRkUEC"
-                },
-                {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
+                    name: "Woven Tree Basket",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
+                    link: "https://amzn.to/4AODtfe"
                 },
             ]
 
@@ -609,29 +612,29 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
             ],
             shopLook: [
                 {
-                    name: "Wooden craft pieces",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook40.webp",
-                    link: "https://amzn.to/4dCCzIE"
+                    name: "Artificial Green Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/3W4UQbA"
                 },
                 {
-                    name: "Mini red pom-poms",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook41.webp",
-                    link: "https://amzn.to/3VBFACS"
+                    name: "Red & Green Christmas Ornaments",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook8.webp",
+                    link: "https://amzn.to/4rMfJnW"
                 },
                 {
-                    name: "Mini antlers",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook42.webp",
-                    link: "https://amzn.to/4ykHxCr"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Googly eyes",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook38.webp",
-                    link: "https://amzn.to/4xRkUEC"
+                    name: "Red Christmas ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
+                    link: "https://amzn.to/4AwpDhz"
                 },
                 {
-                    name: "Ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook43.webp",
-                    link: "https://amzn.to/4AC4DG3"
+                    name: "Woven Tree Basket",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
+                    link: "https://amzn.to/4AODtfe"
                 },
             ]
 
@@ -654,29 +657,34 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Natural wine corks",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook44.webp",
-                    link: "https://amzn.to/3VhgY2f"
+                    name: "Artificial Green Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/3W4UQbA"
                 },
                 {
-                    name: "Gold star stickers",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook2.webp",
-                    link: "https://amzn.to/4iQJxxi"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
+                },
+                {
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
+                },
+                {
+                    name: "Dried orange slices",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
+                    link: "https://amzn.to/4yZgZq0"
                 },
                 {
                     name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ABtdGS"
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
+                    link: "https://amzn.to/4iStz5Q"
                 },
                 {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
-                },
-                {
-                    name: "Acrylic paints",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook27.webp",
-                    link: "https://amzn.to/3V41yhT"
+                    name: "Woven Tree Basket",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
+                    link: "https://amzn.to/4AODtfe"
                 },
             ]
 
@@ -698,34 +706,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: "Mini Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4jCCXe2"
                 },
                 {
-                    name: "Wooden craft pieces",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook40.webp",
-                    link: "https://amzn.to/4dCCzIE"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Mini red pom-poms",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook41.webp",
-                    link: "https://amzn.to/3VBFACS"
-                },
-                {
-                    name: "Googly eyes",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook38.webp",
-                    link: "https://amzn.to/4xRkUEC"
-                },
-                {
-                    name: "Small craft twigs",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook45.webp",
-                    link: "https://amzn.to/3VeJCkA"
-                },
-                {
-                    name: "Ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook43.webp",
-                    link: "https://amzn.to/4AC4DG3"
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
+                    link: "https://amzn.to/4iStz5Q"
                 },
             ]
 
@@ -746,29 +739,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Small craft twigs",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook45.webp",
-                    link: "https://amzn.to/3VeJCkA"
+                    name: "Artificial Green Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
+                    link: "https://amzn.to/3W4UQbA"
                 },
                 {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
+                    link: "https://amzn.to/4iStz5Q"
                 },
                 {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Woven Tree Basket",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
+                    link: "https://amzn.to/4AODtfe"
                 },
                 {
                     name: "Fairy lights",
@@ -798,24 +786,29 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Staircase garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook21.webp",
+                    link: "https://amzn.to/3Tmxzkr"
                 },
                 {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Wooden beads",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook47.webp",
-                    link: "https://amzn.to/4dXQPfa"
+                    name: "Red Christmas ribbon",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
+                    link: "https://amzn.to/4AwpDhz"
+                },
+                {
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
                 },
             ]
 
@@ -837,24 +830,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Pom-Pom maker",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook48.webp",
-                    link: "https://amzn.to/4hh9Z1X"
+                    name: "Christmas Wreath",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/46VVjPR"
                 },
                 {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
+                    name: "Flameless candles",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
+                    link: "https://amzn.to/4qSaTox"
                 },
                 {
-                    name: "yarn",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook49.webp",
-                    link: "https://amzn.to/4yTUPWa"
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
                 },
                 {
-                    name: "Wooden beads",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook47.webp",
-                    link: "https://amzn.to/4dXQPfa"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
 
             ]
@@ -877,19 +870,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "White cardstock",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook50.webp",
-                    link: "https://amzn.to/4hh9Z1X"
+                    name: "Christmas Wreath",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/46VVjPR"
                 },
                 {
-                    name: "Craft knife",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook51.webp",
-                    link: "https://amzn.to/3TTN5Vh"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Snowflake cutter",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook52.webp",
-                    link: "https://amzn.to/46MQzvO"
+                    name: "Dried orange slices",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
+                    link: "https://amzn.to/4yZgZq0"
+                },
+                {
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
                 },
             ]
 
@@ -911,24 +909,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Mason jars",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook12.webp",
-                    link: "https://amzn.to/4d8LRMx"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
                 },
                 {
-                    name: "LED tea light",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook53.webp",
-                    link: "https://amzn.to/4yhGsuN"
+                    name: "candle holders",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook11.webp",
+                    link: "https://amzn.to/3TN2Qxe"
                 },
                 {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Flameless candles",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
+                    link: "https://amzn.to/4qSaTox"
                 },
                 {
                     name: "Natural pinecones",
@@ -936,9 +929,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Faux snow",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook14.webp",
-                    link: "https://amzn.to/4d3RTOn"
+                    name: "Dried orange slices",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
+                    link: "https://amzn.to/4yZgZq0"
+                },
+                {
+                    name: " candles",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/4yoJ6iw"
+                },
+                {
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
                 },
             ]
 
@@ -959,29 +962,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Felt sheets",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook32.webp",
-                    link: "https://amzn.to/3TrUJpB"
+                    name: "Faux evergreen branches",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4yRxvZ2"
                 },
                 {
-                    name: "Blank stocking",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook54.webp",
-                    link: "https://amzn.to/4xLi2Ji"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "burlap fabric",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook55.webp",
-                    link: "https://amzn.to/4hB6fay"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Fabric glue",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook35.webp",
-                    link: "https://amzn.to/4rxC0FZ"
-                },
-                {
-                    name: "Ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook43.webp",
-                    link: "https://amzn.to/4AC4DG3"
+                    name: "LED tea light",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook53.webp",
+                    link: "https://amzn.to/4yhGsuN"
                 },
             ]
 
@@ -1002,24 +1000,29 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Blank canvas",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook56.webp",
-                    link: "https://amzn.to/3TUVJmv"
+                    name: "Flameless candles",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
+                    link: "https://amzn.to/4qSaTox"
                 },
                 {
-                    name: "Buttons",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook57.webp",
-                    link: "https://amzn.to/4ykHypW"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
                 },
                 {
-                    name: "Waterproof craft glue",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook15.webp",
-                    link: "https://amzn.to/4jr7StC"
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
                 },
                 {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
+                },
+                {
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
             ]
 
@@ -1040,29 +1043,44 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wooden popsicle sticks",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook5.webp",
-                    link: "https://amzn.to/4hMJ7H8"
+                    name: "Linen Christmas Napkins",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/3U8FT7Q"
                 },
                 {
-                    name: "Acrylic paints",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook27.webp",
-                    link: "https://amzn.to/3V41yhT"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
                 },
                 {
-                    name: "Silver glitter",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook7.webp",
-                    link: "https://amzn.to/3VTgDms"
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
                 },
                 {
-                    name: "Ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook43.webp",
-                    link: "https://amzn.to/4AC4DG3"
+                    name: "candles holder",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook19.webp",
+                    link: "https://amzn.to/46IvG4L"
                 },
                 {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
+                },
+                {
+                    name: "Dried orange slices",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
+                    link: "https://amzn.to/4yZgZq0"
+                },
+                {
+                    name: " candles",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/4yoJ6iw"
+                },
+                {
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
                 },
             ]
 
@@ -1082,34 +1100,44 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
             ],
             shopLook: [
                 {
-                    name: "Burlap Ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook58.webp",
-                    link: "https://amzn.to/4AAXWEd"
+                    name: "Christmas Coffee/Cocoa Mugs",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook12.webp",
+                    link: "https://amzn.to/47yrFAh"
                 },
                 {
-                    name: "Red Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
-                    link: "https://amzn.to/4AwpDhz"
+                    name: "Glass Storage Jars",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook13.webp",
+                    link: "https://amzn.to/46VXWRJ"
                 },
                 {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: "Hot Cocoa Bar Containers",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook14.webp",
+                    link: "https://amzn.to/3U736Y7"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: "Wooden Serving Tray",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
+                    link: "https://amzn.to/4diPv6z"
+                },
+                {
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
+                },
+                {
+                    name: "Mini Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4jCCXe2"
+                },
+                {
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
                     name: "Faux evergreen branches",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
                     link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
                 },
             ]
 
@@ -1129,34 +1157,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
             ],
             shopLook: [
                 {
-                    name: "Kraft gift tags",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook60.webp",
-                    link: "https://amzn.to/3VTyQ3j"
+                    name: "Christmas Cake Stand",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook11.webp",
+                    link: "https://amzn.to/47yrFAh"
                 },
                 {
-                    name: "Christmas stickers",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook61.webp",
-                    link: "https://amzn.to/4z2itQs"
+                    name: "Tiered Dessert Stand",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook16.webp",
+                    link: "https://amzn.to/4rIj07y"
                 },
                 {
-                    name: "Red/green ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook62.webp",
-                    link: "https://amzn.to/4hQuRNz"
+                    name: "Wooden Serving Tray",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
+                    link: "https://amzn.to/4diPv6z"
                 },
                 {
-                    name: "Gold Maker",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook63.webp",
-                    link: "https://amzn.to/4rCejME"
-                },
-                {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Mini Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4jCCXe2"
                 },
             ]
 
@@ -1178,34 +1196,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Miniature Christmas houses",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook64.webp",
-                    link: "https://amzn.to/3To88iH"
+                    name: "Chunky Knit Throw blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                    link: "https://amzn.to/46ieTWb"
                 },
                 {
-                    name: "Bottle-brush trees",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook65.webp",
-                    link: "https://amzn.to/4z1HIT4"
+                    name: "Christmas Pillow Covers",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4rL9yAp"
                 },
                 {
-                    name: "Faux snow",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook14.webp",
-                    link: "https://amzn.to/4d3RTOn"
+                    name: "Woven Storage basket ",
+                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                    link: "https://amzn.to/3UwGJv4"
                 },
-                {
-                    name: "Mini Christmas trees/figurines",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook66.webp",
-                    link: "https://amzn.to/4yYxNNT"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
-                },
-                {
-                    name: "Wooden display tray",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook67.webp",
-                    link: "https://amzn.to/4hPA9J9"
+                 {
+                    name: "Flameless candles",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
+                    link: "https://amzn.to/4qSaTox"
                 },
             ]
         },
@@ -1225,31 +1233,10 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "White cardstock",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook50.webp",
-                    link: "https://amzn.to/4hh9Z1X"
+                    name: "Warm White Curtain Lights",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4ybuZwk"
                 },
-                {
-                    name: "Gold glitter paper",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook21.webp",
-                    link: "https://amzn.to/4iRt4ZO"
-                },
-                {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
-                },
-                {
-                    name: "Craft scissors",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook3.webp",
-                    link: "https://amzn.to/47jtpx9"
-                },
-                {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
-                },
-
             ]
         },
         {
@@ -1268,19 +1255,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "White , black , Orange felt",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook68.webp",
-                    link: "https://amzn.to/4yojpi8"
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
                 },
                 {
-                    name: "Mini scarf and Hat material",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook69.webp",
-                    link: "https://amzn.to/4rDf7RB"
+                    name: "Mini Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4jCCXe2"
                 },
                 {
-                    name: "Fabric glue",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook35.webp",
-                    link: "https://amzn.to/4rxC0FZ"
+                    name: "Chunky Knit Throw blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                    link: "https://amzn.to/46ieTWb"
+                },
+                {
+                    name: "Christmas Pillow Covers",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook17.webp",
+                    link: "https://amzn.to/4rL9yAp"
                 },
             ]
         },
@@ -1300,9 +1292,14 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: "Decorative Metal Lanterns",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook19.webp",
+                    link: "https://amzn.to/47DjYbW"
+                },
+                {
+                    name: "Flameless candles",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
+                    link: "https://amzn.to/4qSaTox"
                 },
                 {
                     name: "Faux evergreen branches",
@@ -1310,19 +1307,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     link: "https://amzn.to/4yRxvZ2"
                 },
                 {
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
+                },
+                {
                     name: "Red berries",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
                     link: "https://amzn.to/4dCPSc6"
                 },
                 {
-                    name: "Red/green ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook62.webp",
-                    link: "https://amzn.to/4hQuRNz"
-                },
-                {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ABtdGS"
+                    name: "Dried orange slices",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
+                    link: "https://amzn.to/4yZgZq0"
                 },
 
             ]
@@ -1343,30 +1340,46 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Small craft twigs",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook45.webp",
-                    link: "https://amzn.to/3VeJCkA"
+                    name: "Flameless candles",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
+                    link: "https://amzn.to/4qSaTox"
                 },
                 {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
-                    link: "https://amzn.to/4iStz5Q"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
                 },
                 {
-                    name: "Jute twine",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4hgHy4f"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
                 {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
+                    name: "Natural pinecones",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4d5AjJP"
                 },
                 {
-                    name: "Wooden star",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook71.webp",
-                    link: "https://amzn.to/46MvwcQ"
+                    name: "Red berries",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
+                    link: "https://amzn.to/4dCPSc6"
                 },
+                {
+                    name: "Dried orange slices",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
+                    link: "https://amzn.to/4yZgZq0"
+                },
+                {
+                    name: "candles holder",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook19.webp",
+                    link: "https://amzn.to/46IvG4L"
+                },
+                {
+                    name: " candles",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/4yoJ6iw"
+                },
+
 
             ]
         },
@@ -1386,36 +1399,30 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Red and White pipe cleaners",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook72.webp",
-                    link: "https://amzn.to/4yW2KSU"
+                    name: "Christmas Wreath",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/46VVjPR"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
-                    name: "Red/green ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook62.webp",
-                    link: "https://amzn.to/4hQuRNz"
+                    name: "Decorative Metal Lanterns",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook19.webp",
+                    link: "https://amzn.to/47DjYbW"
                 },
                 {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
+                    name: "Flameless candles",
+                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
+                    link: "https://amzn.to/4qSaTox"
                 },
                 {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: "Mini Christmas Tree",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
+                    link: "https://amzn.to/4jCCXe2"
                 },
-                {
-                    name: "Hot glue gun",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4763skR"
-                },
-
             ]
         },
         {
@@ -1434,34 +1441,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "wrapping paper",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook25.webp",
+                    link: "https://amzn.to/3TJaCIx"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Christmas Ribbon Seth",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook20.webp",
+                    link: "https://amzn.to/4hHoBXq"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: "Gift Tag Set",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook21.webp",
+                    link: "https://amzn.to/3TI3yfg"
                 },
                 {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: "Wrapping Paper Storage Bag",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook22.webp",
+                    link: "https://amzn.to/4ANDEaw"
                 },
             ]
         },
@@ -1481,14 +1478,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Blank stocking",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook54.webp",
+                    link: "https://amzn.to/4xLi2Ji"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
+                },
+                {
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
                     name: "Natural pinecones",
@@ -1501,14 +1503,14 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     link: "https://amzn.to/4dCPSc6"
                 },
                 {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
+                    name: "Dried orange slices",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
+                    link: "https://amzn.to/4yZgZq0"
                 },
                 {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: "gold baubles",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
+                    link: "https://amzn.to/47hI1gs"
                 },
             ]
         },
@@ -1528,14 +1530,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Large Decorative Ceramic Bowl",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook23.webp",
+                    link: "https://amzn.to/3TJo4Mm"
+                },
+                {
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
                 },
                 {
                     name: "Faux evergreen branches",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
                     link: "https://amzn.to/4yRxvZ2"
+                },
+                {
+                    name: "Red & Green Christmas Ornaments",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook8.webp",
+                    link: "https://amzn.to/4rMfJnW"
                 },
                 {
                     name: "Natural pinecones",
@@ -1546,16 +1558,6 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     name: "Red berries",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
                     link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
                 },
             ]
         },
@@ -1575,34 +1577,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Mini Christmas Village Houses",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook24.webp",
+                    link: "https://amzn.to/3TjaIGL"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Faux snow",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook14.webp",
+                    link: "https://amzn.to/4d3RTOn"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: "Fairy lights",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
+                    link: "https://amzn.to/4yRBbdi"
                 },
             ]
         },
@@ -1622,34 +1609,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Woven Storage basket ",
+                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                    link: "https://amzn.to/3UwGJv4"
+                },
+                  {
+                    name: "Chunky Knit Throw blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                    link: "https://amzn.to/46ieTWb"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Blank stocking",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook54.webp",
+                    link: "https://amzn.to/4xLi2Ji"
                 },
                 {
                     name: "Christmas ribbon",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
                     link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
                 },
             ]
         },
@@ -1669,9 +1646,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Mini Ceramic Christmas Trees",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook25.webp",
+                    link: "https://amzn.to/4AMz1h3"
+                },
+                {
+                    name: "Christmas Coffee Mugs",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook26.webp",
+                    link: "https://amzn.to/3VgEGvH"
+                },
+                {
+                    name: "garland",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ygOHrc"
+                },
+                {
+                    name: "warm-white lights,",
+                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/3VM3BHo"
                 },
                 {
                     name: "Faux evergreen branches",
@@ -1687,16 +1679,6 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     name: "Red berries",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
                     link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
                 },
             ]
         },
@@ -1716,9 +1698,19 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Wooden Serving Tray",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
+                    link: "https://amzn.to/4diPv6z"
+                },
+                {
+                    name: "Scented Candle",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook27.webp",
+                    link: "https://amzn.to/4zhxvC8"
+                },
+                {
+                    name: "Mini Ceramic Christmas Trees",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook25.webp",
+                    link: "https://amzn.to/4AMz1h3"
                 },
                 {
                     name: "Faux evergreen branches",
@@ -1734,16 +1726,6 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     name: "Red berries",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
                     link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
                 },
             ]
         },
@@ -1763,9 +1745,9 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Mini Christmas Trees",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook28.webp",
+                    link: "https://amzn.to/4huZEzq"
                 },
                 {
                     name: "Faux evergreen branches",
@@ -1776,21 +1758,6 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     name: "Natural pinecones",
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
                     link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
                 },
             ]
         },
@@ -1810,34 +1777,24 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Mini Projector",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook51.webp",
+                    link: "https://amzn.to/4jfQp7J"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Chunky Knit Throw blanket",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
+                    link: "https://amzn.to/46ieTWb"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: "Christmas Pillow covers",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook29.webp",
+                    link: "https://amzn.to/47yUX1B"
                 },
                 {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: "Christmas  Mugs",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook12.webp",
+                    link: "https://amzn.to/47yrFAh"
                 },
             ]
         },
@@ -1857,34 +1814,14 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
             shopLook: [
                 {
-                    name: "Wire wreath frame",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4yd11Zq"
+                    name: "Wooden Serving Tray",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
+                    link: "https://amzn.to/4diPv6z"
                 },
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
-                },
-                {
-                    name: "Floral wire",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4rxAkMH"
+                    name: "Christmas  Mugs",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook12.webp",
+                    link: "https://amzn.to/47yrFAh"
                 },
             ]
         },
