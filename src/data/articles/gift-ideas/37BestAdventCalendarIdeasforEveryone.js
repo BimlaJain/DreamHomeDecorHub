@@ -30,7 +30,7 @@ const bestAdventCalendarIdeasForEveryone = {
     totalIdeas: 37,
 
 
-    totalProducts: 40,
+    totalProducts: 50,
 
 
     author:
@@ -134,34 +134,19 @@ const bestAdventCalendarIdeasForEveryone = {
             shopLook: [
 
                 {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
+                    name: "Beauty Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook1.webp",
+                    link: "https://amzn.to/4dhW4Gr"
                 },
                 {
-                    name: "candle holders",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook11.webp",
-                    link: "https://amzn.to/3TN2Qxe"
+                    name: "Makeup organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
+                    link: "https://amzn.to/47zdUkK"
                 },
                 {
-                    name: " stocking",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook54.webp",
-                    link: "https://amzn.to/4xLi2Ji"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "LED tea light",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook53.webp",
-                    link: "https://amzn.to/4yhGsuN"
+                    name: "Makeup Brush Set",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook4.webp",
+                    link: "https://amzn.to/4yvIpnx"
                 },
 
             ]
@@ -184,32 +169,15 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Staircase garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook21.webp",
-                    link: "https://amzn.to/3Tmxzkr"
+                    name: "Skincare Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook2.webp",
+                    link: "https://amzn.to/3U2MuRg"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: "Cosmetic organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
+                    link: "https://amzn.to/47zdUkK"
                 },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Red Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
-                    link: "https://amzn.to/4AwpDhz"
-                },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-
-
             ]
 
         },
@@ -230,24 +198,19 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Makeup Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook5.webp",
+                    link: "https://amzn.to/475KUB5"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: "Cosmetic organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
+                    link: "https://amzn.to/47zdUkK"
                 },
                 {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ABtdGS"
+                    name: "Makeup Brush Set",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook4.webp",
+                    link: "https://amzn.to/4yvIpnx"
                 },
             ]
 
@@ -269,19 +232,19 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Mini Christmas tree",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4Atjtyv"
+                    name: "Jewelry Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook6.webp",
+                    link: "https://amzn.to/4y8oj1P"
                 },
                 {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
+                    name: "Jewelry Organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook7.webp",
+                    link: "https://amzn.to/4ALV7A6"
                 },
                 {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ABtdGS"
+                    name: " Travel Jewelry Case",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook8.webp",
+                    link: "https://amzn.to/4hCmCDt"
                 },
             ]
 
@@ -303,44 +266,24 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
+                    name: "Self-Care Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook9.webp",
+                    link: "https://amzn.to/4z9kkmr"
                 },
                 {
-                    name: "Table runner",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook1.webp",
-                    link: "https://amzn.to/470atU9"
+                    name: "Satin Sleep Mask",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook10.webp",
+                    link: "https://amzn.to/4jELywI"
                 },
                 {
-                    name: "Woven placemats",
-                    image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook2.webp",
-                    link: "https://amzn.to/3Vhjk0Q"
+                    name: " Bath Pillow",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook11.webp",
+                    link: "https://amzn.to/472I1Rt"
                 },
                 {
-                    name: "Ceramic dinnerware ",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4xLMcfo"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "candles holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook19.webp",
-                    link: "https://amzn.to/46IvG4L"
-                },
-                {
-                    name: " candles",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/4yoJ6iw"
+                    name: " Aromatherapy Shower Steamers",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook12.webp",
+                    link: "https://amzn.to/4jFsTRv"
                 },
             ]
 
@@ -361,26 +304,25 @@ const bestAdventCalendarIdeasForEveryone = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Mini Christmas tree",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4Atjtyv"
+                    name: "Candle Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook13.webp",
+                    link: "https://amzn.to/4rOQWQ4"
                 },
                 {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
+                    name: "Candle Warmer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook14.webp",
+                    link: "https://amzn.to/4jEPOwg"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
+                    name: " Bath Pillow",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook48.webp",
+                    link: "https://amzn.to/472I1Rt"
                 },
                 {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ABtdGS"
+                    name: " Aromatherapy Shower Steamers",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook49.webp",
+                    link: "https://amzn.to/4jFsTRv"
                 },
             ]
 
@@ -402,29 +344,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Mini Christmas tree",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4Atjtyv"
+                    name: "Perfume Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook15.webp",
+                    link: "https://amzn.to/4ylVJKF"
                 },
                 {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "burlap fabric",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook55.webp",
-                    link: "https://amzn.to/4hB6fay"
+                    name: " Perfume Travel Case",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook16.webp",
+                    link: "https://amzn.to/3Vv2An9"
                 },
             ]
 
@@ -446,24 +373,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
+                    name: "Coffee Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook17.webp",
+                    link: "https://amzn.to/4hsIMcH"
                 },
                 {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Electric Coffee Frother",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook18.webp",
+                    link: "https://amzn.to/4hFxhNY"
                 },
             ]
 
@@ -484,34 +401,9 @@ const bestAdventCalendarIdeasForEveryone = {
             ],
             shopLook: [
                 {
-                    name: "Christmas Throw Blanketr",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook3.webp",
-                    link: "https://amzn.to/470atU9"
-                },
-                {
-                    name: "Mini Christmas tree",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook23.webp",
-                    link: "https://amzn.to/4Atjtyv"
-                },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ABtdGS"
-                },
-                {
-                    name: "LED tea light",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook53.webp",
-                    link: "https://amzn.to/4yhGsuN"
+                    name: "Hot Sauce Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook19.webp",
+                    link: "https://amzn.to/4dkczSi"
                 },
             ]
 
@@ -532,25 +424,15 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Slim Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook4.webp",
-                    link: "https://amzn.to/4jD1O1d"
+                    name: "Men Grooming Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook20.webp",
+                    link: "https://amzn.to/47xMs71"
                 },
                 {
-                    name: "Mini Christmas Wreath",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/46VVjPR"
+                    name: "Beard Grooming Kit",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook26.webp",
+                    link: "https://amzn.to/4AxJ3T0"
                 },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Woven Storage basket ",
-                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
-                    link: "https://amzn.to/3UwGJv4"
-                }
             ]
 
         },
@@ -569,24 +451,14 @@ const bestAdventCalendarIdeasForEveryone = {
             ],
             shopLook: [
                 {
-                    name: "Artificial Green Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/3W4UQbA"
+                    name: "Snack Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook21.webp",
+                    link: "https://amzn.to/4z9lK0f"
                 },
                 {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Woven Tree Basket",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
-                    link: "https://amzn.to/4AODtfe"
+                    name: "Snack Serving Tray",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
+                    link: "https://amzn.to/4diPv6z"
                 },
             ]
 
@@ -610,29 +482,9 @@ const bestAdventCalendarIdeasForEveryone = {
             ],
             shopLook: [
                 {
-                    name: "Artificial Green Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/3W4UQbA"
-                },
-                {
-                    name: "Red & Green Christmas Ornaments",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4rMfJnW"
-                },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Red Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
-                    link: "https://amzn.to/4AwpDhz"
-                },
-                {
-                    name: "Woven Tree Basket",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
-                    link: "https://amzn.to/4AODtfe"
+                    name: "Chocolate Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook22.webp",
+                    link: "https://amzn.to/3TCZfBY"
                 },
             ]
 
@@ -655,34 +507,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Artificial Green Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/3W4UQbA"
-                },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
-                },
-                {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
-                    link: "https://amzn.to/4iStz5Q"
-                },
-                {
-                    name: "Woven Tree Basket",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
-                    link: "https://amzn.to/4AODtfe"
+                    name: "Tea Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook23.webp",
+                    link: "https://amzn.to/4y3922f"
                 },
             ]
 
@@ -704,19 +531,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Mini Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4jCCXe2"
+                    name: "Cookie Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook24.webp",
+                    link: "https://amzn.to/3VxtuuA"
                 },
                 {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
-                    link: "https://amzn.to/4iStz5Q"
+                    name: "Cookie decorating kit",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook25.webp",
+                    link: "https://amzn.to/4z84it4"
                 },
             ]
 
@@ -734,35 +556,6 @@ const bestAdventCalendarIdeasForEveryone = {
             tips: [
                 "Make sure the recipient has enough refrigerator space before buying. A cheese calendar is best enjoyed when each portion can be stored properly until its suggested tasting date."
             ],
-
-            shopLook: [
-                {
-                    name: "Artificial Green Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook6.webp",
-                    link: "https://amzn.to/3W4UQbA"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook70.webp",
-                    link: "https://amzn.to/4iStz5Q"
-                },
-                {
-                    name: "Woven Tree Basket",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook7.webp",
-                    link: "https://amzn.to/4AODtfe"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
-                },
-
-            ]
 
         },
 
@@ -784,29 +577,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Staircase garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook21.webp",
-                    link: "https://amzn.to/3Tmxzkr"
+                    name: "Hot Chocolate Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook26.webp",
+                    link: "https://amzn.to/4rJZ4kO"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Red Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook59.webp",
-                    link: "https://amzn.to/4AwpDhz"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
+                    name: "Electric Milk Frother",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook18.webp",
+                    link: "https://amzn.to/4hFxhNY"
                 },
             ]
 
@@ -828,26 +606,10 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Christmas Wreath",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/46VVjPR"
+                    name: "LEGO Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook27.webp",
+                    link: "https://amzn.to/4703z1a"
                 },
-                {
-                    name: "Flameless candles",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
-                    link: "https://amzn.to/4qSaTox"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-
             ]
 
         },
@@ -868,24 +630,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Christmas Wreath",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/46VVjPR"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Toy Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook28.webp",
+                    link: "https://amzn.to/4AP1T8m"
                 },
             ]
 
@@ -907,39 +654,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
-                },
-                {
-                    name: "candle holders",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook11.webp",
-                    link: "https://amzn.to/3TN2Qxe"
-                },
-                {
-                    name: "Flameless candles",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
-                    link: "https://amzn.to/4qSaTox"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
-                },
-                {
-                    name: " candles",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/4yoJ6iw"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Candy Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook29.webp",
+                    link: "https://amzn.to/4yyDvGA"
                 },
             ]
 
@@ -947,7 +664,7 @@ const bestAdventCalendarIdeasForEveryone = {
         {
             id: 20,
 
-            title: "Barbie or Doll Advent Calendar",
+            title: "Barbie/Doll Advent Calendar",
 
             image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/best-advent-calendar-for-everyone-idea20.webp",
 
@@ -960,24 +677,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Barbie/Doll Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook30.webp",
+                    link: "https://amzn.to/4APMIvD"
                 },
                 {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "LED tea light",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook53.webp",
-                    link: "https://amzn.to/4yhGsuN"
+                    name: "Doll House accessories",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook31.webp",
+                    link: "https://amzn.to/4rJZrvI"
                 },
             ]
 
@@ -998,29 +705,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Flameless candles",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
-                    link: "https://amzn.to/4qSaTox"
+                    name: "Pokémon Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook32.webp",
+                    link: "https://amzn.to/4j02PjT"
                 },
                 {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
+                    name: "Collectible Display Case",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook33.webp",
+                    link: "https://amzn.to/4yw5qqD"
                 },
             ]
 
@@ -1041,44 +733,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Linen Christmas Napkins",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/3U8FT7Q"
+                    name: "Craft Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook34.webp",
+                    link: "https://amzn.to/4y2zyZw"
                 },
                 {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
-                },
-                {
-                    name: "candles holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook19.webp",
-                    link: "https://amzn.to/46IvG4L"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
-                },
-                {
-                    name: " candles",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/4yoJ6iw"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Craft storage organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook35.webp",
+                    link: "https://amzn.to/4xZ4iKQ"
                 },
             ]
 
@@ -1098,44 +760,9 @@ const bestAdventCalendarIdeasForEveryone = {
             ],
             shopLook: [
                 {
-                    name: "Christmas Coffee/Cocoa Mugs",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook12.webp",
-                    link: "https://amzn.to/47yrFAh"
-                },
-                {
-                    name: "Glass Storage Jars",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook13.webp",
-                    link: "https://amzn.to/46VXWRJ"
-                },
-                {
-                    name: "Hot Cocoa Bar Containers",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook14.webp",
-                    link: "https://amzn.to/3U736Y7"
-                },
-                {
-                    name: "Wooden Serving Tray",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
-                    link: "https://amzn.to/4diPv6z"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
-                },
-                {
-                    name: "Mini Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4jCCXe2"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
+                    name: "Book Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook36.webp",
+                    link: "https://amzn.to/4yytycd"
                 },
             ]
 
@@ -1155,24 +782,9 @@ const bestAdventCalendarIdeasForEveryone = {
             ],
             shopLook: [
                 {
-                    name: "Christmas Cake Stand",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook11.webp",
-                    link: "https://amzn.to/47yrFAh"
-                },
-                {
-                    name: "Tiered Dessert Stand",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook16.webp",
-                    link: "https://amzn.to/4rIj07y"
-                },
-                {
-                    name: "Wooden Serving Tray",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
-                    link: "https://amzn.to/4diPv6z"
-                },
-                {
-                    name: "Mini Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4jCCXe2"
+                    name: "Puzzle Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook37.webp",
+                    link: "https://amzn.to/4i2M7iL"
                 },
             ]
 
@@ -1194,24 +806,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Chunky Knit Throw blanket",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
-                    link: "https://amzn.to/46ieTWb"
+                    name: "Socks Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook38.webp",
+                    link: "https://amzn.to/472L4Jp"
                 },
                 {
-                    name: "Christmas Pillow Covers",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4rL9yAp"
-                },
-                {
-                    name: "Woven Storage basket ",
-                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
-                    link: "https://amzn.to/3UwGJv4"
-                },
-                {
-                    name: "Flameless candles",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
-                    link: "https://amzn.to/4qSaTox"
+                    name: "Socks organizer box",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook39.webp",
+                    link: "https://amzn.to/4zkqNv7"
                 },
             ]
         },
@@ -1231,9 +833,14 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Warm White Curtain Lights",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4ybuZwk"
+                    name: "Pet Treat Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook40.webp",
+                    link: "https://amzn.to/4hFjEyh"
+                },
+                {
+                    name: "Pet bowl",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook41.webp",
+                    link: "https://amzn.to/47A9hHe"
                 },
             ]
         },
@@ -1253,24 +860,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
-                },
-                {
-                    name: "Mini Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4jCCXe2"
-                },
-                {
-                    name: "Chunky Knit Throw blanket",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
-                    link: "https://amzn.to/46ieTWb"
-                },
-                {
-                    name: "Christmas Pillow Covers",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4rL9yAp"
+                    name: "Christmas Ornament Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook42.webp",
+                    link: "https://amzn.to/4ALin1e"
                 },
             ]
         },
@@ -1290,36 +882,10 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Decorative Metal Lanterns",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook19.webp",
-                    link: "https://amzn.to/47DjYbW"
+                    name: "Miniature Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook43.webp",
+                    link: "https://amzn.to/3TKwtPE"
                 },
-                {
-                    name: "Flameless candles",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
-                    link: "https://amzn.to/4qSaTox"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
-                },
-
             ]
         },
         {
@@ -1338,47 +904,10 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Flameless candles",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
-                    link: "https://amzn.to/4qSaTox"
+                    name: "Date-Night Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook50.webp",
+                    link: "https://amzn.to/4AJscwR"
                 },
-                {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
-                },
-                {
-                    name: "candles holder",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook19.webp",
-                    link: "https://amzn.to/46IvG4L"
-                },
-                {
-                    name: " candles",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/4yoJ6iw"
-                },
-
-
             ]
         },
         {
@@ -1397,29 +926,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Christmas Wreath",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/46VVjPR"
-                },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Decorative Metal Lanterns",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook19.webp",
-                    link: "https://amzn.to/47DjYbW"
-                },
-                {
-                    name: "Flameless candles",
-                    image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
-                    link: "https://amzn.to/4qSaTox"
-                },
-                {
-                    name: "Mini Christmas Tree",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4jCCXe2"
+                    name: "Snack Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook21.webp",
+                    link: "https://amzn.to/4z9lK0f"
                 },
             ]
         },
@@ -1439,24 +948,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "wrapping paper",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook25.webp",
-                    link: "https://amzn.to/3TJaCIx"
-                },
-                {
-                    name: "Christmas Ribbon Seth",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook20.webp",
-                    link: "https://amzn.to/4hHoBXq"
-                },
-                {
-                    name: "Gift Tag Set",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook21.webp",
-                    link: "https://amzn.to/3TI3yfg"
-                },
-                {
-                    name: "Wrapping Paper Storage Bag",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook22.webp",
-                    link: "https://amzn.to/4ANDEaw"
+                    name: "Baking Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook45.webp",
+                    link: "https://amzn.to/4dF444D"
                 },
             ]
         },
@@ -1476,39 +970,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Blank stocking",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook54.webp",
-                    link: "https://amzn.to/4xLi2Ji"
-                },
-                {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
-                },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
-                },
-                {
-                    name: "Dried orange slices",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook31.webp",
-                    link: "https://amzn.to/4yZgZq0"
-                },
-                {
-                    name: "gold baubles",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook2.webp",
-                    link: "https://amzn.to/47hI1gs"
+                    name: "Wine or Beverage Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook46.webp",
+                    link: "https://amzn.to/4jysJve"
                 },
             ]
         },
@@ -1528,34 +992,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Large Decorative Ceramic Bowl",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook23.webp",
-                    link: "https://amzn.to/3TJo4Mm"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Red & Green Christmas Ornaments",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook8.webp",
-                    link: "https://amzn.to/4rMfJnW"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Luxury Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook47.webp",
+                    link: "https://amzn.to/3TFDHo3"
                 },
             ]
         },
@@ -1575,19 +1014,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Mini Christmas Village Houses",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook24.webp",
-                    link: "https://amzn.to/3TjaIGL"
-                },
-                {
-                    name: "Faux snow",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook14.webp",
-                    link: "https://amzn.to/4d3RTOn"
-                },
-                {
-                    name: "Fairy lights",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
-                    link: "https://amzn.to/4yRBbdi"
+                    name: "Puzzle Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook37.webp",
+                    link: "https://amzn.to/4i2M7iL"
                 },
             ]
         },
@@ -1607,24 +1036,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Woven Storage basket ",
-                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
-                    link: "https://amzn.to/3UwGJv4"
-                },
-                {
-                    name: "Chunky Knit Throw blanket",
-                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
-                    link: "https://amzn.to/46ieTWb"
-                },
-                {
-                    name: "Blank stocking",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook54.webp",
-                    link: "https://amzn.to/4xLi2Ji"
-                },
-                {
-                    name: "Christmas ribbon",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook19.webp",
-                    link: "https://amzn.to/4hug1uK"
+                    name: "Candle Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook13.webp",
+                    link: "https://amzn.to/4rOQWQ4"
                 },
             ]
         },
@@ -1644,39 +1058,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Mini Ceramic Christmas Trees",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook25.webp",
-                    link: "https://amzn.to/4AMz1h3"
-                },
-                {
-                    name: "Christmas Coffee Mugs",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook26.webp",
-                    link: "https://amzn.to/3VgEGvH"
-                },
-                {
-                    name: "garland",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ygOHrc"
-                },
-                {
-                    name: "warm-white lights,",
-                    image: "/images/blog/article/20-pistachio-green-and-gold-christmas-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/3VM3BHo"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Couple Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook44.webp",
+                    link: "https://amzn.to/47zG6Ed"
                 },
             ]
         },
@@ -1696,34 +1080,9 @@ const bestAdventCalendarIdeasForEveryone = {
 
             shopLook: [
                 {
-                    name: "Wooden Serving Tray",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
-                    link: "https://amzn.to/4diPv6z"
-                },
-                {
-                    name: "Scented Candle",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook27.webp",
-                    link: "https://amzn.to/4zhxvC8"
-                },
-                {
-                    name: "Mini Ceramic Christmas Trees",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook25.webp",
-                    link: "https://amzn.to/4AMz1h3"
-                },
-                {
-                    name: "Faux evergreen branches",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook17.webp",
-                    link: "https://amzn.to/4yRxvZ2"
-                },
-                {
-                    name: "Natural pinecones",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook9.webp",
-                    link: "https://amzn.to/4d5AjJP"
-                },
-                {
-                    name: "Red berries",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook18.webp",
-                    link: "https://amzn.to/4dCPSc6"
+                    name: "Unique surprise Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook51.webp",
+                    link: "https://amzn.to/4hIZZ0m"
                 },
             ]
         },
