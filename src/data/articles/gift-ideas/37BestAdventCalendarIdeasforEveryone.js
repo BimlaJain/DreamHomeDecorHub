@@ -16,7 +16,7 @@ const bestAdventCalendarIdeasForEveryone = {
     readTime: "23 min read",
 
     image:
-        "/images/blog/article/40-cozy-christmas-home-decor-ideas/cozy-christmas-home-decor-hero-image.webp",
+        "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/best-advent-calendar-for-everyone-hero-image.webp",
 
 
     description:
