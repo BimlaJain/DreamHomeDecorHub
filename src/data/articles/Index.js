@@ -35,6 +35,7 @@ import easyChristmasDIYCraftstoMakeThisHolidaySeason from "./seasonal-decor/31Ea
 import giftsforYourBoyfriendHeWillActuallyLove from "./gift-ideas/55GiftsforYourBoyfriendHeWillActuallyLove";
 import cozyChristmasHomeDecorIdeastoMakeYourHomeMagical from "./seasonal-decor/40CozyChristmasHomeDecorIdeastoMakeYourHomeMagical";
 import bestAdventCalendarIdeasForEveryone from "./gift-ideas/37BestAdventCalendarIdeasforEveryone";
+import bestChristmasGiftsforSistersSheWillActuallyLove from "./gift-ideas/64BestChristmasGiftsforSistersSheWillActuallyLove";
 
 const articles = [
 
@@ -73,6 +74,7 @@ const articles = [
     giftsforYourBoyfriendHeWillActuallyLove,
     cozyChristmasHomeDecorIdeastoMakeYourHomeMagical,
     bestAdventCalendarIdeasForEveryone,
+    bestChristmasGiftsforSistersSheWillActuallyLove,
 
 ];
 
