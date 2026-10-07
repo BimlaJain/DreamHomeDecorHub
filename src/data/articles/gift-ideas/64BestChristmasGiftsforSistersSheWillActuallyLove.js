@@ -11,7 +11,7 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
     readTime: "38 min read",
 
     image:
-        "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/best-christmas-gift-for-sisters-hero-image.webp",
+        "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/best-christmas-gift-for-sisters-hero-image1.webp",
 
 
     description:
@@ -25,7 +25,7 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
     totalIdeas: 64,
 
 
-    totalProducts: 64,
+    totalProducts: 60,
 
 
     author:
