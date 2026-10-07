@@ -1525,9 +1525,7 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
                 },
             ]
         },
-       
     ],
-
 
 }
 export default bestChristmasGiftsforSistersSheWillActuallyLove;
