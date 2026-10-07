@@ -115,9 +115,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Leather Wallet",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook1.webp",
-                    link: "https://amzn.to/4rIYvb8"
+                    name: "Dainty initial necklace",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook1.webp",
+                    link: "https://amzn.to/4hJOaqO"
                 },
             ]
 
@@ -139,9 +139,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Keychain",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook2.webp",
-                    link: "https://amzn.to/4ADIEym"
+                    name: "Skincare Gift Set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook2.webp",
+                    link: "https://amzn.to/4yHu8Ve"
                 },
 
             ]
@@ -165,8 +165,8 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             shopLook: [
                 {
                     name: "Luxury Perfume",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook3.webp",
-                    link: "https://amzn.to/4yh2bTM"
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook3.webp",
+                    link: "https://amzn.to/4ASVGZ8"
                 },
             ]
         },
@@ -187,9 +187,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Makeup Vanity Organizer",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook4.webp",
-                    link: "https://amzn.to/3VIy3lP"
+                    name: "Makeup organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
+                    link: "https://amzn.to/47zdUkK"
                 },
             ]
         },
@@ -210,9 +210,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Custom couple portrait",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook5.webp",
-                    link: "https://amzn.to/3VkwSsK"
+                    name: "Lip Care",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook5.webp",
+                    link: "https://amzn.to/4do6VP7"
                 },
             ]
 
@@ -234,9 +234,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Bath Bomb Gift Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook6.webp",
-                    link: "https://amzn.to/4hwP4Xp"
+                    name: "Bath Bomb Set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook6.webp",
+                    link: "https://amzn.to/3TtVyhY"
                 },
             ]
 
@@ -258,9 +258,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Gift Box",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook7.webp",
-                    link: "https://amzn.to/3TCGcHV"
+                    name: "Hair Care trail set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook7.webp",
+                    link: "https://amzn.to/4j2W54K"
                 },
             ]
 
@@ -282,9 +282,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Travel Map",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook8.webp",
-                    link: "https://amzn.to/4deO7Sm"
+                    name: "Face roller Set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook8.webp",
+                    link: "https://amzn.to/4zmw3hO"
                 },
             ]
 
@@ -306,9 +306,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Face Roller or Gua Sha",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook9.webp",
-                    link: "https://amzn.to/4AN9sfV"
+                    name: "Silk Sleep Mask",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook9.webp",
+                    link: "https://amzn.to/4ATcBdW"
                 },
             ]
         },
@@ -329,9 +329,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Silk Sleep Mask",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook10.webp",
-                    link: "https://amzn.to/4dbGCf1"
+                    name: "Spa Gift",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook10.webp",
+                    link: "https://amzn.to/3WaPX0G"
                 },
             ]
         },
@@ -351,9 +351,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "bluetooth speaker",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook11.webp",
-                    link: "https://amzn.to/4hvNjtA"
+                    name: "Handbag",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook11.webp",
+                    link: "https://amzn.to/4y9S1Ub"
                 },
             ]
         },
@@ -377,8 +377,8 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             shopLook: [
                 {
                     name: "Everyday Handbag",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook12.webp",
-                    link: "https://amzn.to/46T2XdD"
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook12.webp",
+                    link: "https://amzn.to/3VQQ0i7"
                 },
             ]
         },
@@ -400,9 +400,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Crossbody Bag",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook13.webp",
-                    link: "https://amzn.to/46OxERl"
+                    name: "Winter Scarf",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook13.webp",
+                    link: "https://amzn.to/3VAPVz1"
                 },
             ]
         },
@@ -425,9 +425,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Light Strips",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook14.webp",
-                    link: "https://amzn.to/4hnLyji"
+                    name: "Soft holiday pajama set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook14.webp",
+                    link: "https://amzn.to/4hzkpdr"
                 },
             ]
         },
@@ -447,9 +447,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Pajama Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook15.webp",
-                    link: "https://amzn.to/4z6Tgo0"
+                    name: "Soft Robe",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook15.webp",
+                    link: "https://amzn.to/4rRUP6V"
                 },
             ]
 
@@ -473,9 +473,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Cozy Robe",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook16.webp",
-                    link: "https://amzn.to/4rDwMsd"
+                    name: "Oversized Sunglasses",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook16.webp",
+                    link: "https://amzn.to/4e0o4i3"
                 },
             ]
 
@@ -497,9 +497,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Personalized Bracelet",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook17.webp",
-                    link: "https://amzn.to/4hlkSzJ"
+                    name: "Classic Women Watch",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook17.webp",
+                    link: "https://amzn.to/4zilPPi"
                 },
             ]
         },
@@ -520,9 +520,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Birthstone Necklace",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook18.webp",
-                    link: "https://amzn.to/4rYjBm1"
+                    name: "Hair Accessories ",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook18.webp",
+                    link: "https://amzn.to/4ARVDfX"
                 },
             ]
         },
@@ -543,9 +543,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Hair Accessories Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook19.webp",
-                    link: "https://amzn.to/4z38RVv"
+                    name: "Gloves",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook19.webp",
+                    link: "https://amzn.to/3VrCZLX"
                 },
             ]
         },
@@ -568,9 +568,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Gaming Desk Accessories",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook20.webp",
-                    link: "https://amzn.to/4AFpxE3"
+                    name: "Tote Bag",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook20.webp",
+                    link: "https://amzn.to/4j41tVh"
                 },
             ]
         },
@@ -591,9 +591,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Stylish Tote Bag",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook21.webp",
-                    link: "https://amzn.to/3TqDgy1"
+                    name: "Birthstone Necklace",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook21.webp",
+                    link: "https://amzn.to/4ze78g7"
                 },
             ]
 
@@ -614,9 +614,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Classic Watch",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook22.webp",
-                    link: "https://amzn.to/3VjhSvi"
+                    name: "Personalized Name Bracelet",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook22.webp",
+                    link: "https://amzn.to/4ASbATz"
                 },
             ]
         },
@@ -636,9 +636,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Sunglasses",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook23.webp",
-                    link: "https://amzn.to/4hhah8Y"
+                    name: "Gold Hoop Earrings",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook23.webp",
+                    link: "https://amzn.to/3VRegRe"
                 },
             ]
         },
@@ -658,9 +658,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Hoop Earrings",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook24.webp",
-                    link: "https://amzn.to/4zrnRNp"
+                    name: "Bracelet",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook24.webp",
+                    link: "https://amzn.to/4ywEF5n"
                 },
             ]
 
@@ -681,9 +681,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Card Holder",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook25.webp",
-                    link: "https://amzn.to/4AFpY19"
+                    name: "Jewelry Organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook7.webp",
+                    link: "https://amzn.to/4ALV7A6"
                 },
             ]
         },
@@ -704,9 +704,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Men's Grooming Kit",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook26.webp",
-                    link: "https://amzn.to/4AxJ3T0"
+                    name: " Travel Jewelry Case",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook8.webp",
+                    link: "https://amzn.to/4hCmCDt"
                 },
             ]
         },
@@ -726,9 +726,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Fragrance Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook27.webp",
-                    link: "https://amzn.to/4hzO98y"
+                    name: "Candle gift set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook25.webp",
+                    link: "https://amzn.to/4y6Qcra"
                 },
             ]
         },
@@ -747,10 +747,10 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Scented Candle",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook28.webp",
-                    link: "https://amzn.to/46T4Dnr"
-                },
+                    name: "Bedside Lamp",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook26.webp",
+                    link: "https://amzn.to/4jagfd5"
+                }
             ]
         },
         {
@@ -769,9 +769,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Socks Gift Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook29.webp",
-                    link: "https://amzn.to/46NMrvx"
+                    name: "Personalized Mug",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook29.webp",
+                    link: "https://amzn.to/3U7xotM"
                 },
             ]
         },
@@ -791,9 +791,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Water Bottle",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook30.webp",
-                    link: "https://amzn.to/4ynImtY"
+                    name: "Tumbler",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook30.webp",
+                    link: "https://amzn.to/3Tozfdx"
                 },
             ]
 
@@ -814,9 +814,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Insulated Tumbler",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook31.webp",
-                    link: "https://amzn.to/4hTiJLQ"
+                    name: "Room Diffuser",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook31.webp",
+                    link: "https://amzn.to/4rTCrdQ"
                 },
             ]
         },
@@ -836,9 +836,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Room Diffuser",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook32.webp",
-                    link: "https://amzn.to/4hzOtEi"
+                    name: "Textured neutralThrow Pillow",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook32.webp",
+                    link: "https://amzn.to/4rT8hr1"
                 },
             ]
         },
@@ -858,9 +858,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Throw Pillow",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook33.webp",
-                    link: "https://amzn.to/4hEjBmj"
+                    name: "Custom Photo Frame",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook33.webp",
+                    link: "https://amzn.to/4yaWs0N"
                 },
             ]
         },
@@ -880,9 +880,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Personalized Photo Frame",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook34.webp",
-                    link: "https://amzn.to/4zaDmZY"
+                    name: "Earbuds",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook34.webp",
+                    link: "https://amzn.to/4do9Qax"
                 },
             ]
         },
@@ -902,9 +902,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Wireless Earbuds",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook35.webp",
-                    link: "https://amzn.to/47qR9zv"
+                    name: "Portable Power Bank",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook13.webp",
+                    link: "https://amzn.to/46OxERl"
                 },
             ]
         },
@@ -925,10 +925,10 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Portable Charger",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook36.webp",
-                    link: "https://amzn.to/3Vf6lwZ"
-                },
+                    name: "Phone Stand",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook15.webp",
+                    link: "https://amzn.to/4z6Tgo0"
+                },3
             ]
         },
         {
@@ -946,9 +946,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Phone Stand",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook37.webp",
-                    link: "https://amzn.to/4rMZ3g8"
+                    name: "Laptop Sleeve",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook37.webp",
+                    link: "https://amzn.to/4doALDd"
                 },
             ]
 
@@ -969,9 +969,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Laptop Sleeve",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook38.webp",
-                    link: "https://amzn.to/4rE2Vjj"
+                    name: "Portable Bluetooth Tracker",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook16.webp",
+                    link: "https://amzn.to/4rDwMsd"
                 },
             ]
         },
@@ -991,9 +991,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Smart Tracker",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook39.webp",
-                    link: "https://amzn.to/4d9qV83"
+                    name: "bluetooth speaker",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook39.webp",
+                    link: "https://amzn.to/3WaRS5o"
                 },
             ]
 
@@ -1014,9 +1014,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Tool Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook40.webp",
-                    link: "https://amzn.to/4xQseQw"
+                    name: "Wireless Charging Station",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook9.webp",
+                    link: "https://amzn.to/4AN9sfV"
                 },
             ]
         },
@@ -1036,9 +1036,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Cocktail Mixing set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook41.webp",
-                    link: "https://amzn.to/3TZAAaP"
+                    name: "Custom Photo Frame",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook33.webp",
+                    link: "https://amzn.to/4yaWs0N"
                 },
             ]
         },
@@ -1058,9 +1058,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Digital Photo Frame",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook42.webp",
-                    link: "https://amzn.to/4hUsVnh"
+                    name: "Aesthetic Journal",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook42.webp",
+                    link: "https://amzn.to/4doB159"
                 },
             ]
         },
@@ -1080,9 +1080,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Beautiful Journal",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook43.webp",
-                    link: "https://amzn.to/4ytJTiq"
+                    name: "Stylish Planner",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook43.webp",
+                    link: "https://amzn.to/4718uyX"
                 },
             ]
 
@@ -1103,9 +1103,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Stylish Planner",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook44.webp",
-                    link: "https://amzn.to/4zbSy97"
+                    name: "Polpular Novel",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook44.webp",
+                    link: "https://amzn.to/4i6eBYS"
                 },
             ]
         },
@@ -1124,9 +1124,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "New Novel",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook45.webp",
-                    link: "https://amzn.to/4AHd02W"
+                    name: "Kindle case + stand",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook45.webp",
+                    link: "https://amzn.to/4iaig79"
                 },
             ]
 
@@ -1147,9 +1147,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Kindle Accessories",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook46.webp",
-                    link: "https://amzn.to/4AHeUk8"
+                    name: "Painting kit",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook46.webp",
+                    link: "https://amzn.to/3U7DJp4"
                 },
             ]
         },
@@ -1169,9 +1169,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Painting Kit",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook47.webp",
-                    link: "https://amzn.to/4AxKOj4"
+                    name: "Crochet Kit",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook47.webp",
+                    link: "https://amzn.to/4yEsnbg"
                 },
             ]
         },
@@ -1190,9 +1190,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Crochet Kit",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook48.webp",
-                    link: "https://amzn.to/4htzqMs"
+                    name: "Baking Kit",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook48.webp",
+                    link: "https://amzn.to/4j9wyqK"
                 },
             ]
         },
@@ -1212,9 +1212,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Lego Building Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook49.webp",
-                    link: "https://amzn.to/3U3x3Z3"
+                    name: "Puzzle game",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook49.webp",
+                    link: "https://amzn.to/4jKiZOt"
                 },
             ]
 
@@ -1235,9 +1235,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Puzzle",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook50.webp",
-                    link: "https://amzn.to/3TUgmPI"
+                    name: "Coloring Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook50.webp",
+                    link: "https://amzn.to/4y6qt1Y"
                 },
             ]
         },
@@ -1257,9 +1257,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Adult Coloring Book",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook51.webp",
-                    link: "https://amzn.to/4jfQp7J"
+                    name: "Photography Accessories",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook51.webp",
+                    link: "https://amzn.to/4yESkYa"
                 },
             ]
         },
@@ -1279,9 +1279,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Photography Accessories",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook52.webp",
-                    link: "https://amzn.to/4zbTgTP"
+                    name: "Spa Gift Card",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook52.webp",
+                    link: "https://amzn.to/4zmMeM7"
                 },
             ]
         },
@@ -1301,9 +1301,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Travel Map",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook8.webp",
-                    link: "https://amzn.to/4deO7Sm"
+                    name: "Restaurant Gift Card",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook53.webp",
+                    link: "https://amzn.to/4y2M6QR"
                 },
             ]
         },
@@ -1320,14 +1320,6 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             tips: [
                 "Make sure she's actually available on the event date before purchasing. If possible, choose tickets that allow some flexibility or discuss the date casually beforehand."
             ],
-
-            shopLook: [
-                {
-                    name: "Restaurant Gift Card",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook53.webp",
-                    link: "https://amzn.to/4rEqmc8"
-                },
-            ]
         },
         {
             id: 55,
@@ -1345,9 +1337,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Smart Tracker",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook39.webp",
-                    link: "https://amzn.to/4d9qV83"
+                    name: "Movie Night Box",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook55.webp",
+                    link: "https://amzn.to/4jCVabq"
                 },
             ]
         },
@@ -1364,14 +1356,6 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             tips: [
                 "Choose activities you both genuinely enjoy. The goal isn't to create a perfect-looking box; it's to give you an excuse to spend meaningful time together."
             ],
-
-            shopLook: [
-                {
-                    name: "Adult Coloring Book",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook51.webp",
-                    link: "https://amzn.to/4jfQp7J"
-                },
-            ]
         },
         {
             id: 57,
@@ -1389,9 +1373,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Photography Accessories",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook52.webp",
-                    link: "https://amzn.to/4zbTgTP"
+                    name: "Travel bag",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook56.webp",
+                    link: "https://amzn.to/4yTXQq9"
                 },
             ]
         },
@@ -1411,9 +1395,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Travel Map",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook8.webp",
-                    link: "https://amzn.to/4deO7Sm"
+                    name: "Custom Photo Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook57.webp",
+                    link: "https://amzn.to/4BbmZOD"
                 },
             ]
         },
@@ -1433,9 +1417,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Restaurant Gift Card",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook53.webp",
-                    link: "https://amzn.to/4rEqmc8"
+                    name: "Personalized Hoodie",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook58.webp",
+                    link: "https://amzn.to/4hJJlNV"
                 },
             ]
         },
@@ -1455,9 +1439,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Smart Tracker",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook39.webp",
-                    link: "https://amzn.to/4d9qV83"
+                    name: "Custom portrait",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook5.webp",
+                    link: "https://amzn.to/3VkwSsK"
                 },
             ]
         },
@@ -1477,10 +1461,10 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Adult Coloring Book",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook51.webp",
-                    link: "https://amzn.to/4jfQp7J"
-                },
+                    name: "Memory Box",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS50.webp",
+                    link: "https://amzn.to/4hd5ynp"
+                }
             ]
         },
         {
@@ -1496,14 +1480,6 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
             tips: [
                 "Choose something connected to the year or a shared memory. Personalized ornaments become more meaningful when they tell a specific story."
             ],
-
-            shopLook: [
-                {
-                    name: "Photography Accessories",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook52.webp",
-                    link: "https://amzn.to/4zbTgTP"
-                },
-            ]
         },
         {
             id: 63,
@@ -1521,9 +1497,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Travel Map",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook8.webp",
-                    link: "https://amzn.to/4deO7Sm"
+                    name: "Subscription book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook54.webp",
+                    link: "https://amzn.to/3Wb0eKi"
                 },
             ]
         },
@@ -1543,9 +1519,9 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Restaurant Gift Card",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook53.webp",
-                    link: "https://amzn.to/4rEqmc8"
+                    name: "Recipe Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
+                    link: "https://amzn.to/4drpLoF"
                 },
             ]
         },
