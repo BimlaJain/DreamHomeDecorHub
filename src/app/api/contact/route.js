@@ -22,10 +22,10 @@ export async function POST(request) {
         }
 
         const { data, error } = await resend.emails.send({
-            from: "DreamHomeDecorHub <onboarding@resend.dev>",
+          from: "StyledByVimal <onboarding@resend.dev>",
             to: [process.env.CONTACT_EMAIL],
             replyTo: email,
-            subject: `DreamHomeDecorHub: ${subject}`,
+            subject: `StyledByVimal: ${subject}`,
 
             html: `
         <div style="font-family: Arial, sans-serif; max-width: 650px; margin: auto; padding: 30px;">

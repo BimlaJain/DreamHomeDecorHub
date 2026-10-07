@@ -125,7 +125,7 @@ export default function Footer() {
 
 
                         <Link
-                            href="https://in.pinterest.com/DecorHomeDecorHub/"
+                            href="https://in.pinterest.com/Styled_By_Vimal/"
                             target="_blank"
                             className="mt-5 flex w-fit items-center gap-2 text-white/60 transition hover:text-white"
                         >

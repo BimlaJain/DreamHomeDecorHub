@@ -37,11 +37,11 @@ export default function Header() {
                     <div>
 
                         <h1 className="font-serif text-xl font-bold tracking-tight text-[#1E1E1E]">
-                            DreamHomeDecorHub
+                            StyledByVimal
                         </h1>
 
                         <p className="text-xs text-stone-500">
-                            Home Decor Reviews
+                            Best Reviews
                         </p>
 
                     </div>
@@ -195,7 +195,7 @@ export default function Header() {
 
 
                     <Link
-                        href="https://in.pinterest.com/DecorHomeDecorHub/"
+                        href="https://in.pinterest.com/Styled_By_Vimal/"
                         target="_blank"
                         className="flex items-center justify-center gap-2 rounded-3xl bg-black px-4 py-3 font-medium text-white transition hover:scale-105"
                     >
@@ -342,7 +342,7 @@ export default function Header() {
                         {/* Pinterest */}
 
                         <Link
-                            href="https://in.pinterest.com/DecorHomeDecorHub/"
+                            href="https://in.pinterest.com/Styled_By_Vimal/"
                             target="_blank"
                             className="mt-5 flex w-full items-center justify-center gap-2 rounded-xl bg-black py-3 font-medium text-white transition hover:bg-stone-800"
                         >

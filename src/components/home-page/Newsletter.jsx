@@ -121,7 +121,7 @@ export default function PinterestCTA() {
                 <div className="mt-16 text-center">
 
                     <Link
-                        href="https://in.pinterest.com/DecorHomeDecorHub/"
+                        href="https://in.pinterest.com/Styled_By_Vimal/"
                         target="_blank"
                         className="inline-flex items-center gap-3 rounded-full bg-black px-10 py-5 text-lg font-semibold text-white transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
                     >

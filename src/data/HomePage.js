@@ -12,8 +12,8 @@ export const navItems = [
         href: "/",
     },
     {
-        title: "Home Decor",
-        href: "/home-decor",
+        title: "Categories",
+        href: "",
         dropdown: true,
         categories: [
             {

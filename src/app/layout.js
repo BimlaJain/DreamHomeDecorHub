@@ -13,11 +13,11 @@ const playfair = Playfair_Display({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://dream-home-decor-hub.vercel.app"),
+  metadataBase: new URL("https://styled-by-vimal.vercel.app/"),
 
   title: {
-    default: "Dream Home Decor Hub",
-    template: "%s | Dream Home Decor Hub",
+    default: "Styled By Vimal",
+    template: "%s | Styled By Vimal",
   },
 
   description:
