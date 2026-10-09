@@ -87,11 +87,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Woven storage basket ",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B00wE7K08"
+                    name: "White bedding",
+                    image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook19.webp",
+                    link: "https://amzn.to/4r5OKTO"
                 },
             ]
 
@@ -113,11 +112,15 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
 
             shopLook: [
                 {
-                    name: "Oak floating shelves",
-                    image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B01mFv36l"
+                    name: "cushion set",
+                    image: "/images/blog/article/15-romentic-bedroom-decor-ideas-for-a-dreamy-atmosphere/shoplookUS12.webp",
+                    link: "https://amzn.to/4y8M62x"
                 },
-
+                {
+                    name: "Plush hotel-style pillows",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook1.webp",
+                    link: "https://amzn.to/4y8BmjC"
+                },
             ]
 
         },
@@ -137,11 +140,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Floating shelf ",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0cElKMwp"
+                    name: "Soft throw blanket",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook2.webp",
+                    link: "https://amzn.to/4rTuGV8"
                 },
             ]
 
@@ -162,18 +164,11 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Woven storage basket ",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B00wE7K08"
+                    name: "Elegant bedside lamps",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook3.webp",
+                    link: "https://amzn.to/4rRQ7pz"
                 },
-                {
-                    name: "Floating shelf ",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0cElKMwp"
-                },
-
             ]
 
         },
@@ -193,16 +188,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Slim laundry hamper",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B01eLuW59"
-                },
-                {
-                    name: "Slim laundry hamper",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B0fOOp3Vu"
+                    name: "Warm Bedside Lighting",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook4.webp",
+                    link: "https://amzn.to/4AY8NYT"
                 },
             ]
 
@@ -223,11 +212,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Shower dispenser bottles",
-                    image: "/images/blog/article/17-bathroom-decor-ideas/shoplook15.webp",
-                    link: "https://link.amazon/B0740uAK9"
+                    name: "Hotel-Style Curtains",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook5.webp",
+                    link: "https://amzn.to/3TS4uOe"
                 },
             ]
 
@@ -248,16 +236,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Storage Dispenser",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B09mT10LM"
-                },
-                {
-                    name: "Clothes Clips",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B03KCwro2"
+                    name: "Soft Bedroom Area Rug",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook6.webp",
+                    link: "https://amzn.to/47c2h39"
                 },
             ]
 
@@ -278,11 +260,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Over door organizer",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B07XcBTpz"
+                    name: "Decorative Full-Length Mirror",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook7.webp",
+                    link: "https://amzn.to/4hNQOMd"
                 },
             ]
 
@@ -303,11 +284,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Rolling Cart",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B0fQxVZbh"
+                    name: "Room Diffuser",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook31.webp",
+                    link: "https://amzn.to/4rTCrdQ"
                 },
 
             ]
@@ -329,13 +309,11 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Floating shelf ",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B0cElKMwp"
+                    name: "Decorative Bedside Tray",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook8.webp",
+                    link: "https://amzn.to/4yg4jKP"
                 },
-
             ]
 
         },
@@ -354,11 +332,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Clothing Rack",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook9.webp",
-                    link: "https://link.amazon/B0b0kyCpb"
+                    name: "Elegant Decorative Vase",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook9.webp",
+                    link: "https://amzn.to/4jdTepM"
                 },
             ]
 
@@ -381,13 +358,11 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Mop & Broom Holder",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook10.webp",
-                    link: "https://link.amazon/B0iqlLSis"
+                    name: "Soft Robe",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook15.webp",
+                    link: "https://amzn.to/4rRUP6V"
                 },
-
             ]
 
         },
@@ -396,7 +371,7 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
         {
             id: 13,
 
-            title: "Use Cabinets and Baskets to Hide Visual Clutter",
+            title: "Textured Decorative Wall Art",
 
             image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel-idea13.webp",
 
@@ -408,11 +383,10 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Woven storage basket ",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B00wE7K08"
+                    name: "Decorative Wall Art",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook10.webp",
+                    link: "https://amzn.to/3UjkFUS"
                 },
             ]
 
@@ -421,7 +395,7 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
         {
             id: 14,
 
-            title: "Small Laundry Room Organization Mistakes to Avoid",
+            title: "Luxury-Style Bedside Clock",
 
             image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel-idea14.webp",
 
@@ -433,27 +407,18 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
-
                 {
-                    name: "Storage Dispenser",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B09mT10LM"
+                    name: " Bedside Clock",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook11.webp",
+                    link: "https://amzn.to/4iborbZ"
                 },
-                {
-                    name: "Slim laundry hamper",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B0fOOp3Vu"
-                },
-
-
             ]
 
         },
         {
             id: 15,
 
-            title: "How to Keep Your Laundry Room Organized",
+            title: "Hotel-Inspired Bedside Water Carafe",
 
             image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel-idea15.webp",
 
@@ -465,13 +430,11 @@ const amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel = {
             ],
 
             shopLook: [
-
                 {
-                    name: "Label Maker",
-                    image: "/images/blog/article/15-laundry-room-ideas/shoplook11.webp",
-                    link: "https://link.amazon/B0ci9YEHi"
+                    name: "Water Carafe",
+                    image: "/images/blog/article/15-amazon-bedroom-finds-that-make-your-room-feel-like-luxury-hotel/shoplook12.webp",
+                    link: "https://amzn.to/4jdBvyO"
                 },
-
             ]
 
         },
