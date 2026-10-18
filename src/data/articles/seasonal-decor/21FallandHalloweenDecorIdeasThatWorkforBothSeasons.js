@@ -35,7 +35,7 @@ const fallAndHalloweenDecorIdeasThatWorkForBothSeasons = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -856,7 +856,7 @@ const fallAndHalloweenDecorIdeasThatWorkForBothSeasons = {
                     image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
                     link: "https://amzn.to/4qS4Q3f"
                 },
-             
+
             ]
 
         },

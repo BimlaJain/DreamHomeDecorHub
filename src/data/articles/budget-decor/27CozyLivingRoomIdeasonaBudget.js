@@ -29,7 +29,7 @@ const cozyLivingRoomIdeasOnaBudget = {
     totalProducts: 30,
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
     tableOfContents: [
 
@@ -363,7 +363,7 @@ const cozyLivingRoomIdeasOnaBudget = {
                 "Repeat one wood tone at least two or three times for a cohesive look."
             ],
 
-                
+
         },
 
         {
@@ -699,7 +699,7 @@ const cozyLivingRoomIdeasOnaBudget = {
                     image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
                     link: "https://clnk.in/BWS9"
                 },
-               
+
             ]
 
         },

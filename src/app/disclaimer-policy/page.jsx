@@ -17,7 +17,7 @@ import {
 export default function Disclaimer() {
     return (
         <main className="min-h-screen bg-[#FDFBF8] text-[#2F2F2F]">
-            <Header/>
+            <Header />
 
             {/* ================= HERO ================= */}
 
@@ -47,7 +47,7 @@ export default function Disclaimer() {
 
                         <p className="mt-7 max-w-2xl text-lg leading-8 text-gray-600 md:text-xl">
 
-                            The information shared on DreamHomeDecorHub is created
+                            The information shared on StyledByVimal is created
                             to inspire, educate, and help you explore ideas for
                             creating a beautiful and comfortable home.
 
@@ -95,7 +95,7 @@ export default function Disclaimer() {
 
                             <p className="mt-5 leading-8 text-gray-600">
 
-                                All information published on DreamHomeDecorHub is
+                                All information published on StyledByVimal is
                                 provided for general informational, educational, and
                                 inspirational purposes only.
 
@@ -206,7 +206,7 @@ export default function Disclaimer() {
 
                         <p className="mt-5 leading-8 text-gray-600">
 
-                            Content on DreamHomeDecorHub should not be considered
+                            Content on StyledByVimal should not be considered
                             professional architectural, structural, engineering,
                             electrical, construction, interior design, financial,
                             legal, or other professional advice.
@@ -257,7 +257,7 @@ export default function Disclaimer() {
 
                         <p className="mt-5 max-w-4xl leading-8 text-white/75">
 
-                            DreamHomeDecorHub may recommend or feature furniture,
+                            StyledByVimal may recommend or feature furniture,
                             lighting, rugs, decor accessories, storage products,
                             kitchen products, bedroom products, and other home-related
                             items.
@@ -411,7 +411,7 @@ export default function Disclaimer() {
                     </h2>
 
                     <p className="mt-5 leading-8 text-gray-600">
-                        DreamHomeDecorHub may participate in affiliate marketing
+                        StyledByVimal may participate in affiliate marketing
                         programs. Some product links on our website may be affiliate
                         links, including links associated with the Amazon Associates
                         Program.
@@ -551,7 +551,7 @@ export default function Disclaimer() {
 
                     <p className="mt-5 leading-8 text-gray-600">
                         We make reasonable efforts to keep the information on
-                        DreamHomeDecorHub useful and accurate. However, information
+                        StyledByVimal useful and accurate. However, information
                         can become outdated as products, retailers, trends, and
                         other external factors change.
                     </p>
@@ -591,7 +591,7 @@ export default function Disclaimer() {
                     </h2>
 
                     <p className="mt-5 max-w-4xl leading-8 text-white/75">
-                        To the extent permitted by applicable law, DreamHomeDecorHub
+                        To the extent permitted by applicable law, StyledByVimal
                         and its owners, contributors, affiliates, or representatives
                         shall not be responsible for losses, damages, injuries, or
                         other issues arising from the use of information provided
@@ -787,7 +787,7 @@ export default function Disclaimer() {
                         <p className="mt-6 text-lg leading-8 text-white/85">
                             If you have questions about this Disclaimer, our content,
                             product recommendations, or anything related to
-                            DreamHomeDecorHub, feel free to contact us.
+                            StyledByVimal, feel free to contact us.
                         </p>
 
                         <Link
@@ -814,7 +814,7 @@ export default function Disclaimer() {
                 </div>
 
                 <h2 className="mt-6 text-3xl font-bold">
-                    Thank You for Visiting DreamHomeDecorHub
+                    Thank You for Visiting StyledByVimal
                 </h2>
 
                 <p className="mt-5 leading-8 text-gray-600">
@@ -824,7 +824,7 @@ export default function Disclaimer() {
                 </p>
 
             </section>
-<Footer/>
+            <Footer />
 
         </main>
     );

@@ -31,7 +31,7 @@ const minimalistFloatingShelves = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -134,7 +134,7 @@ const minimalistFloatingShelves = {
                 }
 
             ]
-            
+
         },
 
         {
@@ -302,12 +302,12 @@ const minimalistFloatingShelves = {
                 "Mix horizontal and vertical book placement",
                 "Keep the arrangement clean and minimal"
             ],
-               shopLook: [
+            shopLook: [
 
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea10.webp",
-                       link: "https://link.amazon/B0d1yIPHm"
+                    link: "https://link.amazon/B0d1yIPHm"
                 }
 
             ]
@@ -327,12 +327,12 @@ const minimalistFloatingShelves = {
                 "Mix horizontal and vertical book placement",
                 "Keep the arrangement clean and minimal"
             ],
-                shopLook: [
+            shopLook: [
 
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea11.webp",
-                        link: "https://link.amazon/B0fA9FUHY"
+                    link: "https://link.amazon/B0fA9FUHY"
                 }
 
             ]
@@ -352,12 +352,12 @@ const minimalistFloatingShelves = {
                 "Mix horizontal and vertical book placement",
                 "Keep the arrangement clean and minimal"
             ],
-               shopLook: [
+            shopLook: [
 
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/idea12.webp",
-                       link: "https://link.amazon/B0i2AEhSG"
+                    link: "https://link.amazon/B0i2AEhSG"
                 }
 
             ]
@@ -377,12 +377,12 @@ const minimalistFloatingShelves = {
                 "Mix horizontal and vertical book placement",
                 "Keep the arrangement clean and minimal"
             ],
-               shopLook: [
+            shopLook: [
 
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/ideal13.webp",
-                       link: "https://link.amazon/B02H5qxcF"
+                    link: "https://link.amazon/B02H5qxcF"
                 }
 
             ]
@@ -402,12 +402,12 @@ const minimalistFloatingShelves = {
                 "Mix horizontal and vertical book placement",
                 "Keep the arrangement clean and minimal"
             ],
-               shopLook: [
+            shopLook: [
 
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/ideal14.webp",
-                       link: "https://link.amazon/B07QWh4YO"
+                    link: "https://link.amazon/B07QWh4YO"
                 }
 
             ]
@@ -427,12 +427,12 @@ const minimalistFloatingShelves = {
                 "Mix horizontal and vertical book placement",
                 "Keep the arrangement clean and minimal"
             ],
-               shopLook: [
+            shopLook: [
 
                 {
                     name: "Style With Neutral Books",
                     image: "/images/blog/article/ideal15.webp",
-                       link: "https://link.amazon/B088G4svF"
+                    link: "https://link.amazon/B088G4svF"
                 }
 
             ]

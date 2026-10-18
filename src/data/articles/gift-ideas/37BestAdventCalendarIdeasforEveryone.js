@@ -34,8 +34,7 @@ const bestAdventCalendarIdeasForEveryone = {
 
 
     author:
-        "DreamHomeDecorHub",
-
+        "StyledByVimal",
 
 
     tableOfContents: [

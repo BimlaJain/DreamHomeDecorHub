@@ -22,7 +22,7 @@ export default function Footer() {
 
                         <Link href="/">
                             <h2 className="font-serif text-2xl font-bold">
-                                DreamHomeDecorHub
+                                StyledByVimal
                             </h2></Link>
 
 
@@ -147,11 +147,11 @@ export default function Footer() {
 
                             <li>
                                 <Link href="/privacy-policy">Privacy Policy</Link>
-                           </li>
+                            </li>
 
                             <li>
                                 <Link href="/terms-and-conditions">Terms & Conditions</Link>
-                           </li>
+                            </li>
 
 
                             <li>
@@ -187,7 +187,7 @@ export default function Footer() {
 
 
 
-                    <p>© {currentYear} DreamHomeDecorHub . All rights reserved.</p>
+                    <p>© {currentYear} StyledByVimal . All rights reserved.</p>
 
 
                     <p>
@@ -202,7 +202,7 @@ export default function Footer() {
 
 
         </footer>
-        
+
 
     );
 }

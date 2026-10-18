@@ -35,7 +35,7 @@ const cozyBedroomFallDecorIdeastoCreateaWarmAutumnRetreat = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

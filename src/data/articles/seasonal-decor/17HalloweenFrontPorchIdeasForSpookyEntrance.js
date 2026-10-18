@@ -35,7 +35,7 @@ const halloweenFrontPorchIdeasForSpookyEntrance = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -792,7 +792,7 @@ const halloweenFrontPorchIdeasForSpookyEntrance = {
                     image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook14.webp",
                     link: "https://amzn.to/3SPT7G3"
                 },
-              
+
             ]
 
         },

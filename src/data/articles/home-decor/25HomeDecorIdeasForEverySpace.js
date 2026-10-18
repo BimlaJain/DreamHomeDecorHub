@@ -32,7 +32,7 @@ const homeDecorIdeasForEverySpace = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

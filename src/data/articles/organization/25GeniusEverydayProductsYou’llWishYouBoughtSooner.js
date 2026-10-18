@@ -34,7 +34,7 @@ const geniusEverydayProductsYouWillBoughtSooner = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

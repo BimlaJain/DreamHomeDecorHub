@@ -32,7 +32,7 @@ const diyDecorIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -225,7 +225,7 @@ const diyDecorIdeas = {
                     image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
                     link: "https://fkrt.clnk.in/BVK5"
                 },
-               
+
 
             ]
 
@@ -268,7 +268,7 @@ const diyDecorIdeas = {
                     image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook4.webp",
                     link: "https://clnk.in/BVJ4"
                 },
-              
+
             ]
 
         },

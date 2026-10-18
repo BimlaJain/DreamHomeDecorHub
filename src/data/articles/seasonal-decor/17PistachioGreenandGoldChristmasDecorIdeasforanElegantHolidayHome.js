@@ -33,7 +33,7 @@ const pistachioGreenandGoldChristmasDecorIdeasforanElegantHolidayHome = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -517,7 +517,7 @@ const pistachioGreenandGoldChristmasDecorIdeasforanElegantHolidayHome = {
                     link: "https://amzn.to/4hlMT91"
                 },
             ]
-            
+
         },
 
 

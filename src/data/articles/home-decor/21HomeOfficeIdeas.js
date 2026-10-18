@@ -33,7 +33,7 @@ const homeOfficeIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -233,10 +233,10 @@ const homeOfficeIdeas = {
                     image: "/images/blog/article/21-home-office-ideas/shoplook11.webp",
                     link: "https://link.amazon/B0ai700UF"
                 },
-                 {
+                {
                     name: "Comfortable chair for desk",
                     image: "/images/blog/article/21-home-office-ideas/shoplook12.webp",
-                     link: "https://link.amazon/B01CKgwXa"
+                    link: "https://link.amazon/B01CKgwXa"
                 }
 
             ]

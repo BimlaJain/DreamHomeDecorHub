@@ -13,7 +13,7 @@ import Footer from "@/components/home-page/Footer";
 
 const About = () => {
     return (<>
-        <Header/>
+        <Header />
         <section className="bg-[#faf8f5] py-20">
             <div className="max-w-7xl mx-auto px-5 lg:px-8">
 
@@ -50,7 +50,7 @@ const About = () => {
                     <div>
 
                         <span className="uppercase tracking-[5px] text-[#B07A4F] font-semibold text-sm">
-                            About DreamHomeDecorHub
+                            About StyledByVimal
                         </span>
 
                         <h2 className="text-5xl lg:text-6xl font-serif text-gray-900 mt-5 leading-tight">
@@ -61,7 +61,7 @@ const About = () => {
                         </h2>
 
                         <p className="text-gray-600 mt-8 leading-8 text-lg">
-                            Welcome to <strong>DreamHomeDecorHub</strong>, your destination
+                            Welcome to <strong>StyledByVimal</strong>, your destination
                             for inspiring home decor ideas, room makeovers, and interior
                             styling tips that make every corner of your home feel warm,
                             elegant, and inviting.
@@ -158,7 +158,7 @@ const About = () => {
 
             </div>
         </section>
-        <Footer/>
+        <Footer />
     </>
     );
 };

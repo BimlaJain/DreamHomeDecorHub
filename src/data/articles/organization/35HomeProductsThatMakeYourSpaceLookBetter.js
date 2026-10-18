@@ -34,7 +34,7 @@ const homeProductsThatMakeYourSpaceLookBetter = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -209,7 +209,7 @@ const homeProductsThatMakeYourSpaceLookBetter = {
                         link: "https://amzn.to/3Ur3Uab"
                     }
                 ]
-            
+
             }
         },
 
@@ -505,7 +505,7 @@ const homeProductsThatMakeYourSpaceLookBetter = {
                         image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
                         link: "https://amzn.to/3UwGJv4"
                     }
-                
+
                 ]
             }
 

@@ -60,7 +60,7 @@ export default function Contact() {
 
             setErrorMessage(
                 error.message ||
-                    "Unable to send your message. Please try again."
+                "Unable to send your message. Please try again."
             );
         } finally {
             setIsSending(false);
@@ -173,7 +173,7 @@ export default function Contact() {
                                 </p>
 
                                 <p className="mt-1 font-medium">
-                                    DreamHomeDecorHub
+                                    StyledByVimal
                                 </p>
                             </div>
                         </div>
@@ -188,7 +188,7 @@ export default function Contact() {
 
                             <p className="mt-4 text-sm leading-7 text-white/65">
                                 Your feedback helps us make
-                                DreamHomeDecorHub better and create content
+                                StyledByVimal better and create content
                                 that is genuinely useful for our readers.
                             </p>
                         </div>
@@ -346,7 +346,7 @@ export default function Contact() {
 
                                 <p className="mt-4 max-w-md leading-7 text-gray-600">
                                     Thank you for reaching out to
-                                    DreamHomeDecorHub. Your message has been
+                                    StyledByVimal. Your message has been
                                     sent successfully. We'll get back to you
                                     as soon as possible.
                                 </p>
@@ -442,7 +442,7 @@ export default function Contact() {
                         </h2>
 
                         <p className="mt-6 text-lg leading-8 text-white/85">
-                            DreamHomeDecorHub is built around one simple idea:
+                            StyledByVimal is built around one simple idea:
                             beautiful homes don't have to look the same. Your
                             personality should be part of your space.
                         </p>
@@ -471,7 +471,7 @@ export default function Contact() {
 
                 <p className="mt-5 leading-8 text-gray-600">
                     Every message, suggestion, and piece of feedback helps us
-                    make DreamHomeDecorHub a better place for home decor
+                    make StyledByVimal a better place for home decor
                     inspiration.
                 </p>
             </section>

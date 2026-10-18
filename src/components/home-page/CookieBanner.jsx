@@ -41,7 +41,7 @@ const CookieBanner = () => {
                         </h3>
 
                         <p className="mt-3 text-[15px] leading-7 text-gray-600">
-                            DreamHomeDecorHub uses cookies to improve your browsing
+                            StyledByVimal uses cookies to improve your browsing
                             experience, analyze website traffic, and support affiliate
                             recommendations. By clicking <strong>Accept</strong>, you
                             agree to our use of cookies. Learn more in our{" "}

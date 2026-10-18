@@ -24,7 +24,7 @@ const cozyFallHomeDecorIdeas = {
     totalProducts: 40,
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
     tableOfContents: [
 
@@ -231,19 +231,19 @@ const cozyFallHomeDecorIdeas = {
                         link: "https://fkrt.clnk.in/BVKO"
                     },
                 ],
-                 us: [
+                us: [
 
-                     {
-                         name: "3-seater sofa set ",
-                         image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
-                         link: "https://amzn.to/45X8XBM"
-                     },
+                    {
+                        name: "3-seater sofa set ",
+                        image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
+                        link: "https://amzn.to/45X8XBM"
+                    },
 
-                     {
-                         name: "Center coffee table",
-                         image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
-                         link: "https://amzn.to/4zSY81o"
-                     },
+                    {
+                        name: "Center coffee table",
+                        image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
+                        link: "https://amzn.to/4zSY81o"
+                    },
 
                     {
                         name: "Slim floor lamp",
@@ -583,7 +583,7 @@ const cozyFallHomeDecorIdeas = {
                         image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook17.webp",
                         link: "https://fkrt.clnk.in/BVMj"
                     },
-            
+
                 ],
                 us: [
 
@@ -1262,7 +1262,7 @@ const cozyFallHomeDecorIdeas = {
                     },
 
                 ],
-                
+
             },
 
         },
@@ -1469,7 +1469,7 @@ const cozyFallHomeDecorIdeas = {
                         image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook1.webp",
                         link: "https://clnk.in/BWS8"
                     },
-                
+
                     {
                         name: "Center coffee table",
                         image: "/images/blog/article/27-cozy-fall-home-decor-ideas/shoplook2.webp",
@@ -1691,7 +1691,7 @@ const cozyFallHomeDecorIdeas = {
                         image: "/images/blog/article/25-home-decor-ideas-for-every-space/shoplook11.webp",
                         link: "https://fkrt.clnk.in/BVK5"
                     },
-                
+
                 ],
                 us: [
 

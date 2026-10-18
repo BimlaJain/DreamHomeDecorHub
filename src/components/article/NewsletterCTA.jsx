@@ -11,58 +11,58 @@ import {
 } from "lucide-react";
 
 const NewsletterCTA = () => {
-      const [isSending, setIsSending] = useState(false);
-        const [isSent, setIsSent] = useState(false);
-        const [errorMessage, setErrorMessage] = useState("");
-    
-        const handleSubmit = async (e) => {
-            e.preventDefault();
-    
-            const form = e.currentTarget;
-    
-            setIsSending(true);
-            setErrorMessage("");
-    
-            const formData = {
-                name: form.Name.value,
-                email: form.Email.value,
-                subject: form.Subject.value,
-                message: form.Message.value,
-            };
-    
-            try {
-                const response = await fetch("/api/contact", {
-                    method: "POST",
-                    headers: {
-                        "Content-Type": "application/json",
-                    },
-                    body: JSON.stringify(formData),
-                });
-    
-                const result = await response.json();
-    
-                if (!response.ok) {
-                    throw new Error(
-                        result.message || "Something went wrong."
-                    );
-                }
-    
-                // Clear form
-                form.reset();
-    
-                // Show success screen
-                setIsSent(true);
-            } catch (error) {
-                console.error("Contact form error:", error);
-    
-                setErrorMessage(
-                    error.message ||
-                        "Unable to send your message. Please try again."
-                );
-            } finally {
-                setIsSending(false);
-            }
+    const [isSending, setIsSending] = useState(false);
+    const [isSent, setIsSent] = useState(false);
+    const [errorMessage, setErrorMessage] = useState("");
+
+    const handleSubmit = async (e) => {
+        e.preventDefault();
+
+        const form = e.currentTarget;
+
+        setIsSending(true);
+        setErrorMessage("");
+
+        const formData = {
+            name: form.Name.value,
+            email: form.Email.value,
+            subject: form.Subject.value,
+            message: form.Message.value,
         };
+
+        try {
+            const response = await fetch("/api/contact", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify(formData),
+            });
+
+            const result = await response.json();
+
+            if (!response.ok) {
+                throw new Error(
+                    result.message || "Something went wrong."
+                );
+            }
+
+            // Clear form
+            form.reset();
+
+            // Show success screen
+            setIsSent(true);
+        } catch (error) {
+            console.error("Contact form error:", error);
+
+            setErrorMessage(
+                error.message ||
+                "Unable to send your message. Please try again."
+            );
+        } finally {
+            setIsSending(false);
+        }
+    };
     return (
         <section className="mx-auto max-w-7xl px-6 py-16">
             <div className="grid gap-8 lg:grid-cols-[0.8fr_1.2fr]">
@@ -136,7 +136,7 @@ const NewsletterCTA = () => {
                             </p>
 
                             <p className="mt-1 font-medium">
-                                DreamHomeDecorHub
+                                StyledByVimal
                             </p>
                         </div>
                     </div>
@@ -151,7 +151,7 @@ const NewsletterCTA = () => {
 
                         <p className="mt-4 text-sm leading-7 text-white/65">
                             Your feedback helps us make
-                            DreamHomeDecorHub better and create content
+                            StyledByVimal better and create content
                             that is genuinely useful for our readers.
                         </p>
                     </div>
@@ -309,7 +309,7 @@ const NewsletterCTA = () => {
 
                             <p className="mt-4 max-w-md leading-7 text-gray-600">
                                 Thank you for reaching out to
-                                DreamHomeDecorHub. Your message has been
+                                StyledByVimal. Your message has been
                                 sent successfully. We'll get back to you
                                 as soon as possible.
                             </p>

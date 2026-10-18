@@ -35,7 +35,7 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -148,7 +148,7 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
                     image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook5.webp",
                     link: "https://amzn.to/3UytH0b"
                 },
-                
+
 
             ]
 
@@ -409,7 +409,7 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
                 "Repeat two or three colors across your porch decor to create a cohesive look from the street."
             ],
             shopLook: [
-               
+
                 {
                     name: "White Ceramic Pumpkins",
                     image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook8.webp",
@@ -430,7 +430,7 @@ const classyHalloweenHomeDecorIdeasThatLookExpensive = {
                     image: "/images/blog/article/19-classy-halloween-home-decor-ideas-that-look-expensive/shoplook14.webp",
                     link: "https://amzn.to/3SPT7G3"
                 },
-                
+
 
             ]
 

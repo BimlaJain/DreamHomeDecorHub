@@ -33,7 +33,7 @@ const rentalFriendlyCozyBedroomIdeasThatLandlordsWillApprove = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

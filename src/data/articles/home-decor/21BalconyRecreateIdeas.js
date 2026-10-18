@@ -33,7 +33,7 @@ const balconyRecreateIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

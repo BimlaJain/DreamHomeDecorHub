@@ -19,9 +19,9 @@ const cozyBedroomDecorIdeas = {
 
 
     description:
-    [
-        "Your bedroom should be more than just a place to sleep—it should be your personal retreat. Whether you're decorating a tiny apartment, refreshing your master bedroom, or creating a cozy guest room, the right decor can completely transform the space." ,
-        " In this guide, you'll discover 25 cozy bedroom decor ideas that combine comfort, style, and functionality. From soft lighting and warm color palettes to clever storage solutions and Pinterest-inspired styling tips, these ideas work for every budget and bedroom size. Let's create a bedroom you'll never want to leave. "],
+        [
+            "Your bedroom should be more than just a place to sleep—it should be your personal retreat. Whether you're decorating a tiny apartment, refreshing your master bedroom, or creating a cozy guest room, the right decor can completely transform the space.",
+            " In this guide, you'll discover 25 cozy bedroom decor ideas that combine comfort, style, and functionality. From soft lighting and warm color palettes to clever storage solutions and Pinterest-inspired styling tips, these ideas work for every budget and bedroom size. Let's create a bedroom you'll never want to leave. "],
 
 
     updated: "2026-08-06",
@@ -34,7 +34,7 @@ const cozyBedroomDecorIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

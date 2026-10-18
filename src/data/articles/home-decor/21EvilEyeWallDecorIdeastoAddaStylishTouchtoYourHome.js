@@ -23,7 +23,7 @@ const evilEyeWallDecorIdeastoAddaStylishTouchtoYourHome = {
     totalProducts: 40,
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
     tableOfContents: [
 

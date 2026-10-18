@@ -33,7 +33,7 @@ const smallEntrywayOrganizationIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

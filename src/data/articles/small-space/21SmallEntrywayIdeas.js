@@ -30,7 +30,7 @@ const smallEntrywayIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -151,7 +151,7 @@ const smallEntrywayIdeas = {
             shopLook: [
 
                 {
-                    name: "Entryway Floating Shelf",    
+                    name: "Entryway Floating Shelf",
                     image: "/images/blog/article/21-small-entryway-ideas/shoplook3.webp",
                     link: "https://link.amazon/B0e83xry9"
                 },

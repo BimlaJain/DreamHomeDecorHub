@@ -1,5 +1,5 @@
 
-const thoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial  = {
+const thoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial = {
 
 
     slug: "50-Thoughtful-Housewarming-Gifts-for-New-Homeowners-That-Feel-Special",
@@ -34,7 +34,7 @@ const thoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial  = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -1234,7 +1234,7 @@ const thoughtfulHousewarmingGiftsforNewHomeownersThatFeelSpecial  = {
                 ]
             }
         },
-     
+
         {
             id: 36,
 

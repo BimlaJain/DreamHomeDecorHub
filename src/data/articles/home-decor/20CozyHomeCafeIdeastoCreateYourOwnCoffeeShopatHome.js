@@ -4,7 +4,7 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
     slug: "20-Cozy-Home-Cafe-Ideas-to-Create-Your-Own-Coffee-Shop-at-Home",
 
     category: "Home Decor",
-    
+
     title: "20 Cozy Home Cafe Ideas to Create Your Own Coffee Shop at Home ☕",
 
     readTime: "13 min read",
@@ -23,7 +23,7 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
     totalProducts: 40,
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
     tableOfContents: [
 
@@ -315,10 +315,10 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
                         image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS3.webp",
                         link: "https://amzn.to/4gSEX09"
                     },
-                     {
+                    {
                         name: "Ceramic vase",
                         image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS7.webp",
-                         link: "https://amzn.to/4AguG5C"
+                        link: "https://amzn.to/4AguG5C"
                     }
                 ]
             }
@@ -401,7 +401,7 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
                 ],
                 us: [
                     {
-                        name: "Coffee table",   
+                        name: "Coffee table",
                         image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookUS9.webp",
                         link: "https://amzn.to/4xt4AJZ"
                     },
@@ -544,7 +544,7 @@ const cozyHomeCafeIdeasToCreateYourOwnCoffeeShopAtHome = {
                         image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia17.webp",
                         link: "https://link.amazon/B07hLwkVm"
                     },
-                    
+
                 ],
                 us: [
                     {

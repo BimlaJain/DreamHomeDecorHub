@@ -16,7 +16,7 @@ import {
 export default function AffiliateDisclosure() {
     return (
         <main className="min-h-screen bg-[#FDFBF8] text-[#2F2F2F]">
-            <Header/>
+            <Header />
 
             {/* ================= HERO ================= */}
 
@@ -37,7 +37,7 @@ export default function AffiliateDisclosure() {
                         </h1>
 
                         <p className="mt-7 max-w-2xl text-lg leading-8 text-gray-600 md:text-xl">
-                            At DreamHomeDecorHub, we believe in being transparent about
+                            At StyledByVimal, we believe in being transparent about
                             how our website works and how we may earn money from some of
                             the products we recommend.
                         </p>
@@ -72,7 +72,7 @@ export default function AffiliateDisclosure() {
                             </h2>
 
                             <p className="mt-5 leading-8 text-gray-600">
-                                DreamHomeDecorHub creates home decor inspiration,
+                                StyledByVimal creates home decor inspiration,
                                 decorating guides, product roundups, and styling ideas
                                 to help you create a beautiful and comfortable home.
                             </p>
@@ -126,7 +126,7 @@ export default function AffiliateDisclosure() {
                         <div className="mt-8 rounded-2xl border border-white/10 bg-white/5 p-6 md:p-8">
 
                             <p className="text-lg leading-8 text-white/90">
-                                As an Amazon Associate, DreamHomeDecorHub may earn from
+                                As an Amazon Associate, StyledByVimal may earn from
                                 qualifying purchases made through eligible Amazon links
                                 on our website.
                             </p>
@@ -135,7 +135,7 @@ export default function AffiliateDisclosure() {
 
                         <p className="mt-6 max-w-3xl leading-8 text-white/70">
                             This means that if you click certain product links on
-                            DreamHomeDecorHub and make an eligible purchase, we may
+                            StyledByVimal and make an eligible purchase, we may
                             receive a commission. The price you pay is not increased
                             because of our affiliate relationship.
                         </p>
@@ -504,7 +504,7 @@ export default function AffiliateDisclosure() {
 
                     <p className="mt-5 max-w-4xl leading-8 text-gray-600">
                         When you click an affiliate or external product link,
-                        you may leave DreamHomeDecorHub and visit a third-party
+                        you may leave StyledByVimal and visit a third-party
                         retailer's website.
                     </p>
 
@@ -652,7 +652,7 @@ export default function AffiliateDisclosure() {
 
                         <p className="mt-6 text-lg leading-8 text-white/85">
                             If you have questions about our affiliate relationships,
-                            product recommendations, or anything on DreamHomeDecorHub,
+                            product recommendations, or anything on StyledByVimal,
                             feel free to reach out.
                         </p>
 
@@ -679,7 +679,7 @@ export default function AffiliateDisclosure() {
                 </div>
 
                 <h2 className="mt-6 text-3xl font-bold">
-                    Thank You for Supporting DreamHomeDecorHub
+                    Thank You for Supporting StyledByVimal
                 </h2>
 
                 <p className="mt-5 leading-8 text-gray-600">
@@ -689,7 +689,7 @@ export default function AffiliateDisclosure() {
                 </p>
 
             </section>
-            <Footer/>
+            <Footer />
 
         </main>
     );

@@ -5,7 +5,7 @@ const laundryRoomOrganizationIdeas = {
     slug: "Laundry-Room-Organization-Ideas-for-Small-Spaces-Smart-Ways-to-Maximize-Every-Inch",
 
     category: "Organization",
-    
+
     title: "Laundry Room Organization Ideas for Small Spaces: Smart Ways to Maximize Every Inch",
 
     readTime: "16 min read",
@@ -29,7 +29,7 @@ const laundryRoomOrganizationIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -325,7 +325,7 @@ const laundryRoomOrganizationIdeas = {
             ],
 
             shopLook: [
-            
+
                 {
                     name: "Floating shelf ",
                     image: "/images/blog/article/15-laundry-room-ideas/shoplook2.webp",

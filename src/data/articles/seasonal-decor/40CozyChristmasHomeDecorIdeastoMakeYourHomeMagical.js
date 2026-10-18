@@ -30,7 +30,7 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -113,7 +113,7 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
         "Christmas Bookshelf Styling",
 
         "Christmas Movie Night Corner",
-        
+
         "Christmas Morning Breakfast Station"
 
     ],
@@ -1210,7 +1210,7 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
                     link: "https://amzn.to/3UwGJv4"
                 },
-                 {
+                {
                     name: "Flameless candles",
                     image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook5.webp",
                     link: "https://amzn.to/4qSaTox"
@@ -1613,7 +1613,7 @@ const cozyChristmasHomeDecorIdeastoMakeYourHomeMagical = {
                     image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
                     link: "https://amzn.to/3UwGJv4"
                 },
-                  {
+                {
                     name: "Chunky Knit Throw blanket",
                     image: "/images/blog/article/25-cozy-bedroom-fall-decor-ideas-to-create-a-warm-autumn-recreate/shoplook3.webp",
                     link: "https://amzn.to/46ieTWb"

@@ -33,7 +33,7 @@ const kitchenDecorIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -103,7 +103,7 @@ const kitchenDecorIdeas = {
                     link: "https://link.amazon/B0gxzoGZy"
                 },
 
- {
+                {
                     name: "White Stoneware Dinner Set ",
                     image: "/images/blog/article/18-Kitchen-decor-ideas/shoplook17.webp",
                     link: "https://link.amazon/B06gKtl0T"

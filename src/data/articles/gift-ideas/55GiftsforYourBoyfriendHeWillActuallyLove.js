@@ -1,5 +1,5 @@
 
-const  giftsforYourBoyfriendHeWillActuallyLove = {
+const giftsforYourBoyfriendHeWillActuallyLove = {
 
 
     slug: "55-Gifts-for-Your-Boyfriend-He-Will-Actually-Love",
@@ -34,7 +34,7 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -143,7 +143,7 @@ const  giftsforYourBoyfriendHeWillActuallyLove = {
                     image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook2.webp",
                     link: "https://amzn.to/4ADIEym"
                 },
-            
+
             ]
 
         },

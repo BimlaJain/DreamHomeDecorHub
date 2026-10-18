@@ -18,7 +18,7 @@ const BrandPoster = () => {
                 </div>
                 {/* Brand Name */}
                 <h1 className=" mt-8 font-serif text-3xl md:text-5xl font-bold tracking-tight text-[#1E1E1E] ">
-                    DreamHomeDecorHub
+                    StyledByVimal
                 </h1>
                 {/* Tagline */}
                 <p className=" mt-3 text-sm md:text-base uppercase tracking-[0.25em] text-stone-500 " >

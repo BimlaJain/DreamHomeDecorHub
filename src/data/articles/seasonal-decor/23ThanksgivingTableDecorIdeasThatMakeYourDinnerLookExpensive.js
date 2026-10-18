@@ -35,7 +35,7 @@ const thanksgivingTableDecorIdeasThatMakeYourDinnerLookExpensive = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

@@ -27,7 +27,7 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
     totalProducts: 60,
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
     tableOfContents: [
 
@@ -928,7 +928,7 @@ const bestChristmasGiftsforSistersSheWillActuallyLove = {
                     name: "Phone Stand",
                     image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook15.webp",
                     link: "https://amzn.to/4z6Tgo0"
-                },3
+                }, 3
             ]
         },
         {

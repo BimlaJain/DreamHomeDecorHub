@@ -11,7 +11,7 @@ import { sections } from "@/data/HomePage";
 export default function PrivacyPolicy() {
     return (
         <div className="bg-[#FDFBF8] min-h-screen">
-            <Header/>
+            <Header />
 
             {/* Hero Section */}
 
@@ -39,7 +39,7 @@ export default function PrivacyPolicy() {
 
                         <p className="mt-8 text-lg leading-9 text-gray-600">
 
-                            At <span className="font-semibold">DreamHomeDecorHub</span>,
+                            At <span className="font-semibold">StyledByVimal</span>,
                             protecting your privacy is one of our top priorities.
                             This Privacy Policy explains what information we collect,
                             how we use it, and how we keep it safe while you explore
@@ -75,13 +75,13 @@ export default function PrivacyPolicy() {
 
                     <h2 className="md:text-3xl text-2xl font-bold text-[#2F2F2F]">
 
-                        Welcome to DreamHomeDecorHub
+                        Welcome to StyledByVimal
 
                     </h2>
 
                     <p className="mt-6 text-gray-600 leading-8">
 
-                        DreamHomeDecorHub is dedicated to sharing beautiful,
+                        StyledByVimal is dedicated to sharing beautiful,
                         practical, and inspiring home decor ideas. Whether you're
                         looking for bedroom inspiration, kitchen styling tips,
                         living room makeovers, or bathroom organization ideas,
@@ -181,7 +181,7 @@ export default function PrivacyPolicy() {
                         </h2>
 
                         <p className="mt-5 leading-8 text-gray-600">
-                            DreamHomeDecorHub participates in affiliate marketing
+                            StyledByVimal participates in affiliate marketing
                             programs, including the Amazon Associates Program.
                             Some of the links on this website are affiliate links.
                         </p>
@@ -208,7 +208,7 @@ export default function PrivacyPolicy() {
                                 <ChevronRight className="text-[#B07A4F] mt-1" size={18} />
                                 <p className="text-gray-600">
                                     Purchasing through our links helps support
-                                    DreamHomeDecorHub and allows us to continue creating
+                                    StyledByVimal and allows us to continue creating
                                     free home decor content.
                                 </p>
                             </div>
@@ -281,7 +281,7 @@ export default function PrivacyPolicy() {
 
                     <p className="mt-6 leading-8 text-gray-600">
 
-                        DreamHomeDecorHub may display advertisements through trusted
+                        StyledByVimal may display advertisements through trusted
                         advertising partners, including Google AdSense.
                         Advertising partners may use cookies and similar technologies
                         to display personalized or non-personalized advertisements
@@ -341,7 +341,7 @@ export default function PrivacyPolicy() {
 
                     <p className="mt-6 text-gray-600 leading-8">
 
-                        DreamHomeDecorHub may contain links to external websites,
+                        StyledByVimal may contain links to external websites,
                         online stores, social media platforms, and affiliate partners.
                         We are not responsible for the privacy practices,
                         policies, or content of third-party websites.
@@ -450,7 +450,7 @@ export default function PrivacyPolicy() {
 
                     <p className="mt-6 text-gray-600 leading-8">
 
-                        DreamHomeDecorHub is intended for a general audience and
+                        StyledByVimal is intended for a general audience and
                         is not specifically directed toward children under the age
                         of 13.
 
@@ -572,7 +572,7 @@ export default function PrivacyPolicy() {
 
                             If you have any questions regarding this Privacy Policy,
                             your personal information, or anything related to
-                            DreamHomeDecorHub, we'd love to hear from you.
+                            StyledByVimal, we'd love to hear from you.
 
                         </p>
 
@@ -606,7 +606,7 @@ export default function PrivacyPolicy() {
 
                         Thank you for trusting
                         <span className="font-semibold">
-                            {" "}DreamHomeDecorHub{" "}
+                            {" "}StyledByVimal{" "}
                         </span>
 
                         as your destination for beautiful home decor inspiration,
@@ -626,7 +626,7 @@ export default function PrivacyPolicy() {
                 </div>
 
             </section>
-                <Footer/>
+            <Footer />
 
         </div>
     );

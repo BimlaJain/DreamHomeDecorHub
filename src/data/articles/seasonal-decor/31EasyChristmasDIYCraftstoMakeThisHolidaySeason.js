@@ -30,7 +30,7 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -757,7 +757,7 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook46.webp",
                     link: "https://amzn.to/4yRBbdi"
                 },
-               
+
             ]
 
         },
@@ -1397,7 +1397,7 @@ const easyChristmasDIYCraftstoMakeThisHolidaySeason = {
                     image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook8.webp",
                     link: "https://amzn.to/4763skR"
                 },
-            
+
             ]
         },
         {

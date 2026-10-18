@@ -33,7 +33,7 @@ const bathroomDecorIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -238,7 +238,7 @@ const bathroomDecorIdeas = {
                     image: "/images/blog/article/17-bathroom-decor-ideas/shoplook9.webp",
                     link: "https://link.amazon/B0dzUW5JW"
                 },
-               
+
             ]
 
         },

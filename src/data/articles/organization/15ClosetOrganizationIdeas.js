@@ -29,7 +29,7 @@ const closetOrganizationIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

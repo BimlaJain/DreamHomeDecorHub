@@ -18,7 +18,7 @@ import {
 export default function TermsConditions() {
     return (
         <main className="min-h-screen bg-[#FDFBF8] text-[#2F2F2F]">
-            <Header/>
+            <Header />
 
             {/* ================= HERO ================= */}
 
@@ -39,7 +39,7 @@ export default function TermsConditions() {
                         </h1>
 
                         <p className="mt-7 max-w-2xl text-lg leading-8 text-gray-600 md:text-xl">
-                            Welcome to DreamHomeDecorHub. These Terms & Conditions
+                            Welcome to StyledByVimal. These Terms & Conditions
                             explain the rules and guidelines that apply when you access
                             and use our website.
                         </p>
@@ -69,18 +69,18 @@ export default function TermsConditions() {
                         <div>
 
                             <h2 className="text-3xl font-bold">
-                                Welcome to DreamHomeDecorHub
+                                Welcome to StyledByVimal
                             </h2>
 
                             <p className="mt-5 leading-8 text-gray-600">
                                 These Terms & Conditions govern your use of
-                                DreamHomeDecorHub and its content, features, articles,
+                                StyledByVimal and its content, features, articles,
                                 product recommendations, images, links, and other
                                 services available through our website.
                             </p>
 
                             <p className="mt-4 leading-8 text-gray-600">
-                                By accessing or using DreamHomeDecorHub, you acknowledge
+                                By accessing or using StyledByVimal, you acknowledge
                                 that you have read, understood, and agreed to these
                                 Terms & Conditions.
                             </p>
@@ -135,7 +135,7 @@ export default function TermsConditions() {
                         </h2>
 
                         <p className="mt-5 leading-8 text-gray-600">
-                            You agree to use DreamHomeDecorHub only for lawful
+                            You agree to use StyledByVimal only for lawful
                             purposes and in a way that does not harm the website,
                             its visitors, or its content.
                         </p>
@@ -162,7 +162,7 @@ export default function TermsConditions() {
                     </h2>
 
                     <p className="mt-5 leading-8 text-gray-600">
-                        DreamHomeDecorHub provides home decor inspiration,
+                        StyledByVimal provides home decor inspiration,
                         decorating ideas, organization tips, product suggestions,
                         styling guides, and related lifestyle content.
                     </p>
@@ -238,9 +238,9 @@ export default function TermsConditions() {
 
                     <p className="mt-5 max-w-4xl leading-8 text-white/75">
                         Unless otherwise stated, the original content published
-                        on DreamHomeDecorHub, including written articles, graphics,
+                        on StyledByVimal, including written articles, graphics,
                         logos, page designs, original illustrations, and other
-                        website materials, belongs to DreamHomeDecorHub or is used
+                        website materials, belongs to StyledByVimal or is used
                         with appropriate permission.
                     </p>
 
@@ -329,7 +329,7 @@ export default function TermsConditions() {
                             </h2>
 
                             <p className="mt-4 leading-8 text-gray-700">
-                                The information provided on DreamHomeDecorHub is for
+                                The information provided on StyledByVimal is for
                                 general informational and inspirational purposes only.
                                 You should use your own judgment and consider your
                                 individual circumstances before making decisions based
@@ -358,7 +358,7 @@ export default function TermsConditions() {
                     </h2>
 
                     <p className="mt-5 leading-8 text-gray-600">
-                        DreamHomeDecorHub may participate in affiliate marketing
+                        StyledByVimal may participate in affiliate marketing
                         programs. Some links on our website may be affiliate links,
                         including links associated with the Amazon Associates Program.
                     </p>
@@ -404,7 +404,7 @@ export default function TermsConditions() {
                         </h2>
 
                         <p className="mt-5 leading-8 text-gray-600">
-                            When using DreamHomeDecorHub, you agree to use the website
+                            When using StyledByVimal, you agree to use the website
                             responsibly and lawfully.
                         </p>
 
@@ -454,7 +454,7 @@ export default function TermsConditions() {
                         </h2>
 
                         <p className="mt-5 leading-8 text-gray-600">
-                            If DreamHomeDecorHub allows comments, reviews, contact
+                            If StyledByVimal allows comments, reviews, contact
                             submissions, or other user-generated content, you are
                             responsible for the information and material you submit.
                         </p>
@@ -487,7 +487,7 @@ export default function TermsConditions() {
                     </h2>
 
                     <p className="mt-5 max-w-4xl leading-8 text-white/75">
-                        The content published on DreamHomeDecorHub is provided for
+                        The content published on StyledByVimal is provided for
                         general informational and inspirational purposes. While we
                         make reasonable efforts to provide useful and accurate
                         information, we do not guarantee that every piece of content
@@ -520,7 +520,7 @@ export default function TermsConditions() {
                     </h2>
 
                     <p className="mt-5 leading-8 text-gray-600">
-                        To the extent permitted by applicable law, DreamHomeDecorHub
+                        To the extent permitted by applicable law, StyledByVimal
                         and its owners, contributors, or affiliates will not be
                         responsible for losses, damages, or issues arising from your
                         use of information, products, services, or third-party
@@ -528,7 +528,7 @@ export default function TermsConditions() {
                     </p>
 
                     <p className="mt-5 leading-8 text-gray-600">
-                        You use the information available on DreamHomeDecorHub at
+                        You use the information available on StyledByVimal at
                         your own discretion and risk.
                     </p>
 
@@ -581,7 +581,7 @@ export default function TermsConditions() {
                         </h3>
 
                         <p className="mt-3 leading-7 text-gray-600">
-                            We aim to keep DreamHomeDecorHub available, but we cannot
+                            We aim to keep StyledByVimal available, but we cannot
                             guarantee uninterrupted access at all times.
                         </p>
 
@@ -647,7 +647,7 @@ export default function TermsConditions() {
                             </h2>
 
                             <p className="mt-5 leading-8 text-gray-600">
-                                Your use of DreamHomeDecorHub is also subject to our
+                                Your use of StyledByVimal is also subject to our
                                 Privacy Policy, which explains how information may be
                                 collected, used, and protected when you visit our website.
                             </p>
@@ -714,7 +714,7 @@ export default function TermsConditions() {
                         These Terms & Conditions shall be interpreted and applied
                         in accordance with applicable laws. Any legal matters relating
                         to the website will be handled in accordance with the
-                        applicable jurisdiction and laws governing DreamHomeDecorHub.
+                        applicable jurisdiction and laws governing StyledByVimal.
                     </p>
 
                     <p className="mt-5 text-sm leading-7 text-gray-500">
@@ -752,7 +752,7 @@ export default function TermsConditions() {
 
                         <p className="mt-6 text-lg leading-8 text-white/85">
                             If you have questions about these Terms & Conditions or
-                            anything related to DreamHomeDecorHub, you can contact us
+                            anything related to StyledByVimal, you can contact us
                             directly.
                         </p>
 
@@ -780,7 +780,7 @@ export default function TermsConditions() {
                 </div>
 
                 <h2 className="mt-6 text-3xl font-bold">
-                    Thank You for Visiting DreamHomeDecorHub
+                    Thank You for Visiting StyledByVimal
                 </h2>
 
                 <p className="mt-5 leading-8 text-gray-600">
@@ -790,7 +790,7 @@ export default function TermsConditions() {
                 </p>
 
             </section>
-<Footer/>
+            <Footer />
 
         </main>
     );

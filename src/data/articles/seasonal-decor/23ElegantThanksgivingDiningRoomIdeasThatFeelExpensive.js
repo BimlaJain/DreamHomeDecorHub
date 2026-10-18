@@ -1,6 +1,6 @@
 import { categories } from "@/data/HomePage";
 
-const  elegantThanksgivingDiningRoomIdeasThatFeelExpensive = {
+const elegantThanksgivingDiningRoomIdeasThatFeelExpensive = {
 
 
     slug: "23-Elegant-Thanksgiving-Dining-Room-Ideas-That-Feel-Expensive",
@@ -35,7 +35,7 @@ const  elegantThanksgivingDiningRoomIdeasThatFeelExpensive = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -666,7 +666,7 @@ const  elegantThanksgivingDiningRoomIdeasThatFeelExpensive = {
                     image: "/images/blog/article/21-fall-and-halloween-decor-ideas-that-work-for-both-seasons/shoplook1.webp",
                     link: "https://amzn.to/4gHaiBm"
                 },
-               
+
                 {
                     name: "Brass candle holders",
                     image: "/images/blog/article/23-thanksgiving-table-decor-ideas-that-make-your-dining-look-expensive/shoplook6.webp",
@@ -971,7 +971,7 @@ const  elegantThanksgivingDiningRoomIdeasThatFeelExpensive = {
                     image: "/images/blog/article/23-thanksgiving-dining-room-ideas-that-feel-expensive/shoplook11.webp",
                     link: "https://amzn.to/4qYZIKV"
                 },
-                
+
             ]
         },
 

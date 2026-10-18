@@ -33,7 +33,7 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 
@@ -66,7 +66,7 @@ const romenticBedroomDecorIdeasForADreamyRoom = {
         "Decorative Mirror with Soft Lighting",
 
         "Luxury Hotel-Inspired Bedroom",
-        
+
         "Personalized Romantic Bedroom Details",
 
     ],

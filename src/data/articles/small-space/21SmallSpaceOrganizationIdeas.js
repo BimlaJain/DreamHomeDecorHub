@@ -29,7 +29,7 @@ const smallSpaceOrganizationIdeas = {
 
 
     author:
-        "DreamHomeDecorHub",
+        "StyledByVimal",
 
 
 

@@ -4,7 +4,7 @@ import {
     Cookie,
     Database,
     User,
-   
+
 } from "lucide-react";
 export const navItems = [
     {
@@ -126,11 +126,11 @@ export const posts = [
     },
 ];
 
- export const rooms = [
+export const rooms = [
     {
         title: "Living Room",
         href: "/living-room",
-         image: "/images/home-page/living-room.webp",
+        image: "/images/home-page/living-room.webp",
         ideas: "240+ Ideas",
     },
     {
@@ -163,7 +163,7 @@ export const posts = [
         image: "/images/home-page/home-office.webp",
         ideas: "110+ Ideas",
     },
- ];
+];
 
 export const collections = [
     {
@@ -279,7 +279,7 @@ export const sections = [
         icon: <Cookie size={28} />,
         title: "Cookies",
         content: [
-            "DreamHomeDecorHub uses cookies to enhance your browsing experience and remember your preferences.",
+            "StyledByVimal uses cookies to enhance your browsing experience and remember your preferences.",
             "Cookies also help us understand website performance, improve navigation, and support affiliate tracking.",
             "You may disable cookies through your browser settings, although some features of the website may not function properly.",
         ],
@@ -288,7 +288,7 @@ export const sections = [
         icon: <Shield size={28} />,
         title: "Google Analytics",
         content: [
-            "We may use Google Analytics to understand how visitors interact with DreamHomeDecorHub.",
+            "We may use Google Analytics to understand how visitors interact with StyledByVimal.",
             "Analytics helps us understand which articles are most helpful, where visitors come from, and how we can improve our website.",
             "Google Analytics collects anonymous information and does not personally identify individual visitors.",
         ],
