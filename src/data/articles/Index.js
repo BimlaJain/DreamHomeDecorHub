@@ -37,6 +37,7 @@ import cozyChristmasHomeDecorIdeastoMakeYourHomeMagical from "./seasonal-decor/4
 import bestAdventCalendarIdeasForEveryone from "./gift-ideas/37BestAdventCalendarIdeasforEveryone";
 import bestChristmasGiftsforSistersSheWillActuallyLove from "./gift-ideas/64BestChristmasGiftsforSistersSheWillActuallyLove";
 import amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel from "./home-decor/15AmazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel";
+import christmasGiftIdeasforMomSheWillAbsolutelyLove from "./gift-ideas/69ChristmasGiftIdeasforMomSheWillAbsolutelyLove";
 
 const articles = [
 
@@ -77,6 +78,7 @@ const articles = [
     bestAdventCalendarIdeasForEveryone,
     bestChristmasGiftsforSistersSheWillActuallyLove,
     amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel,
+    christmasGiftIdeasforMomSheWillAbsolutelyLove,
 
 ];
 
