@@ -11,7 +11,7 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
     readTime: "39 min read",
 
     image:
-        "/images/blog/article/69-christmas-gift-ideas-for-mom/christmas-gift-for-mom-idea-image.webp",
+        "/images/blog/article/69-christmas-gift-ideas-for-mom/christmas-gift-for-mom-hero-image.webp",
 
 
     description:
