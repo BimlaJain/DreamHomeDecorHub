@@ -82,7 +82,7 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
         "Framed Botanical Wall Art",
         "Decorative Storage Basket",
         "Sunrise Alarm Clock",
-        "Indoor Houseplant with Decorative Pot",
+        "Decorative Pot for Indoor Houseplant",
         "Premium Diffuser and Home Fragrance Set",
         "Wireless Bluetooth Headphones",
         "Digital Photo Frame",
@@ -120,9 +120,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Dainty initial necklace",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook1.webp",
-                    link: "https://amzn.to/4hJOaqO"
+                    name: "Birthstone necklace",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook1.webp",
+                    link: "https://amzn.to/4BfRqCZ"
                 },
             ]
 
@@ -144,9 +144,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Custom Family Name Necklace",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook2.webp",
-                    link: "https://amzn.to/4yHu8Ve"
+                    name: "Custom Name Necklace",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook2.webp",
+                    link: "https://amzn.to/47zO7cm"
                 },
 
             ]
@@ -169,9 +169,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Personalized Family Photo Frame",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook3.webp",
-                    link: "https://amzn.to/4ASVGZ8"
+                    name: "Custom Photo Frame",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook33.webp",
+                    link: "https://amzn.to/4yaWs0N"
                 },
             ]
         },
@@ -192,9 +192,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Makeup organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
-                    link: "https://amzn.to/47zdUkK"
+                    name: "Custom Birth Flower Bouquet Print",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook3.webp",
+                    link: "https://amzn.to/4siHi8D"
                 },
             ]
         },
@@ -215,9 +215,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Lip Care",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook5.webp",
-                    link: "https://amzn.to/4do6VP7"
+                    name: "Recipe Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
+                    link: "https://amzn.to/4drpLoF"
                 },
             ]
 
@@ -238,10 +238,11 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             ],
 
             shopLook: [
+
                 {
-                    name: "Bath Bomb Set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook6.webp",
-                    link: "https://amzn.to/3TtVyhY"
+                    name: "Jewelry Organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook7.webp",
+                    link: "https://amzn.to/4ALV7A6"
                 },
             ]
 
@@ -263,9 +264,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Hair Care trail set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook7.webp",
-                    link: "https://amzn.to/4j2W54K"
+                    name: "Custom Family Portrait Illustration",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook4.webp",
+                    link: "https://amzn.to/4BbDOcd"
                 },
             ]
 
@@ -287,9 +288,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Face roller Set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook8.webp",
-                    link: "https://amzn.to/4zmw3hO"
+                    name: "Personalized Christmas Ornament",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
+                    link: "https://amzn.to/3UwNP33"
                 },
             ]
 
@@ -312,8 +313,8 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             shopLook: [
                 {
                     name: "Memory Journal for Mom",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook9.webp",
-                    link: "https://amzn.to/4ATcBdW"
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook42.webp",
+                    link: "https://amzn.to/4doB159"
                 },
             ]
         },
@@ -334,9 +335,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Spa Gift",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook10.webp",
-                    link: "https://amzn.to/3WaPX0G"
+                    name: "Ultra-Soft Throw Blanket",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook6.webp",
+                    link: "https://amzn.to/4jqnlKF"
                 },
             ]
         },
@@ -356,9 +357,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Handbag",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook11.webp",
-                    link: "https://amzn.to/4y9S1Ub"
+                    name: "Luxury Pajama Set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook14.webp",
+                    link: "https://amzn.to/4hzkpdr"
                 },
             ]
         },
@@ -381,9 +382,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Luxury Pajama Set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook12.webp",
-                    link: "https://amzn.to/3VQQ0i7"
+                    name: "Heated Throw Blankett",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook7.webp",
+                    link: "https://amzn.to/4Bdc5rz"
                 },
             ]
         },
@@ -405,9 +406,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Winter Scarf",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook13.webp",
-                    link: "https://amzn.to/3VAPVz1"
+                    name: "Plush Slippers",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook8.webp",
+                    link: "https://amzn.to/4i982ng"
                 },
             ]
         },
@@ -430,9 +431,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Soft holiday pajama set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook14.webp",
-                    link: "https://amzn.to/4hzkpdr"
+                    name: "Weighted Blanket",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook9.webp",
+                    link: "https://amzn.to/47O9UNL"
                 },
             ]
         },
@@ -452,9 +453,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Soft Robe",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook15.webp",
-                    link: "https://amzn.to/4rRUP6V"
+                    name: "Scarf",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook10.webp",
+                    link: "https://amzn.to/4siIR6v"
                 },
             ]
 
@@ -479,8 +480,8 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             shopLook: [
                 {
                     name: "Oversized Satin Pillowcase Set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook16.webp",
-                    link: "https://amzn.to/4e0o4i3"
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook11.webp",
+                    link: "https://amzn.to/4skXiqQ"
                 },
             ]
 
@@ -502,9 +503,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Classic Women Watch",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook17.webp",
-                    link: "https://amzn.to/4zilPPi"
+                    name: "Reading Pillow",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook12.web",
+                    link: "https://amzn.to/4BgRySW"
                 },
             ]
         },
@@ -525,9 +526,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Hair Accessories ",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook18.webp",
-                    link: "https://amzn.to/4ARVDfX"
+                    name: "Soft Robe",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook15.webp",
+                    link: "https://amzn.to/4rRUP6V"
                 },
             ]
         },
@@ -548,9 +549,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Gloves",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook19.webp",
-                    link: "https://amzn.to/3VrCZLX"
+                    name: "Skincare Gift Set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook2.webp",
+                    link: "https://amzn.to/4yHu8Ve"
                 },
             ]
         },
@@ -573,9 +574,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Tote Bag",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook20.webp",
-                    link: "https://amzn.to/4j41tVh"
+                    name: "Hand Cream",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook13.web",
+                    link: "https://amzn.to/3TJBZ5q"
                 },
             ]
         },
@@ -596,9 +597,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Birthstone Necklace",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook21.webp",
-                    link: "https://amzn.to/4ze78g7"
+                    name: "Spa Gift",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook10.webp",
+                    link: "https://amzn.to/3WaPX0G"
                 },
             ]
 
@@ -619,9 +620,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Personalized Name Bracelet",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook22.webp",
-                    link: "https://amzn.to/4ASbATz"
+                    name: "Facial Ice Roller",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook14.webp",
+                    link: "https://amzn.to/4sczp4m"
                 },
             ]
         },
@@ -641,9 +642,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Gold Silk Sleep Mask",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook23.webp",
-                    link: "https://amzn.to/3VRegRe"
+                    name: "Silk Sleep Mask",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook9.webp",
+                    link: "https://amzn.to/4ATcBdW"
                 },
             ]
         },
@@ -663,10 +664,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Bracelet",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook24.webp",
-                    link: "https://amzn.to/4ywEF5n"
-                },
+                    name: "Aroma Diffuser",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS10.webp",
+                    link: "https://amzn.to/4jaHILA"
+                }
             ]
 
         },
@@ -686,9 +687,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Jewelry Organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook7.webp",
-                    link: "https://amzn.to/4ALV7A6"
+                    name: "Electric Nail Care Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook15.webp",
+                    link: "https://amzn.to/4yvAFBk"
                 },
             ]
         },
@@ -709,9 +710,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: " Makeup Organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook8.webp",
-                    link: "https://amzn.to/4hCmCDt"
+                    name: "Makeup organizer",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
+                    link: "https://amzn.to/47zdUkK"
                 },
             ]
         },
@@ -731,9 +732,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Candle gift set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook25.webp",
-                    link: "https://amzn.to/4y6Qcra"
+                    name: "Perfume Set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook3.webp",
+                    link: "https://amzn.to/4ASVGZ8"
                 },
             ]
         },
@@ -752,10 +753,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             ],
             shopLook: [
                 {
-                    name: "Bedside Lamp",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook26.webp",
-                    link: "https://amzn.to/4jagfd5"
-                }
+                    name: "Gold Hoop Earrings",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook23.webp",
+                    link: "https://amzn.to/3VRegRe"
+                },
             ]
         },
         {
@@ -775,8 +776,8 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             shopLook: [
                 {
                     name: "Personalized Initial Pendant",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook29.webp",
-                    link: "https://amzn.to/3U7xotM"
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook1.webp",
+                    link: "https://amzn.to/4hJOaqO"
                 },
             ]
         },
@@ -796,9 +797,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Tumbler",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook30.webp",
-                    link: "https://amzn.to/3Tozfdx"
+                    name: "Tote Bag",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook20.webp",
+                    link: "https://amzn.to/4j41tVh"
                 },
             ]
 
@@ -808,7 +809,7 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             title: "Elegant Everyday Watch",
 
-            image: "/images/blog/article/69-christmas-gift-ideas-for-mom/christmas-gift-for-mom-idea31.webp",
+            image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/best-christmas-gift-for-sisters-idea17.webp",
 
             description:
                 "An elegant everyday watch can be a meaningful gift for a mom who appreciates accessories that combine style and function. Choose a design that matches her preferences, whether she likes a slim metal bracelet, a classic leather strap, or a modern minimalist dial. Simple watches can complement both casual and dressier outfits, making them useful beyond the holiday season. Consider the watch's size and weight, because an oversized or heavy design may not feel comfortable on a smaller wrist. A timeless style often makes a safer choice than a trend-driven design that may quickly feel dated.",
@@ -819,9 +820,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Elegant Everyday Watch",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook31.webp",
-                    link: "https://amzn.to/4rTCrdQ"
+                    name: "Classic Women Watch",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook17.webp",
+                    link: "https://amzn.to/4zilPPi"
                 },
             ]
         },
@@ -841,9 +842,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Textured neutralThrow Pillow",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook32.webp",
-                    link: "https://amzn.to/4rT8hr1"
+                    name: "Reading Glasses Case",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook16.webp",
+                    link: "https://amzn.to/4iufhaG"
                 },
             ]
         },
@@ -863,9 +864,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Custom Photo Frame",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook33.webp",
-                    link: "https://amzn.to/4yaWs0N"
+                    name: "Leather Wallet",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook17.webp",
+                    link: "https://amzn.to/3U87ruc"
                 },
             ]
         },
@@ -885,9 +886,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Earbuds",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook34.webp",
-                    link: "https://amzn.to/4do9Qax"
+                    name: "Gloves",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook19.webp",
+                    link: "https://amzn.to/3VrCZLX"
                 },
             ]
         },
@@ -907,9 +908,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Portable Power Bank",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook13.webp",
-                    link: "https://amzn.to/46OxERl"
+                    name: "Premium Coffee Maker",
+                    image: "/images/blog/article/20-cozy-home-cafe-ideas-to-create-your-own-coffee-shop-at-home/shoplookIndia1.webp",
+                    link: "https://link.amazon/B0539twzD"
                 },
             ]
         },
@@ -930,10 +931,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Electric Milk Frother",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook15.webp",
-                    link: "https://amzn.to/4z6Tgo0"
-                }, 3
+                    name: "Electric Coffee Frother",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook18.webp",
+                    link: "https://amzn.to/4zHobYc"
+                },
             ]
         },
         {
@@ -951,10 +952,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             ],
             shopLook: [
                 {
-                    name: "Beautiful Ceramic Mug Set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook37.webp",
-                    link: "https://amzn.to/4doALDd"
-                },
+                    name: "Coffee mug set",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS8.webp",
+                    link: "https://amzn.to/4rpb23k"
+                }
             ]
 
         },
@@ -974,9 +975,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Portable Bluetooth Tracker",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook16.webp",
-                    link: "https://amzn.to/4rDwMsd"
+                    name: "Tumbler",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook30.webp",
+                    link: "https://amzn.to/3Tozfdx"
                 },
             ]
         },
@@ -996,9 +997,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "bluetooth speaker",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook39.webp",
-                    link: "https://amzn.to/3WaRS5o"
+                    name: "Dutch Oven",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook19.webp",
+                    link: "https://amzn.to/4ivOlHC"
                 },
             ]
 
@@ -1019,9 +1020,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: " Electric Kettle with Temperature Control",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook9.webp",
-                    link: "https://amzn.to/4AN9sfV"
+                    name: " Electric Kettle",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook20.webp",
+                    link: "https://amzn.to/4BijF47"
                 },
             ]
         },
@@ -1041,9 +1042,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Custom Photo Frame",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook33.webp",
-                    link: "https://amzn.to/4yaWs0N"
+                    name: "Air Fryer",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook21.webp",
+                    link: "https://amzn.to/4jBmneN"
                 },
             ]
         },
@@ -1063,9 +1064,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Aesthetic Journal",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook42.webp",
-                    link: "https://amzn.to/4doB159"
+                    name: "Wooden Cutting Board",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook22.webp",
+                    link: "https://amzn.to/47qMr51"
                 },
             ]
         },
@@ -1086,8 +1087,8 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             shopLook: [
                 {
                     name: "Beautiful Serving Platter",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook43.webp",
-                    link: "https://amzn.to/4718uyX"
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook23.webp",
+                    link: "https://amzn.to/4zD8HEz"
                 },
             ]
 
@@ -1108,9 +1109,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Polpular Novel",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook44.webp",
-                    link: "https://amzn.to/4i6eBYS"
+                    name: "Herb Garden Growing Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook24.webp",
+                    link: "https://amzn.to/4BijTbt"
                 },
             ]
         },
@@ -1129,9 +1130,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             ],
             shopLook: [
                 {
-                    name: "Kindle case + stand",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook45.webp",
-                    link: "https://amzn.to/4iaig79"
+                    name: "Digital Kitchen Scale",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook25.webp",
+                    link: "https://amzn.to/4sfInOj"
                 },
             ]
 
@@ -1152,9 +1153,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Painting kit",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook46.webp",
-                    link: "https://amzn.to/3U7DJp4"
+                    name: "Candle gift set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook25.webp",
+                    link: "https://amzn.to/4y6Qcra"
                 },
             ]
         },
@@ -1174,10 +1175,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Ceramic Table Lamp",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook47.webp",
-                    link: "https://amzn.to/4yEsnbg"
-                },
+                    name: "Bedside Lamp",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook26.webp",
+                    link: "https://amzn.to/4jagfd5"
+                }
             ]
         },
         {
@@ -1195,10 +1196,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             ],
             shopLook: [
                 {
-                    name: "Baking Kit",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook48.webp",
-                    link: "https://amzn.to/4j9wyqK"
-                },
+                    name: "Decorative Flower Vase",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS17.webp",
+                    link: "https://amzn.to/4rpbFKe"
+                }
             ]
         },
         {
@@ -1217,10 +1218,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Framed Botanical Wall Art game",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook49.webp",
-                    link: "https://amzn.to/4jKiZOt"
-                },
+                    name: "Minimalist Wall Art",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS43.webp",
+                    link: "https://amzn.to/4hezmjo"
+                }
             ]
 
         },
@@ -1240,10 +1241,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Coloring Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook50.webp",
-                    link: "https://amzn.to/4y6qt1Y"
-                },
+                    name: "Woven Storage basket ",
+                    image: "/images/blog/article/35-home-products-that-make-you-space-look-better/shoplookUS1.webp",
+                    link: "https://amzn.to/3UwGJv4"
+                }
             ]
         },
         {
@@ -1262,16 +1263,16 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Sunrise Alarm Clock",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook51.webp",
-                    link: "https://amzn.to/4yESkYa"
+                    name: " Sunrise Alarm Clock",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook26.webp",
+                    link: "https://amzn.to/4BffN3N"
                 },
             ]
         },
         {
             id: 52,
 
-            title: "Indoor Houseplant with Decorative Pot",
+            title: "Decorative Pot for Indoor Houseplant",
 
             image: "/images/blog/article/69-christmas-gift-ideas-for-mom/christmas-gift-for-mom-idea52.webp",
 
@@ -1284,10 +1285,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Indoor Houseplant with Decorative Pot",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook52.webp",
-                    link: "https://amzn.to/4zmMeM7"
-                },
+                    name: "Ceramic pot set for indoor plant",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS3.webp",
+                    link: "https://amzn.to/4hdUI0C"
+                }
             ]
         },
         {
@@ -1306,9 +1307,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Premium Diffuser and Home Fragrance Set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook53.webp",
-                    link: "https://amzn.to/4y2M6QR"
+                    name: "Room Diffuser",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook31.webp",
+                    link: "https://amzn.to/4rTCrdQ"
                 },
             ]
         },
@@ -1325,6 +1326,13 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             tips: [
                 "Check device compatibility, battery-life claims, charging method, fit options, and warranty coverage. If she frequently takes calls, review microphone performance and controls before selecting a pair."
             ],
+            shopLook: [
+                {
+                    name: "Noise-Canceling Headphones",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook10.webp",
+                    link: "https://amzn.to/4dbGCf1"
+                },
+            ]
         },
         {
             id: 55,
@@ -1339,14 +1347,6 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             tips: [
                 "Verify the frame's setup process, storage capacity, photo-sharing features, and any ongoing subscription requirements. Confirm whether a Wi-Fi connection is necessary and test the frame before gifting it."
             ],
-
-            shopLook: [
-                {
-                    name: "Digital Photo Frame",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook55.webp",
-                    link: "https://amzn.to/4jCVabq"
-                },
-            ]
         },
         {
             id: 56,
@@ -1361,6 +1361,13 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             tips: [
                 "Check ebook-store compatibility, library-book support where available, storage capacity, lighting features, and subscription requirements. Make sure the device works with the reading services she already uses."
             ],
+            shopLook: [
+                {
+                    name: "E-Reader",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook27.webp",
+                    link: "https://amzn.to/4zMWmOu"
+                },
+            ]
         },
         {
             id: 57,
@@ -1378,9 +1385,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Travel bag",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook56.webp",
-                    link: "https://amzn.to/4yTXQq9"
+                    name: "bluetooth speaker",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook39.webp",
+                    link: "https://amzn.to/3WaRS5o"
                 },
             ]
         },
@@ -1401,8 +1408,8 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             shopLook: [
                 {
                     name: "Portable Power Bank",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook57.webp",
-                    link: "https://amzn.to/4BbmZOD"
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook13.webp",
+                    link: "https://amzn.to/46OxERl"
                 },
             ]
         },
@@ -1422,10 +1429,10 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Smart Digital Calendar Display",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook58.webp",
-                    link: "https://amzn.to/4hJJlNV"
-                },
+                    name: "Personalized Digital Calendar",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS35.webp",
+                    link: "https://amzn.to/4yPPMWY"
+                }
             ]
         },
         {
@@ -1444,9 +1451,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Custom portrait",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook5.webp",
-                    link: "https://amzn.to/3VkwSsK"
+                    name: "bluetooth speaker",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook11.webp",
+                    link: "https://amzn.to/4hvNjtA"
                 },
             ]
         },
@@ -1467,8 +1474,8 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             shopLook: [
                 {
                     name: "Yoga Mat and Accessories Set",
-                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS50.webp",
-                    link: "https://amzn.to/4hd5ynp"
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook28.webp",
+                    link: "https://amzn.to/4scBsW6"
                 }
             ]
         },
@@ -1485,6 +1492,13 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             tips: [
                 "Check her current shoe size, width preferences, and the return policy before purchasing. Avoid assuming that a particular shoe will suit her foot shape, gait, or comfort needs without trying it on."
             ],
+            shopLook: [
+                {
+                    name: "Walking Shoes",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook29.webp",
+                    link: "https://amzn.to/3VPdC6Z"
+                }
+            ]
         },
         {
             id: 63,
@@ -1502,9 +1516,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Subscription book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook54.webp",
-                    link: "https://amzn.to/3Wb0eKi"
+                    name: "Coloring Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook50.webp",
+                    link: "https://amzn.to/4y6qt1Y"
                 },
             ]
         },
@@ -1524,9 +1538,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Recipe Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
-                    link: "https://amzn.to/4drpLoF"
+                    name: "Gardening Tool Set",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook30.webp",
+                    link: "https://amzn.to/4BfVEKR"
                 },
             ]
         },
@@ -1546,9 +1560,9 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
 
             shopLook: [
                 {
-                    name: "Recipe Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
-                    link: "https://amzn.to/4drpLoF"
+                    name: "Paint-by-Number Art Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplok31.webp",
+                    link: "https://amzn.to/4sc2lto"
                 },
             ]
         },
@@ -1566,13 +1580,6 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
                 "Check the location, booking deadlines, expiration policy, class size, dietary accommodations, and whether ingredients are included. Confirm the certificate can be used on dates that suit her before purchasing."
             ],
 
-            shopLook: [
-                {
-                    name: "Recipe Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
-                    link: "https://amzn.to/4drpLoF"
-                },
-            ]
         },
         {
             id: 67,
@@ -1587,14 +1594,6 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             tips: [
                 "Choose a bookstore she can easily access or an online retailer she already uses. Check the card's redemption rules, expiration terms where applicable, and whether it can be used for ebooks or physical books."
             ],
-
-            shopLook: [
-                {
-                    name: "Recipe Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
-                    link: "https://amzn.to/4drpLoF"
-                },
-            ]
         },
         {
             id: 68,
@@ -1610,13 +1609,6 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
                 "Review the photographer's portfolio, session length, image-delivery terms, and any additional print fees. Confirm how many people are included, whether pets are allowed, and how far in advance the session must be booked."
             ],
 
-            shopLook: [
-                {
-                    name: "Recipe Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
-                    link: "https://amzn.to/4drpLoF"
-                },
-            ]
         },
         {
             id: 69,
@@ -1632,13 +1624,6 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
                 "Check booking flexibility, blackout dates, cancellation rules, travel costs, and what the package actually includes. Present the experience with a card explaining the plan, and confirm her availability before making a nonrefundable reservation."
             ],
 
-            shopLook: [
-                {
-                    name: "Recipe Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
-                    link: "https://amzn.to/4drpLoF"
-                },
-            ]
         },
     ],
 
