@@ -38,6 +38,7 @@ import bestAdventCalendarIdeasForEveryone from "./gift-ideas/37BestAdventCalenda
 import bestChristmasGiftsforSistersSheWillActuallyLove from "./gift-ideas/64BestChristmasGiftsforSistersSheWillActuallyLove";
 import amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel from "./home-decor/15AmazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel";
 import christmasGiftIdeasforMomSheWillAbsolutelyLove from "./gift-ideas/69ChristmasGiftIdeasforMomSheWillAbsolutelyLove";
+import bestStockingStufferIdeasforEveryone from "./gift-ideas/75BestStockingStufferIdeasforEveryone";
 
 const articles = [
 
@@ -79,6 +80,7 @@ const articles = [
     bestChristmasGiftsforSistersSheWillActuallyLove,
     amazonBedroomFindsThatMakeYourRoomFeelLikeaLuxuryHotel,
     christmasGiftIdeasforMomSheWillAbsolutelyLove,
+    bestStockingStufferIdeasforEveryone,
 
 ];
 
