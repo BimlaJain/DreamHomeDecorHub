@@ -66,7 +66,7 @@ export default function ArticleHero({
                     <span>
                         By
                         <span className="ml-1 font-medium text-[#4E342E]">
-                            Dream Home Decor Hub
+                            Styled By Vimal
                         </span>
                     </span>
 
