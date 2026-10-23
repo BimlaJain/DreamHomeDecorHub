@@ -1738,7 +1738,7 @@ const bestStockingStufferIdeasforEveryone = {
                 {
                     name: "Mini Gourmet Popcorn Pack",
                     image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook63.webp",
-                    link: "https://link.amazon/B0ggpYzcM"
+                    link: "https://link.amazon/B028yc6AL"
                 },
             ]
         },
@@ -1760,7 +1760,7 @@ const bestStockingStufferIdeasforEveryone = {
                 {
                     name: "Mini Puzzle Book",
                     image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook64.webp",
-                    link: "https://link.amazon/B0ggpYzcM"
+                    link: "https://link.amazon/B04fIte7S"
                 },
             ]
         },
@@ -1781,8 +1781,8 @@ const bestStockingStufferIdeasforEveryone = {
             shopLook: [
                 {
                     name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook65.webp",
-                    link: "https://link.amazon/B0ggpYzcM"
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
+                    link: "https://amzn.to/3UwNP33"
                 },
             ]
         },
