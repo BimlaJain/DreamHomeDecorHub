@@ -4,13 +4,8 @@ const giftsforYourBoyfriendHeWillActuallyLove = {
 
     slug: "55-Gifts-for-Your-Boyfriend-He-Will-Actually-Love",
 
-    category: "Home Decor",
-
-    categories: [
-        "Home Decor",
-        "Gift Ideas",
-    ],
-
+    category: "Gift Ideas",
+    
     title: "55 Gifts for Your Boyfriend He’ll Actually Love",
 
     readTime: "32 min read",

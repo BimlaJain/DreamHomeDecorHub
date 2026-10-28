@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 
+
 export default function ArticleHero({
     categories,
     title,
@@ -9,6 +10,7 @@ export default function ArticleHero({
     updated,
     readTime,
     image,
+    topPicks,
 }) {
     return (
         <section className="bg-[#FAF7F2] pb-20">
@@ -92,6 +94,53 @@ export default function ArticleHero({
 
                     </div>
 
+                </div>
+            )}
+            {/* Optional Top Picks */}
+            {topPicks?.items?.length > 0 && (
+                <div className="mx-auto mt-12 max-w-5xl px-6">
+                    <div className="rounded-2xl border border-[#E9D8C8] bg-white p-6 md:p-10">
+                        <p className="text-xs font-semibold uppercase tracking-[3px] text-[#9C6A3F]">
+                            Editor's Selection
+                        </p>
+
+                        <h2 className="mt-3 font-playfair text-2xl font-bold text-[#4E342E] md:text-3xl">
+                            {topPicks.title || "Our Top Picks"}
+                        </h2>
+
+                        <div className="mt-6 divide-y divide-[#EEE5DC]">
+                            {topPicks.items.map((pick, index) => (
+                                <div key={`${pick.label}-${index}`} className="py-5">
+                                    <p className="text-lg leading-8 text-stone-700">
+                                        <strong className="text-[#4E342E]">
+                                            {pick.label}:
+                                        </strong>{" "}
+
+
+                                        {pick.link ? (
+                                            <a
+                                                href={pick.link}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="underline decoration-2 underline-offset-4 hover:text-[#9C6A3F]"
+                                            >
+                                                {pick.title}
+                                            </a>
+                                        ) : (
+                                            pick.title
+                                        )}
+
+                                    </p>
+
+                                    {pick.description && (
+                                        <p className="mt-3 text-base leading-8 text-stone-600">
+                                            “{pick.description}”
+                                        </p>
+                                    )}
+                                </div>
+                            ))}
+                        </div>
+                    </div>
                 </div>
             )}
 

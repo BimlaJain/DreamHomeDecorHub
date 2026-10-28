@@ -1,3 +1,4 @@
+import { href } from "react-router-dom";
 
 const bestStockingStufferIdeasforEveryone = {
 
@@ -28,7 +29,33 @@ const bestStockingStufferIdeasforEveryone = {
 
     author:
         "StyledByVimal",
-
+    
+    topPicks: {
+        title: "Our Favorite Stocking Stuffers",
+        items: [
+            {
+                label: "Best for Her",
+                title: "Satin Scrunchies",
+                description:
+                    "Their smooth texture can help reduce friction compared with some rougher hair ties, making them a popular option for everyday hairstyles and nighttime routines.",
+                link: "https://link.amazon/B021Sd3RV",
+            },
+            {
+                label: "Best for Him",
+                title: "Beard Comb",
+                description:
+                    "A beard comb is a small grooming accessory for someone who maintains facial hair. ",
+                link: "https://link.amazon/B0fNzSxlG",
+            },
+            {
+                label: "Best for teens",
+                title: "Cute Phone Charm",
+                description:
+                    "A phone charm is a fun way for teens to personalize their everyday accessories.",
+                link: "https://link.amazon/B09xQGyV8",
+            },
+        ],
+    },
     tableOfContents: [
 
         "Lip Balm Gift Set",

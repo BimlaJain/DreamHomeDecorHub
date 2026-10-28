@@ -202,6 +202,7 @@ export default async function Page({ params }) {
                 updated={article.updated}
                 readTime={article.readTime}
                 image={article.image}
+                topPicks={article.topPicks}
             />
 
 
