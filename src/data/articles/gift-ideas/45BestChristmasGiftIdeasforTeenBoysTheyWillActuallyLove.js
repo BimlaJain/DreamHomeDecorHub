@@ -1022,9 +1022,9 @@ const bestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Tool Set",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook40.webp",
-                    link: "https://amzn.to/4xQseQw"
+                    name: "Puzzle Advent Calendar",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook37.webp",
+                    link: "https://amzn.to/4i2M7iL"
                 },
             ]
         },
@@ -1064,13 +1064,6 @@ const bestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove = {
                 "Confirm that the gift card works at a theater near him and whether online booking is supported. Check restrictions on premium screenings, fees, and expiration. If possible, pair it with a planned movie outing for an extra-personal touch."
             ],
 
-            shopLook: [
-                {
-                    name: "Movie Theater Gift Card",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook42.webp",
-                    link: "https://amzn.to/4hUsVnh"
-                },
-            ]
         },
         {
             id: 43,
@@ -1089,8 +1082,8 @@ const bestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove = {
             shopLook: [
                 {
                     name: "Indoor Go-Karting Experience",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook43.webp",
-                    link: "https://amzn.to/4ytJTiq"
+                    image: "/images/blog/article/45-best-christmas-gift-ideas-for-teen-boys/shoplook26.webp",
+                    link: "https://link.amazon/B0gawKEYw"
                 },
             ]
 
@@ -1112,8 +1105,8 @@ const bestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove = {
             shopLook: [
                 {
                     name: "Indoor Climbing Session",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook44.webp",
-                    link: "https://amzn.to/4zbSy97"
+                    image: "/images/blog/article/45-best-christmas-gift-ideas-for-teen-boys/shoplook27.webp",
+                    link: "https://link.amazon/B0fw261nQ"
                 },
             ]
         },
@@ -1130,13 +1123,6 @@ const bestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove = {
             tips: [
                 "Confirm the exact platform and regional restrictions before purchasing. A console-specific card may not work on another system or account region. Buy from an authorized retailer, check the redemption instructions, and avoid sharing the code before gifting it."
             ],
-            shopLook: [
-                {
-                    name: "Desk Organizer",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook45.webp",
-                    link: "https://amzn.to/4AHd02W"
-                },
-            ]
 
         },
     ],
