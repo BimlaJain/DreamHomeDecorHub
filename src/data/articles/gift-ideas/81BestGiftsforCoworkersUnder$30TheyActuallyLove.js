@@ -1100,9 +1100,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Cuticle Oil Pen",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook40.webp",
-                    link: "https://link.amazon/B0d586iEj"
+                    name: "Retractable Charging Cable",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook22.webp",
+                    link: "https://link.amazon/B04lN9n3q"
                 },
             ]
         },
@@ -1122,9 +1122,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Glass Nail File",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook41.webp",
-                    link: "https://link.amazon/B0hGzOZaJ"
+                    name: "Portable Bluetooth Shutter Remote",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook23.webp",
+                    link: "https://link.amazon/B02V5YBAq"
                 },
             ]
 
@@ -1145,9 +1145,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: " Aromatherapy Shower Steamers",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook12.webp",
-                    link: "https://amzn.to/4jFsTRv"
+                    name: "Webcam Privacy Cover Set",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook24.webp",
+                    link: "https://link.amazon/B02etfWCB"
                 },
             ]
         },
@@ -1166,17 +1166,17 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Silk Sleep Mask",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook9.webp",
-                    link: "https://amzn.to/4ATcBdW"
-                },
+                    name: "Digital luggage scale",
+                    image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS19.webp",
+                    link: "https://amzn.to/3ULRUjw"
+                }
             ]
 
         },
         {
             id: 46,
 
-            title: "Personalized Initial Keychainb",
+            title: "Personalized Initial Keychain",
 
             image: "/images/blog/article/81-best-gift-ideas-for-coworkers/best-gift-for-coworkers-idea46.webp",
 
@@ -1189,9 +1189,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Mini Body Scrub",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook42.webp",
-                    link: "https://link.amazon/B07xoIbWT"
+                    name: "Personalized Initial Keychain",
+                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook58.webp",
+                    link: "https://link.amazon/B0je0PxDS"
                 },
             ]
         },
@@ -1211,9 +1211,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Travel-Size Shampoo and Conditioner",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook43.webp",
-                    link: "https://link.amazon/B0bcVK8ra"
+                    name: "Custom Photo Frame",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook33.webp",
+                    link: "https://amzn.to/4yaWs0N"
                 },
             ]
         },
@@ -1232,9 +1232,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Perfume Set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook3.webp",
-                    link: "https://amzn.to/4ASVGZ8"
+                    name: "Custom Metal Bookmark",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook25.webp",
+                    link: "https://link.amazon/B03HcVX3k"
                 },
             ]
         },
@@ -1254,9 +1254,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Lip Mask",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook5.webp",
-                    link: "https://amzn.to/4do6VP7"
+                    name: "Personalized Reusable Notebook",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook26.webp",
+                    link: "https://link.amazon/B00QpAe3q"
                 },
             ]
 
@@ -1277,9 +1277,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Mini Nail Polish",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook44.webp",
-                    link: "https://link.amazon/B04PqpScU"
+                    name: "Monogrammed Pouch",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook27.webp",
+                    link: "https://link.amazon/B0aFeNVGb"
                 },
             ]
         },
@@ -1299,9 +1299,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Retractable Charging Cable",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook45.webp",
-                    link: "https://link.amazon/B0cCMjGvv"
+                    name: "Handwritten Thank-You Card Gift Set",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook28.webp",
+                    link: "https://link.amazon/B086VBKOz"
                 },
             ]
         },
@@ -1321,9 +1321,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Microfiber Screen Cleaning Cloth",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook46.webp",
-                    link: "https://link.amazon/B08GxnAyu"
+                    name: "Funny Office Desk Sign",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook29.webp",
+                    link: "https://link.amazon/B01NhEelG"
                 },
             ]
         },
@@ -1341,13 +1341,6 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
                 "Check the mounting method and overall dimensions before purchasing. A small freestanding version is often more practical than one that requires attaching hardware to an office door."
             ],
 
-            shopLook: [
-                {
-                    name: " Power Bank",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook13.webp",
-                    link: "https://amzn.to/46OxERl"
-                },
-            ]
         },
         {
             id: 54,
@@ -1364,9 +1357,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Bluetooth Item Finder",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook47.webp",
-                    link: "https://link.amazon/B07F9uxME"
+                    name: "Funny Coffee Mug",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook30.webp",
+                    link: "https://link.amazon/B03iYXe8r"
                 },
             ]
         },
@@ -1385,9 +1378,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Magnetic Cable Clips",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook48.webp",
-                    link: "https://link.amazon/B0aiBsaCG"
+                    name: "Mini Desktop Decision Maker",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook31.webp",
+                    link: "https://link.amazon/B05514KQY"
                 },
             ]
         },
@@ -1406,9 +1399,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Reusable Shopping Bag",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook49.webp",
-                    link: "https://link.amazon/B06APjfuQ"
+                    name: "Desktop Mini Zen Garden",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook32.webp",
+                    link: "https://link.amazon/B0gBOvJdJ"
                 },
             ]
         },
@@ -1428,9 +1421,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Pocket Notebook and Pen",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook50.webp",
-                    link: "https://link.amazon/B07uBiLRY"
+                    name: "Mini Succulent Plant",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook33.webp",
+                    link: "https://link.amazon/B0iVjFC7C"
                 },
             ]
         },
@@ -1450,9 +1443,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Reusable Hand Warmers",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook51.webp",
-                    link: "https://link.amazon/B05HILUDd"
+                    name: "Mini Succulent Plant",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook33.webp",
+                    link: "https://link.amazon/B0iVjFC7C"
                 },
             ]
         },
@@ -1472,9 +1465,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Travel Luggage Tag",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook52.webp",
-                    link: "https://link.amazon/B0hCOBWem"
+                    name: "Small Desktop Photo Display Stand",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook34.webp",
+                    link: "https://link.amazon/B0iI5enAw"
                 },
             ]
         },
@@ -1494,9 +1487,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Mini First-Aid Pouch",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook53.webp",
-                    link: "https://link.amazon/B0ggpYzcM"
+                    name: "Decorative Trinket Dish",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook35.webp",
+                    link: "https://link.amazon/B0gmGnWyb"
                 },
             ]
         },
@@ -1516,9 +1509,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Fuzzy Winter Socks",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook54.webp",
-                    link: "https://link.amazon/B0gKKtKUa"
+                    name: "Paint-by-Number Art Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplok31.webp",
+                    link: "https://amzn.to/4sc2lto"
                 },
             ]
         },
@@ -1537,9 +1530,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Candle gift set",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook25.webp",
-                    link: "https://amzn.to/4y6Qcra"
+                    name: "Beginner Embroidery Kit",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook36.webp",
+                    link: "https://link.amazon/B098K8qeV"
                 },
             ]
         },
@@ -1559,9 +1552,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Hot Chocolate Gift Sachets",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook55.webp",
-                    link: "https://link.amazon/B02kvbrrM"
+                    name: "Watercolor Postcard Set",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook36.webp",
+                    link: "https://link.amazon/B03cHvH0n"
                 },
             ]
         },
@@ -1581,9 +1574,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Reusable Metal Straw Sett",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook56.webp",
-                    link: "https://link.amazon/B0jcuAIAG"
+                    name: "Coloring Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook50.webp",
+                    link: "https://amzn.to/4y6qt1Y"
                 },
             ]
         },
@@ -1600,6 +1593,13 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             tips: [
                 "Pick a beginner kit that includes diagrams or video tutorials. A variety of paper sizes and colors gives the recipient more creative possibilities without needing extra supplies."
             ],
+            shopLook: [
+                {
+                    name: "Origami Paper Craft Kit",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook37.webp",
+                    link: "https://link.amazon/B01xX59cr"
+                },
+            ]
         },
         {
             id: 66,
@@ -1616,9 +1616,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Mini Desk Plant",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook57.webp",
-                    link: "https://link.amazon/B0iQt7Zz2"
+                    name: "Brain Teaser",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook37.webp",
+                    link: "https://amzn.to/4i2M7iL"
                 },
             ]
 
@@ -1638,9 +1638,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Recipe Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook4.webp",
-                    link: "https://amzn.to/4drpLoF"
+                    name: "Compact Card Game",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook38.webp",
+                    link: "https://link.amazon/B028mjCxT"
                 },
             ]
         },
@@ -1659,9 +1659,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Personalized Initial Keychain",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook58.webp",
-                    link: "https://link.amazon/B0je0PxDS"
+                    name: "Miniature DIY Craft Kit",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook40.webp",
+                    link: "https://link.amazon/B0fKG40t2"
                 },
             ]
 
@@ -1681,9 +1681,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
             ],
             shopLook: [
                 {
-                    name: "Mini Jigsaw Puzzle",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook59.webp",
-                    link: "https://link.amazon/B0g33YBPq"
+                    name: "Build-Your-Own Mini Model Kit",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook41.webp",
+                    link: "https://link.amazon/B05HxM80b"
                 },
             ]
         },
@@ -1703,9 +1703,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Mini Gratitude Journal",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook60.webp",
-                    link: "https://link.amazon/B0hkboXFs"
+                    name: "Crochet Kit",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook47.webp",
+                    link: "https://amzn.to/4yEsnbg"
                 },
             ]
         },
@@ -1725,9 +1725,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Gourmet Chocolate Bar",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook61.webp",
-                    link: "https://link.amazon/B0i1Xe430"
+                    name: "Compact Travel Umbrella",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook42.webp",
+                    link: "https://link.amazon/B0aHGi2Lw"
                 },
             ]
         },
@@ -1747,10 +1747,10 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Peppermint Candy Canes",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook62.webp",
-                    link: "https://link.amazon/B0dadQYYf"
-                },
+                    name: "Reusable silicone storage bags",
+                    image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS17.webp",
+                    link: "https://amzn.to/3T5mlRg"
+                }
             ]
         },
         {
@@ -1769,10 +1769,10 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Mini Gourmet Popcorn Pack",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook63.webp",
-                    link: "https://link.amazon/B028yc6AL"
-                },
+                    name: "4–6 piece packing-cube set",
+                    image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS8.webp",
+                    link: "https://amzn.to/4wTXqhl"
+                }
             ]
         },
         {
@@ -1791,9 +1791,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Mini Puzzle Book",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook64.webp",
-                    link: "https://link.amazon/B04fIte7S"
+                    name: "Sneaker Cleaning Kit",
+                    image: "/images/blog/article/45-best-christmas-gift-ideas-for-teen-boys/shoplook8.webp",
+                    link: "https://link.amazon/B02XcwGWT"
                 },
             ]
         },
@@ -1813,9 +1813,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
-                    link: "https://amzn.to/3UwNP33"
+                    name: "Screen Cleaning Kit",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook43.webp",
+                    link: "https://link.amazon/B0iSvzENZ"
                 },
             ]
         },
@@ -1833,13 +1833,7 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
                 "Pick a bookstore your coworker can access easily, and check whether the card can be used online as well as in-store. Include a short personal message to make it feel less generic."
             ],
 
-            shopLook: [
-                {
-                    name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
-                    link: "https://amzn.to/3UwNP33"
-                },
-            ]
+
         },
         {
             id: 77,
@@ -1855,13 +1849,6 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
                 "Check that the gift card is valid at a location your coworker can realistically visit. If you're unsure of their favorite café, choose a widely accessible chain or a digital card with flexible redemption options."
             ],
 
-            shopLook: [
-                {
-                    name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
-                    link: "https://amzn.to/3UwNP33"
-                },
-            ]
         },
         {
             id: 78,
@@ -1877,13 +1864,6 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
                 "Choose a theater chain with locations near your coworker's area. Check the expiration date, online booking rules, and any restrictions before purchasing the card."
             ],
 
-            shopLook: [
-                {
-                    name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
-                    link: "https://amzn.to/3UwNP33"
-                },
-            ]
         },
         {
             id: 79,
@@ -1899,20 +1879,13 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
                 "Check the bakery's location, opening hours, and gift card terms before buying. If you don't know the recipient's dietary preferences, letting them choose their own treat is a considerate approach."
             ],
 
-            shopLook: [
-                {
-                    name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
-                    link: "https://amzn.to/3UwNP33"
-                },
-            ]
         },
         {
             id: 80,
 
             title: "Travel Laundry Bag",
 
-            image: "/images/blog/article/81-best-gift-ideas-for-coworkers/best-gift-for-coworkers-idea75.webp",
+            image: "/images/blog/article/81-best-gift-ideas-for-coworkers/best-gift-for-coworkers-idea80.webp",
 
             description:
                 "A lightweight travel laundry bag is a practical gift for a coworker who takes weekend trips, goes to the gym, or travels regularly. It provides a separate place to store worn clothes, helping keep clean items organized inside a suitcase or overnight bag. Look for a foldable design made from washable fabric with a secure drawstring or zipper closure. Some versions include a water-resistant lining, which can be useful for separating damp clothing. It's an understated but genuinely helpful item that many people don't think to buy for themselves. Choose a neutral design that works for different travel styles.",
@@ -1923,9 +1896,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
-                    link: "https://amzn.to/3UwNP33"
+                    name: "Travel Laundry Bag",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook44.webp",
+                    link: "https://link.amazon/B0ht7cFSp"
                 },
             ]
         },
@@ -1934,7 +1907,7 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             title: "Indoor Herb Growing Kit",
 
-            image: "/images/blog/article/81-best-gift-ideas-for-coworkers/best-gift-for-coworkers-idea75.webp",
+            image: "/images/blog/article/81-best-gift-ideas-for-coworkers/best-gift-for-coworkers-idea81.webp",
 
             description:
                 "An indoor herb growing kit is a cheerful gift for a coworker who enjoys cooking, gardening, or having a little greenery at home. Most kits include seeds, growing containers, and planting instructions for herbs such as basil, parsley, or mint. Some also provide soil discs or other basic supplies, making them convenient for beginners. It's a gift that offers an ongoing activity rather than a one-time treat, as the recipient can watch the herbs grow and eventually use them in meals. Choose a compact kit designed for indoor use, especially if your coworker has limited outdoor space.",
@@ -1945,9 +1918,9 @@ const bestGiftsforCoworkersUnder$30TheywillActuallyLove = {
 
             shopLook: [
                 {
-                    name: "Personalized Christmas Ornament",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook5.webp",
-                    link: "https://amzn.to/3UwNP33"
+                    name: "Herb Garden Growing Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook24.webp",
+                    link: "https://amzn.to/4BijTbt"
                 },
             ]
         },
