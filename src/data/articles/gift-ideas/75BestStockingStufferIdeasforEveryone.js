@@ -1562,7 +1562,7 @@ const bestStockingStufferIdeasforEveryone = {
         {
             id: 64,
 
-            title: "Reusable Metal Straw Sett",
+            title: "Reusable Metal Straw Set",
 
             image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/best-stocking-stuffer-idea64.webp",
 
@@ -1575,7 +1575,7 @@ const bestStockingStufferIdeasforEveryone = {
 
             shopLook: [
                 {
-                    name: "Reusable Metal Straw Sett",
+                    name: "Reusable Metal Straw Set",
                     image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook56.webp",
                     link: "https://link.amazon/B0jcuAIAG"
                 },
