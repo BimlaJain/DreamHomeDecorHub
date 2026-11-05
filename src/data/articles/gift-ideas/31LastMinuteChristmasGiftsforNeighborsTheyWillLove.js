@@ -117,21 +117,10 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             shopLook: [
 
                 {
-                    name: "Beauty Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook1.webp",
-                    link: "https://amzn.to/4dhW4Gr"
+                    name: "Homemade Christmas Cookie Box",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook1.webp",
+                    link: "https://link.amazon/B05wMbrJG"
                 },
-                {
-                    name: "Makeup organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
-                    link: "https://amzn.to/47zdUkK"
-                },
-                {
-                    name: "Makeup Brush Set",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook4.webp",
-                    link: "https://amzn.to/4yvIpnx"
-                },
-
             ]
 
         },
@@ -152,14 +141,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Skincare Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook2.webp",
-                    link: "https://amzn.to/3U2MuRg"
-                },
-                {
-                    name: "Cosmetic organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
-                    link: "https://amzn.to/47zdUkK"
+                    name: "Homemade Hot Cocoa Mix Jar",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook2.webp",
+                    link: "https://link.amazon/B01UEthwP"
                 },
             ]
 
@@ -181,19 +165,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Makeup Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook5.webp",
-                    link: "https://amzn.to/475KUB5"
-                },
-                {
-                    name: "Cosmetic organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook3.webp",
-                    link: "https://amzn.to/47zdUkK"
-                },
-                {
-                    name: "Makeup Brush Set",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook4.webp",
-                    link: "https://amzn.to/4yvIpnx"
+                    name: "Homemade Christmas Fudge Box",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook1.webp",
+                    link: "https://link.amazon/B05wMbrJG"
                 },
             ]
 
@@ -215,19 +189,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Jewelry Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook6.webp",
+                    name: "DIY Christmas Simmer Pot Kit",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook3.webp",
                     link: "https://amzn.to/4y8oj1P"
-                },
-                {
-                    name: "Jewelry Organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook7.webp",
-                    link: "https://amzn.to/4ALV7A6"
-                },
-                {
-                    name: " Travel Jewelry Case",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook8.webp",
-                    link: "https://amzn.to/4hCmCDt"
                 },
             ]
 
@@ -249,24 +213,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Self-Care Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook9.webp",
-                    link: "https://amzn.to/4z9kkmr"
-                },
-                {
-                    name: "Satin Sleep Mask",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook10.webp",
-                    link: "https://amzn.to/4jELywI"
-                },
-                {
-                    name: " Bath Pillow",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook11.webp",
-                    link: "https://amzn.to/472I1Rt"
-                },
-                {
-                    name: " Aromatherapy Shower Steamers",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook12.webp",
-                    link: "https://amzn.to/4jFsTRv"
+                    name: "Homemade Christmas Granola Jar",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook4.webp",
+                    link: "https://link.amazon/B05cLIxuG"
                 },
             ]
 
@@ -288,24 +237,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Candle Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook13.webp",
-                    link: "https://amzn.to/4rOQWQ4"
-                },
-                {
-                    name: "Candle Warmer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook14.webp",
-                    link: "https://amzn.to/4jEPOwg"
-                },
-                {
-                    name: " Bath Pillow",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook48.webp",
-                    link: "https://amzn.to/472I1Rt"
-                },
-                {
-                    name: " Aromatherapy Shower Steamers",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook49.webp",
-                    link: "https://amzn.to/4jFsTRv"
+                    name: "DIY Christmas Gift Tag and Card Set",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook5.webp",
+                    link: "https://link.amazon/B0aOPCzAV"
                 },
             ]
 
@@ -327,14 +261,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Perfume Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook15.webp",
-                    link: "https://amzn.to/4ylVJKF"
-                },
-                {
-                    name: " Perfume Travel Case",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook16.webp",
-                    link: "https://amzn.to/3Vv2An9"
+                    name: "Christmas Chocolate Gift Box",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook6.webp",
+                    link: "https://link.amazon/B09MoMxoE"
                 },
             ]
 
@@ -356,14 +285,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Coffee Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook17.webp",
-                    link: "https://amzn.to/4hsIMcH"
-                },
-                {
-                    name: "Electric Coffee Frother",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook18.webp",
-                    link: "https://amzn.to/4hFxhNY"
+                    name: "Mini Gourmet Popcorn Pack",
+                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook63.webp",
+                    link: "https://link.amazon/B028yc6AL"
                 },
             ]
 
@@ -384,10 +308,10 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             ],
             shopLook: [
                 {
-                    name: "Hot Sauce Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook19.webp",
-                    link: "https://amzn.to/4dkczSi"
-                },
+                    name: "Tea Sampler",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS12.webp",
+                    link: "https://amzn.to/4hBuzdi"
+                }
             ]
 
         },
@@ -407,14 +331,14 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Men Grooming Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook20.webp",
-                    link: "https://amzn.to/47xMs71"
+                    name: "Mini Honey Gift Set",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook14.webp",
+                    link: "https://link.amazon/B05e9ZwNY"
                 },
                 {
-                    name: "Beard Grooming Kit",
-                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook26.webp",
-                    link: "https://amzn.to/4AxJ3T0"
+                    name: "Gourmet Mini Jam set",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook15.webp",
+                    link: "https://link.amazon/B0dFl7cU8"
                 },
             ]
 
@@ -434,21 +358,13 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             ],
             shopLook: [
                 {
-                    name: "Snack Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook21.webp",
-                    link: "https://amzn.to/4z9lK0f"
-                },
-                {
-                    name: "Snack Serving Tray",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook15.webp",
-                    link: "https://amzn.to/4diPv6z"
+                    name: "Christmas Candy and Treat Bag",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook7.webp",
+                    link: "https://link.amazon/B0dkwEgo7"
                 },
             ]
 
-
         },
-
-
 
         {
             id: 12,
@@ -465,9 +381,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             ],
             shopLook: [
                 {
-                    name: "Chocolate Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook22.webp",
-                    link: "https://amzn.to/3TCZfBY"
+                    name: "Christmas-Themed Coffee Mug",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook8.webp",
+                    link: "https://link.amazon/B04bFJPkR"
                 },
             ]
 
@@ -490,9 +406,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Tea Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook23.webp",
-                    link: "https://amzn.to/4y3922f"
+                    name: "Soft Christmas Socks",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook9.webp",
+                    link: "https://link.amazon/B05OuYBbf"
                 },
             ]
 
@@ -514,14 +430,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Cookie Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook24.webp",
-                    link: "https://amzn.to/3VxtuuA"
-                },
-                {
-                    name: "Cookie decorating kit",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook25.webp",
-                    link: "https://amzn.to/4z84it4"
+                    name: "Festive Kitchen Towel Set",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook10.webp",
+                    link: "https://link.amazon/B0gElcvF6"
                 },
             ]
 
@@ -539,6 +450,13 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             tips: [
                 "Look for a tote made from durable, washable material with reinforced handles. Choose a foldable design that fits easily into a handbag or car so it's convenient to carry."
             ],
+            shopLook: [
+                {
+                    name: "Compact Reusable Shopping Tote",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook19.webp",
+                    link: "https://link.amazon/B0iKmVDnG"
+                },
+            ]
 
         },
 
@@ -560,14 +478,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Hot Chocolate Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook26.webp",
-                    link: "https://amzn.to/4rJZ4kO"
-                },
-                {
-                    name: "Electric Milk Frother",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook18.webp",
-                    link: "https://amzn.to/4hFxhNY"
+                    name: "Cozy Throw Blanket",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook6.webp",
+                    link: "https://amzn.to/4jqnlKF"
                 },
             ]
 
@@ -589,9 +502,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "LEGO Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook27.webp",
-                    link: "https://amzn.to/4703z1a"
+                    name: "Mini Christmas Wreath",
+                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
+                    link: "https://amzn.to/46VVjPR"
                 },
             ]
 
@@ -613,10 +526,10 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Toy Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook28.webp",
-                    link: "https://amzn.to/4AP1T8m"
-                },
+                    name: "Scented Candles for gift",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
+                    link: "https://amzn.to/4yJRAAu"
+                }
             ]
 
         },
@@ -637,9 +550,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Candy Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook29.webp",
-                    link: "https://amzn.to/4yyDvGA"
+                    name: "Mini Christmas Table Centerpiece",
+                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook11.webp",
+                    link: "https://link.amazon/B03j29IBK"
                 },
             ]
 
@@ -660,14 +573,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Barbie/Doll Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook30.webp",
-                    link: "https://amzn.to/4APMIvD"
-                },
-                {
-                    name: "Doll House accessories",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook31.webp",
-                    link: "https://amzn.to/4rJZrvI"
+                    name: "Mini Christmas ornaments",
+                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
+                    link: "https://amzn.to/4ABtdGS"
                 },
             ]
 
@@ -688,14 +596,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Pokémon Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook32.webp",
-                    link: "https://amzn.to/4j02PjT"
-                },
-                {
-                    name: "Collectible Display Case",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook33.webp",
-                    link: "https://amzn.to/4yw5qqD"
+                    name: "Mini Succulent Plant",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook33.webp",
+                    link: "https://link.amazon/B0iVjFC7C"
                 },
             ]
 
@@ -716,15 +619,10 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Craft Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook34.webp",
-                    link: "https://amzn.to/4y2zyZw"
-                },
-                {
-                    name: "Craft storage organizer",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook35.webp",
-                    link: "https://amzn.to/4xZ4iKQ"
-                },
+                    name: "Coffee Lover’s Gift Set",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS22.webp",
+                    link: "https://amzn.to/4h1q37N"
+                }
             ]
 
         },
@@ -743,9 +641,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             ],
             shopLook: [
                 {
-                    name: "Book Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook36.webp",
-                    link: "https://amzn.to/4yytycd"
+                    name: "Movie Night Box",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook55.webp",
+                    link: "https://amzn.to/4jCVabq"
                 },
             ]
 
@@ -765,9 +663,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             ],
             shopLook: [
                 {
-                    name: "Puzzle Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook37.webp",
-                    link: "https://amzn.to/4i2M7iL"
+                    name: "Baking Kit",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook48.webp",
+                    link: "https://amzn.to/4j9wyqK"
                 },
             ]
 
@@ -789,15 +687,10 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Socks Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook38.webp",
-                    link: "https://amzn.to/472L4Jp"
-                },
-                {
-                    name: "Socks organizer box",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook39.webp",
-                    link: "https://amzn.to/4zkqNv7"
-                },
+                    name: "Self-Care Gift",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS22.webp",
+                    link: "https://amzn.to/4h1q37N"
+                }
             ]
         },
         {
@@ -816,15 +709,10 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Pet Treat Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook40.webp",
-                    link: "https://amzn.to/4hFjEyh"
-                },
-                {
-                    name: "Pet bowl",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook41.webp",
-                    link: "https://amzn.to/47A9hHe"
-                },
+                    name: "Breakfast Gift Basket",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS42.webp",
+                    link: "https://amzn.to/4hB42Nf"
+                }
             ]
         },
         {
@@ -843,9 +731,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Christmas Ornament Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook42.webp",
-                    link: "https://amzn.to/4ALin1e"
+                    name: "Custom Metal Bookmark",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook25.webp",
+                    link: "https://link.amazon/B03HcVX3k"
                 },
             ]
         },
@@ -865,9 +753,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Miniature Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook43.webp",
-                    link: "https://amzn.to/3TKwtPE"
+                    name: "Brain Teaser",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook37.webp",
+                    link: "https://amzn.to/4i2M7iL"
                 },
             ]
         },
@@ -887,9 +775,9 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
 
             shopLook: [
                 {
-                    name: "Date-Night Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook50.webp",
-                    link: "https://amzn.to/4AJscwR"
+                    name: "Herb Garden Growing Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook24.webp",
+                    link: "https://amzn.to/4BijTbt"
                 },
             ]
         },
@@ -907,13 +795,6 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
                 "Keep your message friendly and genuine rather than overly formal. Mention something simple, such as wishing them a peaceful holiday season, and make sure the treat is securely packaged."
             ],
 
-            shopLook: [
-                {
-                    name: "Snack Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook21.webp",
-                    link: "https://amzn.to/4z9lK0f"
-                },
-            ]
         },
         {
             id: 31,
@@ -928,14 +809,6 @@ const lastMinuteChristmasGiftsforNeighborsTheyLove = {
             tips: [
                 "Choose a widely accessible local grocery store or coffee shop that your neighbor is likely to visit. Check the card's balance and activation before gifting, and include the receipt if appropriate."
             ],
-
-            shopLook: [
-                {
-                    name: "Baking Advent Calendar",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook45.webp",
-                    link: "https://amzn.to/4dF444D"
-                },
-            ]
         },
     ],
 
