@@ -42,6 +42,7 @@ import bestStockingStufferIdeasforEveryone from "./gift-ideas/75BestStockingStuf
 import bestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove from "./gift-ideas/45BestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove";
 import bestGiftsforCoworkersUnder$30TheywillActuallyLove from "./gift-ideas/81BestGiftsforCoworkersUnder$30TheyActuallyLove";
 import lastMinuteChristmasGiftsforNeighborsTheyLove from "./gift-ideas/31LastMinuteChristmasGiftsforNeighborsTheyWillLove";
+import bestBurrBasketIdeasforChristmas from "./gift-ideas/27BestBurrBasketIdeasforChristmas2026";
 
 const articles = [
 
@@ -87,7 +88,7 @@ const articles = [
     bestChristmasGiftIdeasforTeenBoysTheyWillActuallyLove,
     bestGiftsforCoworkersUnder$30TheywillActuallyLove,
     lastMinuteChristmasGiftsforNeighborsTheyLove,
-    
+    bestBurrBasketIdeasforChristmas,
 
 ];
 
