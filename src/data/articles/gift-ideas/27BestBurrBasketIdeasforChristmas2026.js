@@ -109,9 +109,24 @@ const bestBurrBasketIdeasforChristmas = {
             shopLook: [
 
                 {
-                    name: "Homemade Christmas Cookie Box",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook1.webp",
-                    link: "https://link.amazon/B05wMbrJG"
+                    name: "Pink fuzzy socks",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook1.webp",
+                    link: "https://link.amazon/B0iPOQcLh"
+                },
+                {
+                    name: "pink gift basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook2.webp",
+                    link: "https://link.amazon/B0gPPoEaX"
+                },
+                {
+                    name: "lip gloss",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook3.webp",
+                    link: "https://link.amazon/B0da26mIr"
+                },
+                {
+                    name: "pink tumbler with straw",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook4.webp",
+                    link: "https://link.amazon/B0invYBXg"
                 },
             ]
 
@@ -133,9 +148,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Homemade Hot Cocoa Mix Jar",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook2.webp",
-                    link: "https://link.amazon/B01UEthwP"
+                    name: "Luxury Self-Care Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook5.webp",
+                    link: "https://link.amazon/B00y1JTqY"
                 },
             ]
 
@@ -157,9 +172,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Homemade Christmas Fudge Box",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook1.webp",
-                    link: "https://link.amazon/B05wMbrJG"
+                    name: "Cozy Girl Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook6.webp",
+                    link: "https://link.amazon/B0bjW9Y6F"
                 },
             ]
 
@@ -181,9 +196,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "DIY Christmas Simmer Pot Kit",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook3.webp",
-                    link: "https://amzn.to/4y8oj1P"
+                    name: "Beauty Lover Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook7.webp",
+                    link: "https://link.amazon/B0ilUFLve"
                 },
             ]
 
@@ -205,9 +220,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Homemade Christmas Granola Jar",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook4.webp",
-                    link: "https://link.amazon/B05cLIxuG"
+                    name: "Coffee Lover Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook8.webp",
+                    link: "https://link.amazon/B0c1jo01F"
                 },
             ]
 
@@ -229,9 +244,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "DIY Christmas Gift Tag and Card Set",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook5.webp",
-                    link: "https://link.amazon/B0aOPCzAV"
+                    name: "Grooming Essentials Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook9.webp",
+                    link: "https://link.amazon/B063jwbbu"
                 },
             ]
 
@@ -253,9 +268,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Christmas Chocolate Gift Box",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook6.webp",
-                    link: "https://link.amazon/B09MoMxoE"
+                    name: "Winter Essentials Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook10.webp",
+                    link: "https://link.amazon/B05W2Ks0i"
                 },
             ]
 
@@ -277,9 +292,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Mini Gourmet Popcorn Pack",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook63.webp",
-                    link: "https://link.amazon/B028yc6AL"
+                    name: "Gamer Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook11.webp",
+                    link: "https://link.amazon/B0gkQHA7n"
                 },
             ]
 
@@ -300,9 +315,9 @@ const bestBurrBasketIdeasforChristmas = {
             ],
             shopLook: [
                 {
-                    name: "Tea Sampler",
-                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS12.webp",
-                    link: "https://amzn.to/4hBuzdi"
+                    name: "Movie Night Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook12.webp",
+                    link: "https://link.amazon/B08y1mEmB"
                 }
             ]
 
@@ -323,14 +338,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Mini Honey Gift Set",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook14.webp",
-                    link: "https://link.amazon/B05e9ZwNY"
-                },
-                {
-                    name: "Gourmet Mini Jam set",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook15.webp",
-                    link: "https://link.amazon/B0dFl7cU8"
+                    name: "Teen Girl Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook13.webp",
+                    link: "https://link.amazon/B0dUaBpj7"
                 },
             ]
 
@@ -350,9 +360,9 @@ const bestBurrBasketIdeasforChristmas = {
             ],
             shopLook: [
                 {
-                    name: "Christmas Candy and Treat Bag",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook7.webp",
-                    link: "https://link.amazon/B0dkwEgo7"
+                    name: "Teen Boy Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook11.webp",
+                    link: "https://link.amazon/B0gkQHA7n"
                 },
             ]
 
@@ -373,9 +383,9 @@ const bestBurrBasketIdeasforChristmas = {
             ],
             shopLook: [
                 {
-                    name: "Christmas-Themed Coffee Mug",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook8.webp",
-                    link: "https://link.amazon/B04bFJPkR"
+                    name: "Study Buddy Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook14.webp",
+                    link: "https://link.amazon/B0bisQzYa"
                 },
             ]
 
@@ -398,9 +408,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Soft Christmas Socks",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook9.webp",
-                    link: "https://link.amazon/B05OuYBbf"
+                    name: "Cozy Winter Teen Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook15.webp",
+                    link: "https://link.amazon/B0hEIqRek"
                 },
             ]
 
@@ -422,9 +432,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Festive Kitchen Towel Set",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook10.webp",
-                    link: "https://link.amazon/B0gElcvF6"
+                    name: "Bestie Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook16.webp",
+                    link: "https://link.amazon/B06tf71pk"
                 },
             ]
 
@@ -444,9 +454,9 @@ const bestBurrBasketIdeasforChristmas = {
             ],
             shopLook: [
                 {
-                    name: "Compact Reusable Shopping Tote",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook19.webp",
-                    link: "https://link.amazon/B0iKmVDnG"
+                    name: "Book Lover Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook17.webp",
+                    link: "https://link.amazon/B0i8oo6yB"
                 },
             ]
 
@@ -468,14 +478,6 @@ const bestBurrBasketIdeasforChristmas = {
                 "Choose a theme and color palette before shopping to make your burr basket look beautifully coordinated. Mix practical essentials with a few cute treats, use shredded paper for height, and finish with a ribbon and personalized gift tag."
             ],
 
-            shopLook: [
-                {
-                    name: "Cozy Throw Blanket",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook6.webp",
-                    link: "https://amzn.to/4jqnlKF"
-                },
-            ]
-
         },
 
         {
@@ -492,13 +494,6 @@ const bestBurrBasketIdeasforChristmas = {
                 "Choose a theme and color palette before shopping to make your burr basket look beautifully coordinated. Mix practical essentials with a few cute treats, use shredded paper for height, and finish with a ribbon and personalized gift tag."
             ],
 
-            shopLook: [
-                {
-                    name: "Mini Christmas Wreath",
-                    image: "/images/blog/article/40-cozy-christmas-home-decor-ideas/shoplook5.webp",
-                    link: "https://amzn.to/46VVjPR"
-                },
-            ]
 
         },
 
@@ -518,10 +513,10 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Scented Candles for gift",
-                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS2.webp",
-                    link: "https://amzn.to/4yJRAAu"
-                }
+                    name: "At-Home Spa Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook16.webp",
+                    link: "https://link.amazon/B06tf71pk"
+                },
             ]
 
         },
@@ -542,9 +537,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Mini Christmas Table Centerpiece",
-                    image: "/images/blog/article/31-last-minute-christmas-gift-ideas-for-neighbors/shoplook11.webp",
-                    link: "https://link.amazon/B03j29IBK"
+                    name: "Mindfulness & Journaling Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook14.webp",
+                    link: "https://link.amazon/B0bisQzYa"
                 },
             ]
 
@@ -565,9 +560,9 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Mini Christmas ornaments",
-                    image: "/images/blog/article/31-easy-christmas-DIY-crafts-ideas/shoplook10.webp",
-                    link: "https://amzn.to/4ABtdGS"
+                    name: "Sleep & Relaxation Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook18.webp",
+                    link: "https://link.amazon/B0h8JREPo"
                 },
             ]
 
@@ -588,9 +583,14 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Mini Succulent Plant",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook33.webp",
-                    link: "https://link.amazon/B0iVjFC7C"
+                    name: "Water Bottle",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook30.webp",
+                    link: "https://amzn.to/4ynImtY"
+                },
+                {
+                    name: "Resistance Bands Set",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook33.webp",
+                    link: "https://amzn.to/4hEjBmj"
                 },
             ]
 
@@ -611,10 +611,10 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Coffee Lover’s Gift Set",
-                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS22.webp",
-                    link: "https://amzn.to/4h1q37N"
-                }
+                    name: "Hot Chocoa Gift Set",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook26.webp",
+                    link: "https://amzn.to/4rJZ4kO"
+                },
             ]
 
         },
@@ -633,9 +633,9 @@ const bestBurrBasketIdeasforChristmas = {
             ],
             shopLook: [
                 {
-                    name: "Movie Night Box",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook55.webp",
-                    link: "https://amzn.to/4jCVabq"
+                    name: "Baking Kit",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook48.webp",
+                    link: "https://amzn.to/4j9wyqK"
                 },
             ]
 
@@ -653,15 +653,6 @@ const bestBurrBasketIdeasforChristmas = {
             tips: [
                 "Choose a theme and color palette before shopping to make your burr basket look beautifully coordinated. Mix practical essentials with a few cute treats, use shredded paper for height, and finish with a ribbon and personalized gift tag."
             ],
-            shopLook: [
-                {
-                    name: "Baking Kit",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook48.webp",
-                    link: "https://amzn.to/4j9wyqK"
-                },
-            ]
-
-
         },
         {
             id: 25,
@@ -679,10 +670,10 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Self-Care Gift",
-                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS22.webp",
-                    link: "https://amzn.to/4h1q37N"
-                }
+                    name: "Grooming Essentials Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook9.webp",
+                    link: "https://link.amazon/B063jwbbu"
+                },
             ]
         },
         {
@@ -701,10 +692,10 @@ const bestBurrBasketIdeasforChristmas = {
 
             shopLook: [
                 {
-                    name: "Breakfast Gift Basket",
-                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS42.webp",
-                    link: "https://amzn.to/4hB42Nf"
-                }
+                    name: "At-Home Spa Burr Basket",
+                    image: "/images/blog/article/27-best-burr-basket-ideas-for-christmas/shoplook16.webp",
+                    link: "https://link.amazon/B06tf71pk"
+                },
             ]
         },
         {
