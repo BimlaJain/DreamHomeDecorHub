@@ -504,7 +504,7 @@ const christmasGiftIdeasforMomSheWillAbsolutelyLove = {
             shopLook: [
                 {
                     name: "Reading Pillow",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook12.web",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook12.webp",
                     link: "https://amzn.to/4BgRySW"
                 },
             ]
