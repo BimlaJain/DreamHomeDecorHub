@@ -1124,9 +1124,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Portable Bluetooth Shutter Remote",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook23.webp",
-                    link: "https://link.amazon/B02V5YBAq"
+                    name: "Foot Spa Bath Massager",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook17.webp",
+                    link: "https://link.amazon/B0fv3ndOn"
                 },
             ]
 
@@ -1147,16 +1147,16 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Webcam Privacy Cover Set",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook24.webp",
-                    link: "https://link.amazon/B02etfWCB"
+                    name: "Face roller Set",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook8.webp",
+                    link: "https://amzn.to/4zmw3hO"
                 },
             ]
         },
         {
             id: 45,
 
-            title: "Satin Scrunchie Gift Set",
+            title: "Satin Scrunchies Gift Set",
 
             image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/homebody-gift-idea45.webp",
 
@@ -1168,10 +1168,10 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Digital luggage scale",
-                    image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS19.webp",
-                    link: "https://amzn.to/3ULRUjw"
-                }
+                    name: "Satin Scrunchies",
+                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook2.webp",
+                    link: "https://link.amazon/B021Sd3RV"
+                },
             ]
 
         },
@@ -1191,9 +1191,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Personalized Initial Keychain",
-                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook58.webp",
-                    link: "https://link.amazon/B0je0PxDS"
+                    name: "Portable Neck and Shoulder Massager",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook18.webp",
+                    link: "https://link.amazon/B0bsuHUgi"
                 },
             ]
         },
@@ -1213,9 +1213,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Custom Photo Frame",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook33.webp",
-                    link: "https://amzn.to/4yaWs0N"
+                    name: " Shower Steamers",
+                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook12.webp",
+                    link: "https://amzn.to/4jFsTRv"
                 },
             ]
         },
@@ -1234,10 +1234,10 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Custom Metal Bookmark",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook25.webp",
-                    link: "https://link.amazon/B03HcVX3k"
-                },
+                    name: "Body-Care Gift",
+                    image: "/images/blog/article/50-thoughtful-housewarming-gifts-for-new-houseowners-that-feel-special/shoplookUS22.webp",
+                    link: "https://amzn.to/4h1q37N"
+                }
             ]
         },
         {
@@ -1256,9 +1256,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Personalized Reusable Notebook",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook26.webp",
-                    link: "https://link.amazon/B00QpAe3q"
+                    name: "E-Reader",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook27.webp",
+                    link: "https://amzn.to/4zMWmOu"
                 },
             ]
 
@@ -1279,9 +1279,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Monogrammed Pouch",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook27.webp",
-                    link: "https://link.amazon/B0aFeNVGb"
+                    name: "Coloring Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook50.webp",
+                    link: "https://amzn.to/4y6qt1Y"
                 },
             ]
         },
@@ -1301,9 +1301,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Handwritten Thank-You Card Gift Set",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook28.webp",
-                    link: "https://link.amazon/B086VBKOz"
+                    name: "DIY Candle Making Kit",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook19.webp",
+                    link: "https://link.amazon/B07jeRIRi"
                 },
             ]
         },
@@ -1323,9 +1323,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Funny Office Desk Sign",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook29.webp",
-                    link: "https://link.amazon/B01NhEelG"
+                    name: "Paint-by-Number Art Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplok31.webp",
+                    link: "https://amzn.to/4sc2lto"
                 },
             ]
         },
@@ -1342,6 +1342,13 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             tips: [
                 "Check the recommended age, piece count, and difficulty level before choosing a set. Consider the recipient's available display space, especially for larger arrangements."
             ],
+            shopLook: [
+                {
+                    name: "LEGO Botanical Collection Set",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook20.webp",
+                    link: "https://link.amazon/B08UBsHH9"
+                },
+            ]
 
         },
         {
@@ -1359,9 +1366,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Funny Coffee Mug",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook30.webp",
-                    link: "https://link.amazon/B03iYXe8r"
+                    name: "Crochet Kit",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook47.webp",
+                    link: "https://amzn.to/4yEsnbg"
                 },
             ]
         },
@@ -1380,9 +1387,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Mini Desktop Decision Maker",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook31.webp",
-                    link: "https://link.amazon/B05514KQY"
+                    name: "Mini Jigsaw Puzzle",
+                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook59.webp",
+                    link: "https://link.amazon/B0g33YBPq"
                 },
             ]
         },
@@ -1401,9 +1408,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Desktop Mini Zen Garden",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook32.webp",
-                    link: "https://link.amazon/B0gBOvJdJ"
+                    name: "Digital Drawing Tablet",
+                    image: "/images/blog/article/45-best-christmas-gift-ideas-for-teen-boys/shoplook18.webp",
+                    link: "https://link.amazon/B04YGmbLe"
                 },
             ]
         },
@@ -1423,9 +1430,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Mini Succulent Plant",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook33.webp",
-                    link: "https://link.amazon/B0iVjFC7C"
+                    name: "Mini Projector",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook51.webp",
+                    link: "https://amzn.to/4jfQp7J"
                 },
             ]
         },
@@ -1445,9 +1452,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Mini Succulent Plant",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook33.webp",
-                    link: "https://link.amazon/B0iVjFC7C"
+                    name: "Board Game",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook50.webp",
+                    link: "https://amzn.to/3TUgmPI"
                 },
             ]
         },
@@ -1467,9 +1474,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Small Desktop Photo Display Stand",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook34.webp",
-                    link: "https://link.amazon/B0iI5enAw"
+                    name: "Mini Gratitude Journal",
+                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook60.webp",
+                    link: "https://link.amazon/B0hkboXFs"
                 },
             ]
         },
@@ -1489,9 +1496,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Decorative Trinket Dish",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook35.webp",
-                    link: "https://link.amazon/B0gmGnWyb"
+                    name: "Mini Bluetooth Speaker",
+                    image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/shoplook22.webp",
+                    link: "https://link.amazon/B0hVnPHCc"
                 },
             ]
         },
@@ -1511,9 +1518,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Paint-by-Number Art Kit",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplok31.webp",
-                    link: "https://amzn.to/4sc2lto"
+                    name: "Wireless Charging Station",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook9.webp",
+                    link: "https://amzn.to/4AN9sfV"
                 },
             ]
         },
@@ -1532,9 +1539,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Beginner Embroidery Kit",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook36.webp",
-                    link: "https://link.amazon/B098K8qeV"
+                    name: "Smart LED Light Bulbs",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook21.webp",
+                    link: "https://link.amazon/B06iW7i24"
                 },
             ]
         },
@@ -1554,9 +1561,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Watercolor Postcard Set",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook36.webp",
-                    link: "https://link.amazon/B03cHvH0n"
+                    name: "Mini Desktop Vacuum Cleaner",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook22.webp",
+                    link: "https://link.amazon/B0fXT9kfT"
                 },
             ]
         },
@@ -1574,13 +1581,6 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
                 "Check screen resolution, internal storage, Wi-Fi connectivity, and app compatibility. If gifting it to someone who isn't comfortable with technology, choose a model with a simple setup process."
             ],
 
-            shopLook: [
-                {
-                    name: "Coloring Book",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook50.webp",
-                    link: "https://amzn.to/4y6qt1Y"
-                },
-            ]
         },
         {
             id: 65,
@@ -1597,10 +1597,10 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Origami Paper Craft Kit",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook37.webp",
-                    link: "https://link.amazon/B01xX59cr"
-                },
+                    name: "Adjustable aluminum stand,",
+                    image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS2.webp",
+                    link: "https://amzn.to/4iCMj92"
+                }
             ]
         },
         {
@@ -1618,9 +1618,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Brain Teaser",
-                    image: "/images/blog/article/37-best-advent-calendar-ideas-for-everyone-in-2026/shoplook37.webp",
-                    link: "https://amzn.to/4i2M7iL"
+                    name: "Noise-Canceling Headphones",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook10.webp",
+                    link: "https://amzn.to/4dbGCf1"
                 },
             ]
 
@@ -1640,9 +1640,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Compact Card Game",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook38.webp",
-                    link: "https://link.amazon/B028mjCxT"
+                    name: "Modern Digital Alarm Clock",
+                    image: "/images/blog/article/45-best-christmas-gift-ideas-for-teen-boys/shoplook4.webp",
+                    link: "https://link.amazon/B07BvCRSs"
                 },
             ]
         },
@@ -1661,9 +1661,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Miniature DIY Craft Kit",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook40.webp",
-                    link: "https://link.amazon/B0fKG40t2"
+                    name: "Automatic Soap Dispenser",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook23.webp",
+                    link: "https://link.amazon/B0bqakUKt"
                 },
             ]
 
@@ -1683,9 +1683,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             ],
             shopLook: [
                 {
-                    name: "Build-Your-Own Mini Model Kit",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook41.webp",
-                    link: "https://link.amazon/B05HxM80b"
+                    name: " Power Bank",
+                    image: "/images/blog/article/55-gifts-for-your-boyfriend-he-will-actually-love/shoplook13.webp",
+                    link: "https://amzn.to/46OxERl"
                 },
             ]
         },
@@ -1705,9 +1705,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Crochet Kit",
-                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook47.webp",
-                    link: "https://amzn.to/4yEsnbg"
+                    name: "Mini Air Purifier",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook24.webp",
+                    link: "https://link.amazon/B0aAPsxsC"
                 },
             ]
         },
@@ -1727,9 +1727,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Compact Travel Umbrella",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook42.webp",
-                    link: "https://link.amazon/B0aHGi2Lw"
+                    name: "USB Mug Warmer",
+                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook11.webp",
+                    link: "https://link.amazon/B0hy8xBjG"
                 },
             ]
         },
@@ -1749,9 +1749,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Reusable silicone storage bags",
-                    image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS17.webp",
-                    link: "https://amzn.to/3T5mlRg"
+                    name: "Smart Plug",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook25.webp",
+                    link: "https://link.amazon/B0h3xJ9V4"
                 }
             ]
         },
@@ -1771,10 +1771,10 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "4–6 piece packing-cube set",
-                    image: "/images/blog/article/25-genius-everyday-products-you-bought-sooner/shoplookUS8.webp",
-                    link: "https://amzn.to/4wTXqhl"
-                }
+                    name: "Herb Garden Growing Kit",
+                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook24.webp",
+                    link: "https://amzn.to/4BijTbt"
+                },
             ]
         },
         {
@@ -1793,9 +1793,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Sneaker Cleaning Kit",
-                    image: "/images/blog/article/45-best-christmas-gift-ideas-for-teen-boys/shoplook8.webp",
-                    link: "https://link.amazon/B02XcwGWT"
+                    name: "Monthly Subscription Box",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook26.webp",
+                    link: "https://link.amazon/B0gZ7LTL3"
                 },
             ]
         },
@@ -1815,9 +1815,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Screen Cleaning Kit",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook43.webp",
-                    link: "https://link.amazon/B0iSvzENZ"
+                    name: "Custom Photo Book",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook57.webp",
+                    link: "https://amzn.to/4BbmZOD"
                 },
             ]
         },
@@ -1834,6 +1834,13 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             tips: [
                 "Choose a cookbook with clear instructions and ingredients that are easy to find locally. If possible, write a small personal note inside the cover recommending a recipe to try first."
             ],
+            shopLook: [
+                {
+                    name: "Beautifully Illustrated Cookbook",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook27.webp",
+                    link: "https://link.amazon/B0gmIHbIx"
+                },
+            ]
 
 
         },
@@ -1850,6 +1857,13 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             tips: [
                 "Choose a feeder with strong suction cups, easy cleaning access, and a design suitable for the local bird population. Include a small bag of appropriate birdseed to help them get started."
             ],
+            shopLook: [
+                {
+                    name: "Window Bird Feeder",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook28.webp",
+                    link: "https://link.amazon/B084901rf"
+                },
+            ]
 
         },
         {
@@ -1865,6 +1879,13 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             tips: [
                 "Check the chair's weight capacity and installation requirements before purchasing. If ceiling installation isn't practical, look for a freestanding hammock chair with a sturdy base."
             ],
+            shopLook: [
+                {
+                    name: "Indoor Hammock Chair",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook29.webp",
+                    link: "https://link.amazon/B09T1x10i"
+                },
+            ]
 
         },
         {
@@ -1880,6 +1901,13 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
             tips: [
                 "Choose a beginner-friendly kit with clear instructions and plants suited to the container. Include a small decorative figurine or coloured stones to make the finished terrarium feel extra special."
             ],
+            shopLook: [
+                {
+                    name: "DIY Terrarium Kit",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook30.webp",
+                    link: "https://link.amazon/B01V7VoJu"
+                },
+            ]
 
         },
         {
@@ -1898,9 +1926,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Travel Laundry Bag",
-                    image: "/images/blog/article/81-best-gift-ideas-for-coworkers/shoplook44.webp",
-                    link: "https://link.amazon/B0ht7cFSp"
+                    name: "At-Home Karaoke Microphone",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook31.webp",
+                    link: "https://link.amazon/B0fHYdPG4"
                 },
             ]
         },
@@ -1920,9 +1948,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Herb Garden Growing Kit",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook24.webp",
-                    link: "https://amzn.to/4BijTbt"
+                    name: "Movie Night Gift Box",
+                    image: "/images/blog/article/64-best-christmas-gift-ideas-for-sisters/shoplook55.webp",
+                    link: "https://amzn.to/4jCVabq"
                 },
             ]
         },
@@ -1942,9 +1970,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Herb Garden Growing Kit",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook24.webp",
-                    link: "https://amzn.to/4BijTbt"
+                    name: "Personalised Pet Portrait",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook32.webp",
+                    link: "https://link.amazon/B01umpMEl"
                 },
             ]
         },
@@ -1964,9 +1992,9 @@ const homebodyGiftIdeasforPeopleWhoLoveStayingIn = {
 
             shopLook: [
                 {
-                    name: "Herb Garden Growing Kit",
-                    image: "/images/blog/article/69-christmas-gift-ideas-for-mom/shoplook24.webp",
-                    link: "https://amzn.to/4BijTbt"
+                    name: "DIY Pottery Kit",
+                    image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/shoplook33.webp",
+                    link: "https://link.amazon/B086XlIsu"
                 },
             ]
         },
