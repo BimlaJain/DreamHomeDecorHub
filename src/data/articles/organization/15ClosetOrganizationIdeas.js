@@ -87,7 +87,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0dDmcTB9"
+                    link: "https://link.amazon/B0crNEklw"
                 },
             ]
 
@@ -111,7 +111,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B03iJe9y6"
+                    link: "https://link.amazon/B0crNEklw"
                 },
 
             ]
@@ -138,7 +138,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Clear shelf dividers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B0gSVp4Zt"
+                    link: "https://link.amazon/B0hl2y3Qj"
                 },
             ]
 
@@ -163,7 +163,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0dDmcTB9"
+                    link: "https://link.amazon/B0crNEklw"
                 },
 
             ]
@@ -189,7 +189,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Clear shelf dividers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook3.webp",
-                    link: "https://link.amazon/B0gSVp4Zt"
+                    link: "https://link.amazon/B0hl2y3Qj"
                 },
             ]
 
@@ -214,7 +214,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "foldable fabric storage boxes",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B0c5QdYTF"
+                    link: "https://link.amazon/B0csToJFD"
                 },
             ]
 
@@ -239,7 +239,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Clear Stackable Shoe Storage Box",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook7.webp",
-                    link: "https://link.amazon/B0gbAR50x"
+                    link: "https://link.amazon/B09jUY8fr"
                 },
             ]
 
@@ -264,7 +264,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Handbag Organization",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook5.webp",
-                    link: "https://link.amazon/B0eOrqjC7"
+                    link: "https://link.amazon/B0dMB7nk5"
                 },
 
             ]
@@ -290,7 +290,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Over-the-Door Storage",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook6.webp",
-                    link: "https://link.amazon/B056N82cP"
+                    link: "https://link.amazon/B09Vlf6pT"
                 },
 
             ]
@@ -317,12 +317,12 @@ const closetOrganizationIdeas = {
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0dDmcTB9"
+                    link: "https://link.amazon/B0crNEklw"
                 },
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook2.webp",
-                    link: "https://link.amazon/B03iJe9y6"
+                    link: "https://link.amazon/B0crNEklw"
                 },
 
             ]
@@ -347,7 +347,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Jewelry Organizer",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook8.webp",
-                    link: "https://link.amazon/B09wbCiDj"
+                    link: "https://link.amazon/B0fts2bMq"
                 },
             ]
 
@@ -374,7 +374,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "foldable fabric storage boxes",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B0c5QdYTF"
+                    link: "https://link.amazon/B0csToJFD"
                 },
 
             ]
@@ -401,12 +401,12 @@ const closetOrganizationIdeas = {
                 {
                     name: "foldable fabric storage boxes",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B0c5QdYTF"
+                    link: "https://link.amazon/B0csToJFD"
                 },
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0dDmcTB9"
+                    link: "https://link.amazon/B0crNEklw"
                 },
             ]
 
@@ -432,12 +432,12 @@ const closetOrganizationIdeas = {
                 {
                     name: "foldable fabric storage boxes",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook4.webp",
-                    link: "https://link.amazon/B0c5QdYTF"
+                    link: "https://link.amazon/B0csToJFD"
                 },
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0dDmcTB9"
+                    link: "https://link.amazon/B0crNEklw"
                 },
 
 
@@ -463,7 +463,7 @@ const closetOrganizationIdeas = {
                 {
                     name: "Slim velvet hangers",
                     image: "/images/blog/article/15-closet-organization-ideas/shoplook1.webp",
-                    link: "https://link.amazon/B0dDmcTB9"
+                    link: "https://link.amazon/B0crNEklw"
                 },
 
 
