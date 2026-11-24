@@ -1,12 +1,11 @@
 import Footer from "@/components/home-page/Footer";
-import FeaturedCategories from "@/components/home-page/FeaturedCategories";
 import Header from "@/components/home-page/Header";
 import Hero from "@/components/home-page/Hero";
 import Newsletter from "@/components/home-page/Newsletter";
 import OurPromise from "@/components/home-page/OurPromise";
-import PopularCollections from "@/components/home-page/PopularCollections";
-import TrendingSection from "@/components/home-page/TrendingSection";
 import CookieBanner from "@/components/home-page/CookieBanner";
+import FeaturedArticle from "@/components/blog/FeaturedArticle";
+import LatestInspiration from "@/components/blog/LatestInspiration";
 
 export default function Home() {
   return (
@@ -14,9 +13,8 @@ export default function Home() {
       <CookieBanner/>
       <Header />
       <Hero />
-      <FeaturedCategories />
-      <TrendingSection />
-      <PopularCollections />
+      <FeaturedArticle/>
+      <LatestInspiration />
       <OurPromise />
       <Newsletter />
       <Footer />

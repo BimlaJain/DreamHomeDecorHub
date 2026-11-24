@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useState } from "react";
@@ -29,25 +30,25 @@ export default function LatestInspiration() {
     );
 
     return (
-        <section className="py-20">
+        <section className="bg-[#FAF7F2] py-20">
 
             <div className="mx-auto max-w-7xl px-6">
 
                 {/* Heading */}
                 <div className="mb-14 text-center">
 
-                    <p className="text-sm uppercase tracking-[0.3em] text-stone-500">
+                    <p className="text-sm uppercase tracking-[0.3em] text-[#9B7669]">
                         Latest Inspiration
                     </p>
 
-                    <h2 className="mt-4 text-4xl font-light text-stone-900 md:text-5xl">
-                        Fresh Ideas for Every Space
+                    <h2 className="mt-4 text-4xl font-light text-[#292725] md:text-5xl">
+                        Fresh Ideas for Every Day
                     </h2>
 
-                    <p className="mx-auto mt-5 max-w-2xl text-lg leading-8 text-stone-600">
-                        Explore our newest decorating ideas,
-                        styling guides, and inspiration to elevate
-                        every room in your home.
+                    <p className="mx-auto mt-5 max-w-2xl text-lg leading-8 text-[#776456]">
+                        Discover thoughtful gift ideas, beautiful finds,
+                        clever organization tips, and fresh inspiration
+                        for making everyday life a little more special.
                     </p>
 
                 </div>
@@ -64,9 +65,9 @@ export default function LatestInspiration() {
                             className="group"
                         >
 
-                            <div className="overflow-hidden rounded-3xl bg-white shadow-sm transition hover:shadow-xl">
+                            <div className="overflow-hidden rounded-3xl border border-[#E8DED2] bg-white shadow-sm transition hover:shadow-xl hover:shadow-[#776456]/10">
 
-                                <div className=" overflow-hidden">
+                                <div className="overflow-hidden">
 
                                     <Image
                                         src={article.image}
@@ -80,15 +81,15 @@ export default function LatestInspiration() {
 
                                 <div className="p-6">
 
-                                    <p className="text-sm uppercase tracking-widest text-stone-500">
+                                    <p className="text-sm uppercase tracking-widest text-[#9B7669]">
                                         {article.category}
                                     </p>
 
-                                    <h3 className="mt-3 text-2xl font-semibold text-stone-900">
+                                    <h3 className="mt-3 text-2xl font-semibold text-[#292725] transition group-hover:text-[#9B7669]">
                                         {article.title}
                                     </h3>
 
-                                    <p className="mt-3 text-sm text-stone-500">
+                                    <p className="mt-3 text-sm text-[#8C796B]">
                                         {article.readTime}
                                     </p>
 
@@ -116,8 +117,8 @@ export default function LatestInspiration() {
                 flex h-11 w-11 items-center justify-center
                 rounded-full text-lg transition
                 ${currentPage === 1
-                                    ? "cursor-not-allowed bg-stone-100 text-stone-300"
-                                    : "bg-stone-100 text-stone-700 hover:bg-stone-200"
+                                    ? "cursor-not-allowed bg-[#F1E9E1] text-[#C9BDB1]"
+                                    : "bg-[#F1E9E1] text-[#65584E] hover:bg-[#E8DED2]"
                                 }
             `}
                             aria-label="Previous page"
@@ -136,8 +137,8 @@ export default function LatestInspiration() {
                     flex h-11 w-11 items-center justify-center
                     rounded-full text-sm transition
                     ${currentPage === 1
-                                        ? "bg-stone-900 text-white shadow-md"
-                                        : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+                                        ? "bg-[#292725] text-white shadow-md"
+                                        : "bg-[#F1E9E1] text-[#776456] hover:bg-[#E8DED2]"
                                     }
                 `}
                             >
@@ -147,7 +148,7 @@ export default function LatestInspiration() {
 
                             {/* Left dots */}
                             {currentPage > 3 && (
-                                <span className="px-1 text-stone-400">
+                                <span className="px-1 text-[#9B7669]">
                                     ...
                                 </span>
                             )}
@@ -160,13 +161,10 @@ export default function LatestInspiration() {
                             )
                                 .filter((page) => {
 
-                                    // First page already shown
                                     if (page === 1) return false;
 
-                                    // Last page separately shown
                                     if (page === totalPages) return false;
 
-                                    // Show pages around current page
                                     return Math.abs(page - currentPage) <= 1;
                                 })
                                 .map((page) => (
@@ -178,8 +176,8 @@ export default function LatestInspiration() {
                             flex h-11 w-11 items-center justify-center
                             rounded-full text-sm transition
                             ${currentPage === page
-                                                ? "bg-stone-900 text-white shadow-md"
-                                                : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+                                                ? "bg-[#292725] text-white shadow-md"
+                                                : "bg-[#F1E9E1] text-[#776456] hover:bg-[#E8DED2]"
                                             }
                         `}
                                     >
@@ -191,7 +189,7 @@ export default function LatestInspiration() {
 
                             {/* Right dots */}
                             {currentPage < totalPages - 2 && (
-                                <span className="px-1 text-stone-400">
+                                <span className="px-1 text-[#9B7669]">
                                     ...
                                 </span>
                             )}
@@ -205,8 +203,8 @@ export default function LatestInspiration() {
                         flex h-11 w-11 items-center justify-center
                         rounded-full text-sm transition
                         ${currentPage === totalPages
-                                            ? "bg-stone-900 text-white shadow-md"
-                                            : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+                                            ? "bg-[#292725] text-white shadow-md"
+                                            : "bg-[#F1E9E1] text-[#776456] hover:bg-[#E8DED2]"
                                         }
                     `}
                                 >
@@ -229,8 +227,8 @@ export default function LatestInspiration() {
                 flex h-11 w-11 items-center justify-center
                 rounded-full text-lg transition
                 ${currentPage === totalPages
-                                    ? "cursor-not-allowed bg-stone-100 text-stone-300"
-                                    : "bg-stone-100 text-stone-700 hover:bg-stone-200"
+                                    ? "cursor-not-allowed bg-[#F1E9E1] text-[#C9BDB1]"
+                                    : "bg-[#F1E9E1] text-[#65584E] hover:bg-[#E8DED2]"
                                 }
             `}
                             aria-label="Next page"

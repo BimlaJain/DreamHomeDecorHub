@@ -1,34 +1,36 @@
+
 import Image from "next/image";
 import Link from "next/link";
 
 const pins = [
-    "/images/home-page/shelf.webp",
-    "/images/home-page/bedroom.webp",
-    "/images/home-page/living-room.webp",
-    "/images/home-page/bathroom.webp",
-    "/images/home-page/kitchen.webp",
+    "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/best-stocking-stuffer-hero-image.webp",
+    "/images/blog/article/15-closet-organization-ideas/closet-organization-hero-image.webp",
+    "/images/blog/article/25-cozy-living-room-ideas/living-room-hero.webp",
+    "/images/blog/article/17-bathroom-decor-ideas/bathroom-hero-image.webp",
+    "/images/blog/article/18-Kitchen-decor-ideas/kitchen-hero-image.webp",
 ];
 
 export default function PinterestCTA() {
     return (
-        <section className="bg-[#faf7f2] py-28 overflow-hidden">
+        <section className="overflow-hidden bg-[#FAF7F2] py-28">
             <div className="mx-auto max-w-7xl px-6">
 
                 {/* Heading */}
 
                 <div className="text-center">
 
-                    <span className="uppercase tracking-[4px] text-sm font-semibold text-amber-600">
+                    <span className="text-sm font-semibold uppercase tracking-[4px] text-[#9B7669]">
                         Daily Inspiration
                     </span>
 
-                    <h2 className="mt-4 text-5xl font-bold text-stone-900">
-                        Follow Us on Pinterest
+                    <h2 className="mt-4 font-serif text-5xl font-light text-[#292725]">
+                        Find Us on Pinterest
                     </h2>
 
-                    <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-stone-600">
-                        Save beautiful room ideas, decorating inspiration,
-                        styling tips and trending home decor you'll love.
+                    <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-[#776456]">
+                        Discover thoughtful gift ideas, beautiful finds,
+                        creative inspiration, organization tips and
+                        little things worth saving for later.
                     </p>
 
                 </div>
@@ -52,7 +54,7 @@ export default function PinterestCTA() {
 
                     {/* Left Bottom */}
 
-                    <div className="absolute left-24 bottom-0 rotate-[8deg] transition duration-500 hover:z-20 hover:rotate-0 hover:scale-105">
+                    <div className="absolute bottom-0 left-24 rotate-[8deg] transition duration-500 hover:z-20 hover:rotate-0 hover:scale-105">
                         <div className="relative h-64 w-52 overflow-hidden rounded-3xl shadow-2xl">
                             <Image
                                 src={pins[1]}
@@ -67,7 +69,7 @@ export default function PinterestCTA() {
 
                     <div className="relative z-10">
 
-                        <div className="relative h-96 w-72 overflow-hidden rounded-[40px] shadow-[0_25px_80px_rgba(0,0,0,0.18)]">
+                        <div className="relative h-96 w-72 overflow-hidden rounded-[40px] shadow-[0_25px_80px_rgba(41,39,37,0.15)]">
 
                             <Image
                                 src={pins[2]}
@@ -99,7 +101,7 @@ export default function PinterestCTA() {
 
                     {/* Right Bottom */}
 
-                    <div className="absolute right-0 bottom-0 rotate-[-8deg] transition duration-500 hover:z-20 hover:rotate-0 hover:scale-105">
+                    <div className="absolute bottom-0 right-0 rotate-[-8deg] transition duration-500 hover:z-20 hover:rotate-0 hover:scale-105">
 
                         <div className="relative h-64 w-52 overflow-hidden rounded-3xl shadow-2xl">
 
@@ -123,13 +125,13 @@ export default function PinterestCTA() {
                     <Link
                         href="https://in.pinterest.com/Styled_By_Vimal/"
                         target="_blank"
-                        className="inline-flex items-center gap-3 rounded-full bg-black px-10 py-5 text-lg font-semibold text-white transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
+                        className="inline-flex items-center gap-3 rounded-full bg-[#292725] px-10 py-5 text-lg font-semibold text-white transition-all duration-300 hover:-translate-y-1 hover:bg-[#776456] hover:shadow-xl"
                     >
                         Follow on Pinterest
                         <span className="text-2xl">📌</span>
                     </Link>
 
-                    <p className="mt-5 text-stone-500">
+                    <p className="mt-5 text-[#8C796B]">
                         Discover fresh ideas every week and save your favorites.
                     </p>
 

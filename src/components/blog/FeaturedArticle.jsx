@@ -1,3 +1,4 @@
+
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
@@ -17,7 +18,7 @@ export default function FeaturedArticle() {
     }
 
     return (
-        <section className="py-20">
+        <section className="bg-[#FAF7F2] py-20">
 
             <div className="mx-auto max-w-7xl px-6">
 
@@ -26,11 +27,11 @@ export default function FeaturedArticle() {
 
                     <div>
 
-                        <p className="text-sm uppercase tracking-[0.3em] text-stone-500">
+                        <p className="text-sm uppercase tracking-[0.3em] text-[#9B7669]">
                             Featured Inspiration
                         </p>
 
-                        <h2 className="mt-4 text-4xl font-light font-serif text-stone-900 md:text-5xl">
+                        <h2 className="mt-4 text-4xl font-light font-serif text-[#292725] md:text-5xl">
                             This Week's Editor's Pick
                         </h2>
 
@@ -40,7 +41,7 @@ export default function FeaturedArticle() {
 
 
                 {/* Featured Card */}
-                <div className="grid overflow-hidden rounded-[36px] bg-[#F8F6F2] shadow-sm lg:grid-cols-2">
+                <div className="grid overflow-hidden rounded-[36px] bg-[#F1E9E1] shadow-sm lg:grid-cols-2">
 
                     {/* Image */}
                     <div className="relative min-h-[500px] overflow-hidden">
@@ -60,19 +61,19 @@ export default function FeaturedArticle() {
                     <div className="flex flex-col justify-center p-10 md:p-16">
 
                         {/* Category */}
-                        <span className="w-fit rounded-full bg-white px-4 py-2 text-xs uppercase tracking-[0.25em] text-stone-600">
+                        <span className="w-fit rounded-full bg-white px-4 py-2 text-xs uppercase tracking-[0.25em] text-[#776456]">
                             {latestArticle.category}
                         </span>
 
 
                         {/* Title */}
-                        <h3 className="mt-8 text-4xl font-light font-serif leading-tight text-stone-900">
+                        <h3 className="mt-8 text-4xl font-light font-serif leading-tight text-[#292725]">
                             {latestArticle.title}
                         </h3>
 
 
                         {/* Description */}
-                        <p className="mt-6 text-lg leading-8 text-stone-600">
+                        <p className="mt-6 text-lg leading-8 text-[#776456]">
                             {Array.isArray(latestArticle.description)
                                 ? latestArticle.description[0]
                                 : latestArticle.description}
@@ -80,7 +81,7 @@ export default function FeaturedArticle() {
 
 
                         {/* Meta */}
-                        <div className="mt-8 flex items-center gap-6 text-sm text-stone-500">
+                        <div className="mt-8 flex items-center gap-6 text-sm text-[#8C796B]">
 
                             <span>
                                 {latestArticle.readTime}
@@ -103,7 +104,7 @@ export default function FeaturedArticle() {
                         {/* Button */}
                         <Link
                             href={`/blog/${latestArticle.slug}`}
-                            className="mt-12 inline-flex w-fit items-center gap-3 rounded-full bg-stone-900 px-7 py-4 text-white transition hover:bg-black"
+                            className="mt-12 inline-flex w-fit items-center gap-3 rounded-full bg-[#292725] px-7 py-4 text-white transition hover:bg-[#776456]"
                         >
                             Read Article
 
