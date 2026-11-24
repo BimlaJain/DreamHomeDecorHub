@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FaPinterest } from "react-icons/fa";
+import { FaPinterest, FaAmazon } from "react-icons/fa";
 
 
 export default function Footer() {
@@ -31,6 +31,22 @@ export default function Footer() {
                             home decor ideas, and smart storage solutions
                             for beautiful spaces.
                         </p>
+                        <h3 className="text-lg font-semibold mt-5">
+                           Shop
+                        </h3>
+
+
+                        <Link
+                            href="https://www.amazon.com/shop/vimaljainhome"
+                            target="_blank"
+                            className="mt-5 flex w-fit items-center gap-2 text-white/60 transition hover:text-white"
+                        >
+                            My Amazon Storefront
+
+                            < FaAmazon size={18} />
+
+                        </Link>
+
 
 
                     </div>
@@ -47,32 +63,32 @@ export default function Footer() {
                         <ul className="space-y-4">
 
                             <li>
-                                <Link href="/home-decor/living-room" className="hover:text-white transition text-white/60">
-                                    Living Room
+                                <Link href="/home-decor/gift-ideas" className="hover:text-white transition text-white/60">
+                                   Gift Ideas
                                 </Link>
                             </li>
 
                             <li>
-                                <Link href="/home-decor/bedroom" className="hover:text-white transition text-white/60">
-                                    Bedroom
+                                <Link href="/home-decor/organization" className="hover:text-white transition text-white/60">
+                                   Organization
                                 </Link>
                             </li>
 
                             <li>
-                                <Link href="/home-decor/kitchen" className="hover:text-white transition text-white/60">
-                                    Kitchen
+                                <Link href="/home-decor" className="hover:text-white transition text-white/60">
+                                   Home Decor
                                 </Link>
                             </li>
 
                             <li>
-                                <Link href="/home-decor/bathroom" className="hover:text-white transition text-white/60">
-                                    Bathroom
+                                <Link href="/home-decor/seasonal-decor" className="hover:text-white transition text-white/60">
+                                   Seasonal Decor
                                 </Link>
                             </li>
 
                             <li>
-                                <Link href="/home-decor/home-office" className="hover:text-white transition text-white/60">
-                                    Home Office
+                                <Link href="/home-decor/diy-decor" className="hover:text-white transition text-white/60">
+                                    DIY Decor
                                 </Link>
                             </li>
 
@@ -120,7 +136,7 @@ export default function Footer() {
                     <div>
 
                         <h3 className="text-lg font-semibold">
-                            Follow Us
+                       Follow US
                         </h3>
 
 

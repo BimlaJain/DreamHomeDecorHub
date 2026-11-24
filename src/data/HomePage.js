@@ -30,13 +30,13 @@ export const navItems = [
             {
                 title: "Ideas",
                 items: [
+                    { title: "Gift Ideas", href: "/home-decor/gift-ideas" },
                     { title: "Home Decor", href: "/home-decor" },
                     { title: "Small Spaces", href: "/home-decor/small-spaces" },
                     { title: "Organization", href: "/home-decor/organization" },
                     { title: "Seasonal Decor", href: "/home-decor/seasonal-decor" },
                     { title: "Budget Decor", href: "/home-decor/budget-decor" },
                     { title: "DIY Decor", href: "/home-decor/diy-decor" },
-                    { title: "Gift Ideas", href: "/home-decor/gift-ideas" },
                 ],
             },
         ],
