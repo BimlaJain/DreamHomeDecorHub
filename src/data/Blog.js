@@ -1,18 +1,18 @@
 export const slides = [
     {
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-hero.webp",
-        title: "Living Room Inspiration",
+        image: "/images/blog/article/75-best-stocking-stuffer-ideas-for-everyone/best-stocking-stuffer-idea70.webp",
+        title: "Gift Ideas for Loved Ones",
     },
     {
-        image: "/images/blog/article/bedroom/bedroom-hero-image.webp",
-        title: "Minimal Bedroom Styling",
+        image: "/images/blog/article/15-closet-organization-ideas/closet-organization-idea1.webp",
+        title: "Closet Organization Tips",
     },
     {
         image: "/images/floating-shelves/detailed-review/detail1.webp",
         title: "Modern Workspace",
     },
     {
-        image: "/images/blog/article/25-cozy-living-room-ideas/living-room-idea8.webp",
+        image: "/images/blog/article/83-homebody-gift-ideas-for-people-who-love-staying-in/homebody-gift-idea5.webp",
         title: "Cozy Reading Corner",
     },
 ];

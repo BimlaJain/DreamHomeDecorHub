@@ -60,7 +60,7 @@ export default function Header() {
 
                                     {/* Desktop Dropdown */}
                                     {desktopDropdown && (
-                                        <div className="absolute left-1/2 top-full w-[580px] -translate-x-1/2 pt-4">
+                                        <div className="absolute xl:left-[140%] left-[250%] top-full w-[580px] -translate-x-1/2 pt-4">
                                             <div className="rounded-2xl border border-[#E8DED2] bg-[#FAF7F2] p-7 shadow-[0_15px_45px_rgba(41,39,37,0.10)]">
                                                 <div className="grid grid-cols-2 gap-10">
                                                     {item.categories?.map((category) => (

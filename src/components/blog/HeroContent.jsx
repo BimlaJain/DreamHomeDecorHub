@@ -1,28 +1,71 @@
+
 import Link from "next/link";
 
 export default function HeroContent() {
     return (
         <div className="flex-1">
 
-            <span className="inline-flex rounded-full border font-semibold border-stone-300 px-4 py-2 text-xs uppercase tracking-[0.25em] text-stone-600">
-                Dream Home Decor 
-            </span>
+            {/* Eyebrow */}
+            <div className="flex items-center gap-3">
+                <span className="h-px w-10 bg-[#b18a6a]" />
 
-            <h1 className="mt-8 text-5xl font-light leading-tight text-stone-900 md:text-7xl font-serif">
-                Beautiful Ideas for the Home You Love
-               
+                <span className="text-[10px] font-semibold uppercase tracking-[0.35em] text-[#a77c5b]">
+                    A Little Inspiration For Everyday Living
+                </span>
+            </div>
+
+            {/* Heading */}
+            <h1 className="mt-8 font-serif text-5xl font-normal leading-[1.15] tracking-tight text-[#302923] sm:text-6xl lg:text-7xl">
+
+                Making Everyday
+
+                <span className="block italic text-[#a77c5b]">
+                    Beautiful.
+                </span>
+
+                Little Ideas,
+                <span className="block">
+                    Lovely Living.
+                </span>
+
             </h1>
 
-            <p className="mt-8 max-w-xl text-lg leading-8 text-stone-600">
-                Explore inspiring decor ideas, practical tips, stylish makeovers, and simple ways to make every corner of your home feel beautiful, comfortable, and uniquely yours.
+            {/* Description */}
+            <p className="mt-8 max-w-xl text-base leading-8 text-[#81776e] sm:text-lg">
+                Discover thoughtful gift ideas, beautiful home decor,
+                clever organization tips, seasonal inspiration and
+                lovely finds to make everyday life a little more special.
             </p>
 
-            <Link
-                href="/latest-articles"
-                className="mt-10 inline-flex rounded-full bg-stone-900 px-8 py-4 text-white transition hover:bg-black"
-            >
-                Explore Inspiration →
-            </Link>
+            {/* Buttons */}
+            <div className="mt-10 flex flex-wrap items-center gap-4">
+
+                <Link
+                    href="/latest-articles"
+                    className="inline-flex items-center gap-3 rounded-full bg-[#42362e] px-8 py-4 text-sm font-medium text-white transition-all duration-300 hover:bg-[#a77c5b]"
+                >
+                    Explore Inspiration
+
+                    <span className="text-lg">→</span>
+                </Link>
+
+                <Link
+                    href="/about"
+                    className="inline-flex items-center gap-2 border-b border-[#b18a6a] pb-2 text-sm font-medium text-[#66574a] transition hover:text-[#a77c5b]"
+                >
+                    Get to know me
+                </Link>
+
+            </div>
+
+            {/* Bottom decorative text */}
+            <div className="mt-12 flex items-center gap-3">
+                <span className="h-px w-8 bg-[#d5c5b5]" />
+
+                <span className="text-[9px] font-medium uppercase tracking-[0.3em] text-[#a39485]">
+                    Home · Gifts · Lifestyle · Inspiration
+                </span>
+            </div>
 
         </div>
     );

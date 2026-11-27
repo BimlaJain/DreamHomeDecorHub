@@ -68,33 +68,50 @@ export default function Contact() {
     };
 
     return (
-        <main className="min-h-screen bg-[#FDFBF8] text-[#2F2F2F]">
+        <main className="min-h-screen bg-[#faf8f5] text-[#302923]">
             <Header />
+
 
             {/* ================= HERO ================= */}
 
-            <section className="relative overflow-hidden">
-                <div className="absolute inset-0 bg-gradient-to-br from-[#F6EEE5] via-[#FDFBF8] to-[#F3E9DE]" />
+            <section className="relative overflow-hidden bg-[#eee7de]">
+                <div className="absolute -right-24 -top-24 h-80 w-80 rounded-full border border-[#d9cabc]/50" />
+                <div className="absolute -bottom-32 -left-20 h-72 w-72 rounded-full border border-[#d9cabc]/50" />
 
-                <div className="relative mx-auto max-w-7xl px-6 py-24 md:py-32">
+                <div className="relative mx-auto max-w-7xl px-5 py-24 lg:px-8 lg:py-32">
+
                     <div className="max-w-3xl">
-                        <div className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-2 text-sm font-medium text-[#8A5A32] shadow-sm">
-                            <MessageCircle size={18} />
-                            We'd Love to Hear From You
+
+                        <div className="flex items-center gap-3">
+                            <span className="h-px w-9 bg-[#a77c5b]" />
+
+                            <span className="text-[10px] font-semibold uppercase tracking-[0.35em] text-[#a77c5b]">
+                                Let's Connect
+                            </span>
                         </div>
 
-                        <h1 className="mt-7 text-5xl font-bold leading-tight tracking-tight md:text-6xl">
-                            Let's Talk About
-                            <span className="block text-[#B07A4F]">
-                                Your Home
+                        <h1 className="mt-7 font-serif text-5xl font-normal leading-[1.15] tracking-tight text-[#302923] sm:text-6xl lg:text-7xl">
+                            Every Lovely Idea
+                            <span className="block italic text-[#a77c5b]">
+                                Starts With A Hello.
                             </span>
                         </h1>
 
-                        <p className="mt-7 max-w-2xl text-lg leading-8 text-gray-600 md:text-xl">
-                            Have a question, suggestion, collaboration idea,
-                            or simply want to say hello? We'd love to hear
-                            from you.
+                        <p className="mt-7 max-w-2xl text-base leading-8 text-[#81776e] sm:text-lg">
+                            Have a question, a lovely idea to share, a collaboration
+                            in mind, or simply want to say hello? I'd love to hear
+                            from you. Let's connect and make something beautiful
+                            together.
                         </p>
+
+                        <div className="mt-9 flex items-center gap-3">
+                            <span className="h-px w-8 bg-[#c7a487]" />
+
+                            <span className="text-[9px] font-medium uppercase tracking-[0.3em] text-[#a39485]">
+                                Styled by Vimal · A Little Space For Inspiration
+                            </span>
+                        </div>
+
                     </div>
                 </div>
             </section>
@@ -370,110 +387,172 @@ export default function Contact() {
 
             {/* ================= CONTACT TOPICS ================= */}
 
-            <section className="mx-auto max-w-7xl px-6 pb-20">
-                <div className="mb-10 text-center">
-                    <p className="text-sm font-semibold uppercase tracking-[3px] text-[#B07A4F]">
-                        What Can You Contact Us About?
+            {/* ================= CONTACT TOPICS ================= */}
+
+            <section className="mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
+
+                <div className="mb-14 text-center">
+
+                    <div className="flex items-center justify-center gap-3">
+                        <span className="h-px w-8 bg-[#b18a6a]" />
+
+                        <span className="text-[10px] font-semibold uppercase tracking-[0.35em] text-[#a77c5b]">
+                            Let's Talk About
+                        </span>
+
+                        <span className="h-px w-8 bg-[#b18a6a]" />
+                    </div>
+
+                    <h2 className="mt-5 font-serif text-4xl text-[#302923] sm:text-5xl">
+                        What Would You Like
+                        <span className="italic text-[#a77c5b]"> To Share?</span>
+                    </h2>
+
+                    <p className="mx-auto mt-5 max-w-xl text-sm leading-7 text-[#81776e]">
+                        From creative ideas to thoughtful collaborations,
+                        there's always room for a lovely conversation.
                     </p>
 
-                    <h2 className="mt-3 text-4xl font-bold">
-                        We're Open to Your Ideas
-                    </h2>
                 </div>
 
-                <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-4">
+                <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
 
                     {[
                         {
                             icon: "💡",
-                            title: "Suggestions",
-                            text: "Have an article idea or topic you'd love to see?",
+                            title: "Ideas & Suggestions",
+                            text: "Have an interesting topic or an idea you'd love to see on Styled by Vimal?",
                         },
                         {
-                            icon: "🏡",
-                            title: "Decor Ideas",
-                            text: "Share your favorite decorating ideas and inspiration.",
+                            icon: "🎁",
+                            title: "Gift & Lifestyle Finds",
+                            text: "Want to share beautiful finds, gift inspiration or something worth discovering?",
                         },
                         {
                             icon: "🤝",
                             title: "Collaborations",
-                            text: "Interested in working together? We'd love to hear from you.",
+                            text: "A brand, creator or business interested in working together? Let's connect.",
                         },
                         {
-                            icon: "📝",
-                            title: "Feedback",
-                            text: "Tell us what you like or what we can improve.",
+                            icon: "♡",
+                            title: "Feedback & Love",
+                            text: "Have feedback, a suggestion or simply something nice you'd like to share?",
                         },
                     ].map((item, index) => (
+
                         <div
                             key={index}
-                            className="rounded-3xl border border-[#EEE7DD] bg-white p-7 text-center shadow-sm transition hover:-translate-y-1 hover:shadow-lg"
+                            className="group rounded-2xl border border-[#ebe3da] bg-white p-7 transition-all duration-300 hover:-translate-y-1 hover:border-[#c8a88e] hover:shadow-lg"
                         >
-                            <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F8F1E8] text-2xl">
-                                {item.icon}
+
+                            <div className="flex items-center justify-between">
+
+                                <span className="flex h-12 w-12 items-center justify-center rounded-full bg-[#f5eee7] text-xl text-[#a77c5b] transition-colors group-hover:bg-[#a77c5b] group-hover:text-white">
+                                    {item.icon}
+                                </span>
+
+                                <span className="font-serif text-sm italic text-[#b6a495]">
+                                    0{index + 1}
+                                </span>
+
                             </div>
 
-                            <h3 className="mt-5 text-xl font-semibold">
+                            <h3 className="mt-7 font-serif text-xl text-[#40352c]">
                                 {item.title}
                             </h3>
 
-                            <p className="mt-3 text-sm leading-7 text-gray-600">
+                            <p className="mt-3 text-sm leading-7 text-[#81776e]">
                                 {item.text}
                             </p>
+
+                            <div className="mt-6 h-px w-10 bg-[#c7a487] transition-all duration-300 group-hover:w-16" />
+
                         </div>
+
                     ))}
+
                 </div>
             </section>
 
+
             {/* ================= CTA ================= */}
 
-            <section className="mx-auto max-w-7xl px-6 pb-24">
-                <div className="relative overflow-hidden rounded-[40px] bg-gradient-to-r from-[#B07A4F] to-[#8C603A] p-10 text-white md:p-14">
+            <section className="mx-auto max-w-7xl px-5 pb-20 lg:px-8 lg:pb-28">
 
-                    <div className="absolute -right-24 -top-24 h-80 w-80 rounded-full bg-white/10 blur-3xl" />
+                <div className="relative overflow-hidden rounded-[30px] bg-[#42362e] px-7 py-16 text-white sm:px-12 lg:py-20">
+
+                    <div className="absolute -right-16 -top-24 h-64 w-64 rounded-full border border-white/10" />
+                    <div className="absolute -bottom-32 -left-16 h-72 w-72 rounded-full border border-white/10" />
 
                     <div className="relative z-10 max-w-3xl">
-                        <p className="text-sm font-semibold uppercase tracking-[3px] text-white/70">
-                            Let's Create Something Beautiful
-                        </p>
 
-                        <h2 className="mt-4 text-4xl font-bold md:text-5xl">
-                            Your Home, Your Style, Your Story.
+                        <span className="text-[10px] font-semibold uppercase tracking-[0.35em] text-white/50">
+                            A Little Space For Beautiful Ideas
+                        </span>
+
+                        <h2 className="mt-6 font-serif text-4xl leading-tight sm:text-5xl lg:text-6xl">
+                            Good Things Begin
+                            <span className="block italic text-[#d3ad8e]">
+                                With A Conversation.
+                            </span>
                         </h2>
 
-                        <p className="mt-6 text-lg leading-8 text-white/85">
-                            StyledByVimal is built around one simple idea:
-                            beautiful homes don't have to look the same. Your
-                            personality should be part of your space.
+                        <p className="mt-6 max-w-xl text-sm leading-8 text-white/65 sm:text-base">
+                            Whether it's about home inspiration, thoughtful gifts,
+                            organization, seasonal ideas or a creative collaboration,
+                            I'm always happy to hear from you.
                         </p>
 
                         <a
                             href="/blog"
-                            className="mt-8 inline-flex items-center gap-3 rounded-full bg-white px-7 py-3.5 font-semibold text-[#8C603A] transition hover:bg-[#FFF9F3]"
+                            className="mt-9 inline-flex items-center gap-3 rounded-full bg-[#f8f3ed] px-8 py-4 text-sm font-medium text-[#40352c] transition-all duration-300 hover:bg-white"
                         >
-                            Explore Our Ideas
-                            <ChevronRight size={19} />
+                            Explore Styled by Vimal
+
+                            <ChevronRight size={18} />
                         </a>
+
                     </div>
+
                 </div>
+
             </section>
 
             {/* ================= FINAL NOTE ================= */}
 
-            <section className="mx-auto max-w-4xl px-6 pb-28 text-center">
-                <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-[#F8F1E8] text-[#B07A4F]">
-                    <Heart size={28} />
+            {/* ================= FINAL NOTE ================= */}
+
+            <section className="mx-auto max-w-4xl px-5 pb-24 text-center lg:pb-28">
+
+                <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-full bg-[#eee7de] text-[#a77c5b]">
+                    <Heart size={23} />
                 </div>
 
-                <h2 className="mt-6 text-3xl font-bold">
-                    Thank You for Reaching Out
+                <div className="mt-7 flex items-center justify-center gap-3">
+                    <span className="h-px w-8 bg-[#b18a6a]" />
+
+                    <span className="text-[10px] font-semibold uppercase tracking-[0.3em] text-[#a77c5b]">
+                        With Love
+                    </span>
+
+                    <span className="h-px w-8 bg-[#b18a6a]" />
+                </div>
+
+                <h2 className="mt-5 font-serif text-3xl text-[#302923] sm:text-4xl">
+                    So Glad You Stopped By.
                 </h2>
 
-                <p className="mt-5 leading-8 text-gray-600">
-                    Every message, suggestion, and piece of feedback helps us
-                    make StyledByVimal a better place for home decor
-                    inspiration.
+                <p className="mx-auto mt-5 max-w-2xl text-sm leading-8 text-[#81776e] sm:text-base">
+                    Every message, thoughtful suggestion and kind word makes
+                    Styled by Vimal a little more special. Thank you for being
+                    part of this creative journey and for sharing a little
+                    inspiration along the way.
                 </p>
+
+                <p className="mt-7 font-serif text-xl italic text-[#a77c5b]">
+                    Until next time, keep finding beauty in the little things.
+                </p>
+
             </section>
 
             <Footer />
