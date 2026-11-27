@@ -1,6 +1,7 @@
 import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import Head from "next/head";
+import BackToTop from "@/components/home-page/BackToTop";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -43,6 +44,7 @@ export default function RootLayout({ children }) {
       </head>
       <body className={`${inter.variable} ${playfair.variable} bg-[#F8F6F2] text-[#1E1E1E]`}>
         {children}
+        <BackToTop/>
       </body>
     </html>
   );
